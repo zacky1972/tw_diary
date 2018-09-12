@@ -23,7 +23,8 @@ defmodule TwDiary.MixProject do
   defp deps do
     [
       {:poison, "~> 3.1"},
-      {:timex, "~> 3.1"}
+      {:timex, "~> 3.1"},
+      {:number, "~> 0.5.7"}
     ]
   end
 end
