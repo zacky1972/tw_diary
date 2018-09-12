@@ -15,6 +15,8 @@ defmodule TwDiary do
     |> Enum.map(& &1["file_name"])
     |> Enum.map(& "data/#{&1}")
     |> Enum.map(& json_read(&1))
-    |> Enum.map(& IO.inspect &1)
+    |> Enum.flat_map(& &1)
+    |> Enum.map(& %{ :text => &1["text"], :date => &1["created_at"]})
+    |> IO.inspect
   end
 end
