@@ -1,9 +1,10 @@
 defmodule TwDiary do
+  require HTTPoison
   @moduledoc """
   Documentation for TwDiary.
   """
 
-  @http ~r/^(?<text>.*)(?<url>http[s]?:\/\/.*)$/
+  @http ~r/^(?<text>.*)(?<url>http[s]?:\/\/[_A-z0-9\/\.]*)(?<rest>\s*.*)$/
 
   def json_read(file) do
     File.read!(file)
@@ -70,7 +71,7 @@ defmodule TwDiary do
 
   def escape_image(text) do
     match = Regex.named_captures(@http, text)
-    Regex.replace(@http, text, "<p>#{match["text"]}</p><img src=\"#{match["url"]}\"></img>")
+    Regex.replace(@http, text, "<p>#{match["text"]}</p><img src=\"#{match["url"]}\"></img><p>#{match["rest"]}</p>")
   end
 
   def all_read() do
@@ -96,6 +97,37 @@ defmodule TwDiary do
     |> Enum.map(& %{ :text => &1["text"], :date => get_datetime(&1["created_at"])})
     |> Enum.reverse
     |> Enum.sort(& (Timex.compare(&1[:date] , &2[:date]) <= 0))
+  end
+
+  def image_download() do
+    HTTPoison.start
+    tweets()
+    |> Enum.map(& &1[:text])
+    |> Enum.filter(& Regex.match?(@http, &1))
+    |> Enum.map(& Regex.named_captures(@http, &1)["url"])
+    |> Flow.from_enumerable()
+    |> Flow.map(& {&1, (&1
+      |> IO.inspect
+      |> HTTPoison.get()
+      |> case do
+        {:ok, %HTTPoison.Response{status_code: 200, body: body}} -> 
+          IO.puts "ok"
+          body
+        {:ok, %HTTPoison.Response{status_code: _}} -> 
+          IO.puts "error"
+          ""
+        {:error, %HTTPoison.Error{reason: _}} -> 
+          IO.puts "error"
+          ""
+      end
+      )})
+    |> Flow.map(& File.write!("images/#{url2path(elem(&1,0))}", elem(&1,1)))
+    |> Enum.to_list()
+  end
+
+  def url2path(url) do
+    path = Regex.replace(~r/http[s]?:\/\//, url, "")
+    Regex.replace(~r/\//, path, "_")
   end
 
   def format_datetime_japanese(datetime) do

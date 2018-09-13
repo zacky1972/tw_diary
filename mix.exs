@@ -24,7 +24,9 @@ defmodule TwDiary.MixProject do
     [
       {:poison, "~> 3.1"},
       {:timex, "~> 3.1"},
-      {:number, "~> 0.5.7"}
+      {:number, "~> 0.5.7"},
+      {:httpoison, "~> 1.0"},
+      {:flow, "~> 0.14"}
     ]
   end
 end
