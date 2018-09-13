@@ -51,7 +51,10 @@ defmodule TwDiary do
 
     head 
     <> (body = tweets 
-      |> Enum.map(& escape_image(&1[:text]))
+      |> Enum.map(& &1[:text])
+      |> Enum.reject(& Regex.match?(~r/RT/, &1))
+#      |> Enum.map(& escape_image(&1))
+      |> Enum.map(& "<p>#{&1}</p>")
       |> Enum.join("\n")
 
       "<html><body>#{body}</body></html>"
@@ -71,7 +74,25 @@ defmodule TwDiary do
 
   def escape_image(text) do
     match = Regex.named_captures(@http, text)
-    Regex.replace(@http, text, "<p>#{match["text"]}</p><img src=\"#{match["url"]}\"></img><p>#{match["rest"]}</p>")
+    m = if match["url"] do
+      HTTPoison.start
+      page = HTTPoison.get(match["url"])
+      |> case do
+        {:ok, %HTTPoison.Response{status_code: 200, body: body}} -> 
+          IO.puts "ok"
+          body
+        {:ok, %HTTPoison.Response{status_code: _}} -> 
+          IO.puts "error"
+          ""
+        {:error, %HTTPoison.Error{reason: _}} -> 
+          IO.puts "error"
+          ""
+      end
+      Regex.named_captures(~r/<img src=\"(?<url>\")/, page)
+    else
+      nil
+    end
+    Regex.replace(@http, text, "<p>#{match["text"]}</p>#{if m do "<img src=\"#{m["url"]}\"></img>" end}<p>#{match["rest"]}</p>")
   end
 
   def all_read() do
@@ -99,29 +120,55 @@ defmodule TwDiary do
     |> Enum.sort(& (Timex.compare(&1[:date] , &2[:date]) <= 0))
   end
 
-  def image_download() do
+  def image_kl() do
     HTTPoison.start
     tweets()
     |> Enum.map(& &1[:text])
+    |> Enum.reject(& Regex.match?(~r/RT/, &1))
     |> Enum.filter(& Regex.match?(@http, &1))
     |> Enum.map(& Regex.named_captures(@http, &1)["url"])
     |> Flow.from_enumerable()
-    |> Flow.map(& {&1, (&1
-      |> IO.inspect
+    |> Flow.map(& {String.to_atom(&1), 
+      (&1
       |> HTTPoison.get()
       |> case do
         {:ok, %HTTPoison.Response{status_code: 200, body: body}} -> 
-          IO.puts "ok"
           body
         {:ok, %HTTPoison.Response{status_code: _}} -> 
-          IO.puts "error"
-          ""
+          nil
         {:error, %HTTPoison.Error{reason: _}} -> 
-          IO.puts "error"
-          ""
-      end
+          nil
+        end
       )})
-    |> Flow.map(& File.write!("images/#{url2path(elem(&1,0))}", elem(&1,1)))
+    |> Flow.filter(& elem(&1, 1))
+    |> Flow.map(& extract_image_url(&1))
+    |> Flow.map(& {elem(&1, 0),
+    (elem(&1, 1)
+    |> HTTPoison.get()
+    |> case do
+        {:ok, %HTTPoison.Response{status_code: 200, body: body}} -> 
+          body
+        {:ok, %HTTPoison.Response{status_code: _}} -> 
+          nil
+        {:error, %HTTPoison.Error{reason: _}} -> 
+          nil
+        end
+    |> fn (data) ->
+        path = "images/#{url2path(Atom.to_string(elem(&1, 0)))}"
+        File.write!(path, data)
+        path
+      end.()
+    )})
+    |> Flow.map(& {elem(&1, 0), (
+      match = "file #{elem(&1, 1)}"
+      |> to_charlist
+      |> :os.cmd
+      |> to_string
+      |> fn x -> Regex.named_captures(~r/(?<ext>(JPEG)|(PNG)|(gzip)) ((image)|(compressed)) data/, x) end.()
+      path = "#{elem(&1, 1)}#{if match["ext"] do "." end}#{match["ext"]}"
+      File.rename(elem(&1, 1), path)
+      path 
+    )})
     |> Enum.to_list()
   end
 
@@ -140,5 +187,15 @@ defmodule TwDiary do
 
   def get_datetime(string) do
     Timex.parse!(string, "%F %T %z", :strftime)
+  end
+
+  def extract_image_url({url, string}) do
+    if Regex.match?(~r/<!DOCTYPE html>/, string) do
+      match = Regex.named_captures(~r/<img.*src=\"(?<url>.*)\"/U, string)
+      {url, match["url"]}
+    else
+      # need to download and upload
+      {url, Atom.to_string(url)}
+    end
   end
 end
