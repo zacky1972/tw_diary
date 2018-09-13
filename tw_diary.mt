@@ -16,7 +16,7 @@ BODY:
 -----
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年04月09日 
+TITLE: 2010年04月09日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -52,7 +52,7 @@ BODY:
 圧勝！！
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年04月10日 
+TITLE: 2010年04月10日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -90,7 +90,7 @@ BODY:
 4月10日16時25分生まれ 山崎史乃佳になりました！ヨロシクです。
 オヤツのイチゴタルトまで完食！
 久しぶりのゴハンにがっついてしまった。かなり美味！
-産まれたて〜。これでいいのかな？ 
+産まれたて〜。これでいいのかな？
 <img src="https://zacky1972.github.io/tw_diary_images/twitpic.com_1eisdl.JPEG"></img>
 
 
@@ -110,7 +110,7 @@ iPod&ミニスピーカーで音楽など
 麻酔のラインが入り、点滴開始
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年04月11日 
+TITLE: 2010年04月11日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -141,7 +141,7 @@ BODY:
 大視察団がやってきた。母・叔母・従姉妹親子・姉一家。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年04月12日 
+TITLE: 2010年04月12日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -196,7 +196,7 @@ BODY:
 さて、今日はTwitterも母子同室もこのへんで・・・。おお、目の下に若干クマが！乳も若干ヒリヒリしてきた。ちょっと頑張りすぎたかな。。ゆっくり寝ようっと。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年04月13日 
+TITLE: 2010年04月13日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -209,7 +209,7 @@ DATE: 04/13/2010 00:00:00
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-ヤマザキ作。一応、私のGR　DEGITALで撮っている。生後二日目。 
+ヤマザキ作。一応、私のGR　DEGITALで撮っている。生後二日目。
 <img src="https://zacky1972.github.io/tw_diary_images/twitpic.com_1fb911.JPEG"></img>
 
 
@@ -229,7 +229,7 @@ BODY:
 溜まっていた病院関係の書類を書く。アンケートがあったので、３０分もかけて入念に書いておいた。気に入った施設のアンケートには、更なる向上を期待して、丁寧にアンケートに答える事にしている。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年04月14日 
+TITLE: 2010年04月14日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -258,7 +258,7 @@ BODY:
 昨夜は２時位までに３回、その後は１回だけ起こされた。まぁこんなもんだろう。乳はしっかり飲めそうだし、ジーナがうまくいくと良いな。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年04月15日 
+TITLE: 2010年04月15日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -277,7 +277,7 @@ BODY:
 朝は荷造り・退院で大忙しだった。退院時は、母が編んでくれたセレモニードレスを着せた。なかなか可愛らしい。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年04月16日 
+TITLE: 2010年04月16日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -311,7 +311,7 @@ BODY:
 ・・・気がついたらもう朝６時だった。流石に心配になって様子を見に行くが、よく寝ている。泣いた様子も特に無い。うーむ、良く寝る子だなぁ。昨晩呆れる程飲んでたからなぁ。。まぁ良かった。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年04月17日 
+TITLE: 2010年04月17日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -348,7 +348,7 @@ BODY:
 タミータブと、洗面台にスポンジマットを用意し、やってみる。準備不足でバタバタしてしまった。。教えて貰ったやり方よりは負担は軽減されていると思う。明日はもうちょっと上手くやれるかな。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年04月18日 
+TITLE: 2010年04月18日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -369,7 +369,7 @@ BODY:
 朝食なう。生協の半焼きロールパン美味しい。ヤマザキ執事の淹れた紅茶も良い出来だ。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年04月19日 
+TITLE: 2010年04月19日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -402,7 +402,7 @@ BODY:
 沐浴で喉が渇いたので、思いの外早く帰ってきたヤマザキに皿うどんとビールを買ってきてもらい、ワカサギの南蛮漬けと一杯やる。うーまーいーー！ワインも大好きだが、飲めなくてストレスが溜まるのはビールなんだよなー。ビールは母乳の分泌を促すというしな。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年04月20日 
+TITLE: 2010年04月20日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -423,7 +423,7 @@ BODY:
 ミルクの時間・・・と言いながら自ら起きたー！・・・と思ったらまた寝た。。「私がやっても良いのだぞ。。」と控えめに起こすと、何とか起き上がり、父乳成功。しかもその後、仕事までしていた。頑張ってるのぅ。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年04月21日 
+TITLE: 2010年04月21日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -449,7 +449,7 @@ BODY:
 ４／２１（水）
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年04月22日 
+TITLE: 2010年04月22日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -475,7 +475,7 @@ BODY:
 ４／２２（木）
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年04月23日 
+TITLE: 2010年04月23日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -502,7 +502,7 @@ BODY:
 ４／２３（金）
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年04月24日 
+TITLE: 2010年04月24日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -528,7 +528,7 @@ BODY:
 ヤマザキが休みなので、二人がかりの世話のおかげか、子の機嫌がよく、割りとのんびりしたスタート。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年04月25日 
+TITLE: 2010年04月25日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -549,7 +549,7 @@ BODY:
 ４／２５（日）
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年04月26日 
+TITLE: 2010年04月26日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -568,7 +568,7 @@ BODY:
 ４／２６（月）
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年04月27日 
+TITLE: 2010年04月27日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -594,7 +594,7 @@ BODY:
 ４／２７（火）
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年04月28日 
+TITLE: 2010年04月28日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -614,7 +614,7 @@ BODY:
 子が、離れると泣くようになった気がする。。朝ごはんを食べる暇がない・・・明日からはヤマザキが出勤前に食べよう。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年04月29日 
+TITLE: 2010年04月29日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -648,7 +648,7 @@ BODY:
 沐浴前に、綿棒のアレを試みる。バスルームの風呂蓋の上にバスタオルとペットシートを敷いて子を乗せ、万全の体勢。試みる事数度・・・成功！！５０cm以上飛んで、ヤマザキの足に掛かる。本当にお決まりな奴。。私は子の横に腰掛けてやっていたので無事だった。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年04月30日 
+TITLE: 2010年04月30日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -672,7 +672,7 @@ BODY:
 ４／３０（金）
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年05月02日 
+TITLE: 2010年05月02日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -699,7 +699,7 @@ BODY:
 ５／１（土）
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年05月03日 
+TITLE: 2010年05月03日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -726,7 +726,7 @@ BODY:
 それなのに定期的に泣き、ハフハフと乳を欲しがる子。。興奮した様子から、ヤマザキがカフェインの影響ではと言う。確かに・・・妊娠中は気をつけていたが、朝食を取っているのでつい紅茶やらコーヒーやら飲んでいるな。。今日はスタバも行ったし。。明日はとりあえずカフェイン絶ちだー。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年05月04日 
+TITLE: 2010年05月04日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -752,7 +752,7 @@ BODY:
 ヤマザキはジーナの研究に乗り出した。原書を購入した模様。頑張ってくれ！！
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年05月05日 
+TITLE: 2010年05月05日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -773,7 +773,7 @@ BODY:
 昼に母が来て、ちょうど良いタイミングで子が昼寝の時間だったので、近くのフレンチに電話。ラッキー、個室が空いてる！子をべビーキャリーに乗せ、皆で突撃。母はフレンチは苦手なので、乳母役だw
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年05月06日 
+TITLE: 2010年05月06日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -799,7 +799,7 @@ BODY:
 今夜も平和だ・・・なんだったんだろう、あの夜泣きの数日は。。初日はガスが溜まって具合が悪かったのには違いない。そして深夜の病院行きでスケジュールが狂い、ひょっとするとコリックも発生・・・といったところか。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年05月07日 
+TITLE: 2010年05月07日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -821,7 +821,7 @@ BODY:
 ５／７（金）
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年05月08日 
+TITLE: 2010年05月08日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -845,7 +845,7 @@ BODY:
 ５／８（土）
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年05月09日 
+TITLE: 2010年05月09日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -865,7 +865,7 @@ BODY:
 ５／９（日）
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年05月10日 
+TITLE: 2010年05月10日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -890,7 +890,7 @@ BODY:
 代わりにメッシュのおくるみLサイズを注文。産前、こんな布っ切れが２０００円もするなんて・・・と思っていたのだが、今はそれ位で安眠してくれるなら・・・とすがるような思い。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年05月11日 
+TITLE: 2010年05月11日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -911,7 +911,7 @@ BODY:
 ５／１１（火）
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年05月12日 
+TITLE: 2010年05月12日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -931,7 +931,7 @@ BODY:
 夕食は何とか焼きたてパンにありつけた。生協の豆腐ハンバーグ、悪くないな。久しぶりの手料理（手抜きだけど）を喜んでくれるのは嬉しいが、ヤマザキ、２枚半は食べ過ぎだ。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年05月13日 
+TITLE: 2010年05月13日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -953,7 +953,7 @@ BODY:
 ５／１３（木）
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年05月15日 
+TITLE: 2010年05月15日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -983,7 +983,7 @@ BODY:
 ５／１５（土）
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年05月17日 
+TITLE: 2010年05月17日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1011,7 +1011,7 @@ BODY:
 検診が終わるや否や、子は目をカッと見開き、フガフガと乳を要求してきた。検診前に授乳していたら、確実に５kgは超えていただろう。・・・乙女心で我慢していたのか？
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年05月19日 
+TITLE: 2010年05月19日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1032,7 +1032,7 @@ BODY:
 ５/１８（火）
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年05月20日 
+TITLE: 2010年05月20日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1051,7 +1051,7 @@ BODY:
 ５/２０（木）
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年05月21日 
+TITLE: 2010年05月21日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1070,7 +1070,7 @@ BODY:
 ５/２１（金）
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年05月22日 
+TITLE: 2010年05月22日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1095,7 +1095,7 @@ ERGOと悩んだんだけど、ちょっとゴツいしなー。しかし、改�
 ５/２２（土）
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年05月23日 
+TITLE: 2010年05月23日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1116,7 +1116,7 @@ BODY:
 ５/２３（日）
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年05月26日 
+TITLE: 2010年05月26日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1137,7 +1137,7 @@ BODY:
 産休も終わったので、毎日、日記調でツイートするのは止め。これまでのを印刷、出来れば本っぽくしたいんだが、良いサービス無いかなぁ。産院編は「TweetNotebook」を頼んでみたんだが、何故か時系列がバラバラで残念な結果に・・・orz
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年05月27日 
+TITLE: 2010年05月27日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1154,7 +1154,7 @@ BODY:
 子が初めて夜中に起きなかった！昨日の昼間の授乳量は凄かったからなー。昨日の量を目安にして、長時間睡眠が安定するよう、当面頑張ろう。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年05月29日 
+TITLE: 2010年05月29日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1172,7 +1172,7 @@ ipodに内蔵されていたヴィヨンの妻を読む。もちろん脳内イ�
 昨日ipadが届いた。良いね、コレ。私専用のも欲しいかも。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年05月30日 
+TITLE: 2010年05月30日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1188,7 +1188,7 @@ BODY:
 子を抱っこひもを使って図書館まで行ってみる。私は負荷があるせいで暑いくらいだが、今日は風があって気持ちが良い。子は辺りを見回したり、うたた寝をしたり。なかなか良い散歩だった。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年05月31日 
+TITLE: 2010年05月31日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1205,7 +1205,7 @@ BODY:
 東京から帰省している友人が遊びに来てくれた。子は、寝たりメリーで遊んだりと、思ったよりもお喋りに熱中でき、楽しかったー。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年06月05日 
+TITLE: 2010年06月05日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1221,7 +1221,7 @@ BODY:
 そうか、子供手当が支給されるということは、扶養の制度が変わるということか。。会社の給与ソフト変えて、扶養もチェック＆変更しなきゃ・・・たーいーへーんーー！
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年06月06日 
+TITLE: 2010年06月06日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1249,7 +1249,7 @@ BODY:
 まず、お昼に食べ友が子を見に来てくれるというので、もり田さん(カウンター鮨！)にトライ。なかなかの冒険だ。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年06月09日 
+TITLE: 2010年06月09日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1266,7 +1266,7 @@ BODY:
 なんだ、扶養控除が変わるのは来年からなのか！ということは、今年は子ども手当と扶養控除の二重取りって事か。。でも、来年度からも子ども手当は満額支給されそうにないし、扶養控除の制度だけ変わるのならば、大して貰える訳じゃないな。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年06月10日 
+TITLE: 2010年06月10日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1287,7 +1287,7 @@ BODY:
 今年はあまり出歩かなかったせいか、花粉症があまり出なかったなー。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年06月11日 
+TITLE: 2010年06月11日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1305,7 +1305,7 @@ BODY:
 子を迎えに行ったら、保育所の前でガス欠してしまった。。軽自動車は、給油ランプがついたら、即給油しないとヤバいと学ぶ。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年06月15日 
+TITLE: 2010年06月15日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1321,7 +1321,7 @@ BODY:
 一時間も寝坊した。子の腹時計が働かなかったのは始めてだ、いつも7時前に起こされて授乳時間まで待たせるのが大変なのに。。ちゃんと目覚ましもかけなきゃね・・・。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年06月17日 
+TITLE: 2010年06月17日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1339,7 +1339,7 @@ ipodをジップロックにいれ、お風呂で見る。はやぶさヤマト�
 会社でトラブルがあったので、子をヤマザキに託して夕方から出社。結構遅くなったが、ヤマザキはちゃんと一人で子を風呂に入れ、ミルクを与え、寝かしつけに成功したらしい。偉いぞ！！「私、一泊くらい居なくても大丈夫じゃね？」と言ったら、「いいよー、行っておいでー」だと。・・・本気にするぞ。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年06月18日 
+TITLE: 2010年06月18日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1358,7 +1358,7 @@ BODY:
 産休中に溜まっていた仕事が片付いたと思ったら、次から次へとやることが降って来る・・・。いつになったらノンビリ出来るんだろう。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年06月21日 
+TITLE: 2010年06月21日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1375,7 +1375,7 @@ BODY:
 昨日、本物のベビーベッドを組み立て、子供部屋の模様替えをした。体が重い。。実は今までは、柵付きのジュニアベッドを使っていたのだが、つかまり立ちをするようになったら、やはり危なそうということで、結局購入する事にした。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年06月25日 
+TITLE: 2010年06月25日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1392,7 +1392,7 @@ BODY:
 子の苺状血管腫の診察に、大学病院へ。放っておいても大抵治るらしいが、レーザーを当てた方がキレイになる確立が高くなるらしい。まぁ、保険適用でタダだし、当ててもらっておくか。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年06月27日 
+TITLE: 2010年06月27日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1410,7 +1410,7 @@ BODY:
 子のパスポートの受け取りに小倉のAIMまで。授乳室を借りに同ビルの市の子育てふれあい交流プラザにも行ってみる。プレイランドがあって、とても繁盛していて驚いた。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年06月28日 
+TITLE: 2010年06月28日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1427,7 +1427,7 @@ BODY:
 HDDレコーダーのDVD再生機能が壊れた模様。折角カイジを借りてきたのに・・・。しかも、数ある電化製品の中で、これだけ延長保証に入っていないし・・・orz。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年06月30日 
+TITLE: 2010年06月30日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1443,7 +1443,7 @@ BODY:
 やばい・・・仕事が溜まってきた。。何からやれば手をつければ良いのか解らなくなってきた。ちょっと一休みして頭を整理せねば。。やっぱ半日出勤だと、ちょっと無理があるっぽい。しばらく子は丸一日預かってもらおうかな・・・。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年07月03日 
+TITLE: 2010年07月03日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1459,7 +1459,7 @@ BODY:
 保育所から七夕の短冊を貰う。子がいると、こういう行事に関わる事が多くなるんだろうなぁ。私と子のはチャチャッと書いたが、ヤマザキは２時間以上悩んでいた。何も、本当に一つだけ叶うとかじゃないんだから、そんなに悩まなくても・・・。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年07月04日 
+TITLE: 2010年07月04日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1477,7 +1477,7 @@ BODY:
 今日はヤマザキは、仕事関係の方々とフレンチ。いーなー。でも、ヤマザキが２回仕事関係の飲み会に行く毎に、私は１回飲み会に行く権利をゲットする事になっている。（ヤマザキは同数で良いと言うのだが、私は純粋に遊びだしな・・・）お互い、笑顔で飲み会に送り出せる、良いルールだと思う。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年07月06日 
+TITLE: 2010年07月06日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1498,7 +1498,7 @@ ipadでコミックを立ち読みしてみる。結構キレイだなー♪で�
 それに、１５時位に子と家に帰り着くんだけど、それからはもう夕寝を１５分程度しかしなくて、PCを立ち上げるヒマが無いんだよな。。折角早くに迎えに行っているんだし、１９時の就寝時間まで位は、子に構ってやろうかなと思ったりするのだよ。自分でもビックリのこの母性（笑）
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年07月07日 
+TITLE: 2010年07月07日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1514,7 +1514,7 @@ BODY:
 現在勧められてる離乳食開始時期は６ヶ月から・・・あと丸３ヶ月以上先じゃんかー。ここ数日、１０時半の授乳を遅らたり、多く飲ませたりしてみたが、やはり６時に起きてしまう。うう・・・１時間の差なんだけど、寝不足な感じが結構しちゃうんだよなー。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年07月08日 
+TITLE: 2010年07月08日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1531,7 +1531,7 @@ BODY:
 しばらくは父乳の終了を待たずにサッサと寝よう、、とは思うんだけど、産後すぐのような寝付きの良さ（恐らく何かしらのホルモンの作用）では無くなってるんだよな。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年07月11日 
+TITLE: 2010年07月11日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1552,7 +1552,7 @@ BODY:
 子が生まれて３ヶ月。体重は６７２０g、生まれた時の2.2倍になった。パッチパチに肉が詰まっていて、はち切れんばかりだ。とても重い。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年07月12日 
+TITLE: 2010年07月12日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1569,7 +1569,7 @@ BODY:
 母（社長）が転んで足を骨折。。ピンピンしてるんだが、松葉杖なので、事務所の滑りやすい外階段は当分上がれそうにない。そんなに私の仕事が増えるわけでも無いけど、資金繰り関係はダブルチェック出来ない分、しっかりせねば。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年07月14日 
+TITLE: 2010年07月14日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1586,7 +1586,7 @@ BODY:
 おお、映画ノルウェイの森のニュースが。写真カワエエ・・・１２月公開かぁ、見に行きたいかも・・・。しかし、昨日見たカムイ外伝、最悪だったな。。グダグダもいいトコ。松山ケンイチは戦犯では無いと思うんだが、これは贔屓だろうか。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年07月15日 
+TITLE: 2010年07月15日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1605,7 +1605,7 @@ BODY:
 帰福した子持ち友人の所に、子連れで遊びに行く。こういうの、初めてだ。子は夕寝の前にちょっとグズるのだけど、初めての場所に興奮したのか、長引いてちょっと大変だった。。でも、子持ち先輩のフォローで何とか乗り切る。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年07月17日 
+TITLE: 2010年07月17日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1623,7 +1623,7 @@ BODY:
 知人宅へ食事会に。中華のシェフを招いての特別料理で、すっごく美味しかった！冬瓜をくりぬいて器にした蒸しスープが最高だった♪ワインも豪華だったなー。運転手をしてくれたヤマザキに感謝！
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年07月18日 
+TITLE: 2010年07月18日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1641,7 +1641,7 @@ BCGは技術が要らなそうだから笑ってられたが、普通の注射�
 一昨日、子のBCGをしに行った。それがもう、コントのボケた爺さんみたいな先生でワロタ。目が悪いらしく、はんこ注射のキャップを「蓋取って・・・」「取ってますって！」みたいなやりとりを看護婦さんとしてて、吹き出しそうになった。割とダンディな感じの人だけに可笑しかったよ。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年07月19日 
+TITLE: 2010年07月19日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1657,7 +1657,7 @@ BODY:
 来客があり、二人で部屋の掃除などしてみる。思えば、一ヶ月前にはこんな余裕は無かったなー。子があまり手がかからなくなってきたのか、私達が慣れて来たのか、一日中一緒にいても疲れなくなった。３ヶ月目位から楽になってくるってホントなんだなー。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年07月23日 
+TITLE: 2010年07月23日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1673,7 +1673,7 @@ BODY:
 とうとうやってしまった・・・。子を落下させてしまったよorz。幸い、低いところからだったので、オデコを打ってちょっと赤くなってるかなー程度。しかし、あの短時間であんなに移動して落ちるとは・・・油断したぜ。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年07月24日 
+TITLE: 2010年07月24日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1690,7 +1690,7 @@ BODY:
 マールが紐を飲み込んで、お尻からピロリンと・・・やばい、腸に絡まっていたら、最悪の場合は開腹手術だorz慌てて病院に連れて行き、ピロリンは取ってもらえ、ホッとした。でも、他にも飲み込んでいるかもしれず、要注意な状態。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年07月27日 
+TITLE: 2010年07月27日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1708,7 +1708,7 @@ BODY:
 マールは全快した模様、良かった。。結果的には病院に行く必要は無かったようだけど、万一の事もあるしね。。￥6000がヒラヒラヒラ～と飛んで行ったけど、仕方ない・・・。会社で寛ぐマールを見ると安らぐなぁ。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年07月28日 
+TITLE: 2010年07月28日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1725,7 +1725,7 @@ BODY:
 子のレーザー治療2回目。夏休みのため、患者が多い。。この月齢だと、あやす遊びにも限りがあるし、待ち時間が多いと疲れるぜ・・・。まあ、治療の甲斐あって血腫は小さくなってるし、頑張るけどね。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年07月31日 
+TITLE: 2010年07月31日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1746,7 +1746,7 @@ BCGを打ってから２週間、そろそろ反応が出るはずなんだが�
 昨日はくきのうみ花火大会。マンションの廊下から見えるのだ。去年まではテーブルを出して酒を飲みながら見ていたが、今年はすっかり忘れていて、フィナーレだけを立ち見。去年よりもいくらか華やかで、景気は回復してきたのかな、と希望的観測。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年08月01日 
+TITLE: 2010年08月01日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1762,7 +1762,7 @@ BODY:
 ウチの子、あれだわ。ミシュランのマスコットに似てる。太り過ぎて段の出来た太ももとか腕とか。。ゴムまりのようにパッチパチだしね。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年08月05日 
+TITLE: 2010年08月05日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1778,7 +1778,7 @@ BODY:
 子の水遊びは来年からだな、と思っていたが、保育所のビニールプールで遊んで貰ったらしい。保育所は、子供の汗腺発達のためにクーラーを入れていない。高台にあるので風は入るが、この猛暑、かなり暑そうだ。水浴びはさぞかし気持ち良かっただろうな。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年08月06日 
+TITLE: 2010年08月06日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1794,7 +1794,7 @@ BODY:
 BCGの反応がやっと出た。心配させおって・・・。。人気医院の先生に、「BCGの蓋って一つですよね？内蓋とか無いですよね？？」と確認したので、まぁ大丈夫だろうとは思っていたが。。これで、これから3種混合をして、10月の集団接種のポリオに間に合いそう。良かった良かった。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年08月07日 
+TITLE: 2010年08月07日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1811,7 +1811,7 @@ BODY:
 ヤマザキが好きなアルフォンス・ミュシャ展に行った。かなりの展示数で、なかなか見応えがあった。見応えありすぎて、正直、ちょっと飽きた。だって、構図とか、似たのが多いんだもん。。どれも美しかったんだけどね。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年08月08日 
+TITLE: 2010年08月08日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1828,7 +1828,7 @@ BODY:
 バンボを買ってしまった。既にミッチリとお尻と太ももが詰まってるんだが・・・ハイハイしだすと細くなる・・・んだよね？？（汗）。偉そうに座ってて、なかなか可愛い。ただ、これに座るとヨダレがもの凄い事になる。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年08月10日 
+TITLE: 2010年08月10日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1847,7 +1847,7 @@ BODY:
 うわー！人生初白髪発見！！とうとう来ましたか・・・。しかも、途中から白くなっているレアもの。約５センチ程が白いんだが、あれか、やはり子育てで栄養が吸い取られたということか。。この毛穴からは、これからずっと白髪が生産されるのだなぁ（しみじみ）
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年08月12日 
+TITLE: 2010年08月12日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1865,7 +1865,7 @@ BODY:
 東京なう。ヤマザキの家族に、子を初披露しにきた。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年08月23日 
+TITLE: 2010年08月23日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1883,7 +1883,7 @@ BODY:
 東京旅行はつつがなく完了したものの、緊張の糸が切れたのか、一週間ダラダラと過ごしてしまった。夕食も超手抜きだったさ、ははん。ハリー・ポッターなんて、不死鳥の騎士団まで読みすすんでしまったし☆・・・そろそろ気合を入れなおさねば！
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年08月24日 
+TITLE: 2010年08月24日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1903,7 +1903,7 @@ BODY:
 子の4ヶ月検診＆DPT1回目に行ってきた。検診では、今までで一番の角度でググッと首を持ち上げ、先生に披露。順調に発達してますと言われ、一安心。でも、とうとう「肥」にマルされてしまった・・・orz。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年08月30日 
+TITLE: 2010年08月30日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1919,7 +1919,7 @@ BODY:
 「ヴィヨンの妻」の浅野、良くはまってるなー。淡々としたダメ男っぷりが何とも。。ちなみに、ヒロインの名前が私の名前と一部一致なんだぜ・・・。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年09月07日 
+TITLE: 2010年09月07日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1937,7 +1937,7 @@ BODY:
 ハリー・ポッター、全部読み終えた。夏が終わった、、な。。並行して見ている映画板は、端折っている部分が多くなってきて、イメージビデオのようだ。これだけ見たら、何がなにやら解らないと思われる。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年09月10日 
+TITLE: 2010年09月10日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1955,7 +1955,7 @@ BODY:
 今日で子は5ヶ月。よく動くようになったせいか、夜中のミルクを止めたせいか、顔のラインが若干すっきりしてきた。四角だったのが、丸に近くなってきたというか。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年09月13日 
+TITLE: 2010年09月13日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1972,7 +1972,7 @@ BODY:
 なぜ予約している予防注射で、一時間も待たされなくてはならんのだ。。自立しないので、ずっと膝に乗せたり抱っこしたりで、背中が凝った。子の機嫌も段々悪くなってくるし・・・。腹立たしい事この上ない。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年09月20日 
+TITLE: 2010年09月20日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -1990,7 +1990,7 @@ BODY:
 ダラダラとした連休だった・・・。初日に食べ友が子連れで遊びに来てくれたのが唯一のイベントだった。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年09月27日 
+TITLE: 2010年09月27日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -2006,7 +2006,7 @@ BODY:
 両鼻が詰まった。苦しい。。子も咳が出てる。季節の変わり目、恐ろしい。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年09月28日 
+TITLE: 2010年09月28日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -2023,7 +2023,7 @@ BODY:
 無茶苦茶くしゃみが出るんだけど・・・、朝から１００回は出た。頭はボーっとしてるし、よもや花粉症なんだろうか。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年09月29日 
+TITLE: 2010年09月29日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -2039,7 +2039,7 @@ BODY:
 おお、寝返り現場を初目撃！！寝たきり赤子からスフィンクスへ・・・。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年10月02日 
+TITLE: 2010年10月02日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -2055,7 +2055,7 @@ BODY:
 寝返り現場は、その後、保育の先生に2回披露したらしいが、ヤマザキはまだ見れていない。あまりしないので、まだまだレアな感じ。今週は見れるだろうか・・・
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年10月08日 
+TITLE: 2010年10月08日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -2074,7 +2074,7 @@ BODY:
 もうすぐ子は6ヶ月。はやいな。。６６cm、８０９５gになった。成長曲線の真ん中あたりで、標準的な大きさ。顔も体も、ちょっとスッキリしてきた。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年10月12日 
+TITLE: 2010年10月12日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -2090,7 +2090,7 @@ BODY:
 今日から離乳食、本格始動。つぶし粥を一匙から・・・のつもりが、かぶり付くように口を持ってきて食べ、もっと寄こせと手を伸ばすので、結局30g全部与えてしまった。。お粥、好きなんだな・・・。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年10月14日 
+TITLE: 2010年10月14日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -2109,7 +2109,7 @@ BODY:
 子が急に、うつ伏せで寝るようになった。多分、寝ている間に寝返ってしまったものの、眠くて泣くのが面倒でそのまま寝てしまった所、意外と寝やすい事を発見！みたいな。すると、うつ伏せのまま休憩する事を覚えて、長い時間うつ伏せで遊べるようになってきたｗ
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年10月16日 
+TITLE: 2010年10月16日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -2126,7 +2126,7 @@ BODY:
 子が、寝返り返りをマスター！ベッドで一緒にごろごろしながら、練習から成功の瞬間まで、じっくり観察させて頂いた。一度成功した後は、面白いのか、何十回も寝返っては戻り・・・を繰り返してる。ちょっとは肉がスッキリしそうな勢いw
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年10月17日 
+TITLE: 2010年10月17日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -2143,7 +2143,7 @@ BODY:
 子にほうれん草を与えたら、ウギー！と怒ったが、律儀に飲み込んでるwもう一口与えると、勢いよく口に入れて、また吠えてるww
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年11月08日 
+TITLE: 2010年11月08日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -2157,41 +2157,11 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 ここ一ヶ月、ツイートしてなかったな。。子は座れるようになって一人遊びが出来るようになり、かなり楽になった。グズグズ泣く事がほとんど無くなったし、穏やかな生活。こうゆっくり出来るのも、ハイハイしだすまでなのかなぁ。
---------
-AUTHOR: Foo Bar
-TITLE: 2010年11月08日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/08/2010 02:22:05
-TAGS: "Movable Type",foo,bar
------
-BODY:
 親戚の宴会に出席したら、あまりの人数の多さ（大人12名・子供6人）に慄いたのか、フリーズしていたｗそういえば、人見知りする時期だけど、泣きはしないなぁ。
---------
-AUTHOR: Foo Bar
-TITLE: 2010年11月08日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/08/2010 02:30:56
-TAGS: "Movable Type",foo,bar
------
-BODY:
 赤ちゃんは寝ている間に顔を覚えるとか聞くけど、情報処理が追いつかなかったのか、久しぶりに夜泣きしてた。でも、夜更かししてヤマザキとゲームしてたので、苦労はなかった。出来た子だ。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年11月10日 
+TITLE: 2010年11月10日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -2207,7 +2177,7 @@ BODY:
 最近、やけに子の血色がいいなーと思っていたら、乾燥が原因だったorz子供って、乾燥でホッペが赤くなるんだな・・・知らなかった・・・。とりあえず、爺ちゃん先生の何に塗っても良いというクリーム塗ったら治った。朝方、咳も出てるし、加湿器がいるかなぁ。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年11月17日 
+TITLE: 2010年11月17日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -2221,41 +2191,11 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 非難する人もいるだろうけど（汗）、子をヤマザキに任せて、友人と上海旅行に行って来たｗ。さすが厄年？、レストランにはフラレまくりの旅だったけど、楽しかった～。上海蟹のオス、旨いよ。。
---------
-AUTHOR: Foo Bar
-TITLE: 2010年11月17日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/17/2010 05:32:22
-TAGS: "Movable Type",foo,bar
------
-BODY:
 当初思っていたより遅い時期になったので、子の免疫が持つか、夜泣きが始まらないか、人見知りとかしないかなど、ちょっと心配だったけど、問題なくて良かった(*^_^*)
---------
-AUTHOR: Foo Bar
-TITLE: 2010年11月17日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/17/2010 05:37:29
-TAGS: "Movable Type",foo,bar
------
-BODY:
 快く送りだしてくれたヤマザキに感謝。しかも「家事&育児には相当関わっているので，たいていのことは朝飯前に対応できると思っていたのだが，ただのうぬぼれでした．」、「しょせん今まで半分以下しか家事&育児に関わっていなかったんだな．」とつぶやくヤマザキ、良い人すぎる。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年11月18日 
+TITLE: 2010年11月18日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -2269,57 +2209,12 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 7ヶ月健診。8340ｇで・・・またもやギリギリ・・・肥（笑）。でもまぁ、顔もだいぶスッキリしたし、良く動いているし、こんなもんだろ。健診の間、大暴れ。方言でいうところの、「バタ狂う」とはこの事だな・・・。。身体能力を遺憾なく発揮して終了。
---------
-AUTHOR: Foo Bar
-TITLE: 2010年11月18日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/18/2010 05:50:39
-TAGS: "Movable Type",foo,bar
------
-BODY:
 税関で、久々にカバン空けられて掘り返された。一人はやっぱ怪しいのかな・・・。上海蟹、もって帰らなくて良かった。ボッシュートされるとこだった。。「荷物・・・少ないですね・・・」って、余計なお世話だよぅ！
---------
-AUTHOR: Foo Bar
-TITLE: 2010年11月18日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/18/2010 08:40:30
-TAGS: "Movable Type",foo,bar
------
-BODY:
 うおぅ。子がすごく器用にMacAirのキーを剥がしたぞ。コードを口に入れても、キミは充電できないからヤメレ。。それ以上パワー溜め込まなくて良いから。。
---------
-AUTHOR: Foo Bar
-TITLE: 2010年11月18日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/18/2010 08:44:51
-TAGS: "Movable Type",foo,bar
------
-BODY:
 上前歯がお目見え。急にズリ這いのような事を始めた。前にはあまり進まず、回転しているだけだけど。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年11月19日 
+TITLE: 2010年11月19日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -2335,7 +2230,7 @@ BODY:
 ipadからツイート。ヤマザキからair取り上げられた。。私の直感とは反する動きをしやがる・・・
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年11月20日 
+TITLE: 2010年11月20日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -2348,48 +2243,13 @@ DATE: 11/20/2010 01:38:02
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-ヤマザキが着せながらカワイイ～！！と叫んでいた。着ぐるみ系はやめられん… 
-<img src=""></img>
-
-
---------
-AUTHOR: Foo Bar
-TITLE: 2010年11月20日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/20/2010 01:42:10
-TAGS: "Movable Type",foo,bar
------
-BODY:
-あれ、TwitPicじゃなかったのでもう一回。。ipadわかりにくい～～ 
+ヤマザキが着せながらカワイイ～！！と叫んでいた。着ぐるみ系はやめられん…
 <img src="https://zacky1972.github.io/tw_diary_images/twitpic.com_38cca9.JPEG"></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2010年11月20日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/20/2010 22:43:48
-TAGS: "Movable Type",foo,bar
------
-BODY:
 子が寝ている間に●をして処置が遅れたため、おしりが真っ赤にかぶれてしまった・・・orzおむつ関連では全く泣いて知らせてくれないんだよなー。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年11月21日 
+TITLE: 2010年11月21日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -2403,82 +2263,20 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 おしりが赤いとホントにお猿みたいだな・・・カワイソス。。
---------
-AUTHOR: Foo Bar
-TITLE: 2010年11月21日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/21/2010 08:49:34
-TAGS: "Movable Type",foo,bar
------
-BODY:
 どうやらお腹をこわしてる様子・・・よもや昨日のインフルエンザ予防接種の副作用？？でも機嫌は良い。かつてない程に。。
---------
-AUTHOR: Foo Bar
-TITLE: 2010年11月21日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/21/2010 08:55:43
-TAGS: "Movable Type",foo,bar
------
-BODY:
-中華店にて。中国人は4本足は机以外なんでも食べる、と言うが…凌駕してどうする… 
+中華店にて。中国人は4本足は机以外なんでも食べる、と言うが…凌駕してどうする…
 <img src="https://zacky1972.github.io/tw_diary_images/twitpic.com_38t2t2.JPEG"></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2010年11月21日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/21/2010 09:02:59
-TAGS: "Movable Type",foo,bar
------
-BODY:
-紅葉狩りついでにデパ地下で買い込んで外ランチ。行楽日和だったなー 
+紅葉狩りついでにデパ地下で買い込んで外ランチ。行楽日和だったなー
 <img src="https://zacky1972.github.io/tw_diary_images/twitpic.com_38t4qn.JPEG"></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2010年11月21日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/21/2010 10:29:41
-TAGS: "Movable Type",foo,bar
------
-BODY:
-よくみたら、林家夫妻ばりのピンクっぷり・・・(汗) 
+よくみたら、林家夫妻ばりのピンクっぷり・・・(汗)
 <img src="https://zacky1972.github.io/tw_diary_images/twitpic.com_38tbiz.JPEG"></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年11月22日 
+TITLE: 2010年11月22日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -2492,25 +2290,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子のお腹は持ち直した模様。今日はゆっくり寝れそうだ〜。。ワセリン塗りまくったおかげか、お尻の赤みも半減したし、ひとまずは安心。
---------
-AUTHOR: Foo Bar
-TITLE: 2010年11月22日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/22/2010 23:23:55
-TAGS: "Movable Type",foo,bar
------
-BODY:
 くぅ・・・夜中の見回り一回では足りなかったか・・・見事に背モレしていた・・・orz何故泣いて知らせないんだ。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年11月24日 
+TITLE: 2010年11月24日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -2526,7 +2309,7 @@ BODY:
 おむつの子の下痢によるかぶれ、ワセリンは有効だった。刺激物（●）をワセリンで弾いて皮膚に付けないという荒技だけど、まだ下し中なものの、かぶれはほぼ完全に治癒。薬でも良いんだろうけど、ワセリンは薬効が無い分コッテリ塗っても安心っちゅーか・・・
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年11月26日 
+TITLE: 2010年11月26日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -2542,7 +2325,7 @@ BODY:
 子は一昨日で完治した模様。昨日の夜からヤマザキは出張だ。子の空気を読む能力は素晴らしい・・・
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年11月28日 
+TITLE: 2010年11月28日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -2556,25 +2339,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 お腹も治った事だし、離乳食再開。ちょっとサボると・・・面倒だな。。ミルクだけって楽だよな〜。ま、まとめて作って冷凍したのをチンしてるだけなんだけどね。。
---------
-AUTHOR: Foo Bar
-TITLE: 2010年11月28日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/28/2010 15:11:05
-TAGS: "Movable Type",foo,bar
------
-BODY:
 最近ずっとニコニコしてるし仕草も愛嬌があるので、これがカワイイ盛りってやつか？ (*´д｀*)と余裕をかましていたら、この週末は不機嫌な感じで疲れちまった。。orzなんなんだろう、、泣きはしないんだけど、ずっと文句言ってるんだよなー。体調が悪くなる前兆じゃないと良いんだけど。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年11月29日 
+TITLE: 2010年11月29日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -2588,57 +2356,12 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子は保育員さんに預けるとき、ニコニコと笑いつつ見送ってくれる。迎えに行った時は、私を見つけるとパァー！と満面の笑みになって、腰がすわってからは手をパタパタとさせて喜びを表現しつつ、出迎えてくれるんだー。
---------
-AUTHOR: Foo Bar
-TITLE: 2010年11月29日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/29/2010 14:37:06
-TAGS: "Movable Type",foo,bar
------
-BODY:
 お迎え時間の前に保育員さんが着替えさせてくれるのだけど、着替えたら、もうそろそろお迎えだな、というのが解っているらしい。大抵私が一番早いお迎えなんだけど、今日は先に来た方がいて、しかも私に似た服装だったもんだから、勘違いして子は激怒（笑）
---------
-AUTHOR: Foo Bar
-TITLE: 2010年11月29日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/29/2010 14:51:16
-TAGS: "Movable Type",foo,bar
------
-BODY:
 期待が裏切られて悔しかったのか、自分じゃない子を間違えて連れて帰ってしまったと思ったのか・・・。初めて泣いた状態で迎えられて、ちょっとビックリした。。でも、私をみとめると、涙目なままニコッとして、抱き上げるとクシャクシャな笑顔でパタパタして、なんだかすごいカワイかった。。
---------
-AUTHOR: Foo Bar
-TITLE: 2010年11月29日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/29/2010 15:04:59
-TAGS: "Movable Type",foo,bar
------
-BODY:
 随分と感情豊かになってきたものだなぁ。。こういうのは、猫では味わえない感覚だなぁ。猫って、子猫の時からもっとオトナというか・・・。。こんなにストレートな喜びって見ないよなぁ。・・・うん、赤子って犬っぽい。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年12月05日 
+TITLE: 2010年12月05日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -2652,25 +2375,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 離乳食の前後に、いただきます！ごちそうさまでした！と言いつつ手を合わさせていたんだけど、近頃手を添えると自分で動かすようになってきた。やっぱ食べ物と関連付ける芸は早く覚えるな・・・。一瞬、これならお手とかもすぐ覚えそうだ・・・という考えが頭を過る。
---------
-AUTHOR: Foo Bar
-TITLE: 2010年12月05日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 12/05/2010 01:19:59
-TAGS: "Movable Type",foo,bar
------
-BODY:
 ちなみに子が一番最初に覚えた芸は、「コツン！」と言うと軽く頭突きしてくるという芸。そのあとグリグリスリスリしてきて、猫のようだw保育園の他の子は、「好き好きー」のコマンドで同じ事をやるらしい。好き好きか・・・その手があったか・・・
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年12月08日 
+TITLE: 2010年12月08日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -2686,7 +2394,7 @@ BODY:
 mixiとの連携が切れてるらしい。テスト
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年12月15日 
+TITLE: 2010年12月15日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -2700,41 +2408,11 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 鼻が両方とも詰まってる・・・苦しい・・・。でも、子が鼻づまりになるよりマシか・・・。しかし感染するのも時間の問題か？鼻水吸い取り機を買っておくべきなのか？？っつーか、私の鼻水は吸い取れないのか？？？
---------
-AUTHOR: Foo Bar
-TITLE: 2010年12月15日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 12/15/2010 14:31:12
-TAGS: "Movable Type",foo,bar
------
-BODY:
 子はズリ這いのスピードが増してきたし、お座りからうつ伏せへもスムーズに変化出来るようになったので、床に置いておく時が増えた。マールに向かってでデシ！デシ！！と這って行っている。。ちょっと触らせてあげるとは、マールはなんと広い御心をお持ちなのだ・・・
---------
-AUTHOR: Foo Bar
-TITLE: 2010年12月15日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 12/15/2010 14:40:03
-TAGS: "Movable Type",foo,bar
------
-BODY:
 子のインフルエンザ注射2回目。いつもの小児科ではなく、私が利便性重視で行っている駅ビルの内科へ。激空きだったせいか、子を抱いた私の靴の出し入れをしてくれるわ、子をあやしまくってくれるわ、ソファーで支払いまで済ませてくれるわのＶＩＰ待遇だった（驚）予防注射はここにしよっかな。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年12月17日 
+TITLE: 2010年12月17日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -2748,25 +2426,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子が8ヶ月になって、ようやく毎日タンパク質を与え始めた。通常より遅めなのは、アレルギー対策２０％・面倒くさい８０％・・・。乳飲み子って、特有の良いニオイがするんだけど、タンパク質を食べ始めたらこのニオイも無くなりそうな気がして残念。。
---------
-AUTHOR: Foo Bar
-TITLE: 2010年12月17日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 12/17/2010 22:04:20
-TAGS: "Movable Type",foo,bar
------
-BODY:
 無駄に早起きしてしまった・・・こんな日に限って、子はゆっくり寝ている。。いつもは子が一番に起きてハラ減ったー！！と騒ぎだし、あと２０分寝てくれたら良いのに〜・・・と思いながら布団から出るのだが。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年12月19日 
+TITLE: 2010年12月19日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -2780,25 +2443,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 昨日はワイン会、の上に二次会まで・・・久しぶりに飲み過ぎた。。二日酔いって何年ぶり？っちゅーか、翌日フラフラなんて、学生の時以来では・・・。
---------
-AUTHOR: Foo Bar
-TITLE: 2010年12月19日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 12/19/2010 15:06:17
-TAGS: "Movable Type",foo,bar
------
-BODY:
 昼寝の寝かしつけ以外（ちゅーか一緒に寝ただけ）ずっと子の相手をしていてくれたヤマザキへの感謝を込めて、新作料理に挑戦。保温調理鍋・ジップロック・ストローを使って、なんちゃって真空調理の豚ロースト！コレはハマりそう・・・簡単だし。そしてまたワインを開けてしまう罠。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年12月21日 
+TITLE: 2010年12月21日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -2812,25 +2460,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 ここ２～３日で、ずり這い・・・というか、ほふく前進のスピードが急速にUPした。さすがのマールもお困りの御様子。。昨日は、ベビーベッドに寝かせておいたら、柵につかまって起き上がったのか、いつの間にか座っていた！ホントにこの時期って、急速に「出来るようになる」んだな～
---------
-AUTHOR: Foo Bar
-TITLE: 2010年12月21日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 12/21/2010 14:14:48
-TAGS: "Movable Type",foo,bar
------
-BODY:
 皆既月食は雨で見られず。。前回の皆既月食は、このマンションに移った年で、ベランダで飲みながら眺めたんだった。もう３年も前なのか・・・月日が経つのは早いなぁ・・・。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年12月24日 
+TITLE: 2010年12月24日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -2846,7 +2479,7 @@ BODY:
 洋食屋にて、デミグラスソースの匂いに釣られて、子が初つかまり膝立ち！おお、まさかこのまま立つのか・・？！と思いきや、両足揃えて後ろに滑らせて、そのまま腕立て伏せ状態に・・・。まだ足を前に出すという考えは浮かばないらしい。そのうち立たねば！という本能が目覚めるのだろうか。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年12月25日 
+TITLE: 2010年12月25日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -2862,7 +2495,7 @@ BODY:
 子がお腹を壊している。これで二回目の病気。。今回は時々機嫌が悪くなるので、不快感があるのかも。そして私とヤマザキにも感染したのか、胃腸の調子がじんわりと悪い。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年12月27日 
+TITLE: 2010年12月27日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -2876,25 +2509,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 どうやら、子は嘔吐下痢症の菌かウイルスに感染していたっぽい。子は下痢だけなんだけど、うつされた私が嘔吐下痢だわ・・・。ま、子が症状が重くなるよりは良いけど・・・看病の方が大変だし・・・
---------
-AUTHOR: Foo Bar
-TITLE: 2010年12月27日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 12/27/2010 08:28:43
-TAGS: "Movable Type",foo,bar
------
-BODY:
 やばいw子がマールの真似をして、爪とぎしだしたっw
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年12月28日 
+TITLE: 2010年12月28日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -2908,41 +2526,11 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 きゃー！子が嘔吐して、保育園から送還！！年末最後の最後で・・・orz
---------
-AUTHOR: Foo Bar
-TITLE: 2010年12月28日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 12/28/2010 14:02:45
-TAGS: "Movable Type",foo,bar
------
-BODY:
 結局、子は家に帰って１回嘔吐・２回下した。機嫌は良好。・・・微妙だなぁー。でも、年末にかかるし、一応病院に。「ノロとかだともっとひどいけど・・・ま、菌を特定しても、飲む薬一緒なんで・・・」と、整腸剤と消化剤を貰う。ま、気休めにはなるかな。。
---------
-AUTHOR: Foo Bar
-TITLE: 2010年12月28日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 12/28/2010 14:07:20
-TAGS: "Movable Type",foo,bar
------
-BODY:
 薬局で薬を包むゼリーとやらを買ったら、粉薬なのに、ツルリと飲んでくれた。すげー。昔のオブラート（包んだ方が寧ろ飲みにくい）とはエライ違いだわ。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年12月30日 
+TITLE: 2010年12月30日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -2956,41 +2544,11 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 年末に病気とはどうなることかと思ったが、結局２８日がヤマだったらしく、３０日は２回下しただけだったし、もう終息宣言を出しても良い感じ。良かった〜。しかし、ヤマザキが休みの時で、本当に良かった。暴れる寝返り赤子の背モレオムツ交換とか、ホント一人でどうしたら良いのか・・・
---------
-AUTHOR: Foo Bar
-TITLE: 2010年12月30日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 12/30/2010 17:24:36
-TAGS: "Movable Type",foo,bar
------
-BODY:
 とりあえず、犬用のペットシーツはすっごく役にたった。あと、１００均のソースボトルの簡易ウォシュレット。。
---------
-AUTHOR: Foo Bar
-TITLE: 2010年12月30日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 12/30/2010 17:45:37
-TAGS: "Movable Type",foo,bar
------
-BODY:
 午前中にちょっと会社に行った後は、すっかり冬休みモードに突入。借りてきた漫画や年末番組を見たり、子と遊んだり、マールに挑む子をビデオに撮ったり。ダラダラ過ごすの楽しいな〜〜ビバ！自堕落な日々wwでも、子にはいつも通り早寝して頂こう。そして深夜までヤマザキとゲームwww
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年01月02日 
+TITLE: 2011年01月02日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -3004,57 +2562,12 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 おお〜！子がつかまり立ちしたー！！とは言っても完全に自分で立ち上がったのではなく、床の上で私の膝に座らせていて、ソファの上のPCを夢中で触っていたらいつの間にか立ってしまった感じ。いやー、「初めて出来た」を見るのってウレシイなぁ。休みの日に初披露とは、気が利いているじゃないかw
---------
-AUTHOR: Foo Bar
-TITLE: 2011年01月02日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 01/02/2011 07:01:17
-TAGS: "Movable Type",foo,bar
------
-BODY:
 子とマールの絡みをビデオに撮りたいのだけど、毛やヒゲをガシッと掴むものだから、気が気じゃなくて上手く撮れない。。「こらっ！」とか「駄目っ！！」とか入りまくり、画面揺れまくり・・・。マールが黙って付き合ってくれて、反撃の様子も見せないだけに可哀想で。。マールよ、逃げて良いのだぞ。。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年01月02日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 01/02/2011 08:01:57
-TAGS: "Movable Type",foo,bar
------
-BODY:
 ちょっと前の子の動画を見たら、あまりのデブっぷりに爆笑wまだまだムチムチだけど、これでも随分スッキリしたんだなぁ。この一週間の下痢でまたちょっと痩せたのか、目が二重になった。肉で埋もれていたのか・・・orz
---------
-AUTHOR: Foo Bar
-TITLE: 2011年01月02日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 01/02/2011 08:59:46
-TAGS: "Movable Type",foo,bar
------
-BODY:
 うおぅ、今度はうつ伏せからお座りが出来るようになった！正月早々、大盤振る舞いだな、オイ！！
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年01月04日 
+TITLE: 2011年01月04日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -3070,7 +2583,7 @@ BODY:
 今日から出勤。なかなか良い正月だった。つーか、正月らしい事って、実家でお節＆お雑煮を食べる事しかしてないんだけど。相変わらず年賀状も書いてないし、飾りつけどころか大掃除すらしていない。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年01月07日 
+TITLE: 2011年01月07日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -3084,25 +2597,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 保育園が始まってから、どうも子の機嫌が悪い。保育園では普通らしいんだけど。。病気の治りかけは機嫌が悪いと聞くのでソレなのか、とうとう自我が出てきてワガママを言っているのか・・・？
---------
-AUTHOR: Foo Bar
-TITLE: 2011年01月07日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 01/07/2011 05:22:22
-TAGS: "Movable Type",foo,bar
------
-BODY:
 今朝は保育士さんに渡すとウェーン！と泣いて、こんな事は初めてで驚いた。すぐにふーちゃん（1歳半）からガラガラを渡され泣き止む。ナイスアシスト。最近、抱っこして欲しい方に腕を伸ばすようになって、なかなかカワイイ。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年01月08日 
+TITLE: 2011年01月08日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -3118,7 +2616,7 @@ BODY:
 10年ぶり位にものもらいが出来た。見ても解らない程度だけど結構痛い。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年01月16日 
+TITLE: 2011年01月16日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -3132,25 +2630,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 バイバイバーイと言いながら手をヒラヒラ出来るようになった。これはもう芸と認定していいだろうという出来栄えwカワイイww
---------
-AUTHOR: Foo Bar
-TITLE: 2011年01月16日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 01/16/2011 04:55:42
-TAGS: "Movable Type",foo,bar
------
-BODY:
 ストローを習得したもよう。紙パックの麦茶を飲ませる事三回目、突然コツを掴んだようでチューチュー飲み出した。まだ口に入れすぎてピューっと出したりするんだけど。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年01月17日 
+TITLE: 2011年01月17日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -3164,60 +2647,14 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 今日はマールの誕生日。今もカワイイけど、子猫の時はそれはもう本当に可愛かったなぁ。お手なんか一日で覚えちゃう程賢くってさ。。子に対しても、こんな風に思う日が来るのだろうか。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年01月17日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 01/17/2011 06:23:44
-TAGS: "Movable Type",foo,bar
------
-BODY:
 客観的に見ると、子（というか人間の赤子）よりもマールの方が外見上カワイイと思う。やはりこの感覚は、自分で子を産んでからも変わらなかった。。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年01月17日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 01/17/2011 06:45:05
-TAGS: "Movable Type",foo,bar
------
-BODY:
-まだ親元にいた時。この可愛さは反則だよなぁ・・・ 
+まだ親元にいた時。この可愛さは反則だよなぁ・・・
 <img src="https://zacky1972.github.io/tw_diary_images/twitpic.com_3qt9nm.JPEG"></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年01月17日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 01/17/2011 15:43:15
-TAGS: "Movable Type",foo,bar
------
-BODY:
 咳が出て、水を飲んでも飲んでも喉が渇く感じがする。。ちゃんと加湿もしてるんだけどなぁ
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年01月22日 
+TITLE: 2011年01月22日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -3233,7 +2670,7 @@ BODY:
 ソファでうたた寝をしていたら、目の前に子の顔が・・・つかまり立ちをしていた！しかしまだ現場はみせてくれない。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年01月26日 
+TITLE: 2011年01月26日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -3249,7 +2686,7 @@ BODY:
 ヤマザキが３日程出張で家を空けていた。子は不満な様子で、イマイチ機嫌がよろしくなく、大変疲れた。。世話は父でも母でもまぁOKだが、両方揃ってないと完全ではないらしい・・・
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年01月28日 
+TITLE: 2011年01月28日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -3263,57 +2700,12 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 うわー！ノルウェイの森見に行こうと思ったら、、今日が上映終了でレイトショーやってない・・・ショック・・・DVD出るまでオアズケだぁ・・・(ToT)/~~~
---------
-AUTHOR: Foo Bar
-TITLE: 2011年01月28日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 01/28/2011 05:48:35
-TAGS: "Movable Type",foo,bar
------
-BODY:
 子が片手で哺乳瓶を持ってジュージューと勢い良く飲み、終わるとゴロリと転がす様は、一升瓶ラッパ飲みイッキをしているように見える。。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年01月28日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 01/28/2011 06:37:22
-TAGS: "Movable Type",foo,bar
------
-BODY:
 ずいぶん大きくなったなぁ、と体重を計って見ると、8.6kg・・・一ヶ月前とほとんど変わらない？どうやら身長が伸びてきているようす。最近は髪も伸びてきたし、ちゃんと女の子っぽく見えるようになってきた。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年01月28日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 01/28/2011 07:33:02
-TAGS: "Movable Type",foo,bar
------
-BODY:
 自らタオルケットを顔に掛けたり取ったりしながら「ぃないなぃばぁ」と言っているような気がするんだが、これは空耳であろうか。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年01月30日 
+TITLE: 2011年01月30日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -3327,25 +2719,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 流石、朝一で終了間近の映画。女性ばかり１０人以下とガラガラ。。ノルウェイの森は久しぶりに読んでから行ったんだけど、昔読んだ時と印象がかなり違った。え、こんなにエロかったっけ、みたいな。多分私の心がヨゴレてしまったんだと思う。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年01月30日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 01/30/2011 03:01:40
-TAGS: "Movable Type",foo,bar
------
-BODY:
 午後はヤマザキ＆子と合流して「世界の絵本作家展」に。子はそれなりに、半分位は熱心に見ていた様子。夜は結婚披露パーティーをしたブルーシエルが移転するので、最後に伺った。充実した一日。新しい店は個室が出来るらしいので、今度は子も連れていてみようかなー。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年02月01日 
+TITLE: 2011年02月01日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -3359,25 +2736,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 保育園に２ヶ月の新入りが登場。ち・・・ちっせぇ・・・！たかだか半年ちょっと前って、こんなだったんだ・・・！！
---------
-AUTHOR: Foo Bar
-TITLE: 2011年02月01日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/01/2011 13:28:22
-TAGS: "Movable Type",foo,bar
------
-BODY:
 子、初のダブル予防注射。一本目で痛さが解っているからか、二本目の泣き叫びようときたら・・・
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年02月04日 
+TITLE: 2011年02月04日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -3391,76 +2753,15 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子の歯が８本出てきたので、フッ素を塗ってもらいに初歯医者。歯医者は泣き叫んでも仕上げ磨きしろって言うんだろうが、せめて自発的に口を開けれるようになってから始めたいんだよね・・・。それまでの気休めにフッ素。。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年02月04日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/04/2011 05:51:24
-TAGS: "Movable Type",foo,bar
------
-BODY:
 小児歯科医は、怖がらないようにするためか白衣無し。一瞬、誰なんだろう、この人・・・？と混乱したｗそしてあの子供向けテンション・・・軽くひいてしまったが・・・大変な仕事だな・・・
---------
-AUTHOR: Foo Bar
-TITLE: 2011年02月04日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/04/2011 10:38:20
-TAGS: "Movable Type",foo,bar
------
-BODY:
-焼肉屋なう。安旨だけどコワい店主のいる店で、中々子連れで行く勇気がなかったんだけど、、意外と子供好きらしく今までで一番愛想がよかった！オジチャンなんて、ずっと抱っこしてくれてるし... 
+焼肉屋なう。安旨だけどコワい店主のいる店で、中々子連れで行く勇気がなかったんだけど、、意外と子供好きらしく今までで一番愛想がよかった！オジチャンなんて、ずっと抱っこしてくれてるし...
 <img src="https://zacky1972.github.io/tw_diary_images/twitpic.com_3wcspp.JPEG"></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年02月04日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/04/2011 12:14:09
-TAGS: "Movable Type",foo,bar
------
-BODY:
 Facebookをヤマザキにつられて初めてみる。ヤマザキの強い勧めにより、先程の写真がプロフィールに・・・。すごくイイ！雰囲気出てる！！惚れ直した！！！って言うんだもん、、仕方ない。。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年02月04日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/04/2011 12:16:49
-TAGS: "Movable Type",foo,bar
------
-BODY:
 Facebookはプロフィールに恋愛対象の性別の欄があって、流石アメリカだなーと。ヤマザキはそれを男性に設定していたのに気付き、慌てて修正していたw。Facebookもお友達求むー。まだ何もしてないんだけどさ。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年02月05日 
+TITLE: 2011年02月05日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -3476,7 +2777,7 @@ BODY:
 今年に入って、子は夜泣きをたまにする。今まではちょっと目が覚めても自力で眠れていたのに、どうも怖い夢を見るらしく、寝ぼけたまま泣き出す模様。。オイオイそんな人生経験でどんなコワイ事がwと思っていたけど、今日はソファから落下させてしまったので、それを反芻しているのかも・・・。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年02月07日 
+TITLE: 2011年02月07日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -3492,7 +2793,7 @@ BODY:
 夜泣きは大体私達が起きている時間帯なので良いんだが、困っているのが早朝覚醒！５時半とかに「ハラ減ったー！！」と大騒ぎ・・・。ジーナによると、３回食にすれば長時間寝るようになるらしんだけど、弁当を持たせるのは面倒で・・・。いつかはやらねばならんが、ギリギリまで粘りたい。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年02月09日 
+TITLE: 2011年02月09日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -3506,10 +2807,9 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 福岡もやの原因、中国の大気汚染物質の可能性・・・折角、暖かくなってきたし子の散歩でもと思っていたのに～（といって、また引きこもる）
-http://www.yomiuri.co.jp/eco/news/20110209-OYT1T00270.htm
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年02月14日 
+TITLE: 2011年02月14日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -3525,7 +2825,7 @@ BODY:
 なにぃ・・・バナナの嫌いな赤子なんて・・・。生まれて初めて拒否した食べ物がバナナだなんて意外すぎる。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年02月15日 
+TITLE: 2011年02月15日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -3541,7 +2841,7 @@ BODY:
 ここ数日で「つかまり立ち上がり」が続けざまに成功するようになった子。今日はなんと、ヨロヨロと伝え歩きをしているではないか！こっちにおいで〜と手を叩くと、真似して立ったまま手を叩きだした。。ちょ・・・！危ないし・・・！！
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年02月17日 
+TITLE: 2011年02月17日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -3557,7 +2857,7 @@ BODY:
 背中が赤くなってジカジカするなぁ・・・？虫刺され？？と思って病院に行くと、帯状疱疹だったorz　特に免疫力が低下している自覚はないんだけどな・・・。ボリボリ掻いた手で子に触りまくってしまったよ。。水疱瘡うつっちまっただろうか・・・はぁ・・・
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年02月18日 
+TITLE: 2011年02月18日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -3571,105 +2871,15 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 ぜひどうぞ～と誘われて、一家でワイン会＠天寿司へ。お鮨＆ワイン・・・美味しすぎるよ・・・！子は若干人見知りしたが、持参のバンボに座って、ムッシムッシと弁当（パン＆茹で野菜）を食べ続け、非常に大人しくしてくれていた。穴子握りを一個だけ貰い、目をカッと見開いて美味しさに感動した様子ｗ
---------
-AUTHOR: Foo Bar
-TITLE: 2011年02月18日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/18/2011 02:04:52
-TAGS: "Movable Type",foo,bar
------
-BODY:
 穴子パワーか、今朝から急に、ズリ這いから膝立ちと高ばいがミックスしたようなハイハイに進化！！
---------
-AUTHOR: Foo Bar
-TITLE: 2011年02月18日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/18/2011 13:18:21
-TAGS: "Movable Type",foo,bar
------
-BODY:
 焼き鳥屋なう。一人呑みはひさしぶりだ〜。結婚してから初めてかも。今日はお芝居みてきたんだ！好きな映画が舞台化されてて、北九州にも来てたから。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年02月18日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/18/2011 13:26:31
-TAGS: "Movable Type",foo,bar
------
-BODY:
 時計仕掛けのオレンジ、見る価値アリだった。しかし小栗旬目当てらしい小学生連れの親子の感想は気になる所づはある…。内容知っててきてるんだよな…？
---------
-AUTHOR: Foo Bar
-TITLE: 2011年02月18日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/18/2011 13:34:21
-TAGS: "Movable Type",foo,bar
------
-BODY:
 北九州劇場は、一歳以上からの格安の託児ルームがある。見学してきたが、中々良さそうだった。次は昼公演にヤマザキも連れて行くかな…。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年02月18日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/18/2011 13:43:18
-TAGS: "Movable Type",foo,bar
------
-BODY:
 えっ。立てた小指はカノジョなのは知ってるけど、親指はカレシ(対男)なの？知らなかった…。北九州ルール？私、騙されてる？？
---------
-AUTHOR: Foo Bar
-TITLE: 2011年02月18日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/18/2011 15:32:21
-TAGS: "Movable Type",foo,bar
------
-BODY:
 やっぱり一人もいいけど、ヤマザキと呑みたいなあ(とノロケてみる)。日本もベビーシッターが浸透すればいいのに。。ま、女の敵は女という文化では中々ね
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年02月20日 
+TITLE: 2011年02月20日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -3683,26 +2893,11 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 携帯、とうとう買い替えた〜！docomoのN-02C！！今までのはもの凄くモッサリしてて、何度叩き壊したくなった事か・・・。コイツのせいですっかりメール無精になった気がする。子の写真も携帯では殆ど撮っていないし。。もうイライラするのは嫌なので、スマートフォンは見送るのさ。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年02月20日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/20/2011 15:17:05
-TAGS: "Movable Type",foo,bar
------
-BODY:
 さくさく撮れるから、じっとしてない子でも可愛いく撮れる確率が高いが、ブサイクに撮れる確率も高まるw
- http://twitpic.com/41vx1r
+ <img src="https://zacky1972.github.io/tw_diary_images/245033487.jpg"></img>
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年02月22日 
+TITLE: 2011年02月22日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -3716,76 +2911,15 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 結婚記念日に「おか野」へ。凄かった・・・！神が降りていた・・・！！美食が趣味で、これまで結構美味しいモノを食べてきたと思うんだけど、、なんというか、走馬灯に出てきそうなレベルで感動。私にとって、本当に特別なレストラン。ヤマザキと出会ったのもココだしw
---------
-AUTHOR: Foo Bar
-TITLE: 2011年02月22日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/22/2011 20:13:40
-TAGS: "Movable Type",foo,bar
------
-BODY:
 その間、母がウチに来てくれ、子の「寝ずの番」ならぬ「TV見ながらウトウトの番」をしてくれていたw本当に有り難い！子は７時半に寝かしつけたらほぼ起きないが、一人置いておく訳にはいかない。ベビーシッターにお願いすると夜は2500円／時・・・ずっと寝てるのにと思うと出し渋ってしまう。。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年02月22日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/22/2011 20:49:23
-TAGS: "Movable Type",foo,bar
------
-BODY:
 お、子がウニャウニャ歌っている。が、ちゃんと一人で眠りについてくれるんだよなー、これが。怖い夢を見て泣いている時は落ち着くまで抱っこしてトントンしてやるが、それ以外はほとんど寝かしつけを必要としない。ジーナ様様だな！
---------
-AUTHOR: Foo Bar
-TITLE: 2011年02月22日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/22/2011 20:52:36
-TAGS: "Movable Type",foo,bar
------
-BODY:
 よくジーナって何？と聞かれるので、人のブログを貼ってみる。「泣かせるネントレ」と言われているけど、生まれた時からやっていると荒療治的な事は何もなかった。
-<img src=""></img>
--artphoto.com/childcare/post_1872.html
+https://www.rk-artphoto.com/gina-ford-baby-sleeping/
 
---------
-AUTHOR: Foo Bar
-TITLE: 2011年02月22日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/22/2011 21:04:22
-TAGS: "Movable Type",foo,bar
------
-BODY:
 欠点は、暗くしたベッドか車でしか寝ないので、外出先での昼寝に困る事。上手くスケジュールを組まないといけない。あと、多少良心？の呵責があるのか、抱っこされて寝ている赤子＆母親が、眩しく神々しく見える事w眠っていく可愛さを見るのは、たまに休日の昼寝に添い寝すれば、私的には十分かなー
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年02月24日 
+TITLE: 2011年02月24日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -3799,91 +2933,18 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 今日のGAP&西松屋under2000円コーディネート。髪型が髪型なので、こんな感じが似合うかな、と。
- http://twitpic.com/433lgr
---------
-AUTHOR: Foo Bar
-TITLE: 2011年02月24日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/24/2011 03:33:41
-TAGS: "Movable Type",foo,bar
------
-BODY:
+ <img src="https://zacky1972.github.io/tw_diary_images/247071339.jpg"></img>
+
 本当は赤子らしいツナギが好みなんだけど、最近暴れるので股スナップを止められず、イメチェンに踏み切ってみた。
- http://twitpic.com/433nog
---------
-AUTHOR: Foo Bar
-TITLE: 2011年02月24日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/24/2011 12:26:50
-TAGS: "Movable Type",foo,bar
------
-BODY:
+ <img src="https://zacky1972.github.io/tw_diary_images/247074208.jpg"></img>
+
 携帯の音声起動を試してみようと、メモ！と唱えると、ｉコンシェルより先にヤマザキがメモの体制に入ったwなにこの使える執事ww
---------
-AUTHOR: Foo Bar
-TITLE: 2011年02月24日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/24/2011 12:34:59
-TAGS: "Movable Type",foo,bar
------
-BODY:
 N-02C、サクサク動いて概ね満足だが、クイックメールが無いのと、背面が平らでないので机の上に置いて操作しにくいのが難点。クイックメールなんて、どれにもある機能と思って調べてなかった…
---------
-AUTHOR: Foo Bar
-TITLE: 2011年02月24日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/24/2011 12:54:05
-TAGS: "Movable Type",foo,bar
------
-BODY:
 今まではしっかりしたホールド感が欲しくて、二軸ヒンジのカメラ的撮影方式に拘っていたが、ファインダーを使わない時点でブレ度は同じだよな、と悟った。。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年02月24日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/24/2011 13:19:59
-TAGS: "Movable Type",foo,bar
------
-BODY:
 意外と防水&ワンセグが心地よい。今までお風呂では本かロケフリ&PSP&ジップロックだったんだけど、ボンヤリ湯に浸かってる時には、くだらないバラエティー番組位がちょうどいいのかも。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年02月25日 
+TITLE: 2011年02月25日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -3897,25 +2958,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 ICお引越サービス、全然使えねー！45分も無駄にした！！手動で移しかえるの面倒だよぅ。Edy・WAON・nanaco・JAL・ANA・GEO　etc.・・・。これだから機種変更キライー
---------
-AUTHOR: Foo Bar
-TITLE: 2011年02月25日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/25/2011 14:15:30
-TAGS: "Movable Type",foo,bar
------
-BODY:
 SUGOCA圏なのに頑としてSuicaを使い続ける私。だってモバイルSuica便利なんだものー。でもSuica圏外ではオートチャージはしてくれないんだよな。。手動でIC引っ越し、２時間位かかったよー。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年02月27日 
+TITLE: 2011年02月27日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -3929,89 +2975,14 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 山崎の出張に乗っかって、急遽東京へ。JALはベビーコットが無いらしく、昼寝が出来なくて困った。。こういう時には、抱っこで寝ないのは不便…。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年02月27日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/27/2011 01:59:47
-TAGS: "Movable Type",foo,bar
------
-BODY:
 降機後ベビーカーに乗せたら寝たので、ヤマザキがレンタカーを借りに行っている間、比較的落ち着ける授乳室で待機中。しかしスピーカーの音が異常にでかい！これではアナウンスの度に赤子がビクつくではないか…
---------
-AUTHOR: Foo Bar
-TITLE: 2011年02月27日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/27/2011 02:10:07
-TAGS: "Movable Type",foo,bar
------
-BODY:
 飛行機は空いていて、２列使って子をあやせたので助かった。ちょっとグズったが、周りは子供連ればかりだったし、まぁ許容範囲…かな。。ｽｯﾁｬｰﾃﾞｽさんもあやしてくれて有り難かった。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年02月27日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/27/2011 14:43:48
-TAGS: "Movable Type",foo,bar
------
-BODY:
 ヤマザキ両親は子に会うのを楽しんでくれた様子。ヤマザキも我が子自慢出来て嬉しそうで何より。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年02月27日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/27/2011 14:52:16
-TAGS: "Movable Type",foo,bar
------
-BODY:
 夜は友達誘ってベトナム料理のミレイに。相変わらず美味しい！レモングラスが～ドクダミが～～(^q^)子も蒸し鶏を貰ってご満悦だった。騒がしい店なので、子が少々ウキウキ言っても気にならないのが◎
---------
-AUTHOR: Foo Bar
-TITLE: 2011年02月27日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/27/2011 14:53:42
-TAGS: "Movable Type",foo,bar
------
-BODY:
 子は初めての旅館&川の字に大ハシャギ。20時には真っ暗にして一家で布団に入ってみたが、ゴロゴロ転がったり、布団にバフーンとしたり、顔を触ってきてニターっとしたり…。ウッカリ私達の方が先に寝てしまった。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年02月28日 
+TITLE: 2011年02月28日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -4025,57 +2996,12 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 ふぃー、振込終わったー。朝の飛行機で帰って来て、そのまま保育園に子を預けて出社。もう１日早く出張が決まれば土日でいけたんだが…。まぁ飛行機も空いていたし、良しとしよう。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年02月28日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/28/2011 04:10:16
-TAGS: "Movable Type",foo,bar
------
-BODY:
 帰りの飛行機、バスを使う搭乗口でウゲーと思ったけど、ｵﾈｴｻﾝは席を譲ってくれるし、ｵｼﾞｻﾝは階段から座席まで荷物持ってくれるし、優しさに触れちゃった。ｵｼﾞｻﾝなんて降機後も待ってて、出口まで荷物持ちしてくれちゃったんだぜ。。優しすぎる～
---------
-AUTHOR: Foo Bar
-TITLE: 2011年02月28日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/28/2011 04:32:59
-TAGS: "Movable Type",foo,bar
------
-BODY:
 子の相手は行きの飛行機よりも随分ラクだった。アップルジュースの紙コップの空き殻でスーハーしながら、幸せそうに一人遊び w一人赤子連れでも何とかなるもんだなー。これならばＧＷに計画中の香港も大丈夫…だといいな。。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年02月28日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/28/2011 06:36:52
-TAGS: "Movable Type",foo,bar
------
-BODY:
 朝も昼も空弁。寿司岩の穴子弁当、中々美味しいじゃなーい。タレが別なので、赤子に具のみ与える事も出来るかも。私は会社で一人で食べたけどｗｵｼﾞｻﾝにこれも持って貰ったと思うと、ちょっと良心が痛む・・・ｺﾞﾒﾝ､ｿﾚﾜﾀｼﾉﾍﾞﾝﾄｳﾅﾝﾀﾞ･･･
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年03月02日 
+TITLE: 2011年03月02日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -4089,73 +3015,13 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子の名前を呼ぶと、突然「ハーイ」と言って手を挙げたので驚いた。保育園で覚えてきたんだな。保育園では、他の子や先生の事をジーッと観察しているらしい。最近、食べ物を目の前にしても、自分で「いただきます」と手を合わせる余裕が出来た模様。今までも「ご馳走様」は出来ていたんだが。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年03月02日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/02/2011 20:42:47
-TAGS: "Movable Type",foo,bar
------
-BODY:
 今回の東京行きの宿は、子がハイハイ出来るように和室希望。でも東京のホテルの和室、、しかもソコソコ安いとこ・・・となると、どこも人気で直前にはとても取れない。で、今回選んだのは外国人（恐らくバックパッカー系）に人気らしい旅館　観月＠蒲田。安宿好きの私的には、中々面白い宿だったw
---------
-AUTHOR: Foo Bar
-TITLE: 2011年03月02日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/02/2011 20:43:12
-TAGS: "Movable Type",foo,bar
------
-BODY:
 基本レンタカーで動いていたけど、ミレイ〜旅館は電車に乗った。子の初電車は東京急行電鉄池上線という、中々マニアックな事になってしまった。。実は私もヤマザキも、ごく微量に鉄分が入っているんだけど（つまり鉄道マニア）、子はどうなるだろうか。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年03月02日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/02/2011 21:11:36
-TAGS: "Movable Type",foo,bar
------
-BODY:
 ついでに飛行機でオムツ替え情報。子ってば、出発したと同時に●しやがったんだよね・・orz。トイレの棚？の所に毛布を敷いてオムツ替えスペースを用意してくれるんだけど、７０cmの子がギリギリ寝かせられる位。私には高すぎで、しかも子は横向き。ものすごく替え辛かった。。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年03月02日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/02/2011 21:16:35
-TAGS: "Movable Type",foo,bar
------
-BODY:
 しかし、パンツタイプ場合はどうするんだ・・・？狭いので子と親がトイレの中で立っていては無理だろう。便器の蓋の上に立たせるとか？あ、親が便器に座って、子を立たせるのか？？まぁ、飛行機の時は、しっかり自立するまでは、テープタイプが良いだろうな。ハイハイ用パンツタイプは危険。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年03月03日 
+TITLE: 2011年03月03日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -4169,65 +3035,20 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 ヤマザキの最初の愛読書を譲り受けた。猫…そして博士…！ヤマザキの将来を暗示しているかのようだww
- http://twitpic.com/45jy82
---------
-AUTHOR: Foo Bar
-TITLE: 2011年03月03日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/03/2011 11:30:18
-TAGS: "Movable Type",foo,bar
------
-BODY:
-初節句のお祝い。私はものすごく無精者なので人形は無理！とはいえ、何も無いのも寂しいので、プレートにしてもらった。これならば、毎年出すと約束できる。子が一人暮らしを始めても、持って... 
+ <img src="https://zacky1972.github.io/tw_diary_images/251193602.jpg"></img>
+
+初節句のお祝い。私はものすごく無精者なので人形は無理！とはいえ、何も無いのも寂しいので、プレートにしてもらった。これならば、毎年出すと約束できる。子が一人暮らしを始めても、持って...
 <img src="https://zacky1972.github.io/tw_diary_images/twitpic.com_45mk9n.JPEG"></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年03月03日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/03/2011 11:48:59
-TAGS: "Movable Type",foo,bar
------
-BODY:
-出産祝いに頂いたお膳。やはり食マニアとして、ここはコダワリどころか w子はこの山盛り鯛飯を完食し、豆腐と炊き合わせと蛤椀を食べ、アラレを三杯食べた所でストップをかけたが不満顔…。... 
+出産祝いに頂いたお膳。やはり食マニアとして、ここはコダワリどころか w子はこの山盛り鯛飯を完食し、豆腐と炊き合わせと蛤椀を食べ、アラレを三杯食べた所でストップをかけたが不満顔…。...
 <img src="https://zacky1972.github.io/tw_diary_images/twitpic.com_45mq0u.JPEG"></img>
 
+コスプレ好きなのでw夏用の浴衣ドレスと七五三用の被布を転用。それらしく見える…かな?被布は大きかったので、肩を縫い縮めて、丈をセロハンテープでとめてみたww
+<img src="https://zacky1972.github.io/tw_diary_images/251337043.jpg"></img>
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年03月03日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/03/2011 12:21:36
-TAGS: "Movable Type",foo,bar
------
-BODY:
-コスプレ好きなのでw夏用の浴衣ドレスと七五三用の被布を転用。それらしく見える…かな?被布は大きかったので、肩を縫い縮めて、丈をセロハンテープでとめてみたww
- http://twitpic.com/45n0wj
---------
-AUTHOR: Foo Bar
-TITLE: 2011年03月04日 
+TITLE: 2011年03月04日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -4241,45 +3062,15 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子が伝え歩きしたー！！べビーベッドの柵に掴まって5歩くらい。なんだかご馳走の翌日に、目覚ましい進歩を遂げる気がする。。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年03月04日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/04/2011 05:30:12
-TAGS: "Movable Type",foo,bar
------
-BODY:
-昼から熱が出たとの事でお迎えに。初の熱発！昨日からなんか機嫌が悪かったんだよね…。目は潤み、鼻水とヨダレをたらし、とても熱っぽい顔。帰ったらポテッと寝てしまった。風邪かなぁ。ここ... 
+昼から熱が出たとの事でお迎えに。初の熱発！昨日からなんか機嫌が悪かったんだよね…。目は潤み、鼻水とヨダレをたらし、とても熱っぽい顔。帰ったらポテッと寝てしまった。風邪かなぁ。ここ...
 <img src="https://zacky1972.github.io/tw_diary_images/twitpic.com_45w532.JPEG"></img>
 
+子の熱は38度ちょっとのまま。顔が赤いものの機嫌も良いし、食欲もあってうどん1/2玉を平らげた。だからヤマザキ、安心して飲み会行ってきていいぞ〜
+<img src="https://zacky1972.github.io/tw_diary_images/251856809.jpg"></img>
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年03月04日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/04/2011 10:28:49
-TAGS: "Movable Type",foo,bar
------
-BODY:
-子の熱は38度ちょっとのまま。顔が赤いものの機嫌も良いし、食欲もあってうどん1/2玉を平らげた。だからヤマザキ、安心して飲み会行ってきていいぞ〜
- http://twitpic.com/45y5yh
---------
-AUTHOR: Foo Bar
-TITLE: 2011年03月05日 
+TITLE: 2011年03月05日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -4293,26 +3084,13 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 今朝はヤマザキが朝のお世話担当だったんだが、子はどうも機嫌が悪い。要求が通らないとすぐに怒り、中々怒りが収まらぬ様子。熱は下がったものの、治りかけが一番機嫌が悪いというからな。。「ごめんね・・・生まれつき気が利かなくて・・・」と子に謝っているヤマザキ面白すぎww
---------
-AUTHOR: Foo Bar
-TITLE: 2011年03月05日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/05/2011 06:28:30
-TAGS: "Movable Type",foo,bar
------
-BODY:
+
 子が保育園でブロックを組もうとしていると聞き、コップ重ねとレゴを買ってきた。ところで、レゴのパーツを全て組み合わせたらこうなったんだがww
- http://twitpic.com/469ukt
+<img src="https://zacky1972.github.io/tw_diary_images/252401933.jpg"></img>
+
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年03月06日 
+TITLE: 2011年03月06日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -4328,7 +3106,7 @@ BODY:
 ヤマザキがiPhoneに「ドラえもんのフリックマシーン」を入れたので試してみる。フリック入力、悪くないかも。コレで慣れておいて、ドコモでiPhoneが出たら買い替えても良いなぁ。・・・４年後位に！iPad２がフリック入力対応なら、母に買っても良いのになー。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年03月08日 
+TITLE: 2011年03月08日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -4342,41 +3120,11 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 最近になってやっと食生活が元に戻ってきた。そこまで手抜きでないゴハンと、それに合わせたお酒。今日はイオンの北海道産特売フィレステーキ肉をしっかり自家熟成させたのと、安旨ボルドーが見当たらなかったのでカンポチェーニ。ヤマザキが、夫を酔わせてどうするつもり、って位に酔っぱらってる。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年03月08日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/08/2011 18:35:45
-TAGS: "Movable Type",foo,bar
------
-BODY:
 ちょっと疲れてたので１０時に寝たら、３時半に起きてしまった・・・orz。こんな時間に目がパッチリ覚めてしまって、どうしよう。。パソコンやっちゃ寝れなくなるとは解ってるんだけど・・・。そもそも枕元に置いてあるのが悪いんだよね( ´・ω・`)
---------
-AUTHOR: Foo Bar
-TITLE: 2011年03月08日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/08/2011 18:40:35
-TAGS: "Movable Type",foo,bar
------
-BODY:
 そういえば夜中に授乳していた時は、それで目が覚めて寝れなくなる事ってあまり無かったなぁ。泣き声を聞いて起きるんだけど、半覚醒って感じだった。それどころじゃなく疲れてるっていうのもあるんだろうけど、ホルモンの影響もあるんだろうな。人体の不思議。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年03月09日 
+TITLE: 2011年03月09日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -4390,27 +3138,13 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 イシカワから頂いたショッカー服。カワイイ…(´д｀)。一応合わせてレッグウォーマー買ってきたんだが、やはり黒タイツの方が良かっただろうか。
- http://twitpic.com/47oknd
---------
-AUTHOR: Foo Bar
-TITLE: 2011年03月09日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/09/2011 04:41:17
-TAGS: "Movable Type",foo,bar
------
-BODY:
+<img src="https://zacky1972.github.io/tw_diary_images/254768521.jpg"></img>
+
 なんとかポーズをとらせようとするが、なかなか難しい。この服、ちょっと工夫すれば、クラウザーたんにもなれそうだな。。股が星形に赤い黒タイツとか…売ってないだろうな。。
- http://twitpic.com/47olr9
+<img src="https://zacky1972.github.io/tw_diary_images/254769957.jpg"></img>
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年03月11日 
+TITLE: 2011年03月11日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -4424,57 +3158,12 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 昨日で子は11ヶ月。とうとう、延ばしのばしにしていた３回食・・・つまり、お弁当スタート。とはいえ、冷凍しているオカズとご飯のタッパーを持たせるだけなんだけどね。。パンやレトルトも時々利用しつつ、気軽に行こう。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年03月11日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/11/2011 03:57:50
-TAGS: "Movable Type",foo,bar
------
-BODY:
 色々悩んだけど、秋くらいまでは保育園に転園せずに、家庭保育員さんにお願いする事にした。家庭的な雰囲気の中で、本当に良くして頂いている。あと給食さえあれば・・・近くの保育園から分けてもらえないものか・・・とも思うけど、保育料が割安な分、がんばろうじゃないか(｀・ω・´)ｼｬｷｰﾝ
---------
-AUTHOR: Foo Bar
-TITLE: 2011年03月11日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/11/2011 04:14:01
-TAGS: "Movable Type",foo,bar
------
-BODY:
 オガワからFacebookの友達リクエストが来たー♪これを機にFacebookとtwitterを連携させようと試みている。しかし、Facebookの友達の見つけ方が良く解らん！イシカワも見つけられず！！
---------
-AUTHOR: Foo Bar
-TITLE: 2011年03月11日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/11/2011 10:51:52
-TAGS: "Movable Type",foo,bar
------
-BODY:
 グッタリと確定申告していたら、母とヤマザキから地震のニュースが。東京も結構揺れたみたいね。。皆、大丈夫かな。。鶴見のヤマザキ両親は連絡が取れないらしい。携帯を持たない派なので、普段から連絡が取り難いらしいのだけど。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年03月14日 
+TITLE: 2011年03月14日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -4488,44 +3177,11 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 ＠福岡の運送会社。水・軽油・簡易トイレなどの運送問合わせが来ている。軽油はドラム缶で1000L未満であれば届出無しで運べるとの事を消防署に問い合わせて確認した。小分けして積み合せ輸送になりそう。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年03月14日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/14/2011 05:09:46
-TAGS: "Movable Type",foo,bar
------
-BODY:
 軽油は1000L以上の場合、トラック前後に危険物マークの掲示と消化設備（消火器でOK）があれば運べるとの事。一気に運べそう。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年03月14日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/14/2011 06:31:31
-TAGS: "Movable Type",foo,bar
------
-BODY:
-そうそう、こういうサービスをもっと早期から欲しかった。
-<img src=""></img>
--finder.appspot.com/?lang=ja
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年03月15日 
+TITLE: 2011年03月15日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -4541,7 +3197,7 @@ BODY:
 福島以北に救援物資を運ぶ場合は、警察署で緊急車輌の許可証が発行してもらえるとの事。しかし、茨城・栃木には、東京から下道でいくしかないらしい。ガソリン・軽油が無く、物流が混乱しているとの情報も。何とかならないのかな。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年03月16日 
+TITLE: 2011年03月16日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -4557,7 +3213,7 @@ BODY:
 為替がすごい事に・・・！！大災害時にはこういう動きをするんだ。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年03月17日 
+TITLE: 2011年03月17日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -4571,57 +3227,12 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子が熱を出した。昨日から妙に機嫌が悪いなぁと思っていたが、やはり風邪か。。背中を擦り付けるような仕草をしたので、ひょっとして乾燥した所が痒いのか？と病院でステロイドまで貰ったのだけど、違ったらしい。不調を詳しく訴えられない赤子が病気になると大変だなぁ。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年03月17日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/17/2011 12:54:08
-TAGS: "Movable Type",foo,bar
------
-BODY:
 病院に行き、抗生剤や痰が切れる薬などを貰う。食欲はバッチリあって、薬もゼリーでペロリと飲んでしまった。昨日は咳が出て寝辛そうだったけど、今晩は良く眠れると良いな。初めて買い置きしていた氷枕も出してみた。熱を出していつもと様子が違う子も、中々カワイイかもしれない。（まだ余裕アリ？）
---------
-AUTHOR: Foo Bar
-TITLE: 2011年03月17日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/17/2011 12:58:31
-TAGS: "Movable Type",foo,bar
------
-BODY:
 病院で子を抱きかかえる時、つい、「よいしょ！」と言うと、子がハッキリとした発音で「ォイショ！」と言って驚いた。子を抱えて立ったりする度に言いまくる。。・・・いつの間に覚えたんだ！！つーか、私ってば、そんなに普段よいしょ！って言ってるのかな。。orz
---------
-AUTHOR: Foo Bar
-TITLE: 2011年03月17日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/17/2011 13:07:36
-TAGS: "Movable Type",foo,bar
------
-BODY:
 言葉と言えば、食後に手を合わせて「○×□●・・マシュ・・タ！」と口走るようになった。保育園では、他の子が上着を着せられたりして帰ろうとしだすと、「バイバーイ」と言い始めるらしい。あと、ヤマザキが「ねむれよいこー・・・よ？」とハズして歌うと大ウケする。色々解ってきてるんだなぁ。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年03月18日 
+TITLE: 2011年03月18日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -4635,25 +3246,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 今回のGoogle Person Finderの実績があれば、もしまた大きな災害があったとしても、電話回線が混乱する危険が少なくなるかもしれない。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年03月18日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/18/2011 03:52:29
-TAGS: "Movable Type",foo,bar
------
-BODY:
 子が保育園を休み、ヤマザキは出張なので、私が会社を休んで看病中。子が寝てヒマになったので、昨日見かけたGoogle Person Finderのボランティアでも・・・と思ったら、もう全部終わってるー！！コメント見ると、皆さん争うようにやっている。すごいや。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年03月19日 
+TITLE: 2011年03月19日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -4666,13 +3262,11 @@ DATE: 03/19/2011 00:54:06
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-私、このロシア人パイロットの飛行機乗った事あるや。。機長紹介でザ・ロシア人みたいな名前がアナウンスされ、「はい？」と思った。「原発理由に乗務拒否で欠航便」 
-<img src=""></img>
- #yjfc_airlines （航空業界）
+私、このロシア人パイロットの飛行機乗った事あるや。。機長紹介でザ・ロシア人みたいな名前がアナウンスされ、「はい？」と思った。「原発理由に乗務拒否で欠航便」 #yjfc_airlines （航空業界）
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年03月21日 
+TITLE: 2011年03月21日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -4686,41 +3280,11 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子はョイショ！ョイショ！と言いながら立ち上がり、一瞬両手を離して手を叩いてみたりしている。もうすぐ一人で立ちそうだな。ヤマザキだ抱っこすると、「ッチ！ィッチ！」とスイッチを押させろ！とせがむらしい。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年03月21日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/21/2011 01:38:37
-TAGS: "Movable Type",foo,bar
------
-BODY:
 ゼリーに包まれていても薬は不味いという事に気付いたらしく、口を真一文字に結んで拒否するようになってしまった。。仕方なくヤマザキが押さえつけ、私が口に放り込むが、かなり親子共にストレスが溜まる。何とかならないものか・・・
---------
-AUTHOR: Foo Bar
-TITLE: 2011年03月21日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/21/2011 13:48:54
-TAGS: "Movable Type",foo,bar
------
-BODY:
 なぬぅ・・・薬を水で溶いたら、ストローでチューチュー飲みおった。。今までの苦労はいったい・・・orz
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年03月22日 
+TITLE: 2011年03月22日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -4736,7 +3300,7 @@ BODY:
 ウェザーニュースのHPを開いたら、桜情報が消えている事に気付いた。自粛ムードというよりは、中の人がそれどころじゃ無いんだろうな・・・。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年03月23日 
+TITLE: 2011年03月23日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -4752,7 +3316,7 @@ BODY:
 ぎゃー！！今日はヤマザキ、明日は私が飲み会で、スケジュールが上手く噛みあった♪と思っていたら、私の飲み会今日だったーー！しかし母が留守番に来てくれる事になって、事なきを得る。。良かった。。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年03月24日 
+TITLE: 2011年03月24日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -4768,7 +3332,7 @@ BODY:
 昨日は全く事なきを得ず。。子が夕方に熟睡しちゃうもんだから時間が押して、ご飯を慌てて食べさせて直ぐにお風呂に入れたら、まさかの嘔吐！！私はもう出発してしまっていて、ヤマザキが飲み会を欠席して対応してくれた。。本当にスマン・・・折角だから楽しんでおいで～って・・・良い人すぐる。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年03月25日 
+TITLE: 2011年03月25日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -4782,28 +3346,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 好物のうなぎ雑炊を、食べる意欲は見せるものの一口食べる度に泣く子。。これは、、喉か口か痛いのでは・・・？と病院へ。案の定、喉が真っ赤っかで、これから熱も出るかもと、今日は保育園をお休み。しばらく連休続きだーはははー。
+ちなみに鰻は昨日の出前した物。小倉店に比べると劣るかもしれないけど、十二分に美味しい。そして出前圏内！ゴハン作るのも嫌なくらい疲れて、しかも美味しい物を食べないと心が折れそうな時のとっておき〜[食べログ] 黒崎田舎庵 日日屋
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年03月25日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/25/2011 07:46:37
-TAGS: "Movable Type",foo,bar
------
-BODY:
-ちなみに鰻は昨日の出前した物。小倉店に比べると劣るかもしれないけど、十二分に美味しい。そして出前圏内！ゴハン作るのも嫌なくらい疲れて、しかも美味しい物を食べないと心が折れそうな時のとっておき〜[食べログ] 黒崎田舎庵 日日屋 
-<img src=""></img>
-
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年03月26日 
+TITLE: 2011年03月26日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -4819,7 +3365,7 @@ BODY:
 子は風邪の時は寝っぱなし。よもや死んでなかろうな・・・と不安になるほど。。こんなに寝てしまっては夜は寝ないんじゃないかと思ったが、昨夜もグッスリだった。気管支拡張のシール薬と加湿器が効いているらしい。はやく良くなれー
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年03月30日 
+TITLE: 2011年03月30日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -4833,25 +3379,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子はこの二日、夜に熱を出してグズっている。昨日はヤマザキと交代で子供部屋に泊まりこみ、夜を徹して看病。。病院に行ったところ、風邪が長引いているのではなく、３種の風邪に立て続けに感染しているっぽいorz。。免疫がきれるとは、こういうことなのか・・・
---------
-AUTHOR: Foo Bar
-TITLE: 2011年03月30日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/30/2011 05:49:13
-TAGS: "Movable Type",foo,bar
------
-BODY:
 昼間は元気で食欲もあり、熱もそこまで上がらないので、保育園が預りOKを出してくれて助かっている。明日からは保育園の春休みでヤマザキが有給とっているので、なんとか持ち堪えてくれ・・・
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年03月31日 
+TITLE: 2011年03月31日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -4865,44 +3396,11 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子は完全復活！クリーニングのため保育園が木・金と休みで、またもや連休。今日はヤマザキが休んで子守りしてくれたけど、風邪が治って嬉しいのか朝からハイテンションで遊びまくる子に、元気を吸い取られてグッタリしている模様。。風邪を感染され、咳のしすぎで胸が痛いとか・・・か弱いのう・・・
---------
-AUTHOR: Foo Bar
-TITLE: 2011年03月31日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/31/2011 15:27:33
-TAGS: "Movable Type",foo,bar
------
-BODY:
 子の歯が白く濁っているのが気になり、同級生の開業した病院にお邪魔した。虫歯じゃなく歯石という事で、ホッ・・・。しかし歯石が付きやすい体質らしく、、気をつけねば。。怪獣のように泣き叫ぶ子に、手際良く施術する同級生が頼もしかった。ウチでも頑張って、押さえつけてでも磨いてやる！！
+夜は母と焼き鳥。ここは安くて中々美味しく、座敷があって家族連れも多い。子は焼き鳥一本と雑炊を食べてご満悦。プー！と鳴る子供椅子も気に入った模様。[食べログ] 焼とりけん蔵
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年03月31日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/31/2011 15:42:29
-TAGS: "Movable Type",foo,bar
------
-BODY:
-夜は母と焼き鳥。ここは安くて中々美味しく、座敷があって家族連れも多い。子は焼き鳥一本と雑炊を食べてご満悦。プー！と鳴る子供椅子も気に入った模様。[食べログ] 焼とりけん蔵 
-<img src=""></img>
-
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年04月01日 
+TITLE: 2011年04月01日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -4918,7 +3416,7 @@ BODY:
 湯布院に来て温泉三昧。以前は子連れ旅行なんて大変だろうによく行くなぁ…と思ったものだが、違うんだ。。家で何日も退屈に過ごして、子の機嫌が悪くなる方がしんどいんだよ…！！
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年04月02日 
+TITLE: 2011年04月02日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -4932,25 +3430,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 レイトチェックアウトにして、朝風呂&朝寝。。相変わらず、どこも観光しないダラ。金鱗湖の散歩くらいするかな…
---------
-AUTHOR: Foo Bar
-TITLE: 2011年04月02日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 04/02/2011 01:25:53
-TAGS: "Movable Type",foo,bar
------
-BODY:
 和室だと子が寝た後、行動しづらかったので、今回は和洋室にして子を和室に寝せてみた。が、夜中、さすがに違う場所では不安なのか、自分では眠りに戻れず…結局ベッドで添い寝。うーむ、二間続きの和室がベストかな。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年04月03日 
+TITLE: 2011年04月03日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -4964,45 +3447,12 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 テラス席でランチ。食後に庭に放牧。初芝生の感触にご機嫌な様子。背景は由布岳。大盛りミネストローネを完食したせいで子の腹はパンパンw
- http://twitpic.com/4gbqfi
---------
-AUTHOR: Foo Bar
-TITLE: 2011年04月03日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 04/03/2011 09:14:39
-TAGS: "Movable Type",foo,bar
------
-BODY:
+ <img src="https://zacky1972.github.io/tw_diary_images/269286030.jpg"></img>
 今日は下関でワイン会。帰りにまたもや電車を乗り間違う。。これで何回目だ…狐につままれたようなとは正にこのこと…呪われてるのか…
+石釜で焼いたナポリ風のピザ。薄いけどもっちりの感じは中々だけど、欲を言えば淵のボコボコが足りない。ソースたっぷりで味加減もgood。菜の花ソースのオレキエッテや自家製ベーコンのサラダも美味しかった。子連れや犬も歓迎。[食べログ] 檪の丘
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年04月03日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 04/03/2011 11:17:38
-TAGS: "Movable Type",foo,bar
------
-BODY:
-石釜で焼いたナポリ風のピザ。薄いけどもっちりの感じは中々だけど、欲を言えば淵のボコボコが足りない。ソースたっぷりで味加減もgood。菜の花ソースのオレキエッテや自家製ベーコンのサラダも美味しかった。子連れや犬も歓迎。[食べログ] 檪の丘 
-<img src=""></img>
-
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年04月05日 
+TITLE: 2011年04月05日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -5016,25 +3466,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 マール様を車に小一時間ほど置き忘れてた。。ジイ様が孫を車に置き忘れて熱中症で死亡とかいう事件があった・・・ありえん！と思っていたが、・・・ありえるかも・・・orz
---------
-AUTHOR: Foo Bar
-TITLE: 2011年04月05日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 04/05/2011 04:40:42
-TAGS: "Movable Type",foo,bar
------
-BODY:
 お昼休み、城山公園でヤマザキとランチ。ほっともっとだけどね、、初花見。うーむ、まだ満開にはもうすこしかな。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年04月06日 
+TITLE: 2011年04月06日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -5047,29 +3482,13 @@ DATE: 04/06/2011 13:53:48
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-弁当作りにも慣れた…ちゅーか、家での離乳食と一緒。例えば、冷凍した白菜・茸・鶏・うどんに十倍出汁・醤油をかけてパッキング。保育園で水を加えてチンしてもらう。週３までパンやレトルト... 
+弁当作りにも慣れた…ちゅーか、家での離乳食と一緒。例えば、冷凍した白菜・茸・鶏・うどんに十倍出汁・醤油をかけてパッキング。保育園で水を加えてチンしてもらう。週３までパンやレトルト...
 <img src="https://zacky1972.github.io/tw_diary_images/twitpic.com_4hlg8p.JPEG"></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年04月06日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 04/06/2011 14:10:24
-TAGS: "Movable Type",foo,bar
------
-BODY:
 スプーンは置いてて貰えるし、お弁当箱を洗って返して下さるのが大変有難い。これなら何とか6ｹ月頑張れそう。ところで子の食欲がすごく、うどん1/2玉ペロリなんだが、赤子ってこんなに食べるもんなのか？
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年04月08日 
+TITLE: 2011年04月08日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -5085,7 +3504,7 @@ BODY:
 O池＆ピコちゃんと、ウチ一家で韓国料理へ。ピコちゃんと見比べて・・・子の顔がもの凄く大きいという事実に気付き、愕然とする。。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年04月10日 
+TITLE: 2011年04月10日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -5099,41 +3518,11 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 今日で子も一歳。長かったような、あっという間だったような…。子供が苦手な私も、それなりに母らしくなったと思う。アンパンマンだって歌えちゃうんだぜ…！史乃佳ちゃんや、丈夫に、初心者向けか手もかからず育ってくれてありがとう。子供がいるのも悪くないと思わせてくれた、ヤマザキにも感謝。。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年04月10日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 04/10/2011 14:33:16
-TAGS: "Movable Type",foo,bar
------
-BODY:
 実家で誕生パーティーをしてもらった。餅を踏んだり、ケーキを食べたり、御満悦。この日のために一週間前から卵も始めてて、苺の生クリームケーキも難なくクリアしたもよう。初めての甘味にガッついていたw
---------
-AUTHOR: Foo Bar
-TITLE: 2011年04月10日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 04/10/2011 14:39:24
-TAGS: "Movable Type",foo,bar
------
-BODY:
 姪っ子が中学校入学で、セーラー服を着て見せてくれた。思えば姪っ子も産まれた時から知ってるわけで、感慨深い。私もついでに着せて貰ってしまったwだってセーラー服って触った事もないんだものー写真upは自粛ww子はガン見してたが、…覚えてたら嫌だな…最初の記憶が母のコスプレとか…。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年04月11日 
+TITLE: 2011年04月11日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -5149,7 +3538,7 @@ BODY:
 ヤマザキがPS3を借りてきた。TVゲームはPSで止まってた私には…衝撃的な映像！でも、難しいよ、、CRYSIS2。。ヤマザキも下手なので、前に進まない。誰か上手な人がやるのを見たい。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年04月13日 
+TITLE: 2011年04月13日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -5165,7 +3554,7 @@ BODY:
 mixiに動画をUPしたら、「母親らしい声だ！（驚？）」と反響がｗ私だって猫撫で声くらい出せるやい！でも、思えば今まで、他人の子に猫撫で声って出したこと無かったな～。なんというか、可愛さのあまりっていうより、無理にでもテンション上げないとやってられないというか・・・
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年04月15日 
+TITLE: 2011年04月15日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -5178,49 +3567,15 @@ DATE: 04/15/2011 00:51:46
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-昨日はワインセミナーの後、バーで女子会。日付変わるまで飲んだの久しぶり…。柳浦堂にいたTHE☆甘いマスクのオニイサンが独立したお店、ＨＯＲＮ 小倉北区魚町2-6-8 093-53... 
+昨日はワインセミナーの後、バーで女子会。日付変わるまで飲んだの久しぶり…。柳浦堂にいたTHE☆甘いマスクのオニイサンが独立したお店、ＨＯＲＮ 小倉北区魚町2-6-8 093-53...
 <img src="https://zacky1972.github.io/tw_diary_images/twitpic.com_4kxbxz.JPEG"></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年04月15日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 04/15/2011 00:56:52
-TAGS: "Movable Type",foo,bar
------
-BODY:
 ベヘリットを発見してしまった…((((；゜Д゜)))触感が良くて、ちょっぴり欲しくなった。。
- http://twitpic.com/4kxdwj
+<img src="https://zacky1972.github.io/tw_diary_images/277014691.jpg"></img>
+北九州では珍しい札幌ラーメン。小麦の香りが良い自家製ちぢれ麺で、たまに食べたくなる。今日、初挑戦したパーコーもクリスピーで良い。そしてサラダが美味しく、野菜がしっかり食べられるラーメン店。宗像にも二号店が出来たとか。[食べログ] らう家
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年04月15日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 04/15/2011 06:40:50
-TAGS: "Movable Type",foo,bar
------
-BODY:
-北九州では珍しい札幌ラーメン。小麦の香りが良い自家製ちぢれ麺で、たまに食べたくなる。今日、初挑戦したパーコーもクリスピーで良い。そしてサラダが美味しく、野菜がしっかり食べられるラーメン店。宗像にも二号店が出来たとか。[食べログ] らう家 
-<img src=""></img>
-
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年04月16日 
+TITLE: 2011年04月16日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -5234,125 +3589,19 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 今日はヤマザキに子を任せて、初博多阪急へ出発！しかし特急が行ったばかりで20分待ち…コンビニで猫マンガに夢中になってたら乗り損ねて更に20分待ち…なにやってるんだ(o&gt;ω&lt;o)
---------
-AUTHOR: Foo Bar
-TITLE: 2011年04月16日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 04/16/2011 19:09:16
-TAGS: "Movable Type",foo,bar
------
-BODY:
-博多駅に着いたら、くうてんに直行。どこも行列！こんなに人が多いとこ久しぶりに来たな。。友達オススメの店に10分程度並んで入店。で、とりあえずほろ酔いセット(笑)。昼間から一人飲み... 
+博多駅に着いたら、くうてんに直行。どこも行列！こんなに人が多いとこ久しぶりに来たな。。友達オススメの店に10分程度並んで入店。で、とりあえずほろ酔いセット(笑)。昼間から一人飲み...
 <img src="https://zacky1972.github.io/tw_diary_images/twitpic.com_4loemy.JPEG"></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年04月16日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 04/16/2011 19:32:10
-TAGS: "Movable Type",foo,bar
------
-BODY:
 小鉢三種とビールで1000円はお得だな〜。親子丼も、かなり甘い九州味だけど、半熟系で中々美味しかった。こういう場所でこのレベルの味ならアリだと思う。その名も、かしわ屋源次郎。
- http://twitpic.com/4loo2h
---------
-AUTHOR: Foo Bar
-TITLE: 2011年04月16日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 04/16/2011 19:56:02
-TAGS: "Movable Type",foo,bar
------
-BODY:
+ <img src="https://zacky1972.github.io/tw_diary_images/278287577.jpg"></img>
 Tsumori chisato で大人買い。。だってーここ二年、ロクに服買ってなかったんだものー。メルヘンなここの服、子連れの今なら着こなせる気がして…！産後にワードローブをオトナ化する計画だったが、、もうちょい先のばし(｡-_-｡)
---------
-AUTHOR: Foo Bar
-TITLE: 2011年04月16日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 04/16/2011 20:10:04
-TAGS: "Movable Type",foo,bar
------
-BODY:
 化粧品購入ついでにアイメイクをしてもらうが、、やっぱりコワイ顔になったよ(＾ｰ^)ノ意外と時間をくって、デパ地下には行けず。。慌ててワイン会場に移動したら、時間間違えてて一時間前に着いてしまった…そういう日もあるさ…
---------
-AUTHOR: Foo Bar
-TITLE: 2011年04月16日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 04/16/2011 20:39:26
-TAGS: "Movable Type",foo,bar
------
-BODY:
 食べ友のフランス食べ歩き報告ワイン会。スライドすごい！いいなー、フランスー。でも今、短期間でフランス行ったら、張り切り過ぎて入院するまで食べ倒しそうでコワイ。。老後にノンビリと行けるといいなぁ。でもその時はあまり食べれなくなってて、若い時に来ていればと後悔するんだろうなぁ。。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年04月16日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 04/16/2011 20:51:56
-TAGS: "Movable Type",foo,bar
------
-BODY:
 会場はアリコヴェール。ここのサラダにはいつも驚かされる。シンプルな野菜料理がすごく美味しい！ここの料理教室、産前に通っとけば良かった。。お土産ワインも、大変美味しゅうございました♪( ´▽｀)
---------
-AUTHOR: Foo Bar
-TITLE: 2011年04月16日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 04/16/2011 20:58:26
-TAGS: "Movable Type",foo,bar
------
-BODY:
 博多駅でバッタリと兄に会うΣ（・□・；）一緒に帰るかと、新幹線のチケット買ってくれた。ラッキー(^з^)-☆しかし、黒崎駅で兄は何処かに消えていった。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年04月17日 
+TITLE: 2011年04月17日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -5366,25 +3615,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 金曜日に保育の先生が、立つのが安定して脇を支えると足を出すのでもうすぐ歩くかも…と言っていたら、、帰ってすぐ私とヤマザキの目の前でトテトテと4歩歩いたー！w(°O°)w
---------
-AUTHOR: Foo Bar
-TITLE: 2011年04月17日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 04/17/2011 11:37:26
-TAGS: "Movable Type",foo,bar
------
-BODY:
 しかし土日はせいぜい一歩…。子は中々慎重なので、安全にゆっくりと座れるようになるまでは封印なのかも。寝返りも、寝返り返りが出来るまではあまりしなかったし。。目下、掴まらずに立てるようになったので、スクワットを訓練中の模様。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年04月19日 
+TITLE: 2011年04月19日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -5398,25 +3632,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 CRYSIS2が全く進まないので、ヤマザキが助っ人の学生さんを連れてきてくれた！初めてするゲームなのに、サクサク進んでいく。。すごいよ、ニュータイプ・・・！もう満足した。コロシはもういいや。あとはAfricaを地道にやろ・・・
---------
-AUTHOR: Foo Bar
-TITLE: 2011年04月19日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 04/19/2011 09:14:30
-TAGS: "Movable Type",foo,bar
------
-BODY:
 せっかく仕事で近くまで行ったのに、またコストコに寄り損ねた…。そのうち休日に子連れで挑戦してみようかな。実は子連れで買い物って、数える程しか経験がない。。飲食店にはよく連れて行くのだけど。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年04月20日 
+TITLE: 2011年04月20日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -5429,32 +3648,11 @@ DATE: 04/20/2011 00:57:49
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-O池と子無しディナー。馬ホホ煮込み、牛より繊維が細かくて美味しい。鉄分が多そうな味で、O池の貧血に効くと良いのぅ。あっという間に時間が経ってて、４時間ちょっとも喋っていてビックリ。。[食べログ] フレンチ食堂 pot・au・feu 
-<img src=""></img>
-
-
+O池と子無しディナー。馬ホホ煮込み、牛より繊維が細かくて美味しい。鉄分が多そうな味で、O池の貧血に効くと良いのぅ。あっという間に時間が経ってて、４時間ちょっとも喋っていてビックリ。。[食べログ] フレンチ食堂 pot・au・feu
+IKEA楽しみ～♪外国人が起工式をする姿にちょっと和んだ。。イケア　九州初進出　家具販売競争に拍車　低価格、デザイン性も #nishinippon
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年04月20日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 04/20/2011 01:02:05
-TAGS: "Movable Type",foo,bar
------
-BODY:
-IKEA楽しみ～♪外国人が起工式をする姿にちょっと和んだ。。イケア　九州初進出　家具販売競争に拍車　低価格、デザイン性も #nishinippon  
-<img src=""></img>
-
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年04月21日 
+TITLE: 2011年04月21日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -5468,41 +3666,11 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 ムキー！仁が途中までしか録れてない！ヤツのせいだな…リモコンに触って要らん番組を録画するからHDDが満杯に…orz。リモコンにもチャイルドロック欲しいわー。でも母のHDD付きTVでも録ってるから大丈夫♪母のには私が適当に見繕って録画するんだけど、仁はそれなりに気に入っている模様。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年04月21日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 04/21/2011 14:15:26
-TAGS: "Movable Type",foo,bar
------
-BODY:
 子はベランダに出るのがマイブームらしく、「アッチ」と指差して催促する。今朝は「アッチーアッチーアッチッチー♪」と歌っていて可愛かった。暖かくなってきたし、そろそろ夕方に公園とか連れて行った方が良いのかなぁ。メンドクサイけど、最近夕方機嫌が悪いし、騒がれるよりはマシか。。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年04月21日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 04/21/2011 14:20:36
-TAGS: "Movable Type",foo,bar
------
-BODY:
 ここのところ、毎日のように言葉が増えている。昨日とうとう「まぁ~まぁ~」と言った！もちろんマール(猫)にww私？まだ何とも呼ばれてない(｡-_-｡)別にカマワナイ
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年04月22日 
+TITLE: 2011年04月22日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -5515,32 +3683,14 @@ DATE: 04/22/2011 16:19:36
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-ちょっと過ぎたが一歳の写真撮影に。機嫌が悪く大変だったが、何とか頑張ってくれた。…やっぱり着ぐるみバージョンも撮りに行こうかな。。こうして金が飛んで行く～   みんなの誕生日♪ 
-<img src=""></img>
+ちょっと過ぎたが一歳の写真撮影に。機嫌が悪く大変だったが、何とか頑張ってくれた。…やっぱり着ぐるみバージョンも撮りに行こうかな。。こうして金が飛んで行く～   みんなの誕生日♪
+<img src="https://zacky1972.github.io/tw_diary_images/20110422_1785728.jpg"></img>
+<img src="https://zacky1972.github.io/tw_diary_images/20110422_1785727.jpg"></img>
 
-
+撮影後、ちょっと足をのばして中華へ。早い時間から空いていて、座敷・子供椅子アリ、しかもフローリングで子の食べこぼしも安心。料理も安定して美味しく、子もガツガツと食べていた。香港行っても安心…ちゅーか肥りそう…[食べログ] 中国料理 張華亭
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年04月22日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 04/22/2011 23:19:26
-TAGS: "Movable Type",foo,bar
------
-BODY:
-撮影後、ちょっと足をのばして中華へ。早い時間から空いていて、座敷・子供椅子アリ、しかもフローリングで子の食べこぼしも安心。料理も安定して美味しく、子もガツガツと食べていた。香港行っても安心…ちゅーか肥りそう…[食べログ] 中国料理 張華亭 
-<img src=""></img>
-
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年04月23日 
+TITLE: 2011年04月23日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -5556,7 +3706,7 @@ BODY:
 眠れない…最終手段の美の壺まで見たのに眠れない…どうしよう、流石に二日連続で使い物にならないわけには…
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年04月24日 
+TITLE: 2011年04月24日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -5569,13 +3719,10 @@ DATE: 04/24/2011 00:33:19
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-ワインセミナーの仲間と持ち込みワインとアラカルト一杯というワガママ企画。ほぼ貸切だから！と誘われ、一家でお邪魔した。子のガツガツ食べる事…！ヤマザキも久しぶりのワイン会にいたく満足した様子。[食べログ] フレンチ食堂 pot・au・feu 
-<img src=""></img>
-
-
+ワインセミナーの仲間と持ち込みワインとアラカルト一杯というワガママ企画。ほぼ貸切だから！と誘われ、一家でお邪魔した。子のガツガツ食べる事…！ヤマザキも久しぶりのワイン会にいたく満足した様子。[食べログ] フレンチ食堂 pot・au・feu
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年04月28日 
+TITLE: 2011年04月28日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -5588,29 +3735,12 @@ DATE: 04/28/2011 05:51:39
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-子は玩具「やりたい放題」の鍵を指すのが大好き。出来たら超得意顔。飛行機の退屈対策に、鍵部分だけのおもちゃ？を探し当てた！これで一時間はもつね！！　おしゃれなプラスチック鍵　ミルキーチャーム #superdelivery 
-<img src=""></img>
+子は玩具「やりたい放題」の鍵を指すのが大好き。出来たら超得意顔。飛行機の退屈対策に、鍵部分だけのおもちゃ？を探し当てた！これで一時間はもつね！！　おしゃれなプラスチック鍵　ミルキーチャーム #superdelivery
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年04月28日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 04/28/2011 14:49:02
-TAGS: "Movable Type",foo,bar
------
-BODY:
 前日に旅行の準備が終わるなんて…快挙だ…！
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年05月01日 
+TITLE: 2011年05月01日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -5624,57 +3754,12 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 香港なう．出発当日朝にトランクが閉まらない事に気づいたり，事故渋滞にあったりとトラブルあったが何とか出国．今回はマイルでタダ飛行機♪ビジネスクラス＆バシネット＆レジャーシートで子連れでも超ラクチン！
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月01日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/01/2011 05:14:34
-TAGS: "Movable Type",foo,bar
------
-BODY:
 浮いたお金でスイートルーム＆ベビーシッター．こんな贅沢，もうしませんから・・・バチが当たりませんように．．
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月01日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/01/2011 06:36:26
-TAGS: "Movable Type",foo,bar
------
-BODY:
 子は中華料理が気に入ったらしく，ものすごく良く食べる．今日の昼は牛肉粥をほぼ一人前平らげた．お腹が重くて立つのも歩くのもヨタヨタ，はいはいしてもつんのめって顔から転んでいた．．
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月01日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/01/2011 09:01:38
-TAGS: "Movable Type",foo,bar
------
-BODY:
 来てからずっと曇って肌寒かったけど，今日は結構気温が上がったのでプールに浸かってみる．水槽みたいに一面が透明になっているプールで，水中から摩天楼が見えて面白い．子も足を浸けたり水たまりを歩いたりと楽しそう．ヤマザキの泳ぐ姿を横から見せると，冷ややかな顔をしていた．
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年05月02日 
+TITLE: 2011年05月02日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -5688,57 +3773,12 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 遠出して赤柱市場へ．噂通りcarter'sやbabyGAPのタグ切れがいっぱーい！でも１８monthまでが殆どで，２・３年分買い込むつもりが今冬まで位のしか買えず・・・産前に来て買い込むべきだったか・・・
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月02日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/02/2011 01:43:59
-TAGS: "Movable Type",foo,bar
------
-BODY:
 食べ友の教えてくれた新斗記に二夜連続で通う．一日目も良かったけど，満を持して子を置いていった二日目の素晴らしい事！食べ過ぎて動けなくなったの，久しぶり・・・．福臨門と比べるとちょっとワイルドな味で，現地ちっくな風味がステキ．次は大人数で行きたいな〜
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月02日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/02/2011 15:26:22
-TAGS: "Movable Type",foo,bar
------
-BODY:
 今晩は食べ友＆その香港在住の知人と合流して利苑．・・・美味しすぎる！！すごいよ，現地人プロデュースの隙の無いメニュー構成！そして大人数で行ったせいかコスパ良すぎ！幸せ・・・．帰りはスターフェリーに乗って，香港にもサヨナラ気分．さみしい．．
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月02日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/02/2011 15:31:07
-TAGS: "Movable Type",foo,bar
------
-BODY:
 乗り物といえば，昨日はオープントップバスツアーに参加した．今は食事抜きのツアーがあるので参加しやすい．ダラなので滅多に観光ってしないんだけど，実は乗り物マニアなので一度乗ってみたかったのだw小一時間で２００香港㌦と割高だけど，意外とオススメ．
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年05月05日 
+TITLE: 2011年05月05日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -5752,188 +3792,20 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 昨日の夜に帰ってきて今日は休息…のつもりが、友人とポトフで昼酒飲んで、またもや胃を酷使。。明日からしばらく粗食にせねば。あー、良いGWだったなーー
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月05日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/05/2011 11:38:57
-TAGS: "Movable Type",foo,bar
------
-BODY:
 ストップオーバーで一泊した台北もすごく楽しかった！しかし反省点が一つ…タクシー乗り場探すのが面倒になって、桃園空港から白タク値切って乗ってしまった。。子連れのする事じゃなかったよな…。良い人で問題なく着いたから良かったけど。。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月05日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/05/2011 12:19:48
-TAGS: "Movable Type",foo,bar
------
-BODY:
 ホテル近くの台湾料理が大ヒット！料理人のお姉さんが日本語が喋れて超cute♡もちろん料理も美味しい！隣のグループと仲良くなって乾杯の嵐。ヤマザキも調子に乗って紹興酒イッキでフラフラに…でも楽しかった～「田園 」
-<img src=""></img>
-
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月05日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/05/2011 12:32:26
-TAGS: "Movable Type",foo,bar
------
-BODY:
 その人達に義援金の御礼も言っておいてみた。誰かには言いたいと思っていたんだ。ホントに親日の国なんだよな～。いや、日本人に対してだけじゃなく、良い人が多そうな気がする。他にも色々な事からそう感じた。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月05日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/05/2011 12:50:25
-TAGS: "Movable Type",foo,bar
------
-BODY:
 故宮博物院にオープンと同時に二日酔いのまま入場。空いてる内にじっくり鑑賞できた。盗み聞きしたガイドさんの話によると、象牙多層球は売るためではなく、親子三代に渡って暇つぶしとして作ったとか…翠玉白菜は色が混じった部分の玉の廃品利用とか…それホントなの？？とにかくスゴイお宝の山！！
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月05日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/05/2011 13:07:52
-TAGS: "Movable Type",foo,bar
------
-BODY:
 一度は行ってみねばと、鼎泰豊本店へ。ふむ、美味しい。が、私は上海の佳家湯包の方が好きだな。ついでに近くの永康牛肉麺食べたら、流石に胃がストライキ…。そらそうだよ…連日二人で5〜6皿(四人前以上)中華を食べ続けたんだもの…。二日酔いでなければマンゴーカキ氷までいけたんだが。。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月05日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/05/2011 13:16:31
-TAGS: "Movable Type",foo,bar
------
-BODY:
 帰りの飛行機での惨事。子に小豆を与えたら、喉に詰まらせて咳込み、ケロケロケ～とリバース。。幸い子のズボン以外誰の服にもかからず、汚れた座席も素早く交換してくれて(座面が外れて予備もあるとは知らなんだ…)、通路を挟んで座っていたヤマザキも気づかない程、秘密裏に処理されたのであった。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月05日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/05/2011 13:36:56
-TAGS: "Movable Type",foo,bar
------
-BODY:
 旅行中のベビーシッターについて解説。香港も台北も¥7〜800/ hと格安。ホテルによると思うけど、ハーバーグランド九龍とハワードプラザ台北は、子育て経験豊富なホテル従業員がバイトしてくれるみたいだった。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月05日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/05/2011 13:50:12
-TAGS: "Movable Type",foo,bar
------
-BODY:
 8時〜23時まで部屋に常駐してもらい、ご飯やオムツ交換を手伝ってもらったり、遊んでもらったり、散歩してもらったり。もちろん私達も相手をするけど、負担が全然違う！夜は私達がお風呂に入れ、寝かしつけた後に外食に出る。シッターは40 歳前後だけど、おばあちゃんをレンタルしたイメージw
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月05日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/05/2011 13:57:40
-TAGS: "Movable Type",foo,bar
------
-BODY:
 子がシッターに一度だけ大泣きしたのは、ご飯の途中でオムツ替えをしてしまったから。ものすごい食いしん坊で、食事の中断を何より嫌うのを伝え忘れていたよ。。今までにない位、30分近くも泣き続け、しゃくり上げてご飯が食べれずまた激怒の悪循環…。他はいっぱい遊んでもらって甚くご機嫌だった。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月05日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/05/2011 14:06:34
-TAGS: "Movable Type",foo,bar
------
-BODY:
 子はシッターさんが良く言う、「Hi!」( 手振り付き)「OK～」を覚えた。しかも結構良い発音w。 しかし帰国後は喋ってくれない…何故なんだ…。ビデオも撮り損ねた。。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月05日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/05/2011 14:17:13
-TAGS: "Movable Type",foo,bar
------
-BODY:
 福岡空港の国際線に車で行く場合は、楽楽パーキングが超オススメ！公式駐車場と同料金でバレットサービスしてくれる。すごく楽だった。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年05月06日 
+TITLE: 2011年05月06日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -5947,28 +3819,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子が超GW中に出来るようになったこと。①トコトコと2,3m歩くようになった。②ソファから自力で降りれるようになった。③コップを持って飲めるようになった。広東料理Powerスゲー
+なんだ、出来るようになってるんじゃん。母にipad2買ってあげようかなー。。  iOS 4.2ではメール機能を大幅強化！　日本語50音キーやユーザー辞書機能で単語登録も!! #asciiplus
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年05月06日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/06/2011 23:29:32
-TAGS: "Movable Type",foo,bar
------
-BODY:
-なんだ、出来るようになってるんじゃん。母にipad2買ってあげようかなー。。  iOS 4.2ではメール機能を大幅強化！　日本語50音キーやユーザー辞書機能で単語登録も!! #asciiplus 
-<img src=""></img>
-
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月07日 
+TITLE: 2011年05月07日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -5982,95 +3836,15 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 救急病院なう。原因不明だが、子が一時間も泣き止まない。。16時まではご機嫌だったのに。何より、ご飯を見せても反応しない。ここ数日夜泣きをするし、今朝ちょっと顔が腫れてるような気もしたので、念のため。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月07日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/07/2011 11:40:51
-TAGS: "Movable Type",foo,bar
------
-BODY:
 どうも、ここ数日便秘気味だったので、お腹が張って苦しかった模様。初浣☆でスッキリしたらしくご機嫌になった。今日は3回も出たからもう大丈夫だと思ったんだけど甘かったらしい。。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月07日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/07/2011 11:44:54
-TAGS: "Movable Type",foo,bar
------
-BODY:
 思えば、去年のGWにも救急に行ったんだっけ…同じくお腹の張りが原因だったな…。今回は早目に夕方に受診したのであまり混んでなくて良かったけど。毎年恒例になりませんように…
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月07日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/07/2011 13:47:45
-TAGS: "Movable Type",foo,bar
------
-BODY:
 ipad2ホワイト予約したぜぃ！いつくるのかなー*･゜ﾟ･*:.｡..｡.:*･'(*ﾟ▽ﾟ*)'･*:.｡. .｡.:*･゜ﾟ･*50 音キーボード試したけど、中々良い。babapadと命名しようw
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月07日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/07/2011 18:54:27
-TAGS: "Movable Type",foo,bar
------
-BODY:
-香港の買い物で1番嬉しかった商品。欲しかったんだけど売り切れだったやつが、なんと約1/3でゲット♡秋にも着れるか微妙なんだが…つい…  アメリカ直輸入　BABY GAP新作☆ [楽天] 
-<img src=""></img>
- #RakutenIchiba
+香港の買い物で1番嬉しかった商品。欲しかったんだけど売り切れだったやつが、なんと約1/3でゲット♡秋にも着れるか微妙なんだが…つい…  アメリカ直輸入　BABY GAP新作☆ [楽天] #RakutenIchiba
+子の旅行中の食事に重宝した商品。部屋の電気ポットで15分ボイル。100gづつ分かれてて便利…だが、時々足りないと暴動が…   はごろも　パパッとライス　やわらかごはん　こしひかり100%　200g [楽天] #RakutenIchiba
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年05月07日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/07/2011 19:09:31
-TAGS: "Movable Type",foo,bar
------
-BODY:
-子の旅行中の食事に重宝した商品。部屋の電気ポットで15分ボイル。100gづつ分かれてて便利…だが、時々足りないと暴動が…   はごろも　パパッとライス　やわらかごはん　こしひかり100%　200g [楽天] 
-<img src=""></img>
- #RakutenIchiba
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月09日 
+TITLE: 2011年05月09日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -6086,7 +3860,7 @@ BODY:
 飯塚市で、男の子が田んぼの中から手榴弾を発見したという地域ニュースが。アナウンサーの「これは全国ニュースにもなりましたが」という前置きに笑ってしまった。うん、ここらじゃ頻発してるけど、普通じゃないよね。ああ…またか…と流しそうになってたw
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年05月11日 
+TITLE: 2011年05月11日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -6102,7 +3876,7 @@ BODY:
 バンボチェアは子供が成長すると抜け出すようになって使えなくなるというが、子は未だ抜け出せない…太ももが太いから…orz。しかし最近、自分で座れるようになった。体をひねり中々器用にすわって、楽しいらしい。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年05月12日 
+TITLE: 2011年05月12日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -6118,7 +3892,7 @@ BODY:
 子の移動手段は完全に「歩く」になった。もうハイハイを全く見せない。ボチボチ靴を履かせて外歩きも・・・と思うけど、靴を履かせると固まってしまうｗ
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年05月14日 
+TITLE: 2011年05月14日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -6131,29 +3905,11 @@ DATE: 05/14/2011 06:17:51
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-今日は涼しくて天気も良くて、一年でBest10に入る気持ち良い気候休日だなぁ。ベビーカーで散歩しつつ、久しぶりに子連れでアクアのランチ。昼のみ子供OK。[食べログ] アクア・ヴィータ 
-<img src=""></img>
-
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月14日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/14/2011 06:24:56
-TAGS: "Movable Type",foo,bar
------
-BODY:
+今日は涼しくて天気も良くて、一年でBest10に入る気持ち良い気候休日だなぁ。ベビーカーで散歩しつつ、久しぶりに子連れでアクアのランチ。昼のみ子供OK。[食べログ] アクア・ヴィータ
 帰りに公園へ。今日は靴で泣かずに立てた。一緒にすべり台を滑ると大喜びw。ついでに児童館デビューも果たす。小学校低学年の女の子がワラワラと寄ってきて遊んでくれた。頭に皿を載せられ、カッパ巻を差し出されて戸惑う子ワロスww
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年05月15日 
+TITLE: 2011年05月15日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -6167,25 +3923,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 公園なう。子め、すっかり外の魅力に取り憑かれおって…。しかしこの公園、父&娘の組み合わせばっかだな～。遊具が豊富だからかな。うちの前のただ広い公園は父&息子に人気の模様。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月15日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/15/2011 01:18:59
-TAGS: "Movable Type",foo,bar
------
-BODY:
 おお、とうとう靴の恐怖心を克服！タカタカ歩き出したー！！
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年05月17日 
+TITLE: 2011年05月17日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -6199,25 +3940,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 駐車場に行くと車が無い！！・・・・昨晩、マッサージ行ってお弁当買って、、そのまま歩いて帰って来ちゃったんだ・・・・orz。。あはは、ハザードつけてたからバッテリーあがってるよん。しかしバス通りに一晩置いて、よく駐禁とられなかったもんだ。。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月17日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/17/2011 16:23:39
-TAGS: "Movable Type",foo,bar
------
-BODY:
 恒例の母の日鮨接待、今年は子連れでもり田さんへ。母…はしゃぎ過ぎだよ…！！まあ楽しそうで何よりなんだけど。次のグループが待っているというのに注文してるし…この食い意地は遺伝か。脈々と…繋がっているのか…
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年05月18日 
+TITLE: 2011年05月18日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -6233,7 +3959,7 @@ BODY:
 車のバッテリー点検&オイル交換なう。待ってる間に松屋の牛丼弁当を持ち込んで食べてるなう。。これって女子的にヤバいのではやいかと…
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年05月20日 
+TITLE: 2011年05月20日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -6247,41 +3973,11 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 そうだ。確かに牛丼はスプーンでは食べにくい。持ち帰り用は、肉を細かく切ってスプーンで食べやすくして、ちょっとパッケージもかわいくすれば、女子にもっと売れるんじゃないかな。。熱々の牛丼ってコンビニ弁当より良いと思うんだけど。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月20日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/20/2011 02:13:00
-TAGS: "Movable Type",foo,bar
------
-BODY:
 はぁ、花粉症が本格的に来たな。目が痒く、とにかくクシャミの連発。クシャミしすぎて喉が痛い～。でも短期間だし大した事ないから毎年放っておいちゃってるんだけど。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月20日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/20/2011 11:55:43
-TAGS: "Movable Type",foo,bar
------
-BODY:
 子がいつの間にかipadを操作して、「火」 をググってWikipediaのページを開いてた。。勝手にiTunesで音楽かけて( これは確信犯っぽい)、踊ったりもする。すごいよ、デジタルネイティブ…
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年05月22日 
+TITLE: 2011年05月22日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -6297,7 +3993,7 @@ BODY:
 ipadでも左右のカーソルキーを表示してテキストが書ける、iA writer というアプリを購入した。やっぱりカーソルあった方が便利だよ！でもこれ、- とか: のボタンを作る位なら、上下のカーソルと、Select All のボタンを作って欲しいんだけど。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年05月23日 
+TITLE: 2011年05月23日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -6311,25 +4007,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 一時は40℃までいったものの、今朝は38℃まで下がり、一安心。機嫌良く遊んでると思えば、ちょっとした事ですぐ怒って大変だけど、元気はよくて食欲もそこそこ。うーむ、一応病院いっとくかなぁ。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月23日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/23/2011 00:49:09
-TAGS: "Movable Type",foo,bar
------
-BODY:
 母から「風邪ひかせちゃったの～！？」と言われてカチンとくる。風邪は誰かが故意ひかせるもんじゃなかろうが、と。突発性発疹も忘れてるくせに何なんだ、と。こういう言い方をする姑は嫌われるだろうな！ψ(｀∇´)ψ
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年05月24日 
+TITLE: 2011年05月24日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -6343,25 +4024,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子は全快し、元気に登園。結局、発疹は出ず・・・単なる夏風邪か？しかし、日曜日の一晩はキツかったわー。心細いのか、私が子供部屋から出ると泣くし・・・、高熱で心配だったし、床で寝たので体がガチガチ。せめてソファのマットレスでも敷くべきだった。。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月24日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/24/2011 06:56:03
-TAGS: "Movable Type",foo,bar
------
-BODY:
 子の寝相、悪すぎ。両足を柵から出してるし・・・でも器用に戻るんだ、これが。ふと目を開けると、子がベビーベッドの隙間からこっちをジーッと見ていて目が合ったｗちゃんと居るか確認していたらしいｗｗまぁ、たまには夜中の様子を観察するのも悪くない。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年05月25日 
+TITLE: 2011年05月25日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -6375,44 +4041,11 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 夕方、公園に子を連れて行くと、ター！っと広場を斜めに突っ切って歩く歩く。もはや小走り状態。手を繋ごうとすると、いらん世話だ！とばかりに振りほどくし。。びよんびよんする遊具に乗せると、一生懸命自分で揺らしていた。よく動かし方解ったな、とちょっと感心。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月25日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/25/2011 04:32:24
-TAGS: "Movable Type",foo,bar
------
-BODY:
 子は最初に２歩ほど歩いて、しばらく技を封印していた。先生が、「史乃佳ちゃんの性格だと、しばらく筋トレに集中して、次に見せるときにはスタスタ歩くかも・・・」と言われていたが、まさにその通りに。香港のシッターさんが両手を持って歩いてくれたのも良い練習だったのかも。海外特訓合宿・・・
+これって強制って事は、何らかの罰則・もしくは追徴課金とかがあるって事？前年同月と比較するんだよね、多分。自主的に節電してる企業が馬鹿を見るような制度じゃなければ良いけど。。【原発】“一律15％削減”節電…病院、鉄道は例外
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年05月25日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/25/2011 06:59:44
-TAGS: "Movable Type",foo,bar
------
-BODY:
-これって強制って事は、何らかの罰則・もしくは追徴課金とかがあるって事？前年同月と比較するんだよね、多分。自主的に節電してる企業が馬鹿を見るような制度じゃなければ良いけど。。【原発】“一律15％削減”節電…病院、鉄道は例外 
-<img src=""></img>
-
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月26日 
+TITLE: 2011年05月26日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -6426,44 +4059,11 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 今日は朝から！ﾍｲﾍｲﾍｲ！　　病院通いさ！！ﾍｲﾍｲﾍｲ！　咳止めのシロップもらったけど、喉の赤みは良くなっている模様。無事に保育園に送り届けられて良かった。。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月26日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/26/2011 05:53:56
-TAGS: "Movable Type",foo,bar
------
-BODY:
 母のipadに無料アプリのpiano　manを入れてみる。中々上手くてビックリ！これなら2オクターブくらい鍵盤があるやつ買っても良いかも。出来れば表示は日本語のやつで。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月26日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/26/2011 06:08:14
-TAGS: "Movable Type",foo,bar
------
-BODY:
 久しぶりに馬乗りたいな～と、近くの若松の乗馬クラブのHPを見たら、衝撃の広告が・・・！
-<img src=""></img>
-
-
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年05月30日 
+TITLE: 2011年05月30日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -6477,57 +4077,12 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子供ってば、病気の治りかけが一番機嫌が悪いらしく、土日は大変だった。。「ヤイヤイ！」と両手を掲げて手をグーパーし、抱っこだの、外に行けだの、何もかも嫌だ！だの、ワガママを言いまくる・・・。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月30日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/30/2011 02:49:14
-TAGS: "Movable Type",foo,bar
------
-BODY:
 ヤマザキは「ヤクザから因縁をつけられているみたいだ・・・」とゲンナリｗでも、土曜は三時間もドライブに連れて行ってくれ、私は朝寝坊を満喫出来た。その代わり日曜日は、家では仕事が出来ないと、会社に行ってしまったが。。こういう時は交代制にしないと、共倒れになるよね。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月30日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/30/2011 02:54:34
-TAGS: "Movable Type",foo,bar
------
-BODY:
 まだお腹を下してるんだけど、保育士さんが「うちで様子をみましょう！」と言ってくれ、助かった～。いやほんと、風邪なのにカワイソウとか思うより、助かった感が物凄くありますよ！保育園で遊んでいると機嫌も良いみたいだしね。。家で子育てしている人、本当に尊敬します。。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月30日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/30/2011 13:51:21
-TAGS: "Movable Type",foo,bar
------
-BODY:
 夕方、子を外に連れて行く時、ウッカリとマール(猫)のリードを子の首にかけてしまったww…疲れてるな……（ーー；）
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年06月02日 
+TITLE: 2011年06月02日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -6541,73 +4096,13 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子の機嫌フル回復！！長かった・・・。今朝は保育園の室内すべり台を得意気にすべって見せてくれた。よじ登って、クルリと方向転換し、ちゃんと足から滑っている。いつの間に・・・！
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月02日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/02/2011 05:55:06
-TAGS: "Movable Type",foo,bar
------
-BODY:
 最近の子のマイブームは、数を数える事。1～２～と、ちゃんと指も出すんだぜ！でも、３以降は宇宙語なんだぜ！！しかし、ピポパポ～みたいな宇宙語って、本当に喋るもんなんだな。バブーって言ったときも驚いたけど。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月02日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/02/2011 05:59:46
-TAGS: "Movable Type",foo,bar
------
-BODY:
 子は本当によく喋る。先生が連絡帳に、「単語だけでなく、二語・三語が出てます！」と書いてきたので、そんなわけあるまい！と先生に問い質すと、長文の宇宙語の事だった。。だ～よ～ね～～。親バカならぬ先生バカｗｗ
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月02日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/02/2011 12:44:30
-TAGS: "Movable Type",foo,bar
------
-BODY:
 友達からTバックをプレゼントされた。詳細な使用感を報告したいのだが、ヤマザキに止められるの巻。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月02日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/02/2011 12:47:13
-TAGS: "Movable Type",foo,bar
------
-BODY:
 TバックのTの字も出してはならんかったのに～とたしなめられるの巻。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年06月03日 
+TITLE: 2011年06月03日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -6623,7 +4118,7 @@ BODY:
 ふひひ…子にネコとウサギの着ぐるみ着せて、写真館で撮影して貰っちゃったw出来上がりがたーのーしーみー♪( ´▽｀)赤子はコスプレにかぎる(￣▽￣)
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年06月04日 
+TITLE: 2011年06月04日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -6636,107 +4131,16 @@ DATE: 06/04/2011 01:09:17
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-iPadから送信
- http://twitpic.com/56kg4u
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月04日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/04/2011 03:37:52
-TAGS: "Movable Type",foo,bar
------
-BODY:
-イマイチipadからtwipicへ送る方法が解らない。。文章は何処に行ったんだ…orzもう私のMac Airは帰ってきそうもないし、そろそろipadもちゃんとメール設定をせねば。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月04日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/04/2011 03:41:07
-TAGS: "Movable Type",foo,bar
------
-BODY:
 かなりノリノリで演奏中。弾き語り…？私が弾くと手を払いのけおる！山下さん、ありがとうございます( ´ ▽ ` )ﾉ
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月04日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/04/2011 07:15:42
-TAGS: "Movable Type",foo,bar
------
-BODY:
+<img src="https://zacky1972.github.io/tw_diary_images/313362606.jpg"></img>
+
 最近、子は食事を自分でフォークを使って食べる事に決めたらしく、手助けをすると非常に怒る。。もちろん最初から上手く食べれるはずもなく、こぼしまくりorz。しかも、肉ばかり選んで食べてるし…。ご飯は海苔で巻いて何とか餌付け成功。カロリー的には十二分そうだが。。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月04日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/04/2011 11:52:09
-TAGS: "Movable Type",foo,bar
------
-BODY:
 ヤマザキと出会って丸7年になるが、毎日二時間は喋って、頻繁にランチも一緒なのに、話は尽きる事がない。しかしその内容はくだらない事も多い。ヤ「最近紅茶入れてないんだよね。。」 私「駄目執事だね」 ヤ「そう、だめひつじ…」 私「ダヨウ？(駄羊)」 ヤ「そうだよう」…orz
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月04日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/04/2011 14:55:17
-TAGS: "Movable Type",foo,bar
------
-BODY:
 ベッドの背もたれに身を委ねつつ、傍らにはワインとチーズ、膝にはipad。しかも足先で猫を撫でる幸せ…(=´∀｀)人(´∀｀=)
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月04日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/04/2011 15:06:18
-TAGS: "Movable Type",foo,bar
------
-BODY:
 レンタル(有効時間アリ)の電子書籍で、オルフェウスの窓を読了。いやー、中々良いね！こういう古いやつ、バシバシ出して欲しいなー。モノが増えるの嫌いなんで本は買わないんだけど、電子書籍なら(そしてデータを保有出来るなら)そこそこお金を出しちゃうかも。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年06月05日 
+TITLE: 2011年06月05日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -6750,25 +4154,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 ベルサイユの薔薇、こんなに面白かったけ…！
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月05日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/05/2011 15:23:57
-TAGS: "Movable Type",foo,bar
------
-BODY:
 子に長袖パジャマを着せて寝せたら、暑かったらしく夜泣きしてしまった。。温度調節むずかしいなぁ…。「アッチ～」と言われるままに、窓を開け放った私のベッドに寝かすと、ニコニコしつつ、ちゃんと枕に頭を合わせて即寝！こんな事始めてだ～。…カワエエじゃないか…(´∀｀=)
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年06月07日 
+TITLE: 2011年06月07日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -6782,57 +4171,12 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 いつもと違う病院でおたふく風邪の予防接種を受けた。素早い注射で子は泣かず！17：15分まで予防接種の受付可能で、保育園を早退しなくて良いのもありがたい。そして夕方はガラ空き。しかも料金がちょっと安いのだ♪
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月07日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/07/2011 01:40:55
-TAGS: "Movable Type",foo,bar
------
-BODY:
 「医師会からは６歳未満は○円・以上は△円（￥3000位安い）と言われてるんですけど、うちは一律△円にしてるんですよ～」と医師が言うと、子が「あい～っと！！（ありがとう）」と叫んで爆笑されたよ・・・。「しっかり聞かれちゃったね～。浮いた分でオモチャ買って貰わないとね～ｗｗ」だと。。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月07日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/07/2011 01:47:51
-TAGS: "Movable Type",foo,bar
------
-BODY:
 昨晩も夜泣き。。しかもあ、深夜2時とか・・・ね・・・orz。また私のベッドに移動させ、予防接種の副反応とかだったら怖いので（そしてものすごく眠くて面倒だったので）朝まで一緒に寝る事にしてみた。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月07日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/07/2011 01:54:43
-TAGS: "Movable Type",foo,bar
------
-BODY:
 そしたら、、子の寝相の悪さにビックリ！！一回立ち上がって、受身を取るように転がり、ベッドの上から下までゴロゴロゴロ～って転がったと思うと・・・寝てる。。かと思うと、ヤマザキを乗り越えつつ枕に向かっていき、行き倒れるように眠ったり・・・。こっちはねーむーれーなーいーー(＠_＠;)
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年06月08日 
+TITLE: 2011年06月08日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -6846,25 +4190,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 はぁ～、マール可愛い～…うちのアラネコガミ(現猫神)であらせられる*･゜ﾟ･*:.｡..｡.:*･'(*ﾟ▽ﾟ*)'･*:.｡. .｡.:*･゜ﾟ･*
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月08日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/08/2011 13:37:39
-TAGS: "Movable Type",foo,bar
------
-BODY:
 祝福を…祝福をくださいませ…！と言って、マールに鼻を舐めて頂くのです。ザリザリで痛いけど、有難い事この上ない…( ´ ▽ ` )
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年06月10日 
+TITLE: 2011年06月10日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -6877,29 +4206,14 @@ DATE: 06/10/2011 12:46:06
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-今日は着ぐるみ写真の選定に行ってきた．アルバムが出来るの楽しみだー！　アトリエ木下八幡西店ブログ 
-<img src=""></img>
+今日は着ぐるみ写真の選定に行ってきた．アルバムが出来るの楽しみだー！　アトリエ木下八幡西店ブログ
+<img src="https://zacky1972.github.io/tw_diary_images/20110610_1851988.jpg"></img>
 
 
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月10日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/10/2011 12:50:08
-TAGS: "Movable Type",foo,bar
------
-BODY:
 ちなみに，この猫の着ぐるみは自前です．思えば，産前に一番最初に購入した赤子用品だ．万一，母性本能が降臨せず，我が子が可愛いと思えなかったらずっと着せて育てようと思ってｗ撮影まで出番が無くて良かったｗｗ
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年06月11日 
+TITLE: 2011年06月11日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -6912,48 +4226,12 @@ DATE: 06/11/2011 09:26:25
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-子にプレートとスプーン＆フォークを購入。こぼしはするが、ほとんど介助無しでカレーを完食出来るように！OXO Tot トレーニングプレート 
-<img src=""></img>
-
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月11日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/11/2011 09:32:08
-TAGS: "Movable Type",foo,bar
------
-BODY:
-散々迷ったが、バンボの次はこの椅子&テーブルで食べさせる事にした。気に入ったらしく、自ら座って食べている。介助無しで食べれるようになってから、一緒にダイニングで食べようかと。 happiness キコリの小いす 
-<img src=""></img>
-
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月11日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/11/2011 09:48:29
-TAGS: "Movable Type",foo,bar
------
-BODY:
+子にプレートとスプーン＆フォークを購入。こぼしはするが、ほとんど介助無しでカレーを完食出来るように！OXO Tot トレーニングプレート
+散々迷ったが、バンボの次はこの椅子&テーブルで食べさせる事にした。気に入ったらしく、自ら座って食べている。介助無しで食べれるようになってから、一緒にダイニングで食べようかと。 happiness キコリの小いす
 コップ重ねを久しぶりにやらせてみたら、「これにこれを重ねて~」と言うとちゃんと理解し、7段重ねに成功！！すごい！ちょっと前までルールも理解出来ず、入れ子にして遊ぶだけだったのに！！
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年06月15日 
+TITLE: 2011年06月15日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -6967,132 +4245,24 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 かなり量を食べるようになったので、子専用のお弁当箱を購入！
- http://twitpic.com/5bpt11
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月15日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/15/2011 03:30:18
-TAGS: "Movable Type",foo,bar
------
-BODY:
-中身はこんな感じ…。作りおき冷凍品や昨晩のオカズを詰めて、 10分程度で完成させる。。この弁当箱を埋められる弁当を週２は 作ろうという、当面の努力目標。 
+ <img src="https://zacky1972.github.io/tw_diary_images/322010677.jpg"></img>
+
+中身はこんな感じ…。作りおき冷凍品や昨晩のオカズを詰めて、 10分程度で完成させる。。この弁当箱を埋められる弁当を週２は 作ろうという、当面の努力目標。
 <img src="https://zacky1972.github.io/tw_diary_images/twitpic.com_5bq15j.JPEG"></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月15日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/15/2011 03:36:59
-TAGS: "Movable Type",foo,bar
------
-BODY:
 一昨日は隙間に困って、ジャイアントオリーブをコロンと入れておいたが、そういや何のコメントも無かったな…。昨日のインゲンは食べなかったらしく、いつも洗って返ってくる弁当箱に残されていた。…ということは、食べたのか!?
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月15日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/15/2011 03:43:19
-TAGS: "Movable Type",foo,bar
------
-BODY:
 ボーイッシュな格好をさせると、ッシュを通り越してそのままボーイだよ。。とても似合ってはいるんだけど。プクプク&薄毛のため、デカイ割には幼く見える。
- http://twitpic.com/5bq6rf
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月15日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/15/2011 03:50:16
-TAGS: "Movable Type",foo,bar
------
-BODY:
-ヤマザキ作。朝、子が早く外に出たがるので、一足先に出てマンシ ョンの前の公園で遊ばせるのがヤマザキの日課になりつつある。も っと深く帽子かぶせてくれよー。ハゲ隠し帽がズレたように... 
+<img src="https://zacky1972.github.io/tw_diary_images/322028475.jpg"></img>
+
+ヤマザキ作。朝、子が早く外に出たがるので、一足先に出てマンシ ョンの前の公園で遊ばせるのがヤマザキの日課になりつつある。も っと深く帽子かぶせてくれよー。ハゲ隠し帽がズレたように...
 <img src="https://zacky1972.github.io/tw_diary_images/twitpic.com_5bq9pr.JPEG"></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月15日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/15/2011 11:37:33
-TAGS: "Movable Type",foo,bar
------
-BODY:
 今日はヤマザキが飲み会だからー、自堕落にピザとってビデオ視聴に耽るんだー。子は早々に寝てくれたし、風呂上がりのビールがウマイー！♪( ´▽｀)
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月15日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/15/2011 11:44:09
-TAGS: "Movable Type",foo,bar
------
-BODY:
 子ってば、ホントに甘いモノが苦手。茶碗蒸しは好きなのに、この前、お子様ランチについてた自家製プリンは吐き出しおった！私に似て辛党なのか…。因みにヤマザキは甘党。「甘いモノは特に…」と言っていたくせに、ケーキに砂糖入りの紅茶を合わせてて、ハア？(　　Д　)　 ﾟ ﾟだっだ。。
+子の初お子様ランチはこの店。ポタージュは離乳食でも大丈夫な位優しい味。エビフライは私がビールのツマミに戴いたが、ハンバーグは完食！プリンも家庭的で良い感じ。オススメ出来るファミレス。[食べログ] 手作りハンバーグ　グリルふそう
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年06月15日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/15/2011 11:49:04
-TAGS: "Movable Type",foo,bar
------
-BODY:
-子の初お子様ランチはこの店。ポタージュは離乳食でも大丈夫な位優しい味。エビフライは私がビールのツマミに戴いたが、ハンバーグは完食！プリンも家庭的で良い感じ。オススメ出来るファミレス。[食べログ] 手作りハンバーグ　グリルふそう 
-<img src=""></img>
-
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月17日 
+TITLE: 2011年06月17日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -7106,25 +4276,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 昨日もヤマザキが飲み会だったのでー、友達を家に招いてプチ女子会(笑)ちょっと飲みすぎたー。。ヤマザキは帰ってきてから、ちゃんとお茶を淹れてくれ、食器洗いまでしてくれた。やーさーしーー。駄羊とは呼べないｗ
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月17日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/17/2011 11:44:33
-TAGS: "Movable Type",foo,bar
------
-BODY:
 今夜もヤマザキは飲み会だからー(3夜目)、母と回転寿司へ。ノドグロの炙りが美味しかったー。昨日飲み過ぎたので、今晩は運転手に徹する。でも子もお風呂入れてスンナリ寝たし、昨日の残りのワイン飲も～。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年06月18日 
+TITLE: 2011年06月18日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -7138,41 +4293,11 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 今日は子連れで中華杉本の会。幹事さんが上海料理のリクエスト。上海味かと言われるとかなり違うと思われる、やはり杉本さんの味なんだけど、上海エッセンス入り杉本さん味?いつもと趣が違ってて面白かった！
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月18日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/18/2011 14:17:34
-TAGS: "Movable Type",foo,bar
------
-BODY:
 今晩は子供が二人居たのでシッターさんを一人お願いしてみた。遊んで貰ってる間、それなりにゆっくり食べれたかな、と。でも、やはり子供は、親の顔を見ると親の方に寄ってくるわけで。。あの程度の負担減で、皆さんがナンボ出しても良いと思うか…。今後の子連れ食事会の課題。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月18日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/18/2011 14:22:22
-TAGS: "Movable Type",foo,bar
------
-BODY:
 託児の場所を別室とかにすれば、もっと楽なのかもしれないけど。それもちょっと寂しいし、他の子と遊ぶ姿も見たいし、せっかくなら子にも食べさせてみたいしね。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年06月19日 
+TITLE: 2011年06月19日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -7186,10 +4311,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 ククク…猫のオモチャの鳥まで持ち込んで撮ったんだぜ…。次はマールの１０才の誕生日に二匹で撮りたいなーなんて。
- http://twitpic.com/5dsr1h
+<img src="https://zacky1972.github.io/tw_diary_images/325507301.jpg"></img>
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年06月20日 
+TITLE: 2011年06月20日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -7203,98 +4328,16 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 数日「飲み会」ってつぶやいたせいか、液キャベ君にフォローされちゃったよ・・・飲み過ぎ・食べ過ぎは私じゃないよ・・・
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月20日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/20/2011 01:55:00
-TAGS: "Movable Type",foo,bar
------
-BODY:
 こういう南イタリア料理大好き！さくらぐみに味は二割落ちるか・・・でも、福岡では貴重な店。子連れOKなのも有り難い、子供椅子・ソファー席アリ。福岡泊の翌日はココとマリノアシティが定番になりそう。[Pizzeria da Ciruzzo ]　
-<img src=""></img>
-
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月20日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/20/2011 01:59:36
-TAGS: "Movable Type",foo,bar
------
-BODY:
 GAPアウトレットで、トラ柄Ｔシャツとニャンコ柄ボディスーツをGet！猫柄の子供服って意外と少なく、あればつい買ってしまう・・・。最近、女の子の「着せる楽しみ」とやらを実感中ｗ
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月20日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/20/2011 04:42:07
-TAGS: "Movable Type",foo,bar
------
-BODY:
 最近の子の口癖は「あ！にゃんにゃん！！」クマのぬいぐるみでもカエルの置物でも何でもニャンニャンらしい。電車を指差して、「にゃん…(首を傾げて)こー?」子にとってニャンコは生き物くらいの意味なのか。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月20日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/20/2011 10:11:11
-TAGS: "Movable Type",foo,bar
------
-BODY:
-友人からのお祝いでベビーシューズをリクエストしようと色々探し て悩んでいたら、コレ！と思ったやつが売り切れに…orz 。しかし諦めきれず、イギリスの通販会社から購入！すぐ届いたし... 
+友人からのお祝いでベビーシューズをリクエストしようと色々探し て悩んでいたら、コレ！と思ったやつが売り切れに…orz 。しかし諦めきれず、イギリスの通販会社から購入！すぐ届いたし...
 <img src="https://zacky1972.github.io/tw_diary_images/twitpic.com_5e8auh.JPEG"></img>
-
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月20日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/20/2011 10:17:33
-TAGS: "Movable Type",foo,bar
------
-BODY:
-ただ、送料単価を下げるために、同じようなのを３サイズ購入…。 半年ごとにサイズアップらしいので、しばらくはこんな感じです (笑)。すごく歩きやすそうで、転びにくくな ったような気... 
+ただ、送料単価を下げるために、同じようなのを３サイズ購入…。 半年ごとにサイズアップらしいので、しばらくはこんな感じです (笑)。すごく歩きやすそうで、転びにくくな ったような気...
 <img src="https://zacky1972.github.io/tw_diary_images/twitpic.com_5e8d2p.JPEG"></img>
-
-
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年06月22日 
+TITLE: 2011年06月22日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -7307,29 +4350,12 @@ DATE: 06/22/2011 13:11:25
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-てんとう虫〜。早くも汗疹が出来かけているので薬を貰う。ついで に昨日、階段で遊んでいたら尻餅をつき、舌を切った所も見てもら ったり。 
+てんとう虫〜。早くも汗疹が出来かけているので薬を貰う。ついで に昨日、階段で遊んでいたら尻餅をつき、舌を切った所も見てもら ったり。
 <img src="https://zacky1972.github.io/tw_diary_images/twitpic.com_5f6hi9.JPEG"></img>
-
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月22日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/22/2011 13:17:39
-TAGS: "Movable Type",foo,bar
------
-BODY:
 最近、子は走ろうとして転ぶ事が多い。まだ気が早いって…。ちょっと前まで、慎重な性格に感心していたのに…。。あれか。初心者を卒業する頃に、事故が多いってやつか。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年06月24日 
+TITLE: 2011年06月24日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -7343,98 +4369,15 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 twitterをブログ化してみた。出産付近のつぶやきを読み返すと、、なんだかすごく遠い昔の事みたいだ・・・　
-<img src=""></img>
-
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月24日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/24/2011 09:03:58
-TAGS: "Movable Type",foo,bar
------
-BODY:
-今日はシッポに風船をくくりつけられた哀れなチーター。夏風邪気 味&汗疹がひどくなったので、かかりつけの 小児科に。。 
+今日はシッポに風船をくくりつけられた哀れなチーター。夏風邪気 味&汗疹がひどくなったので、かかりつけの 小児科に。。
 <img src="https://zacky1972.github.io/tw_diary_images/twitpic.com_5g0zqg.JPEG"></img>
-
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月24日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/24/2011 10:20:32
-TAGS: "Movable Type",foo,bar
------
-BODY:
 TVで夫のお小遣い特集がやってるんだけど、稼ぎ頭がお小遣いを「貰う」ってのもおかしな話よね。仮に私だけ働いてヤマザキが専業主夫で、お小遣いをやるとか減らすとか言われたらケンカになりそう。。結局は同じ事かもしれないけど、家計費を渡した残りがお小遣いって考えれば良いのに。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月24日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/24/2011 22:56:33
-TAGS: "Movable Type",foo,bar
------
-BODY:
 大戸屋か…行った事ないな…。福岡には西新に一件しか無いのね。それが千草の経営とは驚き。いろいろやってるのね…。随分前のニュースだけど、出店計画どうなった
-<img src="https://zacky1972.github.io/tw_diary_images/www.fukuokaweb.jp_fukuokakeizai_mailnews_200503281.html"></img>
-
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月24日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/24/2011 23:02:39
-TAGS: "Movable Type",foo,bar
------
-BODY:
 &gt;キムコ すごい汗だよね～。ウチの子、薄毛だから、汗で濡れると髪型がバーコード状態…orz
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月24日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/24/2011 23:22:33
-TAGS: "Movable Type",foo,bar
------
-BODY:
 &gt;キムコ ホントだ！スゴイよ、タケモトピアノのCM！！子が釘付けで、すごくラクに爪切りできた～Σ（・□・；）これは編集して5分位エンドレスに流れるバージョンが欲しいわ…レコーダーにも入れときたい…
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年06月25日 
+TITLE: 2011年06月25日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -7448,60 +4391,12 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 ヤマザキが朝イチ！に浅野が出ているのを見つけて録画しといてくれたのを視聴。カッコエェ*･゜ﾟ･*:.｡..｡.:*･'(*ﾟ▽ﾟ*)'･*:.｡. .｡.:*･゜ﾟ･*でかした、ヤマザキ！マイティ・ソーは奢っちゃる！！
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月25日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/25/2011 07:09:43
-TAGS: "Movable Type",foo,bar
------
-BODY:
 ヤマザキとスポーツクラブデート。良いよ、Let's八幡南のプール!空いてるし、歩行用の流れるプールが大きいのが気に入った。設備は庶民的で古いけれど、まぁ必要十分。幼児用プールもあるので、今度は子連れで行ってみよう♪
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月25日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/25/2011 07:14:56
-TAGS: "Movable Type",foo,bar
------
-BODY:
-久しぶりの訪問。おお、こんなに美味しかったっけ？繊細な細切りの食感が素敵！治部煮&ワインで幸せ…。子供椅子・座敷アリ。でも蕎麦アレルギーだとちょっとツライかも。[食べログ] 星ヶ丘 濱善 
-<img src=""></img>
-
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月25日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/25/2011 09:49:32
-TAGS: "Movable Type",foo,bar
------
-BODY:
+久しぶりの訪問。おお、こんなに美味しかったっけ？繊細な細切りの食感が素敵！治部煮&ワインで幸せ…。子供椅子・座敷アリ。でも蕎麦アレルギーだとちょっとツライかも。[食べログ] 星ヶ丘 濱善
 おお、子の座り方が進化した！手すりを持ってお尻から座ってるー。一々登って振り返りしゃがみ込むのは無駄が多いと悟ったか。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年06月26日 
+TITLE: 2011年06月26日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -7515,95 +4410,18 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 久しぶりに水着を新調！これから子をプールに連れて行く機会も増えるかな、と。多分これが人生最期のビキニかな…。でも、外国人のおばあちゃんが堂々とビキニ着てるのもカッコイイよね。あ、因みに私はいつもラッシュパーカー着用です。。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月26日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/26/2011 08:15:12
-TAGS: "Movable Type",foo,bar
------
-BODY:
-最近、昼寝を嫌がる子を強制的に寝かせるため、ドライブに行く事 がある。今日は車で10 分の河内貯水地。紫陽花がワンサカ咲いてる。 
+最近、昼寝を嫌がる子を強制的に寝かせるため、ドライブに行く事 がある。今日は車で10 分の河内貯水地。紫陽花がワンサカ咲いてる。
 <img src="https://zacky1972.github.io/tw_diary_images/twitpic.com_5h30mi.JPEG"></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月26日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/26/2011 08:22:11
-TAGS: "Movable Type",foo,bar
------
-BODY:
-眠い時に車に乗せるとすぐに落ちる(笑)ベッドだと「ねーなーいーー！！ぎゃーー!!」と猛抗議なのに。。しかし、昼寝にはもう1台のチャイルドシートのキングプラスの方が断然良いな。ジョ... 
+眠い時に車に乗せるとすぐに落ちる(笑)ベッドだと「ねーなーいーー！！ぎゃーー!!」と猛抗議なのに。。しかし、昼寝にはもう1台のチャイルドシートのキングプラスの方が断然良いな。ジョ...
 <img src="https://zacky1972.github.io/tw_diary_images/twitpic.com_5h33dk.JPEG"></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月26日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/26/2011 10:16:41
-TAGS: "Movable Type",foo,bar
------
-BODY:
 ぶふっ！「はらぺこあおむし」読んでやったら、「リンゴを一つ食べました。」などに反応して、絵本から取って食べるマネしてるw食いしん坊すぎwwなんか、しっかり意味解ってきてるな～。そろそろ本格的に読み聞かせとかしなきゃだな～。。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月26日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/26/2011 12:24:41
-TAGS: "Movable Type",foo,bar
------
-BODY:
 むう…パンパース、Amazonの定期便、、安いな…!最近買い物はほとんど楽天。。でも、楽天もポイントキャンペーン少なくなってきたし、Amazonも要チェックだなー。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月26日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/26/2011 15:41:02
-TAGS: "Movable Type",foo,bar
------
-BODY:
 なんか今日の買い物運すごい良いわ～♥今の時代ってホントに便利よね。生鮮品と試着必須な自分の服以外はほとんどネットショッピングだよ。。生鮮品は以前赤ちゃん個配を頼んでた生協も良かったけど、注文締切が早過ぎなんだよね…来週食べたい物とかわからんし…。今は昼休みか保育園行く前に買い物。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年06月28日 
+TITLE: 2011年06月28日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -7616,45 +4434,14 @@ DATE: 06/28/2011 02:59:26
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-イタリア土産に頂いたクマさん傘を自慢している図。しかし頑なに ワンワンと言い張る。。最近、猫はニャンニャンで、その他生き物 はワンワンの模様。着実に猫様のシモベとして成長中。 
+イタリア土産に頂いたクマさん傘を自慢している図。しかし頑なに ワンワンと言い張る。。最近、猫はニャンニャンで、その他生き物 はワンワンの模様。着実に猫様のシモベとして成長中。
 <img src="https://zacky1972.github.io/tw_diary_images/twitpic.com_5hxi6b.JPEG"></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月28日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/28/2011 03:09:26
-TAGS: "Movable Type",foo,bar
------
-BODY:
 お昼に母＆叔母とスシローへ。今日はアワビ祭りと意気込んでいた母、カボスまで持ち込んで、怒涛の連続アワビ注文！アワビだけで10個も食べたよ。。しかしスシロー、一皿100円でアレならアリだと思う。これは流行るよなーと。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月28日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/28/2011 11:46:38
-TAGS: "Movable Type",foo,bar
------
-BODY:
 仁-JIN-やっと見終わった～。よく出来たドラマだった！漫画がこんないいとこ取りで良いん！？的なハッピーエンドバージョンだったので、ドラマはこんなもんでも良いかと。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年06月29日 
+TITLE: 2011年06月29日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -7667,13 +4454,10 @@ DATE: 06/29/2011 03:54:37
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-ウチから一番近い、夜遅くまで開いてる飲み屋。昨晩21：30からThe☆風呂上りな格好で友達と飲んで、ちょっと二日酔い。。基本しょっぱいけど、言えば加減してくれる。もっと生野菜も置いて欲しいな～[食べログ] スペイン食堂　八幡バル8 
-<img src=""></img>
-
-
+ウチから一番近い、夜遅くまで開いてる飲み屋。昨晩21：30からThe☆風呂上りな格好で友達と飲んで、ちょっと二日酔い。。基本しょっぱいけど、言えば加減してくれる。もっと生野菜も置いて欲しいな～[食べログ] スペイン食堂　八幡バル8
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年06月30日 
+TITLE: 2011年06月30日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -7689,7 +4473,7 @@ BODY:
 突然の大雨とともに停電なう(∋_∈)
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年07月02日 
+TITLE: 2011年07月02日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -7703,44 +4487,11 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 今日は昼寝大成功。一度はウギーと抵抗したものの、ヤマザキが抱っこしてユラユラしつつ子守唄を歌っていると目がトロンとなり、ベッドに置くと「バイバイ」と言い残し、寝た。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月02日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/02/2011 06:30:37
-TAGS: "Movable Type",foo,bar
------
-BODY:
 猫神様を使うとは卑怯な・・・思わずポチッとしちゃったじゃないかー。猫島行ってみたかったのよね〜［にゃんこ　ザ・プロジェクト］
-<img src=""></img>
-
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月02日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/02/2011 23:21:24
-TAGS: "Movable Type",foo,bar
------
-BODY:
 うわー、勝手にウォーターサーバーからコップについで水のんでるーΣ（・□・；）家でコップ使わせるようになったの、昨日からなのに。。「ちょっ…！もう一回やってみてよ」と言ったら、本当にしたーー！妖怪水撒き赤子の誕生だ…orz
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年07月03日 
+TITLE: 2011年07月03日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -7754,57 +4505,12 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子が次々に引き出しから服を引っ張り出してくる。。今朝はヤマザキが、子から笑顔で「ハイ♪」とブルマを手渡され、微妙な気分になったらしいw
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月03日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/03/2011 06:57:22
-TAGS: "Movable Type",foo,bar
------
-BODY:
 マイティ・ソー、浅野忠信が出てなければまず行かない映画だけど、意外と楽しめた。二時間飽きる暇なし。3Dじゃなく家でDVD見たらアレだろうけど。。肝心の浅野はチョビットしか出番なくて残念(´･_･`)でもカコイイ♪
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月03日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/03/2011 09:17:26
-TAGS: "Movable Type",foo,bar
------
-BODY:
 おお、子が「パ…パ！」と言い出した！パンの事をww
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月03日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/03/2011 09:24:44
-TAGS: "Movable Type",foo,bar
------
-BODY:
 最近、子は食べたい物を出さないと怒る。。今朝はバナナを切らしてて、朝イチはバナナを食すと決まっておろう！と激怒された。夜はパスタが出来るまでにとパンを渡したら、こんな物で誤魔化されるか！食事を寄越せ！！とご立腹。そのくせパスタが出来てパンを下げると悲しそうにパ…パ…と抗議するし…
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年07月05日 
+TITLE: 2011年07月05日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -7818,82 +4524,15 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 ポニーテールしたら、車のヘッドレストに当たるので変な姿勢になって肩こった。そういえば去年も同じ事やらかして、横結びにせねば！と思ったのを思い出した
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月05日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/05/2011 05:28:25
-TAGS: "Movable Type",foo,bar
------
-BODY:
 母のipadで「あとで読む」を登録。コレ、お互いにURLを交換すれば、「母に読ませる」などにも出来る優れモノ。母にネットサーフィンは難しいようなのでね。。ヤマザキとも気になったニュースなどを送りあって、食卓の話題にしたりしてる。
-<img src=""></img>
-
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月05日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/05/2011 15:46:23
-TAGS: "Movable Type",foo,bar
------
-BODY:
-汗疹と思ってた発疹…手足口病でした〜(o&gt; ω&lt;o)超元気ではあるんだが。日常生活 OK、保育園もOK との事(^-^; ホッ。明日は雨なので、今の内にと公園遊び。 
+汗疹と思ってた発疹…手足口病でした〜(o&gt; ω&lt;o)超元気ではあるんだが。日常生活 OK、保育園もOK との事(^-^; ホッ。明日は雨なので、今の内にと公園遊び。
 <img src="https://zacky1972.github.io/tw_diary_images/twitpic.com_5ln1b6.JPEG"></img>
-
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月05日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/05/2011 15:53:33
-TAGS: "Movable Type",foo,bar
------
-BODY:
-でも、やはりいつもと違うのか、寝付くまで側にいろと甘えてくる。そして夜泣き。。思えば一昨日も夜泣きしてたな…。ジッと手を見ながら泣いてるから、寄生獣的な怖い夢でも見たのかと思って... 
+でも、やはりいつもと違うのか、寝付くまで側にいろと甘えてくる。そして夜泣き。。思えば一昨日も夜泣きしてたな…。ジッと手を見ながら泣いてるから、寄生獣的な怖い夢でも見たのかと思って...
 <img src="https://zacky1972.github.io/tw_diary_images/twitpic.com_5ln4qz.JPEG"></img>
-
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月05日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/05/2011 15:59:29
-TAGS: "Movable Type",foo,bar
------
-BODY:
 寄生獣もある意味、手足口病と言えるよね…と言い残してヤマザキは爆睡中。あー半端な時間に目が覚めたー。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年07月06日 
+TITLE: 2011年07月06日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -7907,25 +4546,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 結局、子は口の中にも発疹して痛いらしく、朝食を一口食べてはギャー！でも食べたいのでウギー！！久しぶりに哺乳瓶でミルクを飲ませてなんとか収まった。やはり吸うとココロが安らぐらしい。。機嫌が最悪なので保育園はお休み。でも薬を飲んで一眠りしたら、昼ご飯はガッツリ！丈夫だな～
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月06日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/06/2011 07:43:32
-TAGS: "Movable Type",foo,bar
------
-BODY:
 午前中はヤマザキに任せて、私は午後担当。しかし、体は元気で退屈そうで持て余し気味…。雨なので、買い物がてら近くのトイザらスに出掛けてみる。ああ、こうして手足口病って大流行してるんだろうな、と後ろ暗い心持ち。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年07月08日 
+TITLE: 2011年07月08日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -7939,44 +4563,11 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 ぼんやりしていたら、狙っていたサーキュレーター（ENC-20K）が楽天では品薄に・・・。ホームセンターで最後の一個をGet！^m^これなら棚の上に設置できて、子が指を突っ込む恐れもないな、と。洗面所のタワー型扇風機も、壁掛けワイドファン（EF-D988）に取替え～
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月08日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/08/2011 05:26:29
-TAGS: "Movable Type",foo,bar
------
-BODY:
 子は一日半休んで、昨日の昼から登園。ちゃんと昼ごはんを食べさせて行ったのに、他の子の昼ごはんが済むとソソクサと椅子に座り、自分も弁当を食べる！と主張したらしい。ねぇよ、弁当。。
+ホームセンターで浮き輪を一目惚れ購入。もちろんタイガー！３歳からと書いてあるけど、やっぱまだ大きいかな～。　INTEXシーミーシットライダー　58511 [楽天] #RakutenIchiba
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年07月08日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/08/2011 05:45:06
-TAGS: "Movable Type",foo,bar
------
-BODY:
-ホームセンターで浮き輪を一目惚れ購入。もちろんタイガー！３歳からと書いてあるけど、やっぱまだ大きいかな～。　INTEXシーミーシットライダー　58511 [楽天] 
-<img src=""></img>
- #RakutenIchiba
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月09日 
+TITLE: 2011年07月09日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -7990,77 +4581,16 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 服を引っ張り出してきて、自分で履こうと努力しているの図。上と同じ黄色の水玉のショートパンツを持ってきたのは評価しよう、だがもうツナギを着ているのでパンツは不要だぞ。。
- http://twitpic.com/5n8vjn
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月09日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/09/2011 00:40:25
-TAGS: "Movable Type",foo,bar
------
-BODY:
+ <img src="https://zacky1972.github.io/tw_diary_images/341376179.jpg"></img>
 TVより先にPCやipadを認識したためか、TV前の延長コードをマウスに見たてて動かしたり画面に触ったりして、何か動きは無いものか探っているもよう。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月09日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/09/2011 16:33:18
-TAGS: "Movable Type",foo,bar
------
-BODY:
-ほっぺのマルが目に、目の縦線が眉間のシワの宇宙人に見えて、な んじゃこりゃぁああ!! と叫んでしまった。自分が数時間前に書いたアンパンマンだった。 。 
+ほっぺのマルが目に、目の縦線が眉間のシワの宇宙人に見えて、な んじゃこりゃぁああ!! と叫んでしまった。自分が数時間前に書いたアンパンマンだった。 。
 <img src="https://zacky1972.github.io/tw_diary_images/twitpic.com_5nm98w.JPEG"></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月09日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/09/2011 16:53:36
-TAGS: "Movable Type",foo,bar
------
-BODY:
 今日は大荒れだった。子をヤマザキが昼寝させようとすると機嫌最悪になって失敗。。その後は眠さが通り越したのか超ハイテンションになって9時になっても寝る気配すら見せず…。とうとう初の夜ドライブに出掛けてやっと就寝。具合が良くなって、遊びたくて仕方ないんだろうか…
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月09日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/09/2011 17:28:58
-TAGS: "Movable Type",foo,bar
------
-BODY:
 ちょっwスペースワールド、年間フリーパス安過ぎ！一日フリーパスの二倍って何なんww買って公園替りに連れてくかなぁ。でも死ぬ程暑そう&日焼けしそう。。日光って浴びてるだけで疲れるんだよね…何故かキレイな海だと大丈夫なんだけどさ…
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年07月10日 
+TITLE: 2011年07月10日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -8074,10 +4604,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 自分が入れる程大きなカゴを下げて闊歩中。暑すぎたり雨だったりの日は、マンションの廊下や階段の散歩でお茶を濁す。。
- http://twitpic.com/5o3due
+ <img src="zacky1972.github.io/tw_diary_images/342799574.jpg"></img>
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年07月11日 
+TITLE: 2011年07月11日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -8091,44 +4621,11 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 来年からポリオは不活性化ワクチンか・・・。でも子には将来、南アジアだろうがアフリカだろうが何処に行っても大丈夫にしておきたいので、10月に生ワクチン二回目の接種の方向で！
-<img src=""></img>
-
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月11日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/11/2011 15:56:48
-TAGS: "Movable Type",foo,bar
------
-BODY:
 手足口病が治ったと思えば、また汗疹がひどくなり病院へ。。ついでに採血してアレルギー検査と血液型を調べる事にした。別室に連れていかれ、こっそり覗くとカーテンまでしたベッドから、ウギギギー！！アギャギャギャーーー！！！と物凄い叫び声…もはや怪獣…。。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月11日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/11/2011 16:08:33
-TAGS: "Movable Type",foo,bar
------
-BODY:
 小児科医の同級生が、「数人で押さえつけるのは当たり前、親にはとても見せられない」的な事を言っていたがこれの事か、と得心。。しばらくアーウー文句を言いまくっていたが、野菜生活飲んでお風呂入ったら、機嫌も治った。いやー、採血あまくみてたわー。予防接種3本とかよりずっと大変。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年07月12日 
+TITLE: 2011年07月12日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -8141,13 +4638,10 @@ DATE: 07/12/2011 00:56:01
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-家の近くにこんなナイスなカキ氷店があったとは・・・！花の露＠黒崎が無くなって寂しい数年だったけど、今年は素晴しいカキ氷ライフが送れそう♪でも～やっぱ中州ぜんざいにも行きた～い・・・[食べログ] ゑびす餅店 
-<img src=""></img>
-
-
+家の近くにこんなナイスなカキ氷店があったとは・・・！花の露＠黒崎が無くなって寂しい数年だったけど、今年は素晴しいカキ氷ライフが送れそう♪でも～やっぱ中州ぜんざいにも行きた～い・・・[食べログ] ゑびす餅店
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年07月13日 
+TITLE: 2011年07月13日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -8161,47 +4655,11 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 クリップは無かったものの、手で猫の首を掴んで爪きりしたら、すごく上手くいった～！！＼(~o~)／
-<img src=""></img>
-
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月13日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/13/2011 05:59:34
-TAGS: "Movable Type",foo,bar
------
-BODY:
 ありゃ、ヤマザキがジーナのトドラー編を買っていたと思ったら、The　Conpleted　Sleep　Guid　とやらを買っている模様。。でも、和訳している人のブログを発見！！
-<img src=""></img>
-　
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月13日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/13/2011 06:04:05
-TAGS: "Movable Type",foo,bar
------
-BODY:
 どうやら子の夜の睡眠時間が11時間をきるようになったのは、午後寝がしっかり出来ていないから疲れすぎているための模様。普通だったら昼寝を減らしてしまいそうなところだが、逆に昼寝を増やすって所がジーナ流だよな～。午前寝をボチボチ減らすかな・・・普通の保育園行きだしたらそうなるし・・・
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年07月14日 
+TITLE: 2011年07月14日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -8214,29 +4672,11 @@ DATE: 07/14/2011 04:23:48
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-カレー南蛮がメニューから消えてるぅぅ～゜（゜´Д｀゜）゜うゎぁん！！仕方なく蕎麦を注文の人のみオーダー出来るミニカレー丼＆蕎麦を食べて胃がもたれたよ・・・[食べログ] 芭蕉庵 
-<img src=""></img>
-
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月14日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/14/2011 04:29:14
-TAGS: "Movable Type",foo,bar
------
-BODY:
+カレー南蛮がメニューから消えてるぅぅ～゜（゜´Д｀゜）゜うゎぁん！！仕方なく蕎麦を注文の人のみオーダー出来るミニカレー丼＆蕎麦を食べて胃がもたれたよ・・・[食べログ] 芭蕉庵
 子が保育園の玄関で靴を脱がせるとテトテト歩いてリビングに入ったので成長したなぁと思いきや、、リビングに入るとワザとらしくパタリとコケて、ウワァーーンと明らかに嘘泣きを始めた。。いつも通りダッコで入場したかったらしい・・・自ら歩いて行ったくせにこの小芝居は何なのさ・・・
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年07月17日 
+TITLE: 2011年07月17日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -8250,25 +4690,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 湯布院なう。布団を並べて寝ると、なんか子がはしゃいですごいんだけど…。踏みつけて登山するは、馬乗りになってキャホー！って叫ぶわ…。添い寝って毎晩こんな？…じゃないよね??ドライブに連れ出してようやく就寝。。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月17日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/17/2011 12:42:40
-TAGS: "Movable Type",foo,bar
------
-BODY:
 子が寝た後は、ひっそりとMacBOOKでDVD鑑賞なう。social  network と 大奥(笑)
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年07月19日 
+TITLE: 2011年07月19日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -8282,58 +4707,13 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子は臼歯より先に犬歯が出てきていたけど、とうとう臼歯も生えてきた模様。先日、初の高級焼肉で、ラムシン（箸で切れるほど柔らかい赤身肉）を、それはそれは幸せそうに新品の臼歯でいつまでも噛み締めていたｗ
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月19日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/19/2011 07:16:24
-TAGS: "Movable Type",foo,bar
------
-BODY:
 子が歩くようになると大変ってホントだなぁ。。手を繋ぎたがらず、ずっと中腰で追っかけるから腰が痛い・・・疲れたら10kgを抱っこだし・・・。リードはコントロールが利かないし、ベビーカー持っていると子に追いつけないし、すぐ降りるっていうからtongaもbecoも使いづらい。。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月19日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/19/2011 07:31:52
-TAGS: "Movable Type",foo,bar
------
-BODY:
 好奇心も出てきてアッチコッチと何処でも行きたがるし、旅行も大変になってきた。DVDに熱中出来るようになるまでは当分、移動は昼寝の時間に合わせて1.5時間が限度だな～。まぁそれでも今回、プールに子を初放流ｗ出来たし、宿の子供と一緒に遊んだりと楽しい休日だった。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月19日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/19/2011 08:56:12
-TAGS: "Movable Type",foo,bar
------
-BODY:
 土遊びに興じる子の様子。塊を砕くのが面白いらしい。ハイ♪と言って渡してくるので、嫌々ながら受けとる。土や石ならまぁ良いが、虫ならばお断りだ！
- http://twitpic.com/5seu5n
+ <img src="https://zacky1972.github.io/tw_diary_images/350052395.jpg"></img>
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年07月20日 
+TITLE: 2011年07月20日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -8347,10 +4727,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 ヤマに出くわして通行止めなう。今日は黒崎ぎおんか〜
- http://twitpic.com/5sxlqn
+ <img src="https://zacky1972.github.io/tw_diary_images/350927951.jpg"></img>
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年07月21日 
+TITLE: 2011年07月21日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -8364,60 +4744,12 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 焼肉屋で隣のテーブルの若者男女グループに向かって行こうとしたり笑いかけたりと、何かとちょっかいをかける子。おねえさんに「かわいいな～　次来たら焼いて食べようかｗｗ」と笑われる。。解るよ、その気持ち！子ってば、ものすごく子豚の丸焼き的な体型だもの！！
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月21日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/21/2011 04:52:35
-TAGS: "Movable Type",foo,bar
------
-BODY:
 メデラの搾乳機を使っている人に朗報。コレをつけると、母乳実感の広口哺乳瓶が取り付けられるんだぜ！ベビーリズム さく乳器 手動タイプ（ハンドルが白色） 広口アダプター07　
-<img src=""></img>
-
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月21日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/21/2011 05:06:13
-TAGS: "Movable Type",foo,bar
------
-BODY:
 因みにジーナは搾乳機を推奨している。母乳は受注生産制とよく言われるが、最初は生産過剰な程に出る母乳が新生児は吸うのが下手＆小食で減産傾向になってしまい、その後の成長期で食欲が増えた時に足りなくなるのを防ぐため、搾乳機を使って生産量をキープ、もしくは予めUPしましょう、という考え。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月21日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/21/2011 05:34:41
-TAGS: "Movable Type",foo,bar
------
-BODY:
 子は台湾でシッターさんからバナナを貰って以来、バナナが好きになって毎朝食べる。ウェルカムフルーツのはまだ若いからって、わざわざ従業員の休憩ルームから熟れたのを持ってきてくれたんだよねー。最近、台湾バナナを見つけたので買ったら、子、大喜び！朝食にパンを拒否してバナナ二本だよ・・・。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年07月25日 
+TITLE: 2011年07月25日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -8433,7 +4765,7 @@ BODY:
 子はＯ型である事が判明。ということは、私もヤマザキもAOということか。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年07月26日 
+TITLE: 2011年07月26日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -8447,57 +4779,12 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 最近、DVD見る→予告編で面白そうなの見つける→DVD見るのループに嵌ってる(笑)「ちょんまげぷりん」結構面白かった。うむ確かに、錦戸亮、カワイイかも！
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月26日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/26/2011 01:07:01
-TAGS: "Movable Type",foo,bar
------
-BODY:
 子が予防接種後、車に乗せようとすると激怒。？？と思って降ろすと、その紙（予防接種の注意書き）を寄越せと言う。？？？と渡すと、薬局に向かってまっしぐら！薬剤師さんに紙を渡して大満足の様子( ﾟдﾟ)ﾎﾟｶｰﾝ
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月26日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/26/2011 01:15:07
-TAGS: "Movable Type",foo,bar
------
-BODY:
 薬局行ってないから気になって怒ってたの？・・・一歳児って意外と賢いのか？・・・いや、たんに偶然なのか・・・？？もちろん処方箋は無いので薬は貰えず。でも、薬剤師さんから、オモチャの薬袋に入ったリラックマのシール貰っちゃった(~_~;)
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月26日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/26/2011 12:35:04
-TAGS: "Movable Type",foo,bar
------
-BODY:
 最近、ビールの予想必要量を見誤るわ～。大瓶か中瓶か迷って中瓶にしたけど、足りずにもう一本中瓶を開けてしまい余らせてしまう罠。。小瓶も買った方が良いのか？いっそサーバーを買うべき？？
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年07月28日 
+TITLE: 2011年07月28日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -8511,112 +4798,18 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 午前中は一家で保育園見学。今のところは二歳までで、そろそろ遊び場がもっと広い園が良さそうになったので。一発目は無認可で「さくらさくらんぼ保育」をやっている園。小さいうちは、泥んこになって遊ばせてやりたいという思いがあるけど、自分でするのは無理なので、保育園頼みにしようかと・・・。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月28日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/28/2011 06:25:40
-TAGS: "Movable Type",foo,bar
------
-BODY:
 午前中の散歩に付き合っただけで、私は日光にやられてグッタリorz。しかしその後の昼ゴハンがすごく美味しい！他の子供たちもすごく楽しそうなのが印象的で、毎日が一昔前の夏休み、みたいな生活。さくらさくらんぼとはいえ、そこまで原理主義では無さそうな所も私的には良い感じ。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月28日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/28/2011 06:30:43
-TAGS: "Movable Type",foo,bar
------
-BODY:
 子は絵本読みの時は気がソゾロで一人抜け出し園内を冒険。。リズム遊びは意欲的に参加し、走り回って超笑顔。散歩は途中で力尽きてヤマザキに抱っこしてもらっていたが、公園の木陰でセミの抜け殻ブローチを貰い、楽しそうに遊んでいた。昼ゴハンはオカワリして、他の子の倍くらい食べていた（汗）
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月28日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/28/2011 06:37:25
-TAGS: "Movable Type",foo,bar
------
-BODY:
 すごく良いな、とは思うんだけど、、遠いんだよな～。。都市高速使えば15分なんだけど、定期とか無いしなぁ。。。あと、保護者主体の共同保育所なので、役員などのお役目が・・・それなりに大変そう・・・。。まぁ他の認可園なども見学して考えよう！
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月28日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/28/2011 10:29:47
-TAGS: "Movable Type",foo,bar
------
-BODY:
-フレンチのセミナー前に、念願のextra cold!!はやる気持ちが抑えられず、撮影前に一口飲んじゃった(笑)泡がクリーミーでビールの味はあまりしない感じ。タイの氷が張るビールと... 
+フレンチのセミナー前に、念願のextra cold!!はやる気持ちが抑えられず、撮影前に一口飲んじゃった(笑)泡がクリーミーでビールの味はあまりしない感じ。タイの氷が張るビールと...
 <img src="https://zacky1972.github.io/tw_diary_images/twitpic.com_5x35xx.JPEG"></img>
-
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月28日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/28/2011 10:33:01
-TAGS: "Movable Type",foo,bar
------
-BODY:
-アミュ地下のextra cold barは行列が出来ていたので、くうてん10FのA&Kに駆け込んだ。こっちはハイネケンのextra coldもあって、つい追加(汗)。おつまみ付き... 
+アミュ地下のextra cold barは行列が出来ていたので、くうてん10FのA&Kに駆け込んだ。こっちはハイネケンのextra coldもあって、つい追加(汗)。おつまみ付き...
 <img src="https://zacky1972.github.io/tw_diary_images/twitpic.com_5x37ke.JPEG"></img>
-
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月28日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/28/2011 13:46:32
-TAGS: "Movable Type",foo,bar
------
-BODY:
 今日はオイルとビネガーの相性がテーマ。胡桃オイル&シェリービネガーとホタテやオクラ、そしてアンディーブの相性が素晴らしい。勉強になりました！シェフが超ツンデレで好き(笑)
- http://twitpic.com/5x5s1t
+<img src="https://zacky1972.github.io/tw_diary_images/358027841.jpg"></img>
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年07月30日 
+TITLE: 2011年07月30日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -8630,73 +4823,13 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 一家で天神に。アナスイ ミニのセールでつい散財してしまう。。なんでこんなにカワイイんだよチクショーめ！子供服は基本一着\1500以下と決めてるのに！！(o&gt;ω&lt;o)
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月30日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/30/2011 14:49:15
-TAGS: "Movable Type",foo,bar
------
-BODY:
 子をデパートの託児所に。ちょw利用者一人だけで保育士さんマンツーマンww その間、大人はデルレイで優雅にティー(私は酒)タイム♪キッシュおいし～ チョコパフェ最高～(´∀｀)
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月30日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/30/2011 14:57:26
-TAGS: "Movable Type",foo,bar
------
-BODY:
 そして子とヤマザキを先に帰し、食べ友と初・安春計！念願の五枚付け(^ω^)もうね、キリキリの江戸前ですよ。こういうの初めて食べた～。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月30日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/30/2011 15:01:45
-TAGS: "Movable Type",foo,bar
------
-BODY:
 ヤマザキが新幹線乗っちゃえ♪とけしかけるので乗ったら、小倉での乗り換え時間二分！まさかの全力疾走！！オジサン追い抜いて新幹線組でトップを取り、何とか間に合いました(-ω-)
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月30日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/30/2011 23:51:49
-TAGS: "Movable Type",foo,bar
------
-BODY:
 朝イチに子から腹にダイブされ膀胱直撃！も、漏れるかと思った。。昨日は塩分大量摂取したので水をガブ飲みしてるんだよ～orz
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年07月31日 
+TITLE: 2011年07月31日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -8710,63 +4843,12 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 下ネタついでに。子は「デタ…」(エヘ…(*^^*)というような表情)と自己申告出来るようになった。「出たの？」と聞くとオムツを押えて「ウン…」と頷く。出てない時に聞くとプルプルと首を振る。なかなかカワイイ、そして楽。たまにオナラだけでも申告してきて騙される。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月31日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/31/2011 00:07:46
-TAGS: "Movable Type",foo,bar
------
-BODY:
 保育園のプールで水遊びに目覚めたのか、朝の行水に自ら率先して向かう子。休みの日はそのまま30分程遊ばせる。最近、手桶で自分にお湯をかけるのがマイブームらしい。手桶でアヒルをすくったりもする。シャワーを頭からかけても泣かなくなった、、怒るけど。
+お風呂あがりにはコレがすごく便利。装着し易くて可愛く、そして安い♪子にはまだちょっと長くて時々躓いてるけど。。 IKEA フード付きバスタオル
+小上がりもベンチシートも子供椅子もある、子連れに優しい札幌ラーメン屋。子には塩ラーメン大盛りを取り分けて、持参のハサミでカット、氷を入れて冷却&薄味効果。モヤシ・玉ねぎ・青菜が入ってて、ゆで卵を追加して栄養もバッチリ！[食べログ] らう家
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年07月31日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/31/2011 00:14:33
-TAGS: "Movable Type",foo,bar
------
-BODY:
-お風呂あがりにはコレがすごく便利。装着し易くて可愛く、そして安い♪子にはまだちょっと長くて時々躓いてるけど。。 IKEA フード付きバスタオル 
-<img src=""></img>
-
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月31日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/31/2011 05:07:18
-TAGS: "Movable Type",foo,bar
------
-BODY:
-小上がりもベンチシートも子供椅子もある、子連れに優しい札幌ラーメン屋。子には塩ラーメン大盛りを取り分けて、持参のハサミでカット、氷を入れて冷却&薄味効果。モヤシ・玉ねぎ・青菜が入ってて、ゆで卵を追加して栄養もバッチリ！[食べログ] らう家 
-<img src=""></img>
-
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月01日 
+TITLE: 2011年08月01日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -8780,59 +4862,15 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 お昼に聘珍楼＆ノンアルコールビール。サッポロプレミアムアルコールフリー（小瓶）、頑張ってるね～。初めてこれならアリかもって思った。まあ家じゃアルコール入りを飲むけどね・・・。多くのお店でおいて欲しいなぁ。でもサッポロって置いてるとこ少ないよね。。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月01日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/01/2011 08:57:51
-TAGS: "Movable Type",foo,bar
------
-BODY:
 そして聘珍楼も頑張ってた。￥1500程度のランチでアレなら大アリ！無料の冷たいウーロン茶も美味しかったし、デザートの時にはちゃんと温かいお茶も持ってきてくれるし、サービス良。個室もあるから、もっと行こう。無くなったら悲しいもん。ココで親族とレストランウエディング？だったのだ～。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月01日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/01/2011 10:12:04
-TAGS: "Movable Type",foo,bar
------
-BODY:
 リクエストにお答えして(笑)やっぱり赤子はコスプレに限る(´∀｀)
- http://twitpic.com/5z9my5
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月01日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/01/2011 10:14:50
-TAGS: "Movable Type",foo,bar
------
-BODY:
+<img src="zacky1972.github.io/tw_diary_images/361567085.jpg"></img>
+
 しゃがむとちょっと妖怪的。子ネズミ小僧?
- http://twitpic.com/5z9o2z
+ <img src="zacky1972.github.io/tw_diary_images/361568555.jpg"></img>
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年08月02日 
+TITLE: 2011年08月02日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -8846,41 +4884,11 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 風邪気味にも関わらず、子の食欲がいつにも増してすごい。朝からバナナ一本・ロールパン一個・ヨーグルト一個・コーンフレーク少々って・・・orz。。最近、小腹が空くと「ぱーんーー♪ぱーんーー♪」って歌い続け、、駄目だと言うとウギャーー！！って怒り出すんだよね。。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月02日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/02/2011 04:08:51
-TAGS: "Movable Type",foo,bar
------
-BODY:
 「いつか食欲が落ち着く時が来る」と先生から言われるも、離乳食開始時から早10ヶ月、暑くなると食欲が落ちるかなと思ったのに、一向に衰える様子が無い。。三歳までに数が決まると言われる脂肪細胞の増殖が・・・すごく気になる・・・(-_-;)
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月02日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/02/2011 04:29:20
-TAGS: "Movable Type",foo,bar
------
-BODY:
 今日は私の会社から一番近い保育園を見学。私の従兄弟達はココの卒園児が多くて、従兄弟の子も現在通っている一族御用達の園ｗｗ。仏教系で、大きな楠が木陰を作る広い園庭に運動場まであってしっかり外遊びが出来そう。設備は古いけど、お昼寝布団は園管理など、親の負担が少なそうな感じ。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年08月03日 
+TITLE: 2011年08月03日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -8893,45 +4901,12 @@ DATE: 08/03/2011 05:57:50
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-個性的な料理のビストロ。お魚が得意なお店で、魚のリエットとか鯖のマリネとか美味しい。お肉も、パテも上手だし、ウズラも良かった。うーん、ポトフと張る位好きかも。[食べログ] フルール・デ・シャン  
-<img src=""></img>
-
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月03日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/03/2011 06:08:13
-TAGS: "Movable Type",foo,bar
------
-BODY:
+個性的な料理のビストロ。お魚が得意なお店で、魚のリエットとか鯖のマリネとか美味しい。お肉も、パテも上手だし、ウズラも良かった。うーん、ポトフと張る位好きかも。[食べログ] フルール・デ・シャン
 これまでの苦労は何だったんだという程、子に簡単に薬を飲ませる方法を発見！お菓子を見せて意識をそちらに集中させた所で、ホッペの内側に水練りした粉薬を塗りつけ、お菓子をあげるだけ。水も飲まずに口の中が気持ち悪くないのかと思うんだけど、水はイラナイ早くお菓子ヨコセって言う。。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月03日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/03/2011 06:14:10
-TAGS: "Movable Type",foo,bar
------
-BODY:
 しかし赤子って、こんな鳥のエサみたいな味も素っ気もないせんべい、よく有難がって食べるもんだな。。乳ボーロも食べてみたけど、やはり美味しくは無いと思う(´･ω･｀)
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年08月04日 
+TITLE: 2011年08月04日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -8945,44 +4920,11 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 今日はヤマザキの職場近くの保育園を見学。園庭にテント？が貼ってあって、雨の日でも自由に遊べるのが特徴。ここだとヤマザキに送迎を頼んで、私が家で夕ご飯を作った状態で子の帰りを待てるのが利点。でももう定員一杯らしい…。20人の赤子が水浴びする姿は圧巻だった。。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月04日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/04/2011 03:38:36
-TAGS: "Movable Type",foo,bar
------
-BODY:
-かつて高校時代に通っていたパン屋が移転していたので寄ってみた。確かパン食い競争のパンはここの提供だった気が(笑)一の粉といえば変わり惣菜パンだよな～と、今日のお昼は味噌カツパンとたこ焼きパンです(^^♪　一の粉[食べログ] 一の粉 
-<img src=""></img>
-
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月04日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/04/2011 13:41:19
-TAGS: "Movable Type",foo,bar
------
-BODY:
+かつて高校時代に通っていたパン屋が移転していたので寄ってみた。確かパン食い競争のパンはここの提供だった気が(笑)一の粉といえば変わり惣菜パンだよな～と、今日のお昼は味噌カツパンとたこ焼きパンです(^^♪　一の粉[食べログ] 一の粉
 大喜利を「おおぎり」と読む事は最近(ここ数年で)知った。先ほど、つい昔の思い込みの呼び方で「おおどっくり」と言ってしまい、ヤマザキに爆笑される。悔しい。。そういえば、中学の時に山田クンを知らなくて、馬鹿にされた事があったなぁ…
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年08月05日 
+TITLE: 2011年08月05日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -8998,7 +4940,7 @@ BODY:
 おかあさんといっしょのキャラクターにスコティッシュフォールドがいる…！！子はTVにあまり興味を示さないなぁ。。歌の時は時々一緒に踊っているけど、劇？は無視。一歳四ヶ月だとこんなもんなのかな。。今月末、飛行機乗る時にDVDに集中してて欲しいんだけどなぁ。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年08月06日 
+TITLE: 2011年08月06日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -9014,7 +4956,7 @@ BODY:
 昨日行った保育園はカトリック系。野原の散歩や、近くの博物館まで歩いて行ったりと、園外活動が豊富。小さめだけ建物は結構新しく、スイミングスクールやお茶教室・お裁縫・リトミック・運動会の鼓笛隊など、幼稚園的な要素が強め。んー、幼稚園には行かずに、ずっとココっていうのもアリかなぁ。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年08月07日 
+TITLE: 2011年08月07日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -9028,28 +4970,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 夜はヤマザキ友人とウチでゲーム大会。前座にwii、初めてやりました（照）ヤマザキのアバターを作ってやったら、中々上手く出来たwメインのモノポリーは大勝！！フハハ！！！
+甥っ子をモンハンイベントに送り届けに来た姉とランチ。おねーちゃんと二人で食べに行くなんて、ものすごくひさしぶりw甥っ子(中2)が生まれる前以来じゃなかろうか…[食べログ] おか野
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年08月07日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/07/2011 13:54:25
-TAGS: "Movable Type",foo,bar
------
-BODY:
-甥っ子をモンハンイベントに送り届けに来た姉とランチ。おねーちゃんと二人で食べに行くなんて、ものすごくひさしぶりw甥っ子(中2)が生まれる前以来じゃなかろうか…[食べログ] おか野 
-<img src=""></img>
-
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月08日 
+TITLE: 2011年08月08日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -9063,41 +4987,11 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 寝かしつけに大失敗し、疲れ果てる。。パソコンを触りたかったのに、無視して寝かし付けようとしたのが敗因。ギョーー！！！ってスゴイ声だった…
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月08日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/08/2011 11:54:48
-TAGS: "Movable Type",foo,bar
------
-BODY:
 今日も保育園見学に。3・4・5才児は縦割りクラスで、年長の子が担当制で小さい子の面倒を見るらしい。主に室内での自由保育が多い感じで、大人しい子には良さそうだなぁ。キャラクター禁止なのは好印象w
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月08日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/08/2011 13:59:10
-TAGS: "Movable Type",foo,bar
------
-BODY:
 全開ガール、初視聴。アレか、錦戸亮はイクメンで売る方向なのか。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年08月10日 
+TITLE: 2011年08月10日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -9111,60 +5005,12 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 おかあさんといっしょの猫はスコでは無く、マンチカンだと姉からツッコミを受ける。マンチカンも折れ耳がいるんだね。。でも、短足かどうかなんて、着ぐるみでは解らないやい！(´･ω･｀)
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月10日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/10/2011 02:22:42
-TAGS: "Movable Type",foo,bar
------
-BODY:
 ヤマザキと、子のおいでおいで競争をしたら、迷わずヤマザキの胸に飛び込みおった！むぅ・・・それで良し。立派な父上っ子になるのだぞ。。だが、すぐさま返す刀で私の胸に飛び込み、アフターフォロー。出来る・・・！
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月10日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/10/2011 03:44:11
-TAGS: "Movable Type",foo,bar
------
-BODY:
 おお！マンチカンの折れ耳は認められて無いんじゃないか！！スコは交配をよく考えないといけない種類なのに、これまた交配が難しそうなマンチカンとのMIXなんておかしいと思ったよ。。ミーニャと同じ猫が欲しいって子もいるかもしれない。無理な交配を喚起する可能性があるような事は止めて欲しい。
+母校の旧校歌も、学校名が出ない校歌らしく無い校歌だったなぁ。そういや、新校歌ってどんなんだっけ・・・「あーあー○○学園ー」の所しか思い出せない。。「ＪＰＯＰみたい」とネットで話題の至学館の校歌　甲子園で流れる - MSN産経ニュース
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年08月10日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/10/2011 03:56:09
-TAGS: "Movable Type",foo,bar
------
-BODY:
-母校の旧校歌も、学校名が出ない校歌らしく無い校歌だったなぁ。そういや、新校歌ってどんなんだっけ・・・「あーあー○○学園ー」の所しか思い出せない。。「ＪＰＯＰみたい」とネットで話題の至学館の校歌　甲子園で流れる - MSN産経ニュース 
-<img src=""></img>
-
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月13日 
+TITLE: 2011年08月13日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -9178,75 +5024,16 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 手を洗う時に乗せる椅子に、自分で踏み台を連結させて登りおった！Σ(￣□￣;)そして水を出せ、コップを貸せといって、延々と水を汲んで飲んでいる。。
- http://t.co/jNZ9LDj
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月13日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/13/2011 01:20:20
-TAGS: "Movable Type",foo,bar
------
-BODY:
+ <img src="https://zacky1972.github.io/tw_diary_images/371422834.jpg"></img>
+
 冷製ポタージュが好物。スプーンでひとしきり食べたら、口をつけて啜り、皿をなめ回して食べてる。。
- http://t.co/jaNl76j
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月13日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/13/2011 11:45:03
-TAGS: "Movable Type",foo,bar
------
-BODY:
+ <img src="https://zacky1972.github.io/tw_diary_images/371425453.jpg"></img>
 夏場には珍しく、マールが足に乗って下さっているので動けない♡最近、子が私を真似て、マールのお腹に顔を埋めるのに幸せを見出しているw猫アレルギーじゃ無くて良かった。。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月13日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/13/2011 13:00:01
-TAGS: "Movable Type",foo,bar
------
-BODY:
 今日は子のはとこ達とたっぷり遊んで貰い、スムーズに寝入ってくれた様子。この数日、上手く寝付かせられずに川の字で寝るのが続いてて、このまま一人で寝てくれないようになったら困るなぁと思っていたので一安心。たまに寝顔をジックリ見るのも可愛くて良いんだけどね。。釣られて11時間は寝過ぎ…
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月13日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/13/2011 13:17:11
-TAGS: "Movable Type",foo,bar
------
-BODY:
 昨日は山の上のガチなさくらさくらんぼ保育の園を見学。子はリズムもプールも昼ご飯もシッカリ楽しんだ。リズムで私達も一緒に運動すると、子ってばちゃんと真似して付いて来て、手を広げて走ったり高這いしたりピョンピョン屈伸したりして驚愕！そして子に付き合って運動する自分にも感慨深いものが…
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年08月14日 
+TITLE: 2011年08月14日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -9260,44 +5047,11 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 今日は子を託児所に預けて、ハリポタIMAX&アロマフレスカでデート！IMAX良かったわ～。アロマフレスカも気に入った！前菜が松花堂なのは( ? _ ? )だけど、メカジキの娼婦風スパゲティ美味しかった♪デザートのパイナップルのスープもgood。夜も行ってみたい。鮎のリゾットとか…
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月14日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/14/2011 12:45:05
-TAGS: "Movable Type",foo,bar
------
-BODY:
 子は託児所では始終ご機嫌だった模様。ボールプールでアンパンマンボールを探し出す作業に勤しんだらしい。そして昼寝もスンナリと二時間半…。家でもそうしてよ。。お子様ランチもお願いし、レポートに「完食致しました！」と囲い付きで書かれてる（笑）
+因みに託児所はウェル戸畑にあるテノ。シッターもここにお願いしていて、皆さんすごく感じが良い。北九州劇場や響ホールの託児もここがやってるみたい。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年08月14日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/14/2011 12:58:42
-TAGS: "Movable Type",foo,bar
------
-BODY:
-因みに託児所はウェル戸畑にあるテノ 
-<img src=""></img>
- シッターもここにお願いしていて、皆さんすごく感じが良い。北九州劇場や響ホールの託児もここがやってるみたい。
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月15日 
+TITLE: 2011年08月15日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -9311,44 +5065,12 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 阪急で買ったベノアのスコーン&クロテッドクリームと駄羊の淹れたセカンドフラッシュでブランチ( ´ ▽ ` )そして立て続けに、これまた阪急のかつヰのメンチカツでランチビール♪気分が良くなったのでベランダ&窓掃除(￣^￣)ゞ
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月15日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/15/2011 06:59:39
-TAGS: "Movable Type",foo,bar
------
-BODY:
 子、初の動物園。物怖じせずヤギに突進し背中を撫でて、怖くて触れない小学生にドヤ顔wwスマトラ象を気に入って、離れたくない様子。今日は曇りとはいえ暑かったし、急に雷鳴が鳴り響いたので３０分程で撤収。トラのサポーターになって一年間フリーパス！公園代わりに時々行こうっと(^з^)-☆
+これは1回目なので、それほどドヤ顔ではないのだが。。
+<img src="https://zacky1972.github.io/tw_diary_images/twitpic_movie.png"></img>
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年08月15日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/15/2011 11:38:43
-TAGS: "Movable Type",foo,bar
------
-BODY:
-これは1回目なので、それほどドヤ顔ではないのだが。。 
-<img src=""></img>
-
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月18日 
+TITLE: 2011年08月18日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -9364,7 +5086,7 @@ BODY:
 子にエサやりしてると、箸を寄越せとウルサイ。。君にはスプーンもフォークもあるじゃないか！何故箸に執着するんだ！！仕方なく子供用箸を与えるが勿論使えず、、次第に遊びに変化していき撒き散らし始め…orz。。半分程度食べた所で没収…。消耗した…明朝、腹が減ったと泣いても知らんからな…。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年08月19日 
+TITLE: 2011年08月19日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -9378,25 +5100,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 毎朝、子にお風呂の残り湯で行水させるんだけど、自分で手桶にお湯を汲んでかけるのがマイブーム。それがものすごく、噴水とかの彫刻にありそうなポーズで笑えるｗあのムチムチ加減・お腹のポッコリ感とか・・・ｗｗ
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月19日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/19/2011 01:12:26
-TAGS: "Movable Type",foo,bar
------
-BODY:
 子は案の定、５時半に起きて「バッナンナ～　　パーンーー」と朝食を要求。。そしてそのまま元気に遊び、８時にも小腹が空いたらしく、二度目の朝食を食べて登園orz　二度目の朝食って・・・パタリロかよ・・・ああ、あの頬の膨らみそっくりだよ・・・
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年08月20日 
+TITLE: 2011年08月20日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -9410,10 +5117,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 ボールペンを横にくわえ、オモチャ箱を押す謎の修行に励んでるなう。
- http://t.co/TDfXHGd
+ <img src="https://zacky1972.github.io/tw_diary_images/377380302.jpg"></img>
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年08月21日 
+TITLE: 2011年08月21日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -9427,10 +5134,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 サングラスをかけてご満悦。やけにリゾートっぽいな。。キレイな海に行きたいな…エメラルドグリーンのさ…
- http://t.co/0Ebw5TV
+ <img src="https://zacky1972.github.io/tw_diary_images/378388998.jpg"></img>
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年08月22日 
+TITLE: 2011年08月22日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -9444,25 +5151,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 うさぎドロップのレイトショー行って来た。松ケン・・・あの髪型は何なのさ・・・。。ノルウェイの森のときの七三分けの方がまだマシだよぉ・゜・(/Д`)・゜・原作もあんなモジャじゃないのになんで？！
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月22日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/22/2011 06:35:40
-TAGS: "Movable Type",foo,bar
------
-BODY:
 集中豪雨！駐車してる車のバンパー下のとこまで水が上がってきたので、慌てて移動。。ココは埋立地なので、潮が満ちてるとマンホールが流れなくなるどころか逆流するのよね(-_-;)
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年08月25日 
+TITLE: 2011年08月25日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -9478,7 +5170,7 @@ BODY:
 子が「★＆△％◆！・・・ゥオイッチニー！イッチニー！！」と言いながら踊って？いる。。しかし何なんだろうな、この踊るという動作。つかまり立ちの頃から音楽が流れると踊りだすんだよなー。本能に組み込まれてるとしか思えないが、何のためになんだろ？？
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年08月27日 
+TITLE: 2011年08月27日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -9494,7 +5186,7 @@ BODY:
 お台場なう。ランチはよねむら。やっぱこういうの大好き！コスパ悪いと言われてるけど、私的には満足度が高かった(´∀｀)リピートすると思う(=・ω・)/
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年08月28日 
+TITLE: 2011年08月28日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -9508,93 +5200,15 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 爽やかに晴れてる～。ベビーカーで散歩気持ちいい(´∀｀)子にはルームサービス、親は交代でレストランに行ってゆっくり朝食なう。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月28日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/28/2011 20:28:13
-TAGS: "Movable Type",foo,bar
------
-BODY:
 日曜日昼はヤマザキ両親・妹一家とファミレスでランチ。子は従兄弟とも遊んだが、飽きると店内を駆け回り、店中の子供をナンパしてる…。これが目が離せない時期ってやつか！(汗)
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月28日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/28/2011 20:39:50
-TAGS: "Movable Type",foo,bar
------
-BODY:
 食後は公園へ。鯉を見て喜び、点字ブロックの上を歩く遊びに夢中になって随分歩いた。が、せっかく同い年の従兄弟も居るのに、イマイチ一緒に遊べない。。仲良し兄弟の中に入って行きにくいのかなぁ、、私も経験ある。頑張れ一人っ子！
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月28日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/28/2011 20:50:05
-TAGS: "Movable Type",foo,bar
------
-BODY:
 夜は友人とホテルで夕食。これ、お子様ランチ！すごく豪華！！味見したけど、フレッシュなコーンスープやフワトロオムライス、粗びきハンバーグにワッフルなど、かなり美味しかった。
- http://t.co/L55iNld
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月28日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/28/2011 21:15:03
-TAGS: "Movable Type",foo,bar
------
-BODY:
-大人はドライエイジングのオージービーフ、四人で450g×3をペロリ！！肉も美味しかったし、ソースバーが楽しかった。子連れレストランとしてはかなりイイヾ(＠⌒ー⌒＠)ノ タロンガ[食べログ] 
-<img src=""></img>
-
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月28日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/28/2011 21:45:44
-TAGS: "Movable Type",foo,bar
------
-BODY:
+ <img src="https://zacky1972.github.io/tw_diary_images/384262152.jpg"></img>
+大人はドライエイジングのオージービーフ、四人で450g×3をペロリ！！肉も美味しかったし、ソースバーが楽しかった。子連れレストランとしてはかなりイイヾ(＠⌒ー⌒＠)ノ タロンガ[食べログ]
 子が…ソッと鏡に……キスしてる！！(;´∩｀)
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年08月30日 
+TITLE: 2011年08月30日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -9608,79 +5222,13 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 最終日は子をシッターさんにお願いしてホテルのプール＆ジャグジーでのんびり・・・のつもりが、AQUA ZERO G入門コース、水中ウォーキングレッスンも付いてて思いのほか運動させられちゃった。。水中ストレッチは気持ちよかったんだけどね。。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月30日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/30/2011 01:28:52
-TAGS: "Movable Type",foo,bar
------
-BODY:
 ランチはホテル内の天麩羅カウンター「吉野」へ。景色良し！味も満足。このレベルの天麩羅が北九州でも食べられればなぁ・・・。このランチコースはコスパがすごく良かった。
-<img src=""></img>
-　
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月30日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/30/2011 17:15:06
-TAGS: "Movable Type",foo,bar
------
-BODY:
-ヤマザキにはランドセルが最適だ！とtumiのルジュヌを贈ったんだけど、ここまでリアルにランドセルだとキモいな。。大人用ランドセル発売 - ねとらぼ 
-<img src=""></img>
-
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月30日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/30/2011 17:24:18
-TAGS: "Movable Type",foo,bar
------
-BODY:
+ヤマザキにはランドセルが最適だ！とtumiのルジュヌを贈ったんだけど、ここまでリアルにランドセルだとキモいな。。大人用ランドセル発売 - ねとらぼ
 因みに私は超軽量の斜めがけマザーズバッグ。。グラム数でバッグを選ぶなんて、子を産むまで考えた事なかったよ。。。初代マザーズバッグはデザインで選んだら、重くて嫌になりお蔵入り～(-｡-;
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月30日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/30/2011 17:45:35
-TAGS: "Movable Type",foo,bar
------
-BODY:
 アクアヴィータのサービスの男のコが今月いっぱいで退職との事で、お見送りがてら一家で夕食。夜は子供不可なんだけど、たまたま子連れの半貸切が入っていたので便乗させて頂いた。子はミネストローネをがっついた後、退屈モードで交代で連れ出すハメに。。外食に連れて行けない時期に突入か…!
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年08月31日 
+TITLE: 2011年08月31日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -9694,26 +5242,11 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 作品番号1 「ハリネズミの凧上げ」 画材:サクラ水で落とせるクレヨン/ダイソー画用紙 #shinokaart
- http://t.co/YkvPsSd
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月31日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/31/2011 07:24:26
-TAGS: "Movable Type",foo,bar
------
-BODY:
+ <img src="https://zacky1972.github.io/tw_diary_images/386014893.jpg"></img>
 子がベッドから足を踏み外して落下！お尻は打ったものの、なんと頭をナイスキャッチ出来た。自分の素早さにビックリした。。(◎o◎)
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年09月02日 
+TITLE: 2011年09月02日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -9729,7 +5262,7 @@ BODY:
 子がガブリエルに！！ΣΣ（゜д゜lll）・・・同級生を噛んでしまいました・・・orz。。オモチャを何度も奪われ、「ターイ！ィタイヨー？！（訳：これを取ったら叩くよ！痛い目みるよ？！）」と手を振り上げて威嚇したもの無視され、腹に据えかねての犯行らしい。。はぁ・・・
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年09月05日 
+TITLE: 2011年09月05日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -9743,57 +5276,12 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 イタリア展＠岩田屋、楽しかったー。サルメリア　ガリバルディの惣菜楽しい♡空輸フレッシュポルチーニをGet！傘はグリルでエキスがジュワジュワ～(ﾟдﾟ)ｳﾏｰ　軸はパンチェッタと炒めてクリーム煮詰めて、生パスタ投入！(ﾟдﾟ)ｳﾏｳﾏｰ
---------
-AUTHOR: Foo Bar
-TITLE: 2011年09月05日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 09/05/2011 02:03:33
-TAGS: "Movable Type",foo,bar
------
-BODY:
 ヤマザキ、子に腹を二回もガブリエル！特に理由も無かったらしい・・・狂犬か・・・。。私に噛み付いたら、噛み付き返して教育的指導しちゃる！親猫として！！(｀・ω・´)キリッ
---------
-AUTHOR: Foo Bar
-TITLE: 2011年09月05日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 09/05/2011 06:27:26
-TAGS: "Movable Type",foo,bar
------
-BODY:
 大丸でアシックスの子の靴サイズの計測会。大泣きしつつ足裏スキャン！9月から変えた今の靴は、丁度良いと言われてホッ´・｀*）　3歳までは3ヶ月で0.5cm大きくなると言われて驚いたけど、思えばもう3足目だ・・・そんなもんか。。4足目として泥んこ保育園用の茶色いスニーカーを購入！
---------
-AUTHOR: Foo Bar
-TITLE: 2011年09月05日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 09/05/2011 09:06:26
-TAGS: "Movable Type",foo,bar
------
-BODY:
 なんだよ～、外はすっかり秋で肌寒いなんて。。中洲ぜんざいのフワフワかき氷の予定が、ディンタイフォンの小籠包でオヤツなう！ん～台湾本店の80%の出来?福岡で食べるならまぁアリか。生姜はもちょっと細く切って欲しいなー。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年09月06日 
+TITLE: 2011年09月06日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -9807,41 +5295,11 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 歌詞を見てもメロディーが浮かばない新校歌。昨日の食事会で、とうとう同校出身の人に歌ってもらった(笑)あー・・・聞いたことあるね・・・・！！でも一晩経つともうBメロがアヤシイ。。ここまで耳に残らないメロディーも珍しいな・・・！
---------
-AUTHOR: Foo Bar
-TITLE: 2011年09月06日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 09/06/2011 02:28:27
-TAGS: "Movable Type",foo,bar
------
-BODY:
 阪急で子供服を見てると、可愛いチュニックが目に止まった。サイズが80から160まであるというので姪っ子とお揃いに・・・と思ったが、私も着れるデザインだったので母子で色違いを購入(笑)ごめん姪っ子、また今度な！いやー、子とお揃いの服を来ようなんて、出産前は思いもしなかったわ～(照)
---------
-AUTHOR: Foo Bar
-TITLE: 2011年09月06日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 09/06/2011 05:58:13
-TAGS: "Movable Type",foo,bar
------
-BODY:
 そうそう、子は11月からガチな方のさくらさくらんぼ園（超泥んこ保育園）に通う事になりました～。色々どうなるか・・・不安は残るのだけれど・・・。まぁ親子どちらかに無理がありそうなら、スパっと替える心づもりで決定！子は順応力に長けているようだしな(^_^;)
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年09月07日 
+TITLE: 2011年09月07日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -9857,7 +5315,7 @@ BODY:
 私が扁桃腺が腫れて発熱。。久しぶりだわ…しんどい……。今日は休んで一日で完治しちゃる！全て用意して子を保育園に連れて行ってくれたヤマザキに感謝。子がウルサイから泣き止ませろなんて昭和なオヤジみたいなこと言ってゴメンよぅ。。さーて、病院行くか…
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年09月08日 
+TITLE: 2011年09月08日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -9873,7 +5331,7 @@ BODY:
 一応症状は治まったんだけど、頭が全く働かない。。抗生剤しか飲んでないので、薬のせいじゃないと思うんだけど・・・。熱で脳細胞がヤラレタのかな。。私「頭が働かなくてグルグル同じ事してるよ・・・」山「僕、いつもそんなだよ！」私「それは・・・生き難いね・・・」山「だから労わってね！！」
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年09月10日 
+TITLE: 2011年09月10日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -9887,25 +5345,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 イタリア展で購入した二種類のモッツァレラブッファラでモッツァレラ祭り！カプレーゼは勿論、あいちゃん農園のフローレンスパープルと天狗茄子を入れたミートソースグラタン、ジェノベーゼのパスタにも乗っけて食べ比べ～。二人で二袋、ほぼ食べ切った（汗）
---------
-AUTHOR: Foo Bar
-TITLE: 2011年09月10日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 09/10/2011 11:51:47
-TAGS: "Movable Type",foo,bar
------
-BODY:
 母の兄弟が会した宴会に子を連れて行った。従兄弟の子達も来てて、こはそれはもう大はしゃぎ！階段を十往復以上し、プラモデルやぬいぐるみで遊んで貰い、ウキーと走り回り…。流石に疲れたらしく、帰ってお風呂の中でウトウト。。こんなの初めてだ～w超ラクww
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年09月13日 
+TITLE: 2011年09月13日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -9919,25 +5362,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 寝転ぶと皿倉山がババンと見える私のベッド。周りに建物も無いので、カーテン全開にして空と山を見ながら寝起きしている。昨晩、驚くほど明るい光がサッとベランダにさして、そういえば中秋の名月！とベランダに出てみた。すっごくキレイで、心が澄み渡るようだった。そんな印象的な誕生日。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年09月13日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 09/13/2011 12:39:04
-TAGS: "Movable Type",foo,bar
------
-BODY:
 誕生日ディナーはおか野でウマウマ♡プレゼントは浅野忠信の写真集wと、浅野の髪型を真似たヤマザキww、直筆カードに自前ラッピングなど、大変心温まるモノでした（笑）ただいま、愛猫がバースデーマッサージを念入りにしてくれてる。しあわせ～
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年09月15日 
+TITLE: 2011年09月15日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -9951,57 +5379,12 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子に指示をすると「ナイナーイ」と言いながらオモチャを片付け、「ポーイ」と言いながらゴミを捨てるようになった。結構便利！更に今朝は紙パックのジュースを飲み終わると、自ら「ポーイ！」と言いつつ捨ててて、ちょっとビックリした。着々と機能が上がっている模様。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年09月15日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 09/15/2011 01:40:45
-TAGS: "Movable Type",foo,bar
------
-BODY:
 子の食欲は一時に比べると落ち着いてきて、まぁ常識の範囲の量で満足するようになった。しかしやはり肉好きｗとりあえず肉を先に全部食べるｗｗ野菜を気分が乗らないと残すようになった。。で、小腹が減ると「パンマ！！（パン+マンマ？ロールパン寄越せ！）」とシツコク要求してくる。。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年09月15日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 09/15/2011 01:48:06
-TAGS: "Movable Type",foo,bar
------
-BODY:
 因みにロールパンはセブンイレブンの物(笑)アンタそれでも食マニアか！って言われそうだけど、トランス脂肪酸フリーである事、柔らかくて幼児向きである事、無くなっても徒歩３分で買える事、旅行先でも簡単に手に入る事など、利点が多い。ずっと食べさせているせいか、子もこれが一番好きな模様。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年09月15日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 09/15/2011 01:57:14
-TAGS: "Movable Type",foo,bar
------
-BODY:
 子の朝食は毎日ロールパンとバナナ。というのは、私自身は朝食を食べない人で、その理由が「毎日同じ物食べるのは退屈」だからだ。逆説っぽいが、毎日朝食メニューが同じでも良い人、むしろ同じ方が良い人というのが存在するわけで、そういう人の方が人生ラクだろうし、子もそうさせてみようかと。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年09月17日 
+TITLE: 2011年09月17日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -10014,13 +5397,10 @@ DATE: 09/17/2011 03:58:27
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-子、初のトンコツラーメン！ほぼ一玉食べたΣ（ﾟдﾟlll）スープもちょっと水で薄めてやると、すごい勢いで飲んでるし。子供椅子アリ。ヤマザキは出張で子と二人で行ったけど、ラーメン屋でも何とかなるもんだな。[食べログ] 無法松 
-<img src=""></img>
-
-
+子、初のトンコツラーメン！ほぼ一玉食べたΣ（ﾟдﾟlll）スープもちょっと水で薄めてやると、すごい勢いで飲んでるし。子供椅子アリ。ヤマザキは出張で子と二人で行ったけど、ラーメン屋でも何とかなるもんだな。[食べログ] 無法松
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年09月19日 
+TITLE: 2011年09月19日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -10034,41 +5414,11 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 今日は母親OFFの日！くうてんのアルポルトでランチ&ワインして、birthday半額エステしにルイガンズまでバスに揺られてるなう。一人でボンヤリ、安らぐわ～
---------
-AUTHOR: Foo Bar
-TITLE: 2011年09月19日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 09/19/2011 03:14:15
-TAGS: "Movable Type",foo,bar
------
-BODY:
 はうん。ルイガンズは海辺のホテルで、スパルームもオーシャンビュー。これで天気が良いと最高なのに…。でも、暗雲が立ち込める空の眺めも悪くは無いと思う私は台風女。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年09月19日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 09/19/2011 07:36:17
-TAGS: "Movable Type",foo,bar
------
-BODY:
 はぁ、癒された…。帰りは香椎線。初めて乗る路線はなんかウキウキするなぁ(´ω｀)松林と防風の砂？ばっかりで、あんまり景色は良くないけどね…
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年09月20日 
+TITLE: 2011年09月20日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -10082,25 +5432,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 鶏肉を買ったの忘れて痛ませてしまった。腐った鶏肉ってドリアンの臭いになるんだな。。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年09月20日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 09/20/2011 11:53:51
-TAGS: "Movable Type",foo,bar
------
-BODY:
 今日までヤマザキは出張なので、田舎庵から出前の鰻をとっちゃった♪何だか疲れたので甘いモノが飲みたいわ～と、ひさびさに日本酒を開けてみる。美味し！でも、日本酒は180ml瓶で丁度良いなぁ。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年09月23日 
+TITLE: 2011年09月23日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -10114,25 +5449,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 ひびき動物ワールドでカンガルー見物。ここ来たの子供の時以来だ。すっげートゥントゥン跳ぶね！！子にとっては本でも見たことの無い生き物のはずだが、普通に笑顔で撫でていた。もっとおののいて欲しかった。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年09月23日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 09/23/2011 11:33:40
-TAGS: "Movable Type",foo,bar
------
-BODY:
 アクアヴィータのお土産の鹿肉ローストに、子、「んんっ！むふー！」と大興奮。末恐ろしい。。カンガルーも、見るよりステーキの方が喜びそうw カポナータも優しい味でガツガツ食べてる。赤子とは思えない贅沢ディナー…！
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年09月24日 
+TITLE: 2011年09月24日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -10146,79 +5466,16 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 大分美術館のテオ・ヤンセン展を見に、別府一泊ひとり旅、出発！(´ψψ｀)
- http://t.co/sXjWFSXT
---------
-AUTHOR: Foo Bar
-TITLE: 2011年09月24日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 09/24/2011 02:08:12
-TAGS: "Movable Type",foo,bar
------
-BODY:
+ <img src="https://zacky1972.github.io/tw_diary_images/405697053.jpg"></img>
 いつも車だったから豊本線ってあまり乗った事無かったけど、視界が広くて気持ちいい〓海も見えるし旅気分が盛り上がる〜〓指定席車両の飲酒率がものすごい(笑)
- http://t.co/TZ1iU04x
---------
-AUTHOR: Foo Bar
-TITLE: 2011年09月24日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 09/24/2011 06:26:33
-TAGS: "Movable Type",foo,bar
------
-BODY:
-テオ・ヤンセン展、すごく面白かった！！写真は化石になったビーチアニマルの部屋。サラサラで真っ白な砂の上に展示してあってビックリ。子供達が砂遊びしまくり(笑)動いてるビーチアニマル... 
-<img src=""></img>
-
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年09月24日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 09/24/2011 07:03:08
-TAGS: "Movable Type",foo,bar
------
-BODY:
+ <img src="https://zacky1972.github.io/tw_diary_images/405714353.jpg"></img>
+テオ・ヤンセン展、すごく面白かった！！写真は化石になったビーチアニマルの部屋。サラサラで真っ白な砂の上に展示してあってビックリ。子供達が砂遊びしまくり(笑)動いてるビーチアニマル...
 バスが美術館の駐車場渋滞に巻き込まれ、40分遅れで来たΣ(￣□￣;)うみたまご渋滞も有名だし…大分、道路作るの下手なんじゃない？(－＿－メ)皆ノンビリ待ってるよ…偉い。。私もお土産の大人の科学テオ・ヤンセンで時間をつぶす。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年09月24日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 09/24/2011 17:09:56
-TAGS: "Movable Type",foo,bar
------
-BODY:
 夕食は天ぷら加とう。別府泊の時は必ず行くお店。創作系で、茗荷の湯葉包とか秋刀魚のムースの天ぷらが美味しかった！シャンパン一本飲み上げちゃった(о＾∇＾о)
- http://t.co/lbqHwGUx
+ <img src="https://zacky1972.github.io/tw_diary_images/406364945.jpg"></img>
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年09月25日 
+TITLE: 2011年09月25日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -10231,45 +5488,12 @@ DATE: 09/25/2011 05:45:38
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-一泊だけど、すごくノンビリしたなぁ。。ビバひとり旅！元々子供好きではないせいか、本能的な物なのか、子の声がすると芯からゆっくりした気分になれないんだよね…。充電完了！二匹とヤマザ... 
-<img src=""></img>
-
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年09月25日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 09/25/2011 12:27:12
-TAGS: "Movable Type",foo,bar
------
-BODY:
+一泊だけど、すごくノンビリしたなぁ。。ビバひとり旅！元々子供好きではないせいか、本能的な物なのか、子の声がすると芯からゆっくりした気分になれないんだよね…。充電完了！二匹とヤマザ...
 旅から帰ると、子はテンションMAX。なんかキョケケケー！ってワライカワセミみたいな声を出してるし(･_･;喜んで…くれてるのだろうか。。先週のヤマザキ4日間出張の後はヤマザキにくっついて、抱っこからおろすと激怒して大変だったのだけど、一泊だと楽勝か？
---------
-AUTHOR: Foo Bar
-TITLE: 2011年09月25日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 09/25/2011 12:39:50
-TAGS: "Movable Type",foo,bar
------
-BODY:
 まぁ何にせよ、快く送り出してくれたヤマザキに大感謝。家計はワリカン・家事も育児も半分こ！といっても、実際してくれる男性って多分そういないよね。。有り難や×100。それに母じゃないと・父じゃないとダメが全く無い子にも感謝！
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年09月26日 
+TITLE: 2011年09月26日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -10283,25 +5507,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子は未だヌイグルミが良く解らないんだよ・・・ごめん、母。姉から貰ったうさももも、ヤマザキの生徒さんから頂いたテディも待ち構えているというのに。。保育園ノートより：めずらしく大きいヌイグルミを抱っこしてて、女の子らしくてかわいいわ～と思っていたら、躊躇無く踏み台として使いました。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年09月26日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 09/26/2011 01:54:03
-TAGS: "Movable Type",foo,bar
------
-BODY:
 思えば私もぬいぐるみとかってあんまり興味なかったような。。もちろん今も別段・・・。ひょっとして、私がヌイグルミを可愛がる姿を見せないので、子も興味を持たないのか？猫の事は私同様、お腹にソッと顔を埋めて可愛がって？るし。。ふうむ、いっちょ子の前でヌイグルミを撫でてみるか。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年09月27日 
+TITLE: 2011年09月27日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -10317,7 +5526,7 @@ BODY:
 保育ママの取材で、子がチラッとNHKの地方ニュースに。最初に出てくる一番丸くて汗ダクなのがウチの子です…。明日も朝7:45〜8:00の間に放送予定らしいけど、放送は福岡県内くらいかな？今回のは私は出ないので告知しちゃうw保育ママってどんな所か興味ある方はご覧ください～
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年09月29日 
+TITLE: 2011年09月29日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -10331,25 +5540,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 おお～、子が遅れて起きた私に、「ハヨ！ォハヨー！」と言ってくれた。そしてヌイグルミに布をかけ優しくポンポンしながら「ネンネー」と言い、布をとって「オハヨー！」というロールプレイングをしてる。ちゃんと解ってるなぁ、、驚いた！！
---------
-AUTHOR: Foo Bar
-TITLE: 2011年09月29日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 09/29/2011 01:28:23
-TAGS: "Movable Type",foo,bar
------
-BODY:
 ヌイグルミをぎゅーっと抱っこしたり、連れ歩いたりもし始めた。どうした、急に・・・！昨日私がヌイグルミをちょっと撫でて見せたのが功を奏したのか？まさか私のtweet読んだのか？？むぅ・・・幼児がヌイグルミを愛でる姿・・・中々カワイイじゃないか・・・！
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年09月30日 
+TITLE: 2011年09月30日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -10365,7 +5559,7 @@ BODY:
 子は口マネをするのがマイブームになった。ふざけて「オムツ替えようぜ！OMT！！」と言ったら、「おーえむてぃー・・・」と呟いたｗやばい、もう迂闊な事は言えないｗｗしかし「おはよう」と言うと、「おはよう」とは返さず「・・ウム。。」と言う。何故そこはオウム返ししないｗすごい偉そうｗｗ
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年10月01日 
+TITLE: 2011年10月01日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -10381,7 +5575,7 @@ BODY:
 ギンギラ太陽'sの映画見てきた。結構面白かったwちょっとホロリときたww映画館で観るようなモノかと言われるとアレだけど、今日は1000円だし！乗り物好きな私達としてはアリw
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年10月03日 
+TITLE: 2011年10月03日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -10397,7 +5591,7 @@ BODY:
 日曜はゲルバーのコンサート。二階舞台裏側の鍵盤丸見えな席でかぶりつき、音はイマイチだったけど楽しい。ヤマザキも寝ずに全部聞けてたｗ子は響ホールの特設託児所に。今回はウチ一人だけで、二人の保育士さんを独占し、たくさんのおもちゃでゴキゲンに遊んでいた模様。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年10月05日 
+TITLE: 2011年10月05日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -10413,7 +5607,7 @@ BODY:
 今日は運が悪すぎる・・・！(*_*)ポリオ集団接種の時間を間違えて無駄足踏むわ、駐禁とられるわ・・・orz　どっちも私が悪いんだけどさ～　
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年10月07日 
+TITLE: 2011年10月07日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -10429,7 +5623,7 @@ BODY:
 子は靴と帽子を自分で選びたがるようになってきた。いやいやその組み合わせはオカシイだろ・・・と言っても、イヤー！アッチー！！と聞く耳持たず(+_+)　知らん。好きな格好をするが良い。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年10月08日 
+TITLE: 2011年10月08日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -10443,25 +5637,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 今日はマールまる洗いしたし、テオ・ヤンセン展のお土産のミニ・リノセロス作ったし、充実の休日。洗いたての猫はフカフカで気持ちいいのか、子のマールくっつき度が高いw「マーゥ～！だっこ～！！」と呼ばわりつつ腹モフ。マールすごい迷惑そうww
---------
-AUTHOR: Foo Bar
-TITLE: 2011年10月08日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 10/08/2011 14:07:17
-TAGS: "Movable Type",foo,bar
------
-BODY:
 子はマールに対して、いつもよりワントーン高い声でそれはもう愛を込めて話し掛ける。これって私のマールに対する猫撫で声のマネなんだろうな。。私って…こんなにアレな感じ…？みたいな。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年10月09日 
+TITLE: 2011年10月09日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -10475,28 +5654,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 初めて子とベビーカー抱えてバス乗ったけど、いやー、結構シンドイね。。ベビーカーは軽量・折り畳み簡単・自立型で選んだカルパットなんだけど、それでも大変。やっぱJRにすべきだった、、エレベーター重要。。
+鹿 肉 最 高！！他の料理も凄かった。。ココとおか野は突き抜けてる。芸術にマーケティングは要らないよね…！と思わされるレベル。現実的には色々難しいのだろうけど。[食べログ] エタンセール カワモト
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年10月09日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 10/09/2011 23:48:32
-TAGS: "Movable Type",foo,bar
------
-BODY:
-鹿 肉 最 高！！他の料理も凄かった。。ココとおか野は突き抜けてる。芸術にマーケティングは要らないよね…！と思わされるレベル。現実的には色々難しいのだろうけど。[食べログ] エタンセール カワモト 
-<img src=""></img>
-
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年10月10日 
+TITLE: 2011年10月10日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -10510,25 +5671,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 猫・犬・象・豚・ライオン・アヒルは、絵でも写真でも実物でも子は解るようになった。初めての絵本でも、猫はどれ？と聞くと「アッ、ニャーニャ！」と指差す。絵とか結構デフォルメされてるのに良くわかるよなー。犬は姿形が多様過ぎて難関らしいw
---------
-AUTHOR: Foo Bar
-TITLE: 2011年10月10日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 10/10/2011 13:35:43
-TAGS: "Movable Type",foo,bar
------
-BODY:
 子から初めてちゃんとした言葉で呼び掛けられた。ヤマザキに釣られて「さちー」と…orz  子に対して話す時にはちゃんと一人称と三人称を気をつけて変えているけどなぁ。。ということは、ヤマザキは「キミ」と言われる確率高しw
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年10月12日 
+TITLE: 2011年10月12日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -10542,25 +5688,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 ヤマザキ目撃談によると、子は「ねーこー♪ねーこー♪」と弾き語りをしていたらしいｗさすが私の子ｗｗ　一緒にマール賛歌を歌う日も近いかな・・・
---------
-AUTHOR: Foo Bar
-TITLE: 2011年10月12日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 10/12/2011 06:26:36
-TAGS: "Movable Type",foo,bar
------
-BODY:
 一歳六ヶ月検診。78cm・10.8kg　気になるカウプ指数（幼児のBMIみたいなの）は・・・ギリギリ標準！ちゅーか、標準上限の数値に一致。まぁひとまずC=(^◇^ ; ﾎｯ!としちゃったり。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年10月13日 
+TITLE: 2011年10月13日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -10574,45 +5705,14 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 母が「え、子供に玉ねぎやっていいの？」とか言ってるｗ　犬じゃないから良いってばｗｗｗ
---------
-AUTHOR: Foo Bar
-TITLE: 2011年10月13日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 10/13/2011 05:52:04
-TAGS: "Movable Type",foo,bar
------
-BODY:
 作品番号２ 「草原の夕陽」画材：シュトックマー蜜蝋クレヨンブロック／ダイソー画用紙   このクレヨンは積み木として使用される場合が多いw #shinokaart
- http://t.co/rFHVQBI7
+ <img src="https://zacky1972.github.io/tw_diary_images/422516443.jpg"></img>
+
+作品番号２−２「草原の夕陽」母との共作 #shinok aart
+<img src="https://zacky1972.github.io/tw_diary_images/422518155.jpg"></img>
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年10月13日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 10/13/2011 05:56:21
-TAGS: "Movable Type",foo,bar
------
-BODY:
-作品番号２−２「草原の夕陽」母との共作 #shinok aart 
-<img src=""></img>
-
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年10月16日 
+TITLE: 2011年10月16日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -10626,25 +5726,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 二日酔いの上、朝は運動会の見学に行き、昼にパーティーでワイン飲んだら気分悪くなっちゃった…。二次会リタイア(&gt;_&lt;)
---------
-AUTHOR: Foo Bar
-TITLE: 2011年10月16日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 10/16/2011 07:25:20
-TAGS: "Movable Type",foo,bar
------
-BODY:
 昨日も子を海響館に行った後にワイン会と、ちょっと予定を詰め込みすぎた。。子は初水族館にウワー！ゥワーオ!!と大興奮。イルカのショーも意外と集中して全部見れていた。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年10月18日 
+TITLE: 2011年10月18日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -10658,25 +5743,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子は野菜生活が好物。うっかりジュースとか言ってしまうと、飲みたくなってしまって騒ぎ出す。。なので、「名前を言ってはいけないあの飲み物」と隠語を使っていたら、それも覚えてしまったらしく、冷蔵庫を指差し「なーまー」と要求(；゜Д゜)そのうち「とりあえず生で」とか言い出しそう・・・
---------
-AUTHOR: Foo Bar
-TITLE: 2011年10月18日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 10/18/2011 05:25:52
-TAGS: "Movable Type",foo,bar
------
-BODY:
 子は何故か抱っこの事をワウワ！と言っていたのだけれど、「ワウワじゃなくて抱っこだよ・・・」と言い続けていたら、最近「だ～っこ！」と言えるようになった。しかしまだついワウワと言ってしまうのだけど、「・・・じゃなくて？」と振ると「だっこ！だっこっこー」と答えてくれる。カワイイｗ　
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年10月19日 
+TITLE: 2011年10月19日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -10689,45 +5759,12 @@ DATE: 10/19/2011 00:33:39
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-ヤマザキが「ロンドンばーしが落ちまするーー」とか歌うので大爆笑したら、そういう版の本があるのね。。
-<img src=""></img>
-　でも何か笑えるｗｗ
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年10月19日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 10/19/2011 01:03:17
-TAGS: "Movable Type",foo,bar
------
-BODY:
+ヤマザキが「ロンドンばーしが落ちまするーー」とか歌うので大爆笑したら、そういう版の本があるのね。。でも何か笑えるｗｗ
 子が今朝起きぬけに「チッチデタ」とオムツを指差し、おしり拭きを取ってきて、自らゴローンと横たわった。いつもはケケケ！と言いながら逃げ回るのに・・・。寝ぼけて良い子になるって何なんだ。。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年10月19日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 10/19/2011 02:08:22
-TAGS: "Movable Type",foo,bar
------
-BODY:
 子は「ボケ」を覚えた。私をニヤニヤと見つつ、バナナをフォークの柄でつつき、「上手に刺せた～？・・・って、反対やん！」とつっこむと、ギャハハ！！と大喜び。そしてフォークをひっくり返して刺し、人を小ばかにした表情でアーム！と食べる。何、この小芝居・・・
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年10月20日 
+TITLE: 2011年10月20日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -10741,25 +5778,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子の、この人を小馬鹿にしたような表情、誰かに似てる・・・と思ったら。。川越シェフだよ！(((（ ;゜Д゜)))ガクブル
---------
-AUTHOR: Foo Bar
-TITLE: 2011年10月20日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 10/20/2011 04:24:39
-TAGS: "Movable Type",foo,bar
------
-BODY:
 うっかり今日放送された子（というか家庭保育員さん）のニュース、撮り損なっちゃった(*_*)　母のHDD内臓TVには録画したんだけど・・・DVDにダビング出来るのかな・・・。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年10月21日 
+TITLE: 2011年10月21日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -10773,90 +5795,15 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 昨日から三回ほど「・・・ハハゥェ･･･」といった気がするんだけど、これは認定しても良いだろうか？！
---------
-AUTHOR: Foo Bar
-TITLE: 2011年10月21日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 10/21/2011 01:10:59
-TAGS: "Movable Type",foo,bar
------
-BODY:
 最近の子の知能は「馬鹿な犬並み」になったような。因みに　馬鹿な犬＜馬鹿な猫＜普通の犬≒普通の猫＜賢い猫＜賢い犬＝小四　というイメージ
---------
-AUTHOR: Foo Bar
-TITLE: 2011年10月21日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 10/21/2011 01:40:05
-TAGS: "Movable Type",foo,bar
------
-BODY:
 薄暗がりのままオムツ替えをしようとしたら、「パッチ！パッチン！！」と電気を付けろと言われた。。「こんな暗がりで私の尻がしっかり拭けると思うのか！不精するな！！」と抗議するような勢いで。。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年10月21日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 10/21/2011 01:45:39
-TAGS: "Movable Type",foo,bar
------
-BODY:
 ヤマザキが出張で居ないので、朝の用意の時間に「おかあさんといっしょ」をつけたら、そこそこの時間、集中して見て踊ったりしていた。これは・・・動画を見せながら長距離移動出来る日も近いか？o(●´ω｀●)oわくわく♪
---------
-AUTHOR: Foo Bar
-TITLE: 2011年10月21日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 10/21/2011 05:31:50
-TAGS: "Movable Type",foo,bar
------
-BODY:
 母のTVはKDL-26BX30H・・・ビデオ出力端子すら無いよ・・・orz　　うーむ、TVが壊れたら、SONYの修理の人の温情に頼るしかないかなぁ。。とりあえずビデオカメラで撮っておくか・・・。なんて原始的な・・・
---------
-AUTHOR: Foo Bar
-TITLE: 2011年10月21日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 10/21/2011 23:22:06
-TAGS: "Movable Type",foo,bar
------
-BODY:
 作品番号3 「パン」 画材:サクラ水で落とせるクレヨン・ボールペン  本人がパンマ！と言いながら描いていたので多分パン
- http://t.co/i4BJQxVb
+ <img src="https://zacky1972.github.io/tw_diary_images/429584410.jpg"></img>
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年10月22日 
+TITLE: 2011年10月22日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -10872,7 +5819,7 @@ BODY:
 挑戦し続づける事4ヶ月・・・ついに子、ホックを止める事に成功しました～！もうね、プチっっと快音をさせつつ満面の笑み。超得意気。　着古した服のホック。もうそろそろ小さいんだけど、しばらくはオモチャとして活躍しそうｗ
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年10月24日 
+TITLE: 2011年10月24日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -10886,10 +5833,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 保育園のシーツ縫うのに日曜半日がかり。直線ミシンがけ位と甘くみてたら、大物って縫うの大変なのね…！(;-_-+でも良いんだ…可愛いネコ柄だから…
- http://t.co/hyRhcB6L
+ <img src="https://zacky1972.github.io/tw_diary_images/431598332.jpg"></img>
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年10月27日 
+TITLE: 2011年10月27日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -10905,7 +5852,7 @@ BODY:
 私の悪癖を、ヤマザキが「無くて七癖って言うからね(^^」と励ましてくれた。いいひとだ～！！しかし、お互いの癖を数えていくと、ヤマザキ圧倒的多数ｗググってみると「無くて七癖｣は、「あって四十八癖」と続くらしい。ヤマザキ「あって」の方に近いｗｗ
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年10月28日 
+TITLE: 2011年10月28日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -10919,25 +5866,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子の最近の入眠儀式は、まず私のベッドでマールに抱き付きオヤスミの挨拶。マールが逃げると、受身の練習をしつつゴロゴロ。ウッカリすると頭突きを受けて大打撃。10分程で自分のベッドに連れて行く。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年10月28日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 10/28/2011 12:05:15
-TAGS: "Movable Type",foo,bar
------
-BODY:
 自発的にゴロリとなり、「おやすみ～」と言うと一旦バイバイと返され部屋を出るが、油断してはいけない。大抵すぐに呼び戻され、ココ！と椅子を指差し、もうしばらく一緒にいろとのたまう。ちょっとトントンや子守唄で気が済むと、ネンネ…バイバイ…と出て行ってヨシと言われ、終了。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年10月31日 
+TITLE: 2011年10月31日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -10953,7 +5885,7 @@ BODY:
 家庭保育所での様子をビデオで取ってもらった。私が編集して、ヤマザキにDVDに焼いて貰い、先生や他の子にプレゼント。朝チェックしたら！ヤマザキ、「なかよし保育園」と命名してタイトルに付けてる！！ΣΣ（゜д゜lll）ガガーン 　勝手に名づけちゃ駄目だろう・・・自由すぎる・・・
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年11月01日 
+TITLE: 2011年11月01日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -10967,41 +5899,11 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 今日から新しい保育園の慣らし保育。しばらくヤマザキの膝の上で様子を窺っていたが、砂場に興味を持ち始め、笑顔でバイバイといってくれた。とりあえずホッ・・・C=(^◇^ ; 　しかし、さすがどろんこ保育園。日が照って暖かいとはいえ11月に半ズボン＆裸足で泥遊びだよ。半袖の子も多数。。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年11月01日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/01/2011 06:25:35
-TAGS: "Movable Type",foo,bar
------
-BODY:
 はぁ…子は新しい環境に興奮したのか、昼寝開始が二時間もズレ込んでしまった。寝たら母と代わって貰うつもりが、タイミング合わず。。今日は会社を午後休みになっちゃったなぁ。ヤマザキも帰って来れないようだし…
---------
-AUTHOR: Foo Bar
-TITLE: 2011年11月01日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/01/2011 06:39:30
-TAGS: "Movable Type",foo,bar
------
-BODY:
 子は私が迎えに行くと昼食中。横目でチラリと私を見つつ、黙々と食べ続ける。。え、そんなもんなの？(･_･;と思っていたら、お腹いっぱい食べ終わるとすぐフエェエーン…と言い出し、甘えてきた！Σ（・□・；）甘えたい気持ち&lt;食欲って事か…! 2時間楽しく過ごしたらしく良かったけど。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年11月01日 
+TITLE: 2011年11月01日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -11014,29 +5916,13 @@ DATE: 11/01/2011 06:58:22
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-家庭保育園の卒業?記念に頂いた、手作りの手形入り羽子板・一枚一枚にコメントの入ったアルバム・写真データ入りCD。すごく嬉しい(o&gt;ω&lt;o) 先生方には、本当に、本当にお世話になっ... 
-<img src=""></img>
+家庭保育園の卒業?記念に頂いた、手作りの手形入り羽子板・一枚一枚にコメントの入ったアルバム・写真データ入りCD。すごく嬉しい(o&gt;ω&lt;o) 先生方には、本当に、本当にお世話になっ...
+<img src="https://zacky1972.github.io/tw_diary_images/438758904.jpg"></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年11月01日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/01/2011 07:07:34
-TAGS: "Movable Type",foo,bar
------
-BODY:
 この記念品の完成度に比べ、私ときたら…「お友達へのプレゼント」をすっかり失念し、もう一人の卒園生からはチャッカリ頂いてしまう始末。。配ったDVDも、ラッピングやラベル印刷なんて考えもつかなかったよ…！しかも書き間違えて二重線つきだよ…!こういうとこ、女のコじゃ無いんだよな…私…
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年11月02日 
+TITLE: 2011年11月02日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -11050,41 +5936,11 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 今日も・・・ニコッとバイバイして見送ってくれた・・・！しばらくして遠くから見ると、保育士さんの膝の上に座り、大量の土を目の前にどうしたものか・・・といった表情で固まっていた。。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年11月02日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/02/2011 05:06:42
-TAGS: "Movable Type",foo,bar
------
-BODY:
 迎えに行くと、子は私の膝にドカンと座り、保育士さんと話している間に・・・ジョーー・・・orz。靴下犠牲になりました・・・(*_*)どろんこ保育園、動きやすいようにと普通のパンツで過ごすんだよね。。先代のサン（犬）が子犬の時以来の温もりでした。。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年11月02日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/02/2011 05:18:49
-TAGS: "Movable Type",foo,bar
------
-BODY:
 園庭（というか山）の大人でもハァハァ言う位の坂を自力で登りきったらしい。しかし階段を這い上がる時、手をついた所にアリを見つけウワーン！　立ち直って、皆で「コッコ！コッコ！」と言いながら鶏小屋に行ったものの、初めて見る生ニワトリの迫力にウワーン！！　そんな半日だったらしい。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年11月03日 
+TITLE: 2011年11月03日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -11100,7 +5956,7 @@ BODY:
 友達に長湯までドライブに連れて行って貰った。…スポーツカーに乗るってスポーツなんだね…！そして、オープンカーでのマチ子巻は伊達では無く、必然、なんだな…と。。温泉&エノハ&ビール、最高でした！♪( ´▽｀)
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年11月04日 
+TITLE: 2011年11月04日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -11116,7 +5972,7 @@ BODY:
 今日まで慣らし保育で午前中のみ登園。子は「しばらく母の膝で様子を窺う」も省き、服をロッカーに入れるのを手伝って（というか邪魔して）くれ、トコトコを遊びに出掛けていった。で、はよ帰れとでも言いたげに、バイバイ！と。・・・もうすっかり慣れてるんじゃね？
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年11月05日 
+TITLE: 2011年11月05日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -11132,7 +5988,7 @@ BODY:
 保育園に迎えに行くと、…なんか熱測ってる！(-｡-;  朝は元気でキャッキャと笑いながら園外散歩に出掛けたのに、ランチの途中でボーッとし始めたらしい。。やっぱり、新しい環境に緊張してたのかなぁ。一晩寝たら治ったようだけど、寝苦しかったようで、今日は昼寝するまで機嫌が悪かった…
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年11月06日 
+TITLE: 2011年11月06日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -11148,7 +6004,7 @@ BODY:
 友達の子が遊びに来てくれた。が、子はイマイチ打ち解けられず…。自分の家だからか、オモチャや椅子に独占欲丸出し。。貸せずにキレて、肩まで押した！（；￣ェ￣）うーん、こんなにワガママだったとは…保育園ではドウゾーって言ってるらしいのに。。ヤマザキが小皇帝になっちゃった…と困惑気味。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年11月08日 
+TITLE: 2011年11月08日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -11162,25 +6018,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 慣らし保育は、昨日と今日は昼寝をしてから帰っている。昨日はチョコチョコ目が覚めてたらしいけど、今日はグッスリだったらしい。しかし今までの習慣通り1.5時間程度で起きてる。皆と同じように2.5時間寝れるようになるには、まだちょっとかかりそうだなぁ
---------
-AUTHOR: Foo Bar
-TITLE: 2011年11月08日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/08/2011 07:53:34
-TAGS: "Movable Type",foo,bar
------
-BODY:
 子、この季節に、虫にさされまくり(汗)　保育園では虫除けハーブのスプレーや蚊取り線香も焚いてるらしいんだけど、何せあの山だからなぁ・・・。まぁあんまり痒がらないし、大人になっても跡が残ることはなかろう。。治癒能力に定評のある私の子だしｗ
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年11月09日 
+TITLE: 2011年11月09日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -11193,61 +6034,16 @@ DATE: 11/09/2011 14:27:43
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-今度の保育園は月一お弁当で、遠足に持って行くらしい。前の園は毎日だったし、「家にいる子も大したもの食べて無いから気楽にどうぞ〜」と言ってくれてたが、今の所は食育に力を入れてるだけ... 
-<img src=""></img>
+今度の保育園は月一お弁当で、遠足に持って行くらしい。前の園は毎日だったし、「家にいる子も大したもの食べて無いから気楽にどうぞ〜」と言ってくれてたが、今の所は食育に力を入れてるだけ...
+<img src="https://zacky1972.github.io/tw_diary_images/444133033.jpg"></img>
 
 
---------
-AUTHOR: Foo Bar
-TITLE: 2011年11月09日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/09/2011 14:37:02
-TAGS: "Movable Type",foo,bar
------
-BODY:
 和食推進派らしいのだけど、朝ごはん書く欄に毎日正直にパンとバナナと書き続けたら、朝に米食べろ的な記事と、ウチの園児はこれだけ朝から米を食べてます的なアンケート結果のプリントが来た(-｡-; ん～…もうちょっとこぼさず食べれるようになってから考えよ…
---------
-AUTHOR: Foo Bar
-TITLE: 2011年11月09日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/09/2011 14:44:19
-TAGS: "Movable Type",foo,bar
------
-BODY:
 遠足は、三歳児クラスからはバスに乗って遠出してたが、子達は園庭から山にピクニック。子…自力で登りきったらしい…！！そして皆でとったムカゴを嬉しそうに食べたとか。うーん、楽しそう。もう私はしたくないけどw
---------
-AUTHOR: Foo Bar
-TITLE: 2011年11月09日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/09/2011 14:54:47
-TAGS: "Movable Type",foo,bar
------
-BODY:
 子はまだこぼすもののの殆ど自力で食べれるようになってきたので、保育園を変わったのを機に大人と一緒に夕食を食べる事にした。慣らし保育が終わったらお迎えはヤマザキに任せ、その間に私は夕食を作って待ち構える算段。いやー、19時に夕食食べ終わると、すごく時間にゆとりがあるね！
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年11月11日 
+TITLE: 2011年11月11日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -11261,25 +6057,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 年取ると、人間丸く・・・というか、甘くなっていくのね。。年寄りっ子は三文安いってホントだよ！！昔はキチンと犬が飼えてた人なのに、今では犬に首輪つけるのが可哀想とかｗ自分で着けてみろ、苦しいやろ？！とか言ってるしｗｗ
---------
-AUTHOR: Foo Bar
-TITLE: 2011年11月11日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/11/2011 02:05:15
-TAGS: "Movable Type",foo,bar
------
-BODY:
 幼児の躾は、根本的に犬の躾と同じだと思う。昔風のではなく、今風の犬の躾（ぶれない毅然とした態度で接するとか）ね。私は頭では解ってるんだけど、長年の猫飼いなので、難しいんだよな～
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年11月12日 
+TITLE: 2011年11月12日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -11295,7 +6076,7 @@ BODY:
 お風呂から子の喚き声が聞こえる。。最近ワガママというか癇癪持ちなんだよな～。一歳七ヶ月…第一次反抗期(魔の二歳児イヤイヤ期)ってヤツか…！本当にイヤイヤ言ってやがる…！！子供の泣き声って、だいぶ慣れたけどやっぱり苦手…耳栓は必需品。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年11月13日 
+TITLE: 2011年11月13日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -11309,26 +6090,11 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 光モノが好きらしい。隔世遺伝か…
- http://t.co/Jib7syuV
---------
-AUTHOR: Foo Bar
-TITLE: 2011年11月13日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/13/2011 12:35:49
-TAGS: "Movable Type",foo,bar
------
-BODY:
+ <img src="https://zacky1972.github.io/tw_diary_images/446212684.jpg"></img>
 姪っこ(中一)とバレエ見に行って、子とお揃いの服を見立ててプレゼントし、彼女のリクエストで馬刺を食べて(渋いぜ…)、それじゃあんまりなのでパフェ屋に寄って帰ってるなう。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年11月14日 
+TITLE: 2011年11月14日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -11341,13 +6107,11 @@ DATE: 11/14/2011 11:56:33
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-ありがとう〓〓〓 
-<img src=""></img>
-
-
+ありがとう〓〓〓
+<img src="https://zacky1972.github.io/tw_diary_images/447011335.jpg"></img>
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年11月16日 
+TITLE: 2011年11月16日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -11361,28 +6125,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子は数日お腹を壊してる。。昨晩うどんに母から貰った自然薯を入れたら、喜んで食す。・・・が！ガスが溜まったのか通りが良くなりすぎたのか、一時間半ごとにお腹が痛くなってギャー！！っと泣き叫ばれたΣΣ（゜д゜lll）　何かしら出るとスヤスヤ寝だすんだけど、こっちは寝れなかったよ・・・
+猫ひろし(34)！？と驚いてググったら、今の今まで池乃めだかと区別がついて無かった事が判明。驚くべき事にヤマザキも…。。  猫ひろし記録伸びず。東南アジア５位に満足 | 日テレNEWS24
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年11月16日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/16/2011 11:18:54
-TAGS: "Movable Type",foo,bar
------
-BODY:
-猫ひろし(34)！？と驚いてググったら、今の今まで池乃めだかと区別がついて無かった事が判明。驚くべき事にヤマザキも…。。  猫ひろし記録伸びず。東南アジア５位に満足 | 日テレNEWS24 
-<img src=""></img>
-
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年11月18日 
+TITLE: 2011年11月18日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -11398,7 +6144,7 @@ BODY:
 子、ようやく全快！結局、病院にも行かず、保育園も休まず夕方迎えで何とかなった・・・(´・｀;)&gt;ホッ　　今朝は入園始まって以来の本降りの雨で、皆で型はめボックスで遊んでいた。子、こういう「ピッタリはまる」系のオモチャが好きなんだよな～
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年11月21日 
+TITLE: 2011年11月21日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -11412,25 +6158,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 保育園では登園後、子供一人ひとりにマッサージをしてくれる。今朝見学したら、子も慣れた様子で気持ち良さそう。終わったら手押し車（足を持ち上げてもらって手で歩く）。先生は「お母さんにターッチ！」と言ったのに、私を素通りして他の子にタッチして貰ってた・・・orz
---------
-AUTHOR: Foo Bar
-TITLE: 2011年11月21日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/21/2011 01:15:03
-TAGS: "Movable Type",foo,bar
------
-BODY:
 子も中々の芸が出来るようになった。「大きな栗の木の下で」「ゲンコツ山のたぬきさん」は、一応フリを全部覚えてるっぽい。でもタイミングは全く合わずｗ　保育園での体操も覚えてきてて、おもちゃのピアノで「トンボのめがね」を弾いてやると、キメのポーズで足を上げてるｗｗ
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年11月21日 
+TITLE: 2011年11月21日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -11444,12 +6175,9 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子が始めて歌った歌は「ねこときどきらいおん」らしい。「ねこ　ねこ　ねこ・・・　にゃあー　・・・らいおん！」などとブツブツいっているところをヤマザキが目撃。NHK子供番組の歌なんだけど、私も妙に気に入って頻繁に歌ってしまう・・・^m^　　
-<img src=""></img>
-
-
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年11月26日 
+TITLE: 2011年11月26日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -11463,26 +6191,11 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 保育園の園庭を登ってみた。いや…ホントに山…だね…！Σ(￣□￣;)子は手を着いたりしてしっかり歩いてるけど、親的には後ろで構えてないと不安な位の坂。。
- http://t.co/Ixh7pTs1
---------
-AUTHOR: Foo Bar
-TITLE: 2011年11月26日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/26/2011 11:29:16
-TAGS: "Movable Type",foo,bar
------
-BODY:
+ <img src="https://zacky1972.github.io/tw_diary_images/456749064.jpg"></img>
 子は途中でダッコ～と言いだし、中々大変な目に。。山頂まで行ったけど、写真取る余裕無し(;-_-普段は先頭グループで率先して歩いてるって聞いてるぞ、甘えおって!!
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年11月27日 
+TITLE: 2011年11月27日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -11496,41 +6209,11 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 寝る前にベッドで子とゴロゴロしてると、子が「ターイ！イタイヨー？！」と叩いて来る…それも非常に楽しそうに…orz  どう怒っても駄目…尻を叩いてもニコニコ…何なんだよう(-｡-;  うーん、私の一喝は声も低いし、迫力が足りない事は無いと思うんだけどなぁ(−_−＃)
---------
-AUTHOR: Foo Bar
-TITLE: 2011年11月27日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/27/2011 15:04:20
-TAGS: "Movable Type",foo,bar
------
-BODY:
 最近は叱ると、自分の手をパチンと叩き、「ターイ…イタイネー…」とウンウン頷く事も。そして深々と頭を下げてみたりwここでつい爆笑してしまうのがイカンのだろうか(^^;; この一連の流れが楽しくて仕方ないらしく、入眠儀式になりつつある。。…もうちょっと穏やかなのにしようぜ…！！
---------
-AUTHOR: Foo Bar
-TITLE: 2011年11月27日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/27/2011 23:37:24
-TAGS: "Movable Type",foo,bar
------
-BODY:
 朝起きたら、扁桃腺が腫れて痛くて喋れない…熱もあるし、何だか足首と膝が痛い、まさかインフルエンザ!?と思ったけど、関節痛は多分、土曜日の山登りのせいだな…病院で抗生剤もらお…
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年11月29日 
+TITLE: 2011年11月29日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -11546,7 +6229,7 @@ BODY:
 扁桃腺の腫れが一日で引いた！いつもだったら三日は痛いのに・・・早く病院行って良かった。漢方薬を初めて処方されたけど、結構効くな。子の事は全部ヤマザキがしてくれ、思う存分グータラできた。有難し（^人^）　夕食はリンガーハットｗ　子の食欲スゴイよ・・・もうお子様セット必要だよ。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年12月02日 
+TITLE: 2011年12月02日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -11560,25 +6243,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 ああ、保育園から子が嘔吐＆食欲無しとの連絡が・・・。昨日もそんな感じだったので、大事をとって休んで病院に連れて行ったものの、元気は良かったので大丈夫かと思ったんだが。。入園して一ヶ月、、やはり何も無しでは済まされないか・・・
---------
-AUTHOR: Foo Bar
-TITLE: 2011年12月02日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 12/02/2011 04:29:39
-TAGS: "Movable Type",foo,bar
------
-BODY:
 昨日はヤマザキの誕生日。12月は他に外食も多いし・・・と、家でオージービーフステーキ＆ちょっと良いボルドーに。ヤマザキ、まだまだ若いな・・・！1.2poundペロリと平らげおった・・・！！私は、、0.8poundでギブ・・・16時間経った今も、まだお腹が減らないよ。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年12月05日 
+TITLE: 2011年12月05日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -11592,25 +6260,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 ヤマザキに仕事の愚痴をこぼしたら「老難の相が出てるよ…！」と言われた(-｡-; うん、そういや生まれた時からそうだわ。。「あと最大何人いるか数えてみたら気が楽になるかも！◯…□…△…etc…あ、あと歳とった僕！アハハッ、多いね～」だと…orz
---------
-AUTHOR: Foo Bar
-TITLE: 2011年12月05日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 12/05/2011 09:09:07
-TAGS: "Movable Type",foo,bar
------
-BODY:
 まあそのリストにヤマザキ両親の名前を入れないヤマザキは良い夫だよな。しかもヤマザキは、私が居ない時でも子を連れて、私実家に行ってくれるくらいの良い婿ぶりだからなぁ。イザとなったら、なるべくヤマザキを助けてやろう。。さてさて、今日は子＆ヤマザキを実家に派遣し、私は友人のコンサートw
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年12月07日 
+TITLE: 2011年12月07日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -11624,25 +6277,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子が意外な言葉をハッキリ喋るようになって驚かされる。お気に入りの子供番組を見せたら、いつものスタジオ収録じゃなかったので解らなかったのか、「これじゃなーい～～」と言って泣き出した。二語もだけど、長い意味のある言葉が言えるようになってきたなぁ。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年12月07日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 12/07/2011 13:39:16
-TAGS: "Movable Type",foo,bar
------
-BODY:
 子、発熱して早退！車の中ではずっとニコニコしゃべり続けたのに、家に着くと魂が抜けたようにボンヤリTVを見るばかり。。ご飯も前にしてもボーっ…。結局しっかり食べたけどw 熱が上がりきってハフハフ言いながらヤマザキの隣に寝てる。ヤマザキ熟睡し過ぎて看病になってないw寧ろイビキ煩いww
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年12月08日 
+TITLE: 2011年12月08日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -11658,7 +6296,7 @@ BODY:
 子、観測史上初、38.8度を記録Σ(￣□￣;)しかも親にベッタリ貼り付いて剥がれない…。呪いの赤子状態…！これは…あの薬の登場だな…!!
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年12月09日 
+TITLE: 2011年12月09日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -11672,73 +6310,13 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子の高熱、四日目…記録更新中なう。。アデノもインフルエンザも陰性、、単なる風邪なの？(;-_- 今日の保育園の餅つきﾒﾝﾄﾞｸｻｰだったけど、こんなサボる協力は不要なんだぜ…
---------
-AUTHOR: Foo Bar
-TITLE: 2011年12月09日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 12/09/2011 20:57:42
-TAGS: "Movable Type",foo,bar
------
-BODY:
 一昨日は(多分)熱性痙攣で慌てて救急病院行き。。いや、痙攣までは、意識アーリ！時間測って～…二分ちょっと！と割と冷静だったんだけど、収まるとマムマムと妙な口の動きをしだして吐き、デロンと脱力Σ(￣□￣;)
---------
-AUTHOR: Foo Bar
-TITLE: 2011年12月09日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 12/09/2011 21:05:42
-TAGS: "Movable Type",foo,bar
------
-BODY:
 子の意識はハッキリしてて指差しとかは出来るんだけど、グニャリとしてて座りも出来ない。腰の座ってない赤子状態。。オイオイこんなの聞いてないぞ、まさかこのまま半身不随？と怖くなって救急へ…
---------
-AUTHOR: Foo Bar
-TITLE: 2011年12月09日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 12/09/2011 21:17:56
-TAGS: "Movable Type",foo,bar
------
-BODY:
 救急では足が動かないのを診て、とりあえず点滴入れて血液検査。しかし結果は悪くないから帰って良しと言われｴｴｰ( ; ゜Д゜)まあ色々な方の話を聞くと珍しい症状では無いようだけど、それならそう言ってよ！｢(足が動かないのは)何でですかね～｣で済まさんでくれよ!!
---------
-AUTHOR: Foo Bar
-TITLE: 2011年12月09日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 12/09/2011 21:27:19
-TAGS: "Movable Type",foo,bar
------
-BODY:
 せっかく針入れたし、子もウトウトしてたので、生理的食塩水だけでも点滴して帰るか…と居座る。すると帰る間際に子が立ち上がって、ようやくﾎｯ(^-^;として帰れた。翌朝にはちゃんと歩けて一安心。。しかし何なんだ…赤子コワイ…
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年12月11日 
+TITLE: 2011年12月11日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -11752,25 +6330,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子の熱、やっと下がりました～！首にプツプツが…どうやら突発性発疹だった模様。しかし治りかけの機嫌の悪さ全開…力が入るのは宜しいが、全力で暴れるよ～こっちはもう腕も肩も腰も限界なんだよ～～(ノд&lt;。)゜。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年12月11日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 12/11/2011 11:38:41
-TAGS: "Movable Type",foo,bar
------
-BODY:
 子がこの闘病で得た技…それはタヌキ寝入り！ww 薬をのまそうとしたりなど、嫌な事が起こる気配がすると、うずくまったりもたれ掛かったりして目を閉じてるwww 目を意図的に瞑るので、眉間にシワが寄っててバレバレw 危機が遠ざかるとパチッ目を開けるww
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年12月13日 
+TITLE: 2011年12月13日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -11786,7 +6349,7 @@ BODY:
 子の発疹もピークを過ぎ、やっと今日から登園（＾∇＾）散歩にも行って楽しく過ごしたらしい。久しぶりに外で遊んでお腹も減ったのか、食欲も回復！ まだ足がフラつくので心配だったけど、登園させてよかった～
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年12月16日 
+TITLE: 2011年12月16日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -11802,7 +6365,7 @@ BODY:
 ソファーでゴロリとなっていると、子からスカートを捲られ｢…デタネー…｣と言われた。なんも出て無いし…orz
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年12月24日 
+TITLE: 2011年12月24日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -11816,25 +6379,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子が「ちっちうぇ～」と連呼するようになった。最初に言えたのは母上だったのに…連呼するのは父上が先とは……子も気を遣うのう！ o(#｀ε´#)o 私を指してコレは？と聞くと、ニヤニヤして首を振りやがるんだぜ…
---------
-AUTHOR: Foo Bar
-TITLE: 2011年12月24日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 12/24/2011 16:15:29
-TAGS: "Movable Type",foo,bar
------
-BODY:
 父上を起こしておいでと指令を出すと、「あい！」と返事してトテトテと寝室に行き、「ちっちうーえー！」と呼ばわる姿は中々に愛らしい。ヤマザキもメロメロだwこれに釣られてか、一層、子の世話に励んでいるww
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年12月31日 
+TITLE: 2011年12月31日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -11850,7 +6398,7 @@ BODY:
 昨日遊び足りなかったのか寝る前に大運動会が開催されてしまったので、公園に二時間ほど付き合ってきたヽ(´o｀；
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年01月04日 
+TITLE: 2012年01月04日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -11867,7 +6415,7 @@ BODY:
  http://t.co/lGFMPPBb
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年01月04日 
+TITLE: 2012年01月04日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -11884,7 +6432,7 @@ BODY:
  http://t.co/FB5DGow4
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年01月07日 
+TITLE: 2012年01月07日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -11900,7 +6448,7 @@ BODY:
 子とオモチャのピアノを弾くと、「ダメ！アッチ！！」と低い方の鍵盤５つ位しか触らせて貰えない…。子は激しく演奏し、、頭をピアノに打ちつけた！！(◎_◎;)ええ～…そういう系…？（；゜０゜）
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年01月07日 
+TITLE: 2012年01月07日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -11916,7 +6464,7 @@ BODY:
 最近、ぬいぐるみに興味をもってきたらしく、ダッコしたりチューしたりと可愛がっている。うさぎは「(う)さーちゃん♡」だげど、しまじろうは「シマ！！」と命令口調…
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年01月07日 
+TITLE: 2012年01月07日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -11932,7 +6480,7 @@ BODY:
 突発性発疹の後、中々一人では寝てくれなくなってしまったが、何とか「暫く抱っこ→覆い被さるようにベッドに置く→ぬいぐるみを持たせて寝るまで手を握る」で寝つくまでになった。でも退室時に気付かれると「チャンコシテェ～！(椅子に座れ)」でやり直し…。夜泣きも若干。早く元に戻ってくれ…
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年01月08日 
+TITLE: 2012年01月08日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -11948,7 +6496,7 @@ BODY:
 子が発熱！この前は痙攣を起こしたので要観察…しかし私のベッドで寝せたら折角進歩したネントレが元の木阿弥… という事で、私が子供部屋の床で寝ております。。布団の中に隠しつつipadなう
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年01月11日 
+TITLE: 2012年01月11日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -11964,7 +6512,7 @@ BODY:
 子、インフルエンザA型でしたヽ(´o｀； 連休中の発熱で割と元気もよかったし、昨日は一旦解熱したので病院に行くのが遅れて、もうタミフル飲む時期も逸してしまった。。そしてヤマザキも見事に感染…私も時間の問題か…(-｡-;
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年01月13日 
+TITLE: 2012年01月13日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -11980,7 +6528,7 @@ BODY:
 私もやはり感染したらしい…でも熱が一晩で37度程度に下がったのは、予防接種のおかげか、すぐにタミフルを飲めたからか。でも具合が悪く、節々が痛いのですよ。。子は元気に暴れてるけど今日まで登園禁止で、一足先に具合が良くなったヤマザキが面倒を見てくれている。
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年01月13日 
+TITLE: 2012年01月13日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -11996,7 +6544,7 @@ BODY:
 子の「ケケケ…！」という笑い声と、ヤマザキの「あっ！…ああ～orz」という声や、「◯◯しちゃ駄目っ！！」という怒声が聞こえるw
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年01月13日 
+TITLE: 2012年01月13日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12012,7 +6560,7 @@ BODY:
 子は食欲が戻らず、フルーツとおにぎりで食い繋いでいる。。こんな可愛い気なものばっかり食べるなんて…肉食性赤子だっただけにギャップが…(-｡-;ちょっと痩せたらしく、目が二重まぶたに！うーむ、肉に埋れてたんだな…。どっちに似てるかハッキリしない顔だと思ってたけど、私似だったらしいw
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年01月13日 
+TITLE: 2012年01月13日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12028,7 +6576,7 @@ BODY:
 だいぶ具合が良くなりましたが、嗅覚・味覚が無い…プレモル瓶が単にちょっと苦めの炭酸水w楽しくなさ過ぎ～(Ｔ＿Ｔ) うーむ、ひょっとして食に興味が無い人って、嗅覚味覚が弱い人なんじゃ無いだろうか。これなら10kg減も余裕そうだけど…、絶対嫌ーだーー！！
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年01月13日 
+TITLE: 2012年01月13日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12044,7 +6592,7 @@ BODY:
 そして味が解らないと、物凄く食感が気になる感じがする。幼児は味覚が未発達というが…これは責められない感じがする…！！私も物凄く好き嫌いがあったけど、年と共に特に苦労なく克服したしなぁ。まぁ、大人になって、やたら好き嫌いがある人も
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年01月18日 
+TITLE: 2012年01月18日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12060,7 +6608,7 @@ BODY:
 ケイタイが行方不明になって三日目・・・電源が入ってなくて探せない。。何処か落としたのか、子が隠してしまったのか・・・orz
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年01月18日 
+TITLE: 2012年01月18日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12076,7 +6624,7 @@ BODY:
 tweetした途端、ケイタイ見つかった・・・！！
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年02月02日 
+TITLE: 2012年02月02日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12092,7 +6640,7 @@ BODY:
 寒いなぁ。事務所が中々暖まらない。。おお、雪がすごく舞っている！子、喜んで散歩してるだろうな～。今日は半袖+長袖+トレーナー、レギンス+厚手のパンツだし、大丈夫のはず。二歳児クラスからは積もったら皿倉山山頂でソリ遊びらしい、楽しそうだ。私はもうやりたくないけど。
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年02月02日 
+TITLE: 2012年02月02日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12108,7 +6656,7 @@ BODY:
 昨日は豆まきで保育園に鬼が来たらしく、寝るときに「オニ・・・オニ来た・・・」と自分のベッドで寝るのを拒否ｗここはママテン風に行っとくか？！と「そうだよ、早く寝ないと鬼が来るよ」と脅してみたが、更に拒否ｗｗ結局、私のベッドで、「ははうえ、こっち！おいで！！」と隣に寝かされた・・・
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年02月02日 
+TITLE: 2012年02月02日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12124,7 +6672,7 @@ BODY:
 子、どんどん大きくなり（主に横的に）、もうサイズ80が入らない。。うーん、80のを捨てると服が半分に・・・でもなー、今更ジャストサイズの90を買うのも勿体無い気が・・・。先週、鳥栖のアウトレットで購入した100を早速投入して折り曲げるか？！
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年02月02日 
+TITLE: 2012年02月02日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12137,13 +6685,13 @@ DATE: 02/02/2012 03:06:37
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-鳥栖のアウトレットの帰りに寄った店。というか、ここに行きたいがためにアウトレット行きを計画したｗブロイルキング [食べログ] 
+鳥栖のアウトレットの帰りに寄った店。というか、ここに行きたいがためにアウトレット行きを計画したｗブロイルキング [食べログ]
 <img src=""></img>
  　　アウトレットでは子は屋外遊具に熱中して、引き剥がすのが大変だった程。このコース、また行こ～っと！
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年02月02日 
+TITLE: 2012年02月02日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12159,7 +6707,7 @@ BODY:
 普段はヤマザキが子のお迎えに行くのだけれど、先日私が行ったら、「あっ！ママ！ママ～」と言われて面食らった。更に「あれー？パパは？パパいないねー？」と・・・！もう呼び名変更か？！とビクビクしつつ車に乗り込むと「ははうえ～」と言ってきた。まさかの使い分け・・・？恐るべし・・・！！
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年02月09日 
+TITLE: 2012年02月09日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12175,7 +6723,7 @@ BODY:
 やっと子の風邪が治ったと思ったら、私の風邪が本格化してきた・・・orz　喉がカサカサして咳が出るよぅ～　子が頻繁に少量の水を飲みたがっていたのはこの症状のせいだったのか。。私はヤマザキから貰った南天のど飴を舐め続けてる、、太りそう・・・
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年02月10日 
+TITLE: 2012年02月10日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12191,7 +6739,7 @@ BODY:
 子は自分を「しーちゃん」と呼ぶようになった。他も色々良く喋るし、こっちが言う事も大体解ってるし、すっかり意思疎通が出来るようになった感じ！しかし機嫌が悪くグズってる時は何を要求してるか解らないんだけど…と言うか、本人も何したいか解らず、混乱している様子で困る…
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年02月14日 
+TITLE: 2012年02月14日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12207,7 +6755,7 @@ BODY:
 菓子屋等の陰謀に乗りたくない天邪鬼な私と、ロマンティックが枯渇したヤマザキ…(※結婚指輪すら買ってない)…でもね、今年はちゃんとケーキ買って食べたよ！
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年02月15日 
+TITLE: 2012年02月15日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12223,7 +6771,7 @@ BODY:
 子がマール様(猫)の額にチューして「ウヒョヒョー！キャホーー！！」と大喜びし、「カワイイ…カワイイネェ…」とニヤニヤ。。その上、前足に頬擦りして「…アリガタイ…」と呟いた気が…何という下僕ぶり…（；￣ェ￣）ああ、私がしてるの良く見てるんだな…orz
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年02月20日 
+TITLE: 2012年02月20日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12239,7 +6787,7 @@ BODY:
 子は最近、ベビーベッドで寝るか私のベッドで寝るか、葛藤がある模様。甘えたい気持ちもあるが、一人の方がゆっくりできるし、、みたいな。夜中に私のベッドに移る～やっぱり戻る～の往復がシンドイ…特に私が寝入った後だと…orz そろそろベビーベッドを卒業して、自分で行き来させるのも手かなぁ
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年02月20日 
+TITLE: 2012年02月20日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12252,13 +6800,13 @@ DATE: 02/20/2012 15:16:39
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-とりあえず8時半の就寝時には、イチャイチャタイムwを取り入れてから、ベビーベッドでダッコ無し・寝かしつけ10分以内で寝てくれるので、まぁ満足はしてるんだけど。でも、うーん、あと三十分は早く寝かせたい…  『イチャイチャタイムの取り方』 
+とりあえず8時半の就寝時には、イチャイチャタイムwを取り入れてから、ベビーベッドでダッコ無し・寝かしつけ10分以内で寝てくれるので、まぁ満足はしてるんだけど。でも、うーん、あと三十分は早く寝かせたい…  『イチャイチャタイムの取り方』
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年02月23日 
+TITLE: 2012年02月23日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12274,7 +6822,7 @@ BODY:
 年長の子から｢しのちゃんのお母さん！ちゃんがひどいんだよ～、しのちゃんの事、ブタに似てるって！｣とチクられたwwあまりの事に｢そ、そうだね！子ブタの丸焼きっぽいよね!!｣と返してしまった…
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年02月23日 
+TITLE: 2012年02月23日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12291,7 +6839,7 @@ BODY:
 最近オカワリは「…... http://t.co/KlapV8PE
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年02月25日 
+TITLE: 2012年02月25日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12307,7 +6855,7 @@ BODY:
 子が「トイレ行く」と言い出したので補助便座を購入して一ヶ月…面倒なのでwトイレに行くタイミングは子任せにしていたが、、本日、たまたま父母が見守る中、初の成功！とりあえずマニュアル通り大げさに褒め称えたのだけど、トイレでヒシと抱き合う一家の図は異様だったと思う…
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年02月25日 
+TITLE: 2012年02月25日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12323,7 +6871,7 @@ BODY:
 子の成長が喜ばしい反面、これから面倒が増えるな…と思ったりもするwイヤイヤ期真っ盛りの子…オムツやズボン履かせるだけでも何かと一苦労なんだよな…orz
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年03月02日 
+TITLE: 2012年03月02日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12339,7 +6887,7 @@ BODY:
 かなり日本語を操れるようになった子だが、何故それがその発音に？？という単語がある。「だっこ」⇒『ワゥワ』　「タクシー」⇒「ニマイ」　「ふくろうさん」⇒『コッチンタン』など。全く似てないし・・・解読するのに苦労する。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年03月02日 
+TITLE: 2012年03月02日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12355,7 +6903,7 @@ BODY:
 咳が出た拍子か、食べ過ぎか、便秘の影響か、予防接種の副反応か良くわからないが、子が夜中に突然リバース！！運良くか悪くか、一緒に寝ていたため、頭に掛けられ呆然自失・・・orz　やっと片付け終わったと思ったら、再リバース！！！なんだか戦場でした・・・
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年03月03日 
+TITLE: 2012年03月03日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12372,7 +6920,7 @@ BODY:
  http://t.co/akqmYOa5
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年03月03日 
+TITLE: 2012年03月03日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12388,7 +6936,7 @@ BODY:
 ちなみに、基本的に標準語で会話してる両親なのに、子はしっかり北九州弁になってきた。イヤイヤも｢イラン！セン!!｣とか言われるとなんか笑えてくるwつられて私の北九州弁も復活しそうだし、ヤマザキも怪しい北九州弁モドキになってきた…
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年03月03日 
+TITLE: 2012年03月03日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12404,7 +6952,7 @@ BODY:
 子は両足飛びをマスターした模様。まだ2㎝程だけど。。｢ぴよん!!(よが小文字ではない)｣｢ざんぷっ!!(ジャンプ)｣ と言いながら懸命に披露してくれるwwでも家(マンション)ではヤメレ…
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年03月04日 
+TITLE: 2012年03月04日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12420,7 +6968,7 @@ BODY:
 室内で暖かいとはいえ水遊びコーナーにTシャツ&パンツでビジョ濡れで遊ぶ子供達がいて、元気だな…！親も大変だ…と思っていたら、、｢あっ！しのか～｣とコッチに来た!!同じ保育園の子だったよ。。来年はウチもパンツとバスタオル持参かな…ハハハ…
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年03月04日 
+TITLE: 2012年03月04日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12436,7 +6984,7 @@ BODY:
 一人は年長の子で、保育園でもよく話しかけたり世話をしてくれる子。すごくしっかりしてるんだよな～。小学一年生になって、六年生から世話を焼かれるなんて姿が想像出来ない位。。子もあと3年でこんなになれるのだろうか…想像つかない。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年03月08日 
+TITLE: 2012年03月08日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12452,7 +7000,7 @@ BODY:
 保育園の卒園アルバムがスゴイ…。手作りで、書き込みしたり写真貼ったり。。私は給食のページ担当+在園の各家庭からのメッセージカード…！今年は6人分だから良いものの、12人いる来年が怖い…
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年03月09日 
+TITLE: 2012年03月09日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12468,7 +7016,7 @@ BODY:
 子の玉のお肌っぷりがスゴイ…。油性マジックで手を真っ黒にしても、拭くだけですぐに落ちた…（；￣ェ￣）カタツムリの殻的な秘密があるんだろうか…
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年03月13日 
+TITLE: 2012年03月13日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12484,7 +7032,7 @@ BODY:
 子を久々に公園に連れて行くと、鉄棒にぶら下がったり、ブランコに腕で支えて座れるようになってたり、腕の力がついてるのに驚いた。遊具の高い所に登りたいなど無謀な事を言って困らせるよ…！
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年03月13日 
+TITLE: 2012年03月13日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12500,7 +7048,7 @@ BODY:
 子、イヤイヤ絶頂期。ひっくり返って足をバタバタするなど古典的な技を…！誰に習った！！イヤイヤ時は、じゃあ◯◯しようか、と気をそらすんだけど、こんな子の機嫌を取り続けるような事で良いのか？ちゅーか疲れるんだよコレ…ヤマザキは提案力に欠けるし…。そろそろタイムアウトも試そうかなぁ。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年03月14日 
+TITLE: 2012年03月14日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12517,7 +7065,7 @@ BODY:
  http://t.co/SD7ceXGS
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年03月17日 
+TITLE: 2012年03月17日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12533,7 +7081,7 @@ BODY:
 香港なう。子、初の長時間フライト(とは言っても4時間だけど)でしたが、ipadのお陰でご機嫌にクリア！ジュースを飲みすぎ、勢いの良すぎる尿にパ◯パースが敗北するというパプニングがありましたけどね。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年03月17日 
+TITLE: 2012年03月17日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12550,7 +7098,7 @@ BODY:
  http://t.co/QNWwwvBu
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年03月17日 
+TITLE: 2012年03月17日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12566,7 +7114,7 @@ BODY:
 香港二日目。子は、西苑酒家のチャーシューを、それはもう幸せそうに食べたwかなり気温が上がったので、プールサイドで水遊びも出来て御満悦な様子。
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年03月18日 
+TITLE: 2012年03月18日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12582,7 +7130,7 @@ BODY:
 10ヶ月前の来港の時と違い、子がベビーシッターに懐くのに時間がかかった。賢くなって置いて行かれる事が解るようになったのか、シッターが年配の方のせいなのか(赤子って若い女性が好きよねw)、折角覚えた日本語がシッターに通じないのが気に食わないのか…
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年03月18日 
+TITLE: 2012年03月18日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12598,7 +7146,7 @@ BODY:
 ホテル近くに公園があり遊具もあったので、子も現地の子供？に混ざって、久しぶりに体を動かして楽しそう。その後、海沿いをベビーカーで散歩したけど、蒸し暑くて早々に退散。。でもこの季節に折角の暑さと天気！子の昼寝中、プールを満喫してみたw晴れ男と結婚して良かった(*^o^*)
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年03月19日 
+TITLE: 2012年03月19日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12614,7 +7162,7 @@ BODY:
 香港四日目。朝は霧が凄かったので、公園は早々に切り上げたが子はまだ動き足らなそう。。プール横の鯉がいる噴水でお茶を濁すか…と屋上に上がると、ジムが無人！バランスボールを転がしたり、ステップに登ったり、腹筋の器具に馬乗りしたりと良い汗流してたw
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年03月19日 
+TITLE: 2012年03月19日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12630,7 +7178,7 @@ BODY:
 最初は普通に食べてたのに急に機嫌が下り坂に…。理由が解らずヤマザキと必死に宥めたが、帰る直前に判明。…鳩の丸焼きが自分に供されなかった事への怒りでした…！渡してみると、貪るように食べるではないか。。「あっ！ぴよぴよだー」とか言ってたし、まさか幼児が鳩好きとは思わなかったんだよう…
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年03月20日 
+TITLE: 2012年03月20日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12646,7 +7194,7 @@ BODY:
 無事、帰福致しました！タイマッサージ行って(フライト後には最高♪)、夕食・お風呂の後、子とイチャイチャタイムしてたらそのまま寝てしまってた。。これは暫く眠れないな …今はマールとイチャイチャタイム♡
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年03月20日 
+TITLE: 2012年03月20日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12662,7 +7210,7 @@ BODY:
 帰り便はちょうど子の昼寝時間で、3時間のうち2時間半寝ててくれて最高に楽だった！ドラゴン航空福岡便のタイムスケジュールは子連れに最適かも。もうバシネットは使えない体重なのだけれど、空席があったので二席にゆったり寝させられて良かった。コレ、楽なんだよね～ エコノミーファースト席w
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年03月21日 
+TITLE: 2012年03月21日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12679,7 +7227,7 @@ BODY:
  http://t.co/reg5jAPj
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年03月21日 
+TITLE: 2012年03月21日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12696,7 +7244,7 @@ BODY:
  http://t.co/w3fvWs5r
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年03月21日 
+TITLE: 2012年03月21日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12713,7 +7261,7 @@ BODY:
  http://t.co/sKbWfYW2
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年03月21日 
+TITLE: 2012年03月21日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12730,7 +7278,7 @@ BODY:
  http://t.co/OILx8b95
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年03月21日 
+TITLE: 2012年03月21日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12747,7 +7295,7 @@ BODY:
  http://t.co/1K07dqLA
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年03月23日 
+TITLE: 2012年03月23日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12763,7 +7311,7 @@ BODY:
 子は旅行中、こどもちゃれんじ（キッチンセット＆一穴ブロック欲しさに二ヶ月だけ受講ｗ）のビデオを見続けたせいか、トイレブーム・うがいブームがやってきた・・・！ビデオって結構役立つもんなんだなぁ。。朝に無茶苦茶時間を取られるのはツライが頑張らねば・・・
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年03月23日 
+TITLE: 2012年03月23日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12779,7 +7327,7 @@ BODY:
 キッチンセットでも、ビデオの通りに卵を割ってフライパンで目玉焼き作ったり、ハンバーグの空気抜きをしたりして、芸が細かくて笑えるｗｗ
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年03月23日 
+TITLE: 2012年03月23日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12795,7 +7343,7 @@ BODY:
 ヤマザキと私が子に大好き～とハグすると、「しーちゃんも・・・だいすきよ！」と言ったｗカワイイじゃないかｗｗ　「ちちうえと～　ははうえと～　しーちゃんと～　いっしょにねんねよ！」と言い、ベッドから離れると「ここよ！！」と枕をポンポンするしｗｗｗこりゃヤマザキもメロメロだなぁ
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年03月23日 
+TITLE: 2012年03月23日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12811,7 +7359,7 @@ BODY:
 香港では最後まで、シッターが来ることを喜ばなかった子・・・。「せんせい（シッターの事）、おやすみ？」と言い続けていた。。帰宅後は酷い我侭を言うと、先生が来るよ！と脅しているｗ「・・・せんせい、こんよ（来ないよ）！おやすみよ！！」と言いつつ、中々の効果ありｗｗ
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年03月23日 
+TITLE: 2012年03月23日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12827,7 +7375,7 @@ BODY:
 小学生まで覚えてて、先生にマイナスイメージを持ったらどうしようと思いつつｗ　ちなみに保育園では、保育士の方を○○ちゃん、もしくは呼び捨てという方針らしい。園長も○○ちゃんｗ　親的にはかなり違和感がある。。ま、「きみちゃん」（私の母が子に呼ばせている名称）が浮かなくて良いけどｗｗ
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年03月24日 
+TITLE: 2012年03月24日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12844,7 +7392,7 @@ BODY:
  http://t.co/waLcSrK3
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年03月24日 
+TITLE: 2012年03月24日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12857,13 +7405,13 @@ DATE: 03/24/2012 05:25:07
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-赤子の頃に使ってたスイング、そろそろ売り飛ばすかと動作チェックしてたら、子が乗りたいと。…速効寝たー!なんだよ〜昼寝しない時はドライブしてたけど、これで良いんじゃん!!良く寝る子... 
+赤子の頃に使ってたスイング、そろそろ売り飛ばすかと動作チェックしてたら、子が乗りたいと。…速効寝たー!なんだよ〜昼寝しない時はドライブしてたけど、これで良いんじゃん!!良く寝る子...
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年03月24日 
+TITLE: 2012年03月24日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12879,7 +7427,7 @@ BODY:
 電動スイングはオルゴールの音が流れるんだけど、一緒に歌ってみてます。いーつくしみ深ーきー  とーもなるイェスはーー  って私、結構覚えてるな…！因みに子守唄は「ゆりかごの歌」派です。ヤマザキは「モーツァルトの子守唄」派(しかし実はモーツァルト作曲では無いというw)
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年03月25日 
+TITLE: 2012年03月25日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12895,7 +7443,7 @@ BODY:
 今日は保育園の卒園式。ええ…アットホームな保育園なので、全員参加なんですよ。。子はジッとして無いし狭いし、正直、この前のフライトよりも疲れた…！でも、卒園児のリズムや体操・演技を見ると、あと数年でこんな事が出来るのか～と楽しみな気持ちになった(*^^*)
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年03月28日 
+TITLE: 2012年03月28日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12911,7 +7459,7 @@ BODY:
 子が「 大丈夫よ？(  小首を傾げて憐れむような目)」 を覚えたwかなり良いタイミングで、ああ～◯◯忘れた！みたいな時に言ってくるので、かなり笑えるww  これもママテンにあったよな … 幼児は誰しもごっちゃんなのか …
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年03月28日 
+TITLE: 2012年03月28日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12924,13 +7472,13 @@ DATE: 03/28/2012 13:37:21
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-保育園に二ヶ月の子が入ってきてから、子の人形遊びが高度になってきた。真剣な顔でミルクやったり、靴を履かせてみたり。でも時々「(私も)あかたんよ！」と言って、オモチャの哺乳瓶をくわ... 
+保育園に二ヶ月の子が入ってきてから、子の人形遊びが高度になってきた。真剣な顔でミルクやったり、靴を履かせてみたり。でも時々「(私も)あかたんよ！」と言って、オモチャの哺乳瓶をくわ...
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年03月28日 
+TITLE: 2012年03月28日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12946,7 +7494,7 @@ BODY:
 最近、保育園の帰りの車中、子は夕食が待ち遠しいらしく、｢…にく…あるぅ？｣｢おかなな(お魚)…あるぅ？｣｢にんじん、あるぅ？｣｢ちちご(苺)、あるぅ？｣と、ずっと食べ物の話をしてる。。一番の気に入りの玩具はキッチンセットだし。恐るべし、DNA…
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年03月29日 
+TITLE: 2012年03月29日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12959,13 +7507,13 @@ DATE: 03/29/2012 00:59:12
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-香港でオムツが足りなくなり、購入したパ〓パース フィットパンツ日本製！34枚入りで1500円位とちと高いが、ホテル(RoyalGarden)近くのスーパーでも手に入るのは有り難い... 
+香港でオムツが足りなくなり、購入したパ〓パース フィットパンツ日本製！34枚入りで1500円位とちと高いが、ホテル(RoyalGarden)近くのスーパーでも手に入るのは有り難い...
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年03月31日 
+TITLE: 2012年03月31日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12981,7 +7529,7 @@ BODY:
 ※汚話注意       子がどうしてもお風呂に入らないという。。悶着しているとオナラが何度も…。ああ、催しているので入りたく無いのか…！先日、初の大惨事を起こし、驚いて大泣きしてたからなぁ。。その時のヤマザキ談「ガンジス川に浸かった気分…もう何も恐くない…」中々面白い事をいうww
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年04月06日 
+TITLE: 2012年04月06日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -12998,7 +7546,7 @@ BODY:
 最近、何故か感動(？)すると主語を三回重ねてくる。なんか選挙カーみたいなんだけど。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年04月06日 
+TITLE: 2012年04月06日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13014,7 +7562,7 @@ BODY:
 子は「がんばれ」がマイブームらしい。独り言でも「…がんばれー」「もうちょっとー…」と小声で自分を励ましながら色々頑張っているw微妙な用法もあって、お菓子を与える時に、もう無いよーと袋を逆さに振ったのだけど、本当はもう少し入っているのを見抜き、「がんばれー！」と言われたww
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年04月08日 
+TITLE: 2012年04月08日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13030,7 +7578,7 @@ BODY:
 今日はワインセミナーのお花見に一家で参加。子は、お兄さん(24才イケメン)に遊んで貰い、大ハッスルw別れ際、お兄ちゃんにチューは？と促すと、見事なタコ口を披露してたwwこんなの初めてだよ…よっぽど気に入ったんだなぁ…！ヤマザキに、どう？心境は？と聞くと、別に…との返事。つまらん…
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年04月10日 
+TITLE: 2012年04月10日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13046,7 +7594,7 @@ BODY:
 子の二歳の誕生日。驚いた…自分が祝われている事を理解してる…！ケーキ屋に寄ると「しーちゃんのケーキ？いちご、ある？？」と喜び、「かんぱーい、したーい！」と言いつつ私の実家へ。ケーキの火に驚いて一時泣いてしまったが(さすが野生動物)、皆と乾杯し「おめでとー！！」とご機嫌w
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年04月10日 
+TITLE: 2012年04月10日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13059,13 +7607,13 @@ DATE: 04/10/2012 13:12:52
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-子はやはり甘い物はイマイチ苦手らしく、ケーキのクリームもスポンジも手を出さなかったが、上の苺のみ全て食べおった。。何と傍若無人な振る舞い振る舞い…！キャラケーキとかは当分無理そうだなぁ…。ＭＥＬＬＯＷＳ - 八幡/ケーキ [食べログ] 
+子はやはり甘い物はイマイチ苦手らしく、ケーキのクリームもスポンジも手を出さなかったが、上の苺のみ全て食べおった。。何と傍若無人な振る舞い振る舞い…！キャラケーキとかは当分無理そうだなぁ…。ＭＥＬＬＯＷＳ - 八幡/ケーキ [食べログ]
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年04月10日 
+TITLE: 2012年04月10日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13078,13 +7626,13 @@ DATE: 04/10/2012 13:30:15
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-子の誕生日プレゼントは、川越在住の友人が「ウチの周りですごく流行ってる！」と教えてくれ共同購入したプラスチックのミニバイク。軽いし、すごく良い！！子も気に入って早速ずっと乗っていたww『残りわずか！数量限定YAMADAの白いミニバイク』 
+子の誕生日プレゼントは、川越在住の友人が「ウチの周りですごく流行ってる！」と教えてくれ共同購入したプラスチックのミニバイク。軽いし、すごく良い！！子も気に入って早速ずっと乗っていたww『残りわずか！数量限定YAMADAの白いミニバイク』
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年04月10日 
+TITLE: 2012年04月10日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13100,7 +7648,7 @@ BODY:
 子にとっての初の乗り物系オモチャ、何にするかすごく迷った。三輪車は値段の割にすぐ使わなくなるって聞くし、舵とり自転車は重いらしいし、ストライダーも乗せてみたけど怖がるし。。でも「赤いミニバイク」でハンドル操作を学べば、来年はストライダーと棒付き自転車に移行出来そうな予感！
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年04月11日 
+TITLE: 2012年04月11日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13113,13 +7661,13 @@ DATE: 04/11/2012 15:00:42
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-高校時代の友人親子と元気のもりで遊んだ後、カフェでまったり。子連れ歓迎型のマクロビのお店なんだけど、子、ケーキを気に入ってガツガツ食べてる…！こういう系が好きだったのか。。mumokuteki cafe&foods [食べログ] 
+高校時代の友人親子と元気のもりで遊んだ後、カフェでまったり。子連れ歓迎型のマクロビのお店なんだけど、子、ケーキを気に入ってガツガツ食べてる…！こういう系が好きだったのか。。mumokuteki cafe&foods [食べログ]
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年04月13日 
+TITLE: 2012年04月13日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13135,7 +7683,7 @@ BODY:
 子は夜中に「あっちでねる・・・」と私のベッドに移動するのが習慣になってしまった。。移動させるとすぐ寝るから良いんだけどね･･･。昨夜は「あっ、ちちうえだ～。かっこいーい♡」などと言っていた。え・・・このヘアドライキャップをかぶったまま口を開けて寝ている中年男がか・・・？！
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年04月15日 
+TITLE: 2012年04月15日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13151,7 +7699,7 @@ BODY:
 子の赤ちゃん返り(ごっこ？) が甚だしい。「これを～こうして～こうやって～」と私におくるみの巻き方をレクチャーして自分を巻かせ、「あかちゃんのだっこ」と横抱きを要求。オモチャのミルクを飲ませて貰い、「うれしーぃい！」とご満悦。今も電動スイングに揺られ、ミルクを片手に昼寝中。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年04月15日 
+TITLE: 2012年04月15日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13167,7 +7715,7 @@ BODY:
 昨日は保育園でレクリエーション。園庭で筍掘りの後、リズム、宝探し、豚汁&秋刀魚でピクニック！結構楽しかったかも。子がリズムをそれなりに出来ているのを見て、そして自分の出番じゃ無い時は正座して待っている姿に、本当にビックリした！後半は足を崩したり、私を見つけて甘えてきたりしたけどw
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年04月15日 
+TITLE: 2012年04月15日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13183,7 +7731,7 @@ BODY:
 レクリエーションの後は、子供達が昼寝している間、親は保護者会。うう…改めて聞くと、何かと親の出番が多くて大変そうだなぁ。。成り行き上、委員になってしまったんだけど、、大丈夫なのか…？
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年04月15日 
+TITLE: 2012年04月15日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13199,7 +7747,7 @@ BODY:
 昨晩は親戚と宴会。子はハトコ達と遊んで大フィーバー！4歳の超お転婆な女の子が大好きらしく、付いてまわってたw格上と思ったのか、オモチャを素直に貸してるしwwバイクやジャングルジムの華麗なデモンストレーションに目を輝かせ、使い方を理解した模様。子もジャングルジムに登頂に成功！
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年04月15日 
+TITLE: 2012年04月15日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13212,13 +7760,13 @@ DATE: 04/15/2012 13:24:38
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-子、二歳にしてお金が大好き…(--;)今日は自分のポシェットに小銭を入れ、ジャカジャカならして「しーちゃんのおかね、いっぱいあるぅ〓」と超笑顔…orz手が金臭くなるので、とうとう... 
+子、二歳にしてお金が大好き…(--;)今日は自分のポシェットに小銭を入れ、ジャカジャカならして「しーちゃんのおかね、いっぱいあるぅ〓」と超笑顔…orz手が金臭くなるので、とうとう...
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年04月18日 
+TITLE: 2012年04月18日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13234,7 +7782,7 @@ BODY:
 保育園での誕生会に参加、の予定が予想外に早く始まり間に合わず・・・。ヤマザキは人形劇に出演したらしい。見たかったなー・・・。会の後に到着し、山を散歩したり鶏に草をやったり。我が子ながら、へー、こんな風に毎日暮らしているのか～と、面白かった。給食の野菜たっぷりカレーも美味しかった♪
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年04月20日 
+TITLE: 2012年04月20日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13250,7 +7798,7 @@ BODY:
 子をお風呂に誘うのが毎日ストレスなので、とうとう「お風呂に入れるぽぽちゃん」(蒙古斑つきw)を購入。うむ、素直にお風呂に行き、服を脱ぎ、髪を洗わせるようになって満足！でも私もヤマザキも人形あまり好きじゃないし、効果が薄れたら困るので、お風呂限定アイテムにするつもり～
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年04月20日 
+TITLE: 2012年04月20日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13266,7 +7814,7 @@ BODY:
 保育園で子は、とうとうダンゴ虫狩りにはまってしまったらしい。ああ、とうとうこの時が。。…家には絶対に持ち帰らないでくれ…ヤマザキの水際作戦を期待しているぞ…！ポケットは全て要チェックだ！！
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年04月21日 
+TITLE: 2012年04月21日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13282,7 +7830,7 @@ BODY:
 子はぬいぐるみを丸剥けにし、自分も丸裸になって並んで横たわったと思うと…オモチャの小銭を腹に載せていくよう要求！（；￣ェ￣）意味が全く解らない…。。女体盛り…？とかアホな事して遊んでると噴水がぁぁ～～っ！！
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年04月22日 
+TITLE: 2012年04月22日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13298,7 +7846,7 @@ BODY:
 子はぬいぐるみに甲斐甲斐しくオムツをし、ミルクを飲ませて、タオルをかけて寝かしつけ…と思うと急に「いや～っ！」とタオルを剥ぎ捨て、「ぽいっ！」とぬいぐるみを投げ捨てた…Σ（ﾟдﾟlll）な、何が気に食わなかったんだ。。育児放棄どころか虐待だぞ…！
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年04月22日 
+TITLE: 2012年04月22日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13311,13 +7859,13 @@ DATE: 04/22/2012 04:06:05
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-ＢＡＳＴＡでランチ。ここは子供椅子があって子供ok…どころか、今は時々キッチンに店主の赤ちゃんがいるwおんぶ紐しながら仕事している時もww子はオイル系パスタをバクバク。2.5人で、麺2倍を2皿平らげた… [食べログ] 
+ＢＡＳＴＡでランチ。ここは子供椅子があって子供ok…どころか、今は時々キッチンに店主の赤ちゃんがいるwおんぶ紐しながら仕事している時もww子はオイル系パスタをバクバク。2.5人で、麺2倍を2皿平らげた… [食べログ]
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年04月24日 
+TITLE: 2012年04月24日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13334,7 +7882,7 @@ BODY:
  http://t.co/lHFjg93d
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年04月29日 
+TITLE: 2012年04月29日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13350,7 +7898,7 @@ BODY:
 o池&amp;その子供達が来訪。子、9ヶ月の妹をいたく気に入り、抱っこ&amp;チューしまくりw保育園でも赤ちゃんにずっと構ってるとは聞いていたが、これほどとは。。保育園の赤ちゃんの操が心配になった…
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年04月29日 
+TITLE: 2012年04月29日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13366,7 +7914,7 @@ BODY:
 一方、子より9ヶ月年上の姉には又もやライバル心がwwでもまぁ前回の来訪よりは仲良く遊べたかな。ドウゾもジュンバンコもそれなりにしてたし。時には「これだめ！あっちいって！」と後ろに隠したり「じゅんばんこよ！ね？」と言いつつ自分ばっかりやる場面も見受けられたが(^^;;
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年04月30日 
+TITLE: 2012年04月30日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13382,7 +7930,7 @@ BODY:
 姉一家が実家に来訪。姪が子と遊んでくれて楽チン！甥が姪に「(幼児と遊んで)楽しい…？」と疑問を投げかけていたが、解るわーその気持ち！私、未だに、遊ぶ事自体は楽しくは無いもんw時に可愛い一面が見れるから付き合ってやってるというか…。でも子供好きな人にとっては楽しいんだろうな、多分。
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年05月03日 
+TITLE: 2012年05月03日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13398,7 +7946,7 @@ BODY:
 昨日は子と友人の御宅にお邪魔したのだけれど、場所見知りして妙に大人しいw友人の赤ちゃんに構いたいのだけど、その兄は守ろうとして妨げられ、赤ちゃんが泣くとお互い相手のせいにしてる姿が笑えたww
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年05月03日 
+TITLE: 2012年05月03日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13414,7 +7962,7 @@ BODY:
 昨晩はうっかり子をベビーベッドに移さず一緒に寝入ってしまった。。すると今朝「ははうえ～、かわい～、かわいいね～！チュー♡」とキスで起こしてくれたw寝言は「それ、オトナのおにく、からいね…(日頃食べさせないよう言っている)」ww面白かったから水族館でも連れてってやるか！と海響館へ。
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年05月03日 
+TITLE: 2012年05月03日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13427,13 +7975,13 @@ DATE: 05/03/2012 09:43:14
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-イルカのショーも大喜びだったし、魚も熱心に見てたし、唐戸市場ランチもまぁまぁだったし、ペンギンと写真も撮れたし、大満足♪いつもは二時間程度でサッと切り上げるのだけど、たまにはじっ... 
+イルカのショーも大喜びだったし、魚も熱心に見てたし、唐戸市場ランチもまぁまぁだったし、ペンギンと写真も撮れたし、大満足♪いつもは二時間程度でサッと切り上げるのだけど、たまにはじっ...
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年05月03日 
+TITLE: 2012年05月03日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13446,13 +7994,13 @@ DATE: 05/03/2012 10:38:15
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-誕生日の写真を撮りに写真館へ。しかし曇りで暗くてテラスのスタジオが使えず、半分は後日に。。 ついでに張華亭で夕食。ビールがウマー♪( ´▽｀)水族館は私が頑張ったんだから、後は任せたぞ、ヤマザキ！ [食べログ] 
+誕生日の写真を撮りに写真館へ。しかし曇りで暗くてテラスのスタジオが使えず、半分は後日に。。 ついでに張華亭で夕食。ビールがウマー♪( ´▽｀)水族館は私が頑張ったんだから、後は任せたぞ、ヤマザキ！ [食べログ]
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年05月04日 
+TITLE: 2012年05月04日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13469,7 +8017,7 @@ BODY:
  http://t.co/RtUjD2lS
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年05月04日 
+TITLE: 2012年05月04日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13486,7 +8034,7 @@ BODY:
  http://t.co/o5XTu7aZ
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年05月04日 
+TITLE: 2012年05月04日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13502,7 +8050,7 @@ BODY:
 子、とうとう鬼の脅しが効くようになったw夜に宅急便が来ると「…おに？Σ（ﾟдﾟlll）」とビビってるしwwそうだよー、早く寝ないと鬼が来るよーψ(｀∇´)ψと脅してる。今日は私が鬼に御帰り頂く交渉wをしている間、ヤマザキの指導の元、目を瞑って布団を被り微動だにしなかったww
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年05月04日 
+TITLE: 2012年05月04日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13518,7 +8066,7 @@ BODY:
 でも、イマイチ虫歯の脅しは効かないのよね…。これでもか！っちゅー程、怖い声と表情でマヤって脅してるのにさ。。ヤマザキに「結婚前ならドン引きしてた…（ﾟдﾟlll）」と言わしめる程の熱演なのに。。連休前に歯医者行った時は不気味な程に大人しかったのになぁ…
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年05月05日 
+TITLE: 2012年05月05日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13534,7 +8082,7 @@ BODY:
 子を初めて実家に預けてみた。キミちゃん(母)と散歩に行ってきてね～と送り出すと、「はーい！バイバーイ！！」と笑顔でお別れw公園で遊び、うどんを食べに行き、何とか昼寝も成功し、楽しく過ごした模様。その間、私達はバトルシップで浅野を堪能♡
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年05月05日 
+TITLE: 2012年05月05日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13550,7 +8098,7 @@ BODY:
 迎えに行くと寝ていたので、お礼のお好み焼きパーティーの用意。買い物から帰ると丁度起きた所だった。ご機嫌で起きたらしいが、私の顔を見ると急に寂しかったの～という顔をして涙ぐみつつベッタリと張り付いて来たw保育園でもキッズルームでも、こんな顔見たことないんだけどww
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年05月05日 
+TITLE: 2012年05月05日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13566,7 +8114,7 @@ BODY:
 ベランダからスーパームーン見物。ついでに子にも見せると、「おつきさま？しーちゃんも…しーちゃんも、のりたーい！こんど…こんどね、いくー！のるよぉー！」と言うwうん、良い夢だ。私とヤマザキは老後に出来れば宇宙に行きたいと思ってるので、子の時代には月にも行けるかもねww
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年05月06日 
+TITLE: 2012年05月06日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13582,7 +8130,7 @@ BODY:
 今日の月は何だかオレンジ色で凶々しい。。子は就寝前に月が見たいと言いだし、「しーちゃん、おつきさまにのって、ブーンっていく！」と寝室から眺めている。…かぐや姫ですか？
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年05月06日 
+TITLE: 2012年05月06日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13601,7 +8149,7 @@ BODY:
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年05月11日 
+TITLE: 2012年05月11日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13618,7 +8166,7 @@ BODY:
  http://t.co/mSihclvO
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年05月12日 
+TITLE: 2012年05月12日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13634,7 +8182,7 @@ BODY:
 子は私が飲んでいるモノは全て「ビール？おいし？？」と聞くようになった…orz概ね合ってるだけに…！絵本で瓶の飲み物が出てきても「これ、ははうえのビール。にがいね…」とか言ってるし（；￣ェ￣）まぁ酒飲みである事を公言して憚らないので良いんだけどさ。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年05月12日 
+TITLE: 2012年05月12日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13650,7 +8198,7 @@ BODY:
 子が時々、私達の事をふざけて「さちぃ～」「しゅしゅむすゎーん」「ちゅちゅむさぁ～ん」と言うようになった。・・・おい！私達そんなバカップルみたいな言い方して無いだろ！！誤解を招くのでやめて欲しい…。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年05月13日 
+TITLE: 2012年05月13日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13667,7 +8215,7 @@ BODY:
  http://t.co/37LjpuBE
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年05月13日 
+TITLE: 2012年05月13日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13684,7 +8232,7 @@ BODY:
  http://t.co/n3BJ05vw
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年05月13日 
+TITLE: 2012年05月13日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13701,7 +8249,7 @@ BODY:
  http://t.co/u7KtSPVf
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年05月13日 
+TITLE: 2012年05月13日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13717,7 +8265,7 @@ BODY:
 母の日だったので、子に手伝わせ（勿論余計に大変）ホットプレートでハンバーグパーティー。肉が冷たかったせいか手で混ぜるのを拒否し、箸で混ぜる横着ぶり…。泥団子作り慣れてるせいか、成形は中々上手かった。
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年05月14日 
+TITLE: 2012年05月14日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13730,13 +8278,13 @@ DATE: 05/14/2012 02:06:50
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-ボックス席・子供椅子アリのお子様フレンドリーなラーメン店。子、ここの魚介豚骨が大好物！半玉＆子豚のご飯（チャーシュー丼）1/4杯をペロリですよ。。永犬丸の本店は閉めるらしい。他に出店か？！ちゅるるちゅーら ラーメン研究所 [食べログ] 
+ボックス席・子供椅子アリのお子様フレンドリーなラーメン店。子、ここの魚介豚骨が大好物！半玉＆子豚のご飯（チャーシュー丼）1/4杯をペロリですよ。。永犬丸の本店は閉めるらしい。他に出店か？！ちゅるるちゅーら ラーメン研究所 [食べログ]
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年05月14日 
+TITLE: 2012年05月14日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13753,7 +8301,7 @@ BODY:
  http://t.co/DSaIg0SB
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年05月14日 
+TITLE: 2012年05月14日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13770,7 +8318,7 @@ BODY:
  http://t.co/YIrbbN0R
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年05月22日 
+TITLE: 2012年05月22日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13786,7 +8334,7 @@ BODY:
 東京一日目は、ヤマザキが友人と飲みに行き、私は子とホテルでお留守番。。のつもりが、友人が子を見に遊びに来てくれ、タイ料理のデリバリーでプチ宴会ｗしかし子、何故か急に大人しくなり、一言も喋らずヒッソリとipadで遊び、黙って寝た・・・！有難かったが、ちょっと不気味だったりｗ
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年05月22日 
+TITLE: 2012年05月22日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13802,7 +8350,7 @@ BODY:
 二日目午前、ヤマザキ両親の家に遊びに。前回と違ってすぐに慣れよく喋って「おじいちゃ～ん、おばぁちゃ～ん、ハンバーグどーぞ！」とままごとセットを広げてアピールｗヤマザキ母と一緒に散歩もした。ヤマザキ母とは未だお互い何と呼んで良いやらの関係なのだけど、子が居ると話題があって良いねｗ
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年05月22日 
+TITLE: 2012年05月22日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13818,7 +8366,7 @@ BODY:
 ヤマザキ父母に、子から何と呼んで欲しいですか？因みにウチの母はキミちゃんですｗと尋ねたところ、「親が父上・母上なら・・・ジジ上・ババ上？」と愉快な回答ｗいやそれはちょっとｗｗ普通に『鶴見のおじいちゃん・おばあちゃん』で落ち着きました。祖母上・祖父上は呼びにくいしね・・・
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年05月22日 
+TITLE: 2012年05月22日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13834,7 +8382,7 @@ BODY:
 午後はジブリ美術館。「ねこバスから見える風景展」に行きたかったの・・・私が・・・！子は未だジブリ作品は見たこと無い。いや・・・トトロ予習させるつもりが忙しくてさ。。でも、子供心をくすぐる建物やねこバスに、目をキラキラ大興奮！いいな～ねこバス、私も乗りたい。ここ、面白い！！
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年05月22日 
+TITLE: 2012年05月22日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13850,7 +8398,7 @@ BODY:
 短編映画は「めいとこねこバス」・・・くうぅ・・・私好み・・・！！子の初映画館だったが、ずっと静かに食い入るように映画を見ていた。時々スゴイね・・・！と言うように、目を合わせてニッコリｗが、終わった途端「おわっちゃった～」と大泣きorz･･･こねこバスのぬいぐるみ、買いましたよ。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年05月22日 
+TITLE: 2012年05月22日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13869,7 +8417,7 @@ BODY:
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年05月24日 
+TITLE: 2012年05月24日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13885,7 +8433,7 @@ BODY:
 「Head, shoulder, knees and toes・・・」って歌、子の最近のマイブームなんだけど、保育園（アンチ早期教育）でも歌ったらしく、遠まわしにお叱りを受けましたよ・・・！こういう原理主義なとこ嫌・・・ちょっとガクブルだわ・・・
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年05月24日 
+TITLE: 2012年05月24日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13901,7 +8449,7 @@ BODY:
 マイブームのスイッチは、東京行きの飛行機で、隣のスウェーデン人がスウェーデン語で歌ってくれたから。元々しま○ろうの体験DVDで知っていたので、嬉しかったんだろうなぁ。お姉さん、同じ位の子がいるらしく、iphoneで見せてくれた写真が超絶可愛かった。日本まで出張ご苦労様です・・・
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年05月24日 
+TITLE: 2012年05月24日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13917,7 +8465,7 @@ BODY:
 日々、子に鬼をチラつかせて脅しつつ従わせてるわけですがｗ子がそれを真似して、私達に「オニくるよ～～ガブゥーってするよ～～m( ఠ‿ఠ )m」と中々の演技力で脅してくるように。。そして「・・・オニ、こわくないよ、かわいいよ。だいじょうぶよ！」と慰めてくれるｗｗ
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年05月24日 
+TITLE: 2012年05月24日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13933,7 +8481,7 @@ BODY:
 子の最近の口癖は「おなか～すいた～～」・・・とうとうこの言葉を覚えてしまったか・・・orz。。朝御飯食べて、三十分後に発動してきやがります。。朝食後の軽い食事って！パタリロですか！！
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年05月25日 
+TITLE: 2012年05月25日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13949,7 +8497,7 @@ BODY:
 子のお風呂取り上げに遅れ、無人の脱衣所に出された子、、「だれも …おらんバイ…！」 と呟いたらしい(;ﾟ;ж;ﾟ; )ブフォ 腹筋崩壊…！あまりに笑ったので、持ちネタと認識し、時々使ってくるwwwすごい破壊力…！私が使うと「おるやん！」とツッコミも忘れないwwwwひはー苦しいー…
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年05月26日 
+TITLE: 2012年05月26日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13966,7 +8514,7 @@ BODY:
  http://t.co/SRhfTTJ5
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年05月26日 
+TITLE: 2012年05月26日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13979,13 +8527,13 @@ DATE: 05/26/2012 01:05:06
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-寝ちゃったので、カフェで休憩中( ^^;ステラおばさん…懐かしいな…！昔、北九州にもいっぱいあっ たような。 
+寝ちゃったので、カフェで休憩中( ^^;ステラおばさん…懐かしいな…！昔、北九州にもいっぱいあっ たような。
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年05月26日 
+TITLE: 2012年05月26日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14002,7 +8550,7 @@ BODY:
  http://t.co/5fRVyYDG
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年05月26日 
+TITLE: 2012年05月26日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14019,7 +8567,7 @@ BODY:
  http://t.co/BpeAgoI1
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年05月26日 
+TITLE: 2012年05月26日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14032,13 +8580,13 @@ DATE: 05/26/2012 06:29:46
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-昼休みのヤマザキと合流し、ラーメン屋はしごで塩・醤油・味噌コンプリートwこっちはあまり幼児向きな店じゃないので、私&amp;子では無理だったな。。醤油が面白い味。ヤマザキは味噌の方が良かったと意見が分かれた。一粒庵  [食べログ] 
+昼休みのヤマザキと合流し、ラーメン屋はしごで塩・醤油・味噌コンプリートwこっちはあまり幼児向きな店じゃないので、私&amp;子では無理だったな。。醤油が面白い味。ヤマザキは味噌の方が良かったと意見が分かれた。一粒庵  [食べログ]
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年05月26日 
+TITLE: 2012年05月26日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14055,7 +8603,7 @@ BODY:
  http://t.co/OLePg8qe
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年05月26日 
+TITLE: 2012年05月26日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14068,13 +8616,13 @@ DATE: 05/26/2012 11:53:08
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-昼寝から目覚めると遊具で大ハッスルw大通公園は凄いのがいっぱいあって楽しいけど、二歳児を放っておけるシロモノでは無い。。一時間半付き合ってヘトヘトに…(Тωヽ)普段は無茶苦茶イン... 
+昼寝から目覚めると遊具で大ハッスルw大通公園は凄いのがいっぱいあって楽しいけど、二歳児を放っておけるシロモノでは無い。。一時間半付き合ってヘトヘトに…(Тωヽ)普段は無茶苦茶イン...
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年05月27日 
+TITLE: 2012年05月27日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14091,7 +8639,7 @@ BODY:
  http://t.co/dq03SdNn
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年05月27日 
+TITLE: 2012年05月27日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14107,7 +8655,7 @@ BODY:
 無事帰宅～。今回は先週の東京フライトと違って空席が多く、随分楽だった(^^;新千歳空港で初ポテリコ！何気に美味しいw子、気にいってたよ…普段はフライドポテト食べないくせに…
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年05月27日 
+TITLE: 2012年05月27日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14123,7 +8671,7 @@ BODY:
 子が寝る前に重々しく頷きながら「ははうえ…がんばったね。ちちうえも、がんばったね。しーちゃんも、がんばった。えらかった！ﾖｼﾖｼ ヾ(ﾟωﾟ)すごいねー( ・ω・ﾉﾉ"☆ﾊﾟﾁﾊﾟﾁﾊﾟﾁ!!」と褒めてくれたwwwえっと…そんなに辛い旅だった…?
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年05月29日 
+TITLE: 2012年05月29日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14139,7 +8687,7 @@ BODY:
 保育園でH君と昼寝をなかなかせず、H君「（早く寝ないと）おに、くるかな・・・」　子「おに、こないよ、だいじょうぶよ！」　H君「うん、だいじょうぶ！」と励ましあっているらしいｗｗサッサと寝なさいｗｗｗ　子のクラスに新しい女の子が入園し、やっと3人になった。うれしいー
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年05月30日 
+TITLE: 2012年05月30日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14155,7 +8703,7 @@ BODY:
 子が朝食後に「おやつたべたーい」などと言い出したので、「じゃあ可愛いポーズでもとってみれば。考えんでも無いよ。」と冗談で言ってみたら、「かわいいポーズー！」と言いつつ両手投げキッスをしたΣΣ（゜д゜））理解するとは思わなかった・・・！ポーズを知っているとは・・・！！いりこあげた。
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年05月31日 
+TITLE: 2012年05月31日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14171,7 +8719,7 @@ BODY:
 子がイヤイヤを発動した後、「いみわからん！」と言った。それはこっちのセリフです・・・ちゅーか、私が良く言ってるから覚えたんだな・・・orzだってイヤイヤ意味不明なんだもの。。クレヨンが落ちただけで「おーちーちゃったーーー！！」とか大声だしてさ。。自分で拾えばいいじゃないか、と。
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年05月31日 
+TITLE: 2012年05月31日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14187,7 +8735,7 @@ BODY:
 今日も吐き気がする…昨日の朝はカルボナーラ食べ過ぎたせいかと思ったけど、どうやら胃腸炎だな。。ということは、子が月・火と食欲がイマイチでお腹がゆるかったのも、旅の疲れではなく胃腸炎だったんだな。。。毎回、子より私の方が具合悪くなるのは何故。まぁ逆より良いんだろうけどさ…
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年06月02日 
+TITLE: 2012年06月02日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14203,7 +8751,7 @@ BODY:
 ｢お返事お返事出来るかな～?｣という歌で、子は｢ははうえさーん！｣｢ちちうえさーん！｣と言って、私達に元気なお返事を強要してくる。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年06月03日 
+TITLE: 2012年06月03日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14219,7 +8767,7 @@ BODY:
 子、トトロにド嵌りしております。。それはもうキラキラした目で、「トトロにのりた～い！ネコバスのりた～い！！」という表情はメイちゃんそっくりw隙あらばトトロを見せろコール。。寝る前も「おきたら、トトロみる。ね？」と言って寝てるし。もうこれは一度飽きるまで見せる他無いのかな…。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年06月03日 
+TITLE: 2012年06月03日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14235,7 +8783,7 @@ BODY:
 子には、マールはトトロの友達で、マールの許可が無くては見せられないと言ってみたwついでに、マールはネコバス社の社長であるともwwこうして猫様への忠誠心を育てていくんだぜ。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年06月03日 
+TITLE: 2012年06月03日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14251,7 +8799,7 @@ BODY:
 最近、他の保護者の方との世間話で先ず話題に出るのが、子の体格の良さについて。。背も伸び締まってきて、赤ちゃん体型からは抜け出したのだけど、何というか…プロレスラー的な体型になってきてね…orz。。体当たりとかされると、肉弾、という言葉が頭に浮かぶの。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年06月04日 
+TITLE: 2012年06月04日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14267,7 +8815,7 @@ BODY:
 子は小さい事はすぐに謝るが、自分が本当に悪いと思っている事に関しては（と理解しているかは謎なんだけど、シリアスな場面では）、口をヘの字にして眉間に皺をよせ、意地でも謝らない・・・(ー_ー)!!謝るように促しても目を逸らし、怖い顔で見据えてもプルプルを首を振る・・・(-_-;)
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年06月04日 
+TITLE: 2012年06月04日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14283,7 +8831,7 @@ BODY:
 しかし今朝、しばらくの膠着状態の後、ヤマザキが「そんな悪い子の前には、トトロは姿を現さないよ！」というと、それはもう急速に態度を変え、深々と頭を下げつつ「ごめんなしゃ～い！」と。そしてすぐさま、「（もう良い子になったので）トトロみる～！♪o(●´ω｀●)o」と。。もうね・・・唖然
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年06月06日 
+TITLE: 2012年06月06日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14299,7 +8847,7 @@ BODY:
 子が「おきたら、またあそぶ。ね？よろしくね！」と言って寝た。よろしく・・・ｗ丁寧語も使うようになって、「しーちゃん、バナナたべるです！」など、ちょっとタラちゃんチックｗｗちょくちょく爆笑モノの一言があるんだけど、全部覚えきれないのが口惜しい。
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年06月06日 
+TITLE: 2012年06月06日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14318,7 +8866,7 @@ BODY:
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年06月06日 
+TITLE: 2012年06月06日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14331,13 +8879,13 @@ DATE: 06/06/2012 03:43:57
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-あー、チョコレート戦争のイラストレーターか！1974・・・新刊で買ってもらったのかな。ヤマザキのはボロボロだし落書きだらけｗでも中々良い落書き。この時がヤマザキの画力のピークだったと思われるｗｗ北田卓史「けんちゃんとねこはかせ」1974年 
+あー、チョコレート戦争のイラストレーターか！1974・・・新刊で買ってもらったのかな。ヤマザキのはボロボロだし落書きだらけｗでも中々良い落書き。この時がヤマザキの画力のピークだったと思われるｗｗ北田卓史「けんちゃんとねこはかせ」1974年
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年06月06日 
+TITLE: 2012年06月06日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14350,13 +8898,13 @@ DATE: 06/06/2012 06:00:54
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-ヤマザキが応募しては？と言うのだが、こういう正統派ハートウォーミングなエピソードは全く思いつかない。。　　絵本『ちいさなあなたへ』 親子のエピソードを大募集！ 
+ヤマザキが応募しては？と言うのだが、こういう正統派ハートウォーミングなエピソードは全く思いつかない。。　　絵本『ちいさなあなたへ』 親子のエピソードを大募集！
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年06月06日 
+TITLE: 2012年06月06日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14372,7 +8920,7 @@ BODY:
 酔いに任せて、寝ない子を捕まえに来た鬼と追い払う母の、一人二役の迫真の演技wドアを開け閉めをしつつ攻防戦の熱演ww子、あまりの怖さに目を瞑ったまま身動き取れず。このまま寝るが良い…
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年06月06日 
+TITLE: 2012年06月06日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14388,7 +8936,7 @@ BODY:
 何度トライしても、子を20時半に熟睡してる状態にすると、5時半に目を覚ます…これはツライ。。保育園的には遅いんだろうけど、やはり21時に熟睡している状態を目指す事にしよう。これだと6時半まで眠ってくれる事が多いし。まあ、そのうち起こしても起きない悩みになるんだろうけど…
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年06月11日 
+TITLE: 2012年06月11日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14401,13 +8949,13 @@ DATE: 06/11/2012 02:39:32
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-二歳の記念写真。じつは二ヶ月近く遅れてしまったんだけどね。。ドレスは自前で、お値段なんと￥3800ｗ 
+二歳の記念写真。じつは二ヶ月近く遅れてしまったんだけどね。。ドレスは自前で、お値段なんと￥3800ｗ
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年06月11日 
+TITLE: 2012年06月11日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14423,7 +8971,7 @@ BODY:
 ちなみにアトリエ木下で撮りました。お友達紹介券（2Lサイズが一枚無料）があるので、行かれる方は是非ｗ写真展に出すプランがお得！でも一枚じゃ飽き足らず、つい他のも買ってしまい散財する罠。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年06月13日 
+TITLE: 2012年06月13日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14439,7 +8987,7 @@ BODY:
 子にトトロのぬいぐるみを買い与える。スポンサーはキミちゃんｗ子が大喜びし、「キミちゃん、ありがとー！！」と言われ、即払い。すばらしいWIN-WIN(笑)私達からは指人形をあげ、お風呂におびき寄せる囮にした。中々効果アリ。
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年06月13日 
+TITLE: 2012年06月13日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14455,7 +9003,7 @@ BODY:
 トトロのぬいぐるみを非常に気に入り、毎日「すきすきー！」と顔を埋めて抱っこしている。が、昨日はあまりに勢い良く抱っこしてトトロの髭が目に当たったらしく、「トトロに・・・やーらーれーたぁぁ～～！！」と大泣きしてたｗｗや、やられたって・・・ｗｗｗ
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年06月13日 
+TITLE: 2012年06月13日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14468,13 +9016,13 @@ DATE: 06/13/2012 04:47:27
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-テスト投稿。これも家庭保育園にて。 
+テスト投稿。これも家庭保育園にて。
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年06月13日 
+TITLE: 2012年06月13日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14491,7 +9039,7 @@ BODY:
  http://t.co/2BFUGGhF
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年06月13日 
+TITLE: 2012年06月13日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14504,13 +9052,13 @@ DATE: 06/13/2012 05:23:24
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-テスト投稿。これが現在のプロレスラー体型だ！ 
+テスト投稿。これが現在のプロレスラー体型だ！
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年06月13日 
+TITLE: 2012年06月13日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14527,7 +9075,7 @@ BODY:
  http://t.co/tpYPwXt5
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年06月14日 
+TITLE: 2012年06月14日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14543,7 +9091,7 @@ BODY:
 子の良い間違いネタ。テレビが言えず、「テビリ」ｗ　郵便屋さんは「てれびんやさん」ｗｗ　何故、「てれびんやさん」では「てれび」という配列を言えるのに、テレビは「テビリ」になるのだろうか。
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年06月18日 
+TITLE: 2012年06月18日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14559,7 +9107,7 @@ BODY:
 昨晩帰ってみると、子が私のベッドに。どうやらヤマザキは寝かしつけ中に力尽きたらしい。。まぁいいや、とそっとベッドに入ると、子がカッッ！！と目を見開き・・・そのまま寝入ったε=(￣｡￣;A ﾌｩ・・・ドキドキした・・・ちょっと妖怪ちっくでさ・・・
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年06月18日 
+TITLE: 2012年06月18日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14575,7 +9123,7 @@ BODY:
 旅行で金・土・日と子をヤマザキに託した訳だけれども、何事も無く、ヨカッタヨカッタ！まぁヤマザキは出来る男なんで、全く心配してなかったけどｗ朝一、子から「おねぇちゃ～～ん」と言われてギョッとしたが、メイちゃんのセリフを使ったギャグだった模様(~_~;)
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年06月18日 
+TITLE: 2012年06月18日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14591,7 +9139,7 @@ BODY:
 ヤマザキに「子育て技術が向上したね」と褒めたら、「元からこんなモンよ(｀・ω・´)ｷﾘｯ」と返されたｗいや、相手するのが上手になってるって！更に言葉が通じるようになってるし、何より、自分の事をしつつも子に注意を向けるという、不可欠だが男性に欠けがちなスキルが身に付いている！！
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年06月19日 
+TITLE: 2012年06月19日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14607,7 +9155,7 @@ BODY:
 子がイヤイヤ発動しつつ私の頬を叩いた・・・軽くだけどΣΣ（゜д゜lll）叱ると無言でブスーっo(TﾍTo)。。ヤマザキが騒ぎを聞きつけ、子に何したの？！と問い質すと「なにも・・・してないよ」と背を向けた！(-_-;) ウソまでつくか。。今日は最終的には謝れましたが、、強情だわ･･
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年06月22日 
+TITLE: 2012年06月22日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14623,7 +9171,7 @@ BODY:
 「ねこばばちゃんがた～べ～た～い～～！！」と泣き喚く子。な、なんだよ、それ。。ヤマザキが消去法で突き止め、さくらんぼであることが判明。・・・一文字も合ってないし。なんでだよ。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年06月26日 
+TITLE: 2012年06月26日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14642,7 +9190,7 @@ BODY:
 http://t.co/zSMeslOy
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年06月26日 
+TITLE: 2012年06月26日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14658,7 +9206,7 @@ BODY:
 子にiPadでトトロを見せてゴロリとしてたら、ついついうたた寝。。何時の間にか、正しい恋愛のススメを見てる…そしてウエンツを指差して、「これカワイイ」とか言ってる…orz
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年06月27日 
+TITLE: 2012年06月27日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14674,7 +9222,7 @@ BODY:
 子、朝から「きょうは、ほいくえん、おやすみよ。きみちゃんのとこ、いってね、あそぼう、するよ」と。いやいや、今日は保育園ですよ。。「え～、きみちゃんとあそぶよ。。・・・あ！ははうえ、きみちゃん、わかる？」・・・うん、、母上の母上だから知ってるよ・・・
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年06月27日 
+TITLE: 2012年06月27日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14690,7 +9238,7 @@ BODY:
 ゴミ出しの準備をしていたら、マールが脱走・・・続いて、子も脱走。。何故か、ハイハイでマールに着いていってるし。まるで猫二匹ｗ　お隣さんに出くわし、可愛いわ～と誉められる。お隣さん（猫好き）がマールの頭を撫でると、子も頭を差し出してるしｗｗご近所さんも両手で撫でてるしｗｗｗ
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年06月28日 
+TITLE: 2012年06月28日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14703,13 +9251,13 @@ DATE: 06/28/2012 07:20:11
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-????????????????????????????????? 
+?????????????????????????????????
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年06月28日 
+TITLE: 2012年06月28日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14722,13 +9270,13 @@ DATE: 06/28/2012 07:38:56
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-保育園では写真手前のかご「いいもんいれ」を持って、大雨以外は日々散歩。丸い石、葉っぱ、時には虫を拾って入れるらしい。。近所の家の金柑の実を取らせて貰い、散歩中のオヤツにご満悦な様子。 
+保育園では写真手前のかご「いいもんいれ」を持って、大雨以外は日々散歩。丸い石、葉っぱ、時には虫を拾って入れるらしい。。近所の家の金柑の実を取らせて貰い、散歩中のオヤツにご満悦な様子。
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年06月29日 
+TITLE: 2012年06月29日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14744,7 +9292,7 @@ BODY:
 歯を磨いていると「がんばぁれぇ、ははぁうえ！がんばぁれぇ、ははぁうえ！！」と応援してくれたｗ父上も応援してあげてーと言うと、「がんばぁれぇ、ちちーうえ！がんばぁれぇ、ちちーうえ！！」と懸命に応援ｗｗヤマザキは調子悪いみたいなので、これで頑張れると良いのだが。
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年07月02日 
+TITLE: 2012年07月02日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14760,7 +9308,7 @@ BODY:
 子の虫刺されがすごい。従兄弟の子と比較して、あらためて気がついた。まぁ山の中の保育園じゃある程度は仕方無いんだけど。。今日も登園直後に蚊が・・・！子、自分でパチンと叩き殺そうと頑張ってて、逞しいな・・・となんか感心した。私も触るのすごく嫌だけど、奮起して叩き殺してやった(^^)v
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年07月03日 
+TITLE: 2012年07月03日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14776,7 +9324,7 @@ BODY:
 保育園の短冊を作成。子を代弁し、「元気に楽しく遊べますように　あまり蚊に刺されませんように」と書いといたｗ　ヤマザキは「学業成就」だけで済まそうとしたので、家族の事も祈っとけ、と言うと「この幸せが続きますように」と書き足した。。なんか・・・可笑しいんだけど・・・
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年07月03日 
+TITLE: 2012年07月03日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14792,7 +9340,7 @@ BODY:
 しかしヤマザキよ、こよりがマトモに作れないとはどういう事だ。キミは折り紙が得意だったと言っていたんじゃないのか。あれはウソか。あんな手つきで創作折り紙を作れるとは到底思えない。紙をクシャクシャに丸めたのを創作折り紙と言っていただけじゃないのか。
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年07月04日 
+TITLE: 2012年07月04日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14808,7 +9356,7 @@ BODY:
 延び延びになっていた予防接種がようやく完了。子、、初めて、、、泣きませんでした～！！「しーちゃん、なかんかった。がんばった。」としきりに自分で自分を誉めていたｗ　そして、他の子が泣いているのが聞こえると、「あかちゃん、なきようね～」とニヤニヤ。。・・・優越感、、なのか・・・？
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年07月04日 
+TITLE: 2012年07月04日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14824,7 +9372,7 @@ BODY:
 そのまま外食。子が伝票を取って「これなに？」と聞くので、伝票だよ～しーちゃんが奢ってくれる？と聞くと、「しーちゃんのお金は？」とｗ　中々解ってるな・・・！　私の財布を渡すと、一円玉を取り出して伝票の上に乗せ、「はい、ひゃくえんよ！」と得意気ｗｗ
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年07月09日 
+TITLE: 2012年07月09日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14840,7 +9388,7 @@ BODY:
 子、トトロに飽き、今度はポニョはまりだした。週末に初めて一緒に見たのだけど・・・こんな話だったのか。ひょっとして、あと数年はTV放映はされないんじゃないんだろうか。子、魚の時の妖怪ちっくなポニョに、よく似ているｗ　次は・・・何を見せようかなぁ。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年07月09日 
+TITLE: 2012年07月09日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14853,13 +9401,13 @@ DATE: 07/09/2012 11:10:57
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-メニューは桃と生ハムの冷製カッペリーニ、鶏肉のバジルソース。そして勿論シャンパーニュ w子にはオムライスを作ったのだけど、カッペリーニを気に入ってしまい大量に盗られた。。 
+メニューは桃と生ハムの冷製カッペリーニ、鶏肉のバジルソース。そして勿論シャンパーニュ w子にはオムライスを作ったのだけど、カッペリーニを気に入ってしまい大量に盗られた。。
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年07月09日 
+TITLE: 2012年07月09日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14876,7 +9424,7 @@ BODY:
  http://t.co/MbGhoKDW
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年07月09日 
+TITLE: 2012年07月09日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14889,13 +9437,13 @@ DATE: 07/09/2012 11:46:46
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-梅雨の晴れ間、風が気持ち良かったのでベランダで夕食。数年前の同時期、蜻蛉？の大発生に当たってパニックになって以来やってなかったけど、やっぱり楽しいなぁ(o^o^o)この時期、BG... 
+梅雨の晴れ間、風が気持ち良かったのでベランダで夕食。数年前の同時期、蜻蛉？の大発生に当たってパニックになって以来やってなかったけど、やっぱり楽しいなぁ(o^o^o)この時期、BG...
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年07月15日 
+TITLE: 2012年07月15日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14912,7 +9460,7 @@ BODY:
  http://t.co/i4wWTobb
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年07月15日 
+TITLE: 2012年07月15日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14929,7 +9477,7 @@ BODY:
  http://t.co/PqE2j5on
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年07月15日 
+TITLE: 2012年07月15日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14948,7 +9496,7 @@ BODY:
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年07月16日 
+TITLE: 2012年07月16日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14965,7 +9513,7 @@ BODY:
  http://t.co/fOwJXCf3
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年07月16日 
+TITLE: 2012年07月16日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -14978,13 +9526,13 @@ DATE: 07/16/2012 12:30:02
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-てだこ亭にて。座敷に玩具も一杯で、お絵描きセットまで用意してくれ、子連れには特に最高！アクアパッツァが絶品。他も沖縄素材ですごく丁寧に作られてて、子連れでなくても優秀なトラットリ... 
+てだこ亭にて。座敷に玩具も一杯で、お絵描きセットまで用意してくれ、子連れには特に最高！アクアパッツァが絶品。他も沖縄素材ですごく丁寧に作られてて、子連れでなくても優秀なトラットリ...
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年07月16日 
+TITLE: 2012年07月16日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15001,7 +9549,7 @@ BODY:
  http://t.co/0GsU0WF5
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年07月16日 
+TITLE: 2012年07月16日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15014,13 +9562,13 @@ DATE: 07/16/2012 16:09:43
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-託児二日目。このカレーを食べる顔…w  ブログの写真以外の物も、メールで沢山送ってくれてた！ダイビング前にも、インストラクターの携帯に子の様子を送って見せてくれ、安心させてくれるサービスもwwきめ細やかだわ～  
+託児二日目。このカレーを食べる顔…w  ブログの写真以外の物も、メールで沢山送ってくれてた！ダイビング前にも、インストラクターの携帯に子の様子を送って見せてくれ、安心させてくれるサービスもwwきめ細やかだわ～
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年07月18日 
+TITLE: 2012年07月18日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15037,7 +9585,7 @@ BODY:
  http://t.co/hiq7Fqfx
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年07月18日 
+TITLE: 2012年07月18日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15054,7 +9602,7 @@ BODY:
  http://t.co/3whZrq99
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年07月20日 
+TITLE: 2012年07月20日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15071,7 +9619,7 @@ BODY:
  http://t.co/LqYk2otI
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年07月20日 
+TITLE: 2012年07月20日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15084,13 +9632,13 @@ DATE: 07/20/2012 17:01:20
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-アクアヴィータのードブルをツマミながら、マンションの廊下から若戸大橋の花火大会見物！今年は大玉も多くてキレイだった〜(´∀｀)子も、「キレイね〜、ドーン！っていったね〜」と言いつ... 
+アクアヴィータのードブルをツマミながら、マンションの廊下から若戸大橋の花火大会見物！今年は大玉も多くてキレイだった〜(´∀｀)子も、「キレイね〜、ドーン！っていったね〜」と言いつ...
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年07月24日 
+TITLE: 2012年07月24日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15106,7 +9654,7 @@ BODY:
 子がちょっとカマっぽい店員さんを指差して「おねーちゃん！おねーちゃんよ！！」などと叫ぶものだからヒヤヒヤした…。大阪王将、割と良い。油でオナカは壊さなさげw
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年07月24日 
+TITLE: 2012年07月24日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15122,7 +9670,7 @@ BODY:
 子、ぬいぐるみに「え…そうなの…？じゃあ、オニのとこいく？オニ、こわいよ～…しーちゃんは行かんよ！！」などと一人芝居を始めたw「みてー、あれ、バイクよ!」とぬいぐるみを高く掲げたり、「うわー！●だ！たいへんだ！」とオシリを拭いたり、「つかれちゃったねー」と抱っこで揺すったりww
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年07月25日 
+TITLE: 2012年07月25日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15138,7 +9686,7 @@ BODY:
 子、イヤイヤ絶頂期！！まず朝、家から出るまでで大騒動。保育園でも「ははうえも、あそぼ？」と私を引っ張って山へ登ろうとし、少々遊んでやるだけでは気が済まず、結局ウギウギ状態でお別れ。。朝から・・・疲れるわ・・・(*_*;
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年07月25日 
+TITLE: 2012年07月25日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15154,7 +9702,7 @@ BODY:
 先生にもこれまでの猫被りがとれてきたらしく、何かとウギウギ言っているらしい・・・。先生は「今しっかりイヤイヤを出す事でこれからの成長が違ってきます、良いことです！」とか言うが・・・いや～、よく反抗期が無い子は云々とかいうけど、そういうの眉唾っちゅーか・・・まぁ励ましだな。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年07月25日 
+TITLE: 2012年07月25日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15170,7 +9718,7 @@ BODY:
 最近、夏休みの学童で来ている子達から、「どうしてしーちゃんはお母さんの事、母上って言うの？」と問われるｗ　「では君は何て呼んでるの？どうして？？」と問い返して煙に巻いたり、「・・・私がそう呼んで欲しかったから・・・かな・・・」と適当に答えたり。時代劇ファンだから、というのもアリ？
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年07月27日 
+TITLE: 2012年07月27日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15186,7 +9734,7 @@ BODY:
 子、蚊に刺され慣れたようで、噛まれてすぐにムヒ塗れば翌朝には治るようになったｗ　跡は無数に残ってるけど、それすらも日焼けで目立たなくなってきた感があるｗｗ
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年07月28日 
+TITLE: 2012年07月28日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15202,7 +9750,7 @@ BODY:
 子は「あーるーこー、あーるーこー、わたしはーげんきー」の歌が大好きで、よく大声で歌う。わたしの部分を自分の名前や、父上・母上に替えて歌うこともwこの歌のおかげか、自分＝しーちゃん＝わたしというのが、じんわりと理解出来てきている様子。
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年07月29日 
+TITLE: 2012年07月29日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15219,7 +9767,7 @@ BODY:
  http://t.co/TKD01S84
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年08月01日 
+TITLE: 2012年08月01日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15235,7 +9783,7 @@ BODY:
 子、ここ数日イヤイヤをこじらせ、「ほいくえん、いかん！くるまでまっとく！」などと言うように・・・orz。説得しても、抱っこじゃないと絶対行かないとイヤイヤ。。先生から、門に入ったらこちらで何とかするから抱っこしなくて良しと言われ、泣かれると少々ツライが重荷（物理的）は無くなったｗ
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年08月01日 
+TITLE: 2012年08月01日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15251,7 +9799,7 @@ BODY:
 今朝は狸寝入りの技を発動・・・！寝てるから仕方ないか、、と車から抱っこしてフウフウ言いながら坂を登って園舎に着くと、「瞼・・・ピクピクしてますｗ」と言われ、座らせると瞑想スタイルに。。その顔が高僧っぽすぎて爆笑ｗｗ　しかし朝からしんどいわー。早く体調が戻って、機嫌も戻ってくれ。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年08月02日 
+TITLE: 2012年08月02日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15268,7 +9816,7 @@ BODY:
  http://t.co/Lz7b4Odg
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年08月02日 
+TITLE: 2012年08月02日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15284,7 +9832,7 @@ BODY:
 子が体調が回復してきたためか、一ヶ月ぶりに「あっちでねる」と子供部屋で寝たー！＼(^o^)／するとマールがすぐさま私のベッドにw暑いから冷たい所で寝てたんじゃ無かったんだな…ごめんよ寂しい思いをさせて…でも子が居ない会社タイムはツレナイ態度じゃないかぁーツンデレさんめぇー
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年08月04日 
+TITLE: 2012年08月04日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15301,7 +9849,7 @@ BODY:
  http://t.co/2b47Ttil
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年08月04日 
+TITLE: 2012年08月04日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15318,7 +9866,7 @@ BODY:
  http://t.co/xpvl9hOi
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年08月05日 
+TITLE: 2012年08月05日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15331,13 +9879,13 @@ DATE: 08/05/2012 08:15:39
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-旅の本命、カワセミの庄なう。風呂上がりに私はビール、子はセンベイ w熊本からの道中、水害の後が生々しい中、雨が降って通行止めになってたりと少々スリリングなドライブだった。。 
+旅の本命、カワセミの庄なう。風呂上がりに私はビール、子はセンベイ w熊本からの道中、水害の後が生々しい中、雨が降って通行止めになってたりと少々スリリングなドライブだった。。
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年08月05日 
+TITLE: 2012年08月05日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15354,7 +9902,7 @@ BODY:
  http://t.co/VMxf9anj
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年08月06日 
+TITLE: 2012年08月06日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15371,7 +9919,7 @@ BODY:
  http://t.co/KpRvaLTA
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年08月06日 
+TITLE: 2012年08月06日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15388,7 +9936,7 @@ BODY:
  http://t.co/WGleKGdz
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年08月06日 
+TITLE: 2012年08月06日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15407,7 +9955,7 @@ BODY:
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年08月07日 
+TITLE: 2012年08月07日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15423,7 +9971,7 @@ BODY:
 ラムネ温泉は予想以上にぬるかった。友人から夏じゃないと寒いと言われていたが、本当だな。最初冷たいんだけど、気泡がつくとフワッと温かく感じるのが面白い。子には物凄く細かい気泡がビッシリついて、自分で指でなぞって面白がっていたｗ私は子ほど細かい気泡は付かず・・・肌のキメの差？？orz
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年08月07日 
+TITLE: 2012年08月07日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15439,7 +9987,7 @@ BODY:
 電話のオモチャから「もしもし、私ナナちゃん。あなたの好きな食べ物は？」と問われ「・・・バナナです・・・」と答える子の、若干誰だコイツ？的な微妙な表情が面白いｗｗ　大きくなったらなりたいものは「うーん・・・やおやさん・・・」らしい。初耳！
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年08月07日 
+TITLE: 2012年08月07日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15455,7 +10003,7 @@ BODY:
 何故、八百屋なんて知っているんだ？職業の概念があるのも不思議・・・と思ったら、ノンタンのDVDに出てくるらしい。（ヤマザキ談）　ヤマザキ、結構、子と一緒に幼児向けの動画を見てるのよね・・・私はツマランので別の事して放っておいちゃうんだけど。
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年08月11日 
+TITLE: 2012年08月11日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15471,7 +10019,7 @@ BODY:
 大久保お盆休みは姪が遊びにきて、地元でゆっくり。とりあえずプール行ってみた。屋外は嫌なので、スポーツクラブの親子開放デーw幼児プールは貸切状態wwしかし子、足が付かない方にばかり行きたがる。しかも「じぶんで！あ～る～く～の！！」と。。一応止めたが、一度やらせてみるべきだったか…
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年08月11日 
+TITLE: 2012年08月11日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15487,7 +10035,7 @@ BODY:
 深いプールに滑り台が設置してあり、勢い良くドボンして大泣きするも果敢に深い方に挑戦したがる姿は、逞しくもあり、おバカでもあり…。。流れるプールの歩行レッスン中の高齢者の方々に、トレーナーの真似して「みなさーん、こっちきてくださいーい！」と呼ばわったのがおかしかったwwちょっwww
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年08月12日 
+TITLE: 2012年08月12日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15504,7 +10052,7 @@ BODY:
  http://t.co/goOrJKnK
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年08月12日 
+TITLE: 2012年08月12日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15521,7 +10069,7 @@ BODY:
  http://t.co/Q37iLAD1
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年08月12日 
+TITLE: 2012年08月12日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15538,7 +10086,7 @@ BODY:
  http://t.co/O8G1oxNW
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年08月13日 
+TITLE: 2012年08月13日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15555,7 +10103,7 @@ BODY:
  http://t.co/e5qRIb7k
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年08月18日 
+TITLE: 2012年08月18日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15571,7 +10119,7 @@ BODY:
 諸事情により子とヤマザキから一週間程離れて生活中。子が電話で色々話してくれる。「(こっちは)おそと、くらくなってきた」「みかんたべたよ」などなど、しっかり電話で会話出来るようになったんだな。「ははうえ、いたかったない？」とも。色々あってホロリときた。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年08月20日 
+TITLE: 2012年08月20日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15587,7 +10135,7 @@ BODY:
 一時帰宅し、四日ぶりに子と対面。子、むっちゃ普通wwいや、大喜びしてはくれたんだけれどもっwww帰り際に泣いたりするかと心配…いや若干期待したんだけど、良い子にしてたらまた明日来るからね、と言い聞かせると「うん！またね～」とニコニコしてタッチするとすぐTV。。…ドライな子だわ……
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年08月20日 
+TITLE: 2012年08月20日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15603,7 +10151,7 @@ BODY:
 しかし後で我慢していたものが爆発したのか、ヤマザキから「しーちゃんが絵本でぶった～～(T_T)しかも全然謝らない～～～(Ｔ^Ｔ)」と電話がww でも電話で諭したらすぐさま言われた通りに(^з^)付きで謝ったwwwリモートコントロールwwww
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年08月23日 
+TITLE: 2012年08月23日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15619,7 +10167,7 @@ BODY:
 子が時折、ふと思い出したように、「ははうえに、あいたい…(´・ω・｀)」などと言っているらしい。フヒヒ…
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年08月25日 
+TITLE: 2012年08月25日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15636,7 +10184,7 @@ BODY:
  http://t.co/IIMJIqst
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年08月25日 
+TITLE: 2012年08月25日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15653,7 +10201,7 @@ BODY:
  http://t.co/ST1zemxh
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年08月28日 
+TITLE: 2012年08月28日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15669,7 +10217,7 @@ BODY:
 運転中、子に後部座席から大声で「あの～、あのー、あのね！」と呼ばれた後、ものすごく小声で「…おともだちに…なりませんか…？」と誘われた;｀;:ﾞ;｀(;ﾟ;ж;ﾟ; )ブフォ  ひとしきり爆笑した後、じゃあお友達になりましょうか、と言うと、「いや！」と拒否wwなんなんだよwww
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年08月28日 
+TITLE: 2012年08月28日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15685,7 +10233,7 @@ BODY:
 二歳児って、結構、出来事を記憶してるのね。今日は桃のパスタだよ～と言ったら、「おそとでたべるの？」と。前回ベランダで食べたのは一ヶ月以上前…侮れん。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年08月30日 
+TITLE: 2012年08月30日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15701,7 +10249,7 @@ BODY:
 子が保育園の砂場で「ははうえ、いってらっしゃーい！ばいばーい！！」と見送ってくれた。するとその砂場にいる子供全員が一斉に立ち上がり、手を振ってくれたｗｗ子は体が大きいし、なんというか、群れのリーダーっぽくてカッコよかったｗｗｗ先日つい電子書籍で銀牙伝説WEEDを読んだもんで・・・
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年08月30日 
+TITLE: 2012年08月30日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15717,7 +10265,7 @@ BODY:
 子、歌が大好き。喋っていない時は歌っていると言っても過言では無いｗ　時々ジャイアンリサイタル的に、ものすごい大声で同じフレーズを繰り返し熱唱し、ε-（´ー`*）フゥーっと満足気に燃え尽きているｗｗｗ
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年09月02日 
+TITLE: 2012年09月02日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15733,7 +10281,7 @@ BODY:
 久しぶりに子と公園へ行ったものの…全く帰ろうとしない。。もう先に帰るよと脅しても「いいよ～、もうかえって！あっかんベロベロ～」などと言うので、泣きやがれと思いつつ隠れて見ていたら、遊具の上から「ははうえ！いいです！！いいですから～！！」と叫ばれた…ホントに帰っていいってコト…？
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年09月04日 
+TITLE: 2012年09月04日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15749,7 +10297,7 @@ BODY:
 子から「もおぉ～、バカチンじゃなーい？」と言われた。。何度も聞きなおしたが確かにそう言った・・・！しかも、じゃ、にアクセントをつける言い方で・・・！！因みに二個目のコロッケを、流石に食いすぎだろ、と半分奪ったら言われたよ・・・
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年09月10日 
+TITLE: 2012年09月10日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15765,7 +10313,7 @@ BODY:
 子が公園で雷を見た話。「こうえんいったの。すべりだい、のぼったらね、ゴロゴロゴロォ～！！って！オオカミがきた」･･え・・・雷じゃなくて狼なの？「うん、オオカミ！しーちゃん、えーんえーんないた。びっくりしたの。（オオカミに）おうちかえってください、した。だからもうだいじょーぶ！」
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年09月11日 
+TITLE: 2012年09月11日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15781,7 +10329,7 @@ BODY:
 子、保育園に着くとそのまま、仲良しのはっくんがいるミニプールへザブン。はっくんが転ぶと、子は力強く手を貸した。男前！ｗ　と思ったら、子、わざと転んで「てつだってぇ～♡」ｗｗ手を貸してもらって「あ・り・が・と！♡♡」ｗｗｗなんというブリッ子・・・スエオソロシヤ・・・（ ;゜Д゜)
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年09月13日 
+TITLE: 2012年09月13日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15797,7 +10345,7 @@ BODY:
 子に髪を引っ張られ、謝って！と言うと「・・・ないて(-_-)」と真顔で言われた。・・・・えーん・・・・。。するとコロリと表情を変え、「いたかったぁ～？(´･ω･`)かわいそぉねぇぇ。。ヨシヨシ、もうだいじょうぶよ！(o´・ω・｀)ﾉ」って何このマッチポンプ・・・
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年09月18日 
+TITLE: 2012年09月18日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15813,7 +10361,7 @@ BODY:
 「きょうもほいくえんおやすみして、タンタンタンタンたんじょうび～♪にいこ？」・・・ローソクはあったけど、君が行ったのはお葬式です。。お世話になった叔母に、ちゃんと手を合わせて「おばちゃん、バイバーイ・・・」と言っていたではないか。何処で記憶が改ざんされたんだ・・・
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年09月21日 
+TITLE: 2012年09月21日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15829,7 +10377,7 @@ BODY:
 下ネタ注意。登園後、子が「こっちきて～」と言うので、ついていくとトイレ。ほほう、雄姿を見せたいのだな。服を脱ぎ、トイレに座ったかと思うと・・・高々と両手を挙げた！Σ（゜д゜）何コレ保育園での作法なの？？とか思っていると・・・！！場外ホームラ～ン！！！ﾅﾝﾃﾞﾀﾞ・・・orz
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年09月21日 
+TITLE: 2012年09月21日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15845,7 +10393,7 @@ BODY:
 子が風邪気味なので早目に病院へ。スポイドで口をこじ開けて薬飲ますの大変なんだよな…とドンヨリしてたら「おねえちゃんみたいに、アーっ(上向き)てのむよ」というので、粉薬を口に入れて水で流し込んだら泣いたものの成功！あとはブドウ食べさせたらご機嫌！！成長してるんだなぁ(ﾟoﾟ;;
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年09月24日 
+TITLE: 2012年09月24日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15861,7 +10409,7 @@ BODY:
 ヤマザキを、では！！と言って見送ったら、子から「では！じゃなくて、いってらっしゃい、でしょぉ～？」・・・・そうですね。いってらっしゃい。。「ん～じゃあね～～、では、いってらっしゃい！にしよっか。ね？わかった？」と小憎らしい口調で注意されました。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年09月24日 
+TITLE: 2012年09月24日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15878,7 +10426,7 @@ BODY:
  http://t.co/5uTX3pbf
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年09月27日 
+TITLE: 2012年09月27日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15894,7 +10442,7 @@ BODY:
 子は7月の夏カゼ以降、すっかり私と一緒に寝るクセがついてしまった。。そろそろ自分のベッドで寝ようか、と誘うと「う～ん、、でもね～～、、しーちゃん、よなかにエーンエーンってないちゃうからねぇ～・・・ (・´ω・｀)」と、困ったもんだ、という表情で拒否ｗｗま、そのうち戻るだろ。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年10月01日 
+TITLE: 2012年10月01日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15910,7 +10458,7 @@ BODY:
 子、絶賛父上LOVE期ｗｗ金曜日夜の寝付かせ時にヤマザキが外出すると「ちちうえと・・・もっとあそびたかったぁぁ～～゜（゜´Д｀゜）゜うゎぁん」と泣き崩れて以来、週末は何でも「ちちうえがいい～」と付きまとっているｗｗｗ　正直・・・ラクだ・・・・！！
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年10月01日 
+TITLE: 2012年10月01日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15926,7 +10474,7 @@ BODY:
 でも、ε=ε=ε=(ﾉTдT)ﾉ ﾜｱｧｧ･･!!と泣いて私の方に駆け寄ってきたので両手を広げて待っていたら、直前でヤマザキを見つけ、直前で90度のクイックターンをきめられた時は・・・ちょっと寂しかったよ・・・！！
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年10月07日 
+TITLE: 2012年10月07日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15943,7 +10491,7 @@ BODY:
  http://t.co/5scNOhr6
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年10月10日 
+TITLE: 2012年10月10日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15959,7 +10507,7 @@ BODY:
 子は野菜が苦手。。頑張って食べたので、拍手喝采して大地賛讃の一節を歌ってやったら大ウケｗ　これは当分使えそうだが、外では出来ないｗｗ　子も覚えて時折歌ってるし。幼児が良い声で「ほめよーたたえよーー♪」と歌う様が面白すぎ(*;ﾟ;艸;ﾟ;)
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年10月10日 
+TITLE: 2012年10月10日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15975,7 +10523,7 @@ BODY:
 子を寝かしつける時、完全に寝る前にトイレ行くとか仕事するとか言ってベッドを離れるんだけど、今日は「ははうえ、ひとりであそぶと？(´･_･`)」と。。…バレてましたか…！！部屋を出てからも「ははうえ～！このおみず、きたないんじゃない？」とかイチャモンつけられました。熟成不足か。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年10月12日 
+TITLE: 2012年10月12日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -15991,7 +10539,7 @@ BODY:
 寝返りがうてない…と目を開けると、私一人でベビーベッドに丸まって寝ていた事に気づき、なんじゃこりゃぁぁ～～！！ってなった…  昨日は遅目の夕食で…ワイン飲んで……それから記憶が無い。。（−＿−；）そろそろジュニアベッドに替えなければ、、ってそんな問題じゃないんだけどさ。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年10月12日 
+TITLE: 2012年10月12日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16007,7 +10555,7 @@ BODY:
 何故起こしてくれないんだ！とヤマザキに文句を言ったら、「全く起きなかったんだよ～。動かそうにも亀のように丸まってるし…。居ないと気付いて、探して、ベビーベッドで見つけた時の僕の驚きが解る？！…こんなに面白い事、滅多にないよねwww」…うん、面白いけどさ、、布団くらい…(T_T)
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年10月14日 
+TITLE: 2012年10月14日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16020,13 +10568,13 @@ DATE: 10/14/2012 06:46:55
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-初の運動会。かけっこはショートカットしてたけどwwリズムもちゃんと出来てたし、障害物走もクリア！意外とやりおるな…！！「うんどうかいごっこ、たのしかったねぇ〜。またあしたもやろっ... 
+初の運動会。かけっこはショートカットしてたけどwwリズムもちゃんと出来てたし、障害物走もクリア！意外とやりおるな…！！「うんどうかいごっこ、たのしかったねぇ〜。またあしたもやろっ...
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年10月17日 
+TITLE: 2012年10月17日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16042,7 +10590,7 @@ BODY:
 子に誰ですかー？と問うと「しのかでーす」　うん、そろそろ名字も言えた方が良いよね、と、何しのかですかー？と言うと「・・・あか！しのかでーす」ｗちょｗｗ赤じゃないでしょう！「ん～じゃあねーピンクしのか！！」ｗｗ色変わったｗｗｗ「ぐへへ～（名字）しのかでしたー♪」とおちゃらける子。
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年10月26日 
+TITLE: 2012年10月26日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16058,7 +10606,7 @@ BODY:
 子、きみちゃんからお名前は？と聞かれ、「ピンクしのかです！(￣▽￣)ニヤニヤ…」やはり…ネタなのか。。orz
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年10月26日 
+TITLE: 2012年10月26日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16074,7 +10622,7 @@ BODY:
 保育園のクラス会にて、子は一人で完璧に着替えが出来る事が判明。。家でやらないのは、、甘えか…！！家でも自分でやるよう厳しく放っておく事にしたら、「んもぉぉ～！ははうえがすればいいじゃな～い。。しーちゃん、まだちっちゃいでしょぉぉ～～？」と不満タラタラ。君には自分で！期が無いのか？
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年10月29日 
+TITLE: 2012年10月29日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16087,13 +10635,13 @@ DATE: 10/29/2012 19:04:51
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-久しぶりに家族でイタリアン。子、ものすごく静かにお行儀良く食べててビックリ！成功の秘訣は、オシャレさせて特別感を盛り上げた事だった気がする。女の子だなぁ…！鹿肉＆ワイン最高～♪   アクア・ヴィータ (八幡/イタリアン)[食べログ] 
+久しぶりに家族でイタリアン。子、ものすごく静かにお行儀良く食べててビックリ！成功の秘訣は、オシャレさせて特別感を盛り上げた事だった気がする。女の子だなぁ…！鹿肉＆ワイン最高～♪   アクア・ヴィータ (八幡/イタリアン)[食べログ]
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年10月31日 
+TITLE: 2012年10月31日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16109,7 +10657,7 @@ BODY:
 ヤマザキと、子のイヤイヤも随分少なくなったよね～、反抗期終了かな？！とか話していたら、子が「うん、しーちゃん、もうおちついた」と会話に参加してきて爆笑ｗ落ち着いたってｗｗｗ　今から戦々恐々の第二次反抗期でも同様に宣言して欲しいものです。出来れば短期間で。
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年11月02日 
+TITLE: 2012年11月02日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16126,7 +10674,7 @@ BODY:
  http://t.co/xgKNMR6F
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年11月02日 
+TITLE: 2012年11月02日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16142,7 +10690,7 @@ BODY:
 目当てのトンカツ屋が休業中でショック…。でも、代わりの店も悪くなかったし、食後のみょうばん温泉がレトロな銭湯で、テルマエロマエ的で面白かったし、子も男湯初体験で「きもちかった〜！」とご満悦w
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年11月03日 
+TITLE: 2012年11月03日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16155,13 +10703,13 @@ DATE: 11/03/2012 06:25:52
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-平山動物園のホワイトタイガー！！まだ若いので、二匹でじゃれまくっててカワイイ(´∀｀)猫科が多くて私的には見所満載！子はベビーカーを借りなかったのが不満で「ねむいの〜(T＾T)」... 
+平山動物園のホワイトタイガー！！まだ若いので、二匹でじゃれまくっててカワイイ(´∀｀)猫科が多くて私的には見所満載！子はベビーカーを借りなかったのが不満で「ねむいの〜(T＾T)」...
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年11月04日 
+TITLE: 2012年11月04日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16178,7 +10726,7 @@ BODY:
  http://t.co/OrfJwDhT
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年11月05日 
+TITLE: 2012年11月05日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16194,7 +10742,7 @@ BODY:
 子の父上ベッタリ、ヤマザキの出張＆鹿児島旅行を経て更に向上中。ヤマザキの膝や腹の上で生活していると言っても過言ではないｗｗ　お風呂でも寝付かせでも「ちちうえがいい～」と。父上はいま用事してるからと言っても「まっとく！！(｡+・`ω・´)ｷﾘｯ」と断固たる表情。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年11月07日 
+TITLE: 2012年11月07日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16210,7 +10758,7 @@ BODY:
 子は、はらぺこあおむし、を、「ハバレコあおむし！」と言っていた。練習させると「はら～　ぺこ～」「はらぺ～　こ～」は言えるのに、続けて言うとやはり「ハバレコ！！ ( ﾟ∀ﾟ)」ｗｗｗ　これもネタ？と思いきや、自主練習を続け、とうとう言えるようになりました。とても得意気ですｗｗ
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年11月08日 
+TITLE: 2012年11月08日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16227,7 +10775,7 @@ BODY:
  http://t.co/O8J0BWwj
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年11月15日 
+TITLE: 2012年11月15日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16243,7 +10791,7 @@ BODY:
 子は感謝の言葉が上手い。「これ、だれがつくって（かって）くれたの～？ははうえ？ありがとぉぉ～～！(＠† ▽ †＠）」と感涙したように声を震わせて言ってくれるｗｗ　子を託児する前に、デパ地下で買ってきたお弁当を食べさせた時にも言ってくれたので、ちょっと良心が痛んだ。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年11月18日 
+TITLE: 2012年11月18日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16259,7 +10807,7 @@ BODY:
 今日はお子様優待day。髪をカットしに行って、無法松でラーメンと餃子食べさせて、買い物行って、子供部屋の模様替えしてジュニアベッド入れて、一緒にハンバーグ作って、ビデオ撮影して、絵本読んで…。子はとても楽しそうで何よりだけど非常に疲れました。。専業で育児してる人、すごいよ。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年11月18日 
+TITLE: 2012年11月18日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16275,7 +10823,7 @@ BODY:
 子があまりに楽しそうで幸せそうで眩しくて、、実は今日でお別れなんだよ…子豚として出荷されちゃうんだよ…ドナドナなんだよ…とか言ってみたくなって困るよね。まぁ言ってもまだ解らないだろうけどさ。
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年11月18日 
+TITLE: 2012年11月18日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16291,7 +10839,7 @@ BODY:
 子、自分の部屋で四ヶ月ぶりに一人で寝付けましたーー！！ジュニアベッドに大喜びしたものの、いざ寝るとなると「さみしいの～～(T_T)ちちうえと、ははうえは？…おしごと？？しーちゃんも、オシゴトするっ！」と若干ゴネたが、ヤマザキの説得と絵本読みと少々の添い寝で納得頂けました…
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年11月20日 
+TITLE: 2012年11月20日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16307,7 +10855,7 @@ BODY:
 子が朝にいつまでも遊んでいるので、先に行くよ、と言うと「いってらっしゃーい！しーちゃん、おるすばんしとく(^^♪」と。試しに出発したフリして隠れて見てたが、30分経っても歌うたって遊んでいるので、シビレを切らして強制的に登園。。ヤマザキが先に行ったときは大泣きしたのに・・・！！
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年11月25日 
+TITLE: 2012年11月25日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16323,7 +10871,7 @@ BODY:
 子が「ねぇ、ちちうえとははうえ、どっちがいい？ってきいて」と言うのでその通り聞くと、ニヤリと笑って「マール！(￣▽￣)」と答えられた…何ソレ…良い答え思いついた～みたいな…
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年11月25日 
+TITLE: 2012年11月25日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16339,7 +10887,7 @@ BODY:
 子は最近「○○って、いって」「○○って、きいて」と私に台詞をつけてくる。。アニメや絵本の再現だったり、保育園でよくある場面だったり、空想？の話だったり。一言二言ならともかく、ずっと続くので疲れる…「(手や足を上げて)もっと、こうよ！」とか演技指導も入るし……君は鬼監督か(-｡-;
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年11月25日 
+TITLE: 2012年11月25日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16355,7 +10903,7 @@ BODY:
 私が子の寝付かせをしていると、小声で「チチウエガイイ…」と。大袈裟に悲しんで見せたら、「ははうえもいいよ。。」とw  しかし後で急にコンセントが怖いと言い出し、父上がこれを怖いと教えた、責任者出て来いみたいな話になり、交代。そうしたら…スンナリ寝おった…！父上を呼ぶ策略か！！
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年11月29日 
+TITLE: 2012年11月29日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16372,7 +10920,7 @@ BODY:
  http://t.co/PI4EDtnL
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年11月30日 
+TITLE: 2012年11月30日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16389,7 +10937,7 @@ BODY:
  http://t.co/2roHAUlv
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年11月30日 
+TITLE: 2012年11月30日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16406,7 +10954,7 @@ BODY:
  http://t.co/RjluJy1r
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年12月10日 
+TITLE: 2012年12月10日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16422,7 +10970,7 @@ BODY:
 子が「ちちうえが、そんなに(こんなに)だーいすきなの♡」と言うので、じゃあ母上は？と問うと「あんまりすきじゃない」と言いおった！近頃、ヤマザキが誘っても子が○○しない！と言う時に、じゃあ母上が！「いや！しーちゃんが！」という作戦を取っていたのだけど、ライバル認定されたらしい。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年12月12日 
+TITLE: 2012年12月12日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16438,7 +10986,7 @@ BODY:
 子はサンタを認識したのだが、まだクリスマスに来るというのが理解できず、毎日待っている。。良い子のおねえさんの所にしか来ないよ、と脅すのだけど、少し頑張ったらその都度「もうサンタさん来る？(๑◕∀◕๑)」→まだだよ～24日の夜中だよ～～→「ウギーー！！」の繰り返し・・・困った。。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年12月13日 
+TITLE: 2012年12月13日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16454,7 +11002,7 @@ BODY:
 子がとうとう服について文句を言い出した！！朝の忙しい時にアレ嫌コレ嫌と・・・。uzeeeーーー！！ひょっとして、これから服を買いに行くのも、一緒に行かないといけないの？？面倒kuseeeeeーーーー！！！
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年12月16日 
+TITLE: 2012年12月16日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16470,7 +11018,7 @@ BODY:
 子がネイルシールを貼ってニコニコとヤマザキに見せたら、「可愛いね～。でもボク、こういうの好みじゃないんだよね」(ﾋﾄﾞｲw)と言われ、しょんぼりして直ぐに剥がしていたww
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年12月23日 
+TITLE: 2012年12月23日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16487,7 +11035,7 @@ BODY:
  http://t.co/wHIcyckg
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年12月23日 
+TITLE: 2012年12月23日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16503,7 +11051,7 @@ BODY:
 今日はヤマザキが仕事なので、子の望むままに遊び、リクエストしたものを食べ、オモチャを買ってやり、大サービスwお風呂の時にベタベタに甘えてきたので、これは胎内記憶を聞くチャンス！と、お腹の中の事覚えてる？と問うと、「…ぶどう」え？「おやさいと、おにくと～、ゴハン！」…いやいや。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年12月23日 
+TITLE: 2012年12月23日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16519,7 +11067,7 @@ BODY:
 すごくナチュラルな感じで被ったよ。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年12月25日 
+TITLE: 2012年12月25日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16532,13 +11080,13 @@ DATE: 12/25/2012 10:44:25
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-久しくクリスマスにケーキなぞ食べてなかったけど、今年は２つもw遊びに来たお友達に頂いたエーグルドゥースのシャンパンムースと、グローバーのショコラオランジュ(*^^*)両方、酒に合... 
+久しくクリスマスにケーキなぞ食べてなかったけど、今年は２つもw遊びに来たお友達に頂いたエーグルドゥースのシャンパンムースと、グローバーのショコラオランジュ(*^^*)両方、酒に合...
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年01月11日 
+TITLE: 2013年01月11日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16555,7 +11103,7 @@ BODY:
 ー
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年01月15日 
+TITLE: 2013年01月15日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16571,7 +11119,7 @@ BODY:
 子が朝から菓子を食べたいなどというので、保育園から帰ってからねと説得し、じゃあリンゴたべようか、食べる人～！と言うと、無言。どうしたのー？要らないのー？ｗと問うと、「・・・しーちゃん、おこってるから、ハーイ！っていえないのよ・・・」と憮然とした表情で解説されたｗｗ
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年01月15日 
+TITLE: 2013年01月15日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16587,7 +11135,7 @@ BODY:
 他にも、突然「ウギーー！！」と叫び、どうしたの？！と聞くと、「・・・ちょっと、、おこっただけ・・・（遠い目）」と言うパターンもあるｗｗ　結構なイラチで、ドライブ中に信号で引っかかるとウギったりするのよね。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年01月15日 
+TITLE: 2013年01月15日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16603,7 +11151,7 @@ BODY:
 ヤマザキと口論していると、子が心配そうに「しーちゃん？しーちゃんが、いけないことしたの？？　ちちうえ？ちちうえがバカなの？？」などと言うので笑ってしまい、子は鎹というのはこういう事なのかと感慨深かった。
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年01月17日 
+TITLE: 2013年01月17日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16616,13 +11164,13 @@ DATE: 01/17/2013 10:18:04
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-今日はマール様10歳の聖誕祭。子はモニュメントを作成し祝っておりますw 「ははうえのだいすきな、マールしゃま！しーちゃんも、だいすきよ!!」と敬愛の念を抱いているもよう。 
+今日はマール様10歳の聖誕祭。子はモニュメントを作成し祝っておりますw 「ははうえのだいすきな、マールしゃま！しーちゃんも、だいすきよ!!」と敬愛の念を抱いているもよう。
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年01月28日 
+TITLE: 2013年01月28日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16638,7 +11186,7 @@ BODY:
 友達が家に来て飲んでいると、子もソファーに座って参加してきた。「しーちゃんもねー、ちちうえがだーいすきなのよ～。だって、ムチムチだしぃ～」と、唐突に女子トークにも入ってくるｗｗ　ワインをクンクン嗅いで、「いいにおーい。ぶどうのにおいするねー」とコメントするのも忘れないｗｗｗ
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年02月03日 
+TITLE: 2013年02月03日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16655,7 +11203,7 @@ BODY:
  http://t.co/lYNmTuRK
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年02月05日 
+TITLE: 2013年02月05日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16671,7 +11219,7 @@ BODY:
 ディズニーのシンデレラを子と一緒に見たのだけど、、このシンデレラ・・・強いね・・・！昔、絵本で読んだ話は、もっと可哀想で悲壮感があって、おしん的だったような気が。子は、、シンデレラ自体より、ネズミと猫のやり取り部分の方が好きらしく、「もういっかいネズミみる」と催促してくる・・・
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年02月10日 
+TITLE: 2013年02月10日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16684,13 +11232,13 @@ DATE: 02/10/2013 07:38:07
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-森山未來のミュージカル「100万回生きたねこ」を見てきたので、子におみやげ。先日、子に絵本を読んであげたのだけど、しばらく物思いに耽り、「こわいおはなしだった…」とポツリと言って... 
+森山未來のミュージカル「100万回生きたねこ」を見てきたので、子におみやげ。先日、子に絵本を読んであげたのだけど、しばらく物思いに耽り、「こわいおはなしだった…」とポツリと言って...
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年02月13日 
+TITLE: 2013年02月13日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16706,7 +11254,7 @@ BODY:
 子がシンデレラのDVDを鑑賞途中、スムーズにお風呂に連行するため、手を取ってワルツを踊りながら行ってみたww ようやくご機嫌にお風呂に到着し、さぁ自分で服脱いで！と言ったら、「そんなの、むりだわ♡(お姫様口調)」とリビングに舞い戻って行った…  なにこの徒労感を上回る面白さ…
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年02月16日 
+TITLE: 2013年02月16日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16722,7 +11270,7 @@ BODY:
 子、シンデレラにハマりすぎ。「しーちゃんのドレスは？」と無茶振りされたので、ビビディバビディブー！と言ってやったら、鏡の前に走って行ったww  舞踏会のシーンでは、「しーちゃんはね…運動会には行ったことあるんよ。。」とか呟いてるしwww こう下準備して4歳前にランドに行く計画！
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年02月16日 
+TITLE: 2013年02月16日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16738,7 +11286,7 @@ BODY:
 子、１００万回生きた猫の人形が気に入り、絵本自体も好きになり、今週の絵本チャート一位に躍進w 今夜もヤマザキが読んであげているが、「てんごくは、どこのてんごく？」の問いに、「天国は何処にも無いんだよ」と答えるのは如何なものか。。多分、特定の場所では無いという意味なんだろうけどさ…
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年02月17日 
+TITLE: 2013年02月17日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16751,13 +11299,13 @@ DATE: 02/17/2013 06:31:28
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-子がやっと刺身が食べられるようになったので、つばささんへ。初めて食べる回らない鮨屋はこんな所とは…良いのう。。ちっちゃいお鮨とキュウリをいっぱい食べてご満悦〜(*^O^*)だが、... 
+子がやっと刺身が食べられるようになったので、つばささんへ。初めて食べる回らない鮨屋はこんな所とは…良いのう。。ちっちゃいお鮨とキュウリをいっぱい食べてご満悦〜(*^O^*)だが、...
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年03月03日 
+TITLE: 2013年03月03日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16774,7 +11322,7 @@ BODY:
  http://t.co/QvUiZtHc9l
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年03月17日 
+TITLE: 2013年03月17日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16791,7 +11339,7 @@ BODY:
  http://t.co/OrgbFTGlsh
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年03月28日 
+TITLE: 2013年03月28日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16807,7 +11355,7 @@ BODY:
 子、病から立ち直り、食欲が戻りすぎてスゴイ。。小さい茶碗だけど、4杯いくよ・・・！毎食、何とかして少なくしようと努力するが、難しい。今朝も3個目のロールパンを、半分コしよう、と提案するが、「ははうえ、ちゃんと自分のたべなさい、ね？」と拒否られた。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年03月30日 
+TITLE: 2013年03月30日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16824,7 +11372,7 @@ BODY:
  http://t.co/mio2Ef6y9X
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年03月30日 
+TITLE: 2013年03月30日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16841,7 +11389,7 @@ BODY:
  http://t.co/9ttMzwNNqV
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年04月06日 
+TITLE: 2013年04月06日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16857,7 +11405,7 @@ BODY:
 子が2歳児クラスに進級。新担任から「史乃佳ちゃんのマーク（ロッカーなどに付ける）は”ごはん”です」と連絡があったのだけれどｗｗ似合い過ぎというか何というか・・・先生、狙ってやってますよねｗｗｗ他の子は”ねこさん”とか”ぞうさん”とかだったらどうしようｗｗｗｗ
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年04月08日 
+TITLE: 2013年04月08日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16873,7 +11421,7 @@ BODY:
 子のクラスメイトのマーク、”おべんとう”と”バナナ”を確認しましたｗｗ　担任（新卒のフレッシュガール）に「あのｗしーちゃんのマークですがｗｗ」と話しかけたら、怯えた目をした気がするのだけど、クレームと思ったのかな。。(´･ω･｀)
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年04月11日 
+TITLE: 2013年04月11日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16890,7 +11438,7 @@ BODY:
 ３歳の抱負は「しーちゃん、３才になったけ、ごはんいっ... http://t.co/KSI9hRjOTW
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年04月17日 
+TITLE: 2013年04月17日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16907,7 +11455,7 @@ BODY:
  http://t.co/Kxh07xQoLU
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年04月21日 
+TITLE: 2013年04月21日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16924,7 +11472,7 @@ BODY:
  http://t.co/7IWcskSsap
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年04月21日 
+TITLE: 2013年04月21日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16941,7 +11489,7 @@ BODY:
  http://t.co/YWpV50Dnkq
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年04月21日 
+TITLE: 2013年04月21日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16958,7 +11506,7 @@ BODY:
  http://t.co/axfle1tsPY
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年04月26日 
+TITLE: 2013年04月26日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16974,7 +11522,7 @@ BODY:
 退院後。子は、、車椅子の私と目を合わせず・・・絵本を持ってきてソッと私の膝に。。読んで欲しいの？と問うとやっと小さな声で「・・・ウン。。」と。一冊読み終えると、「・・・母上、まだケガが痛いの？(´･ω･｀)」そして衝撃の一言！「ごはん・・・作れるの？(´･ω･｀)」心配はそこ？！
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年04月27日 
+TITLE: 2013年04月27日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -16991,7 +11539,7 @@ BODY:
  http://t.co/sTKSbpIDGz
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年04月28日 
+TITLE: 2013年04月28日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17008,7 +11556,7 @@ BODY:
  http://t.co/M02rHbZr76
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年04月29日 
+TITLE: 2013年04月29日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17021,13 +11569,13 @@ DATE: 04/29/2013 12:47:39
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-もり田♪子もご満悦(´∀｀)友人子息のイケメンから「一緒に(二次会に)飲みに行く？」と誘われたのが忘れられず、帰りの車中ずっと「しーちゃんも飲みに行きたい〜しーちゃんも飲む〜〜(... 
+もり田♪子もご満悦(´∀｀)友人子息のイケメンから「一緒に(二次会に)飲みに行く？」と誘われたのが忘れられず、帰りの車中ずっと「しーちゃんも飲みに行きたい〜しーちゃんも飲む〜〜(...
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年05月01日 
+TITLE: 2013年05月01日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17043,7 +11591,7 @@ BODY:
 入院以降、ずっと私のベッドで寝たがる子。。狭いよ・・・何で縦じゃなくて横に寝るんだよ・・・orz　　そろそろ自分のベッドで一人で寝てくれない？と言うと、「ダメ！しーちゃんを真ん中にして、みんなで力を合わせないと！！強くなれないでしょ～？！」と怒られた(；一_一)
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年05月01日 
+TITLE: 2013年05月01日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17060,7 +11608,7 @@ BODY:
 http://t.co/dCKs9Piymy
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年05月02日 
+TITLE: 2013年05月02日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17073,13 +11621,13 @@ DATE: 05/02/2013 08:18:25
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-野いちごを前に舌なめずりの図w 初物のこの一粒を皆で分けたらしい。少量すぎて味がしないんじゃあるまいかww  
+野いちごを前に舌なめずりの図w 初物のこの一粒を皆で分けたらしい。少量すぎて味がしないんじゃあるまいかww
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年05月03日 
+TITLE: 2013年05月03日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17096,7 +11644,7 @@ BODY:
  http://t.co/N9xdwWUUBQ
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年05月04日 
+TITLE: 2013年05月04日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17115,7 +11663,7 @@ BODY:
  http://t.co/UxvwldjsAL
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年05月05日 
+TITLE: 2013年05月05日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17132,7 +11680,7 @@ BODY:
  http://t.co/UHR3ogHDL5
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年05月05日 
+TITLE: 2013年05月05日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17149,7 +11697,7 @@ BODY:
  http://t.co/94jy58qjd0
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年05月05日 
+TITLE: 2013年05月05日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17165,7 +11713,7 @@ BODY:
 実家で夕食後…ダメ元で子を泊まらせてみようと、私とヤマザキは別室に籠って様子見したのだけど、一度だけ「父上は!?母上は〜！!?」と叫んだあと、ケロリとテレビ見て笑って、静かにお風呂に入って就寝した気がする。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年05月05日 
+TITLE: 2013年05月05日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17181,7 +11729,7 @@ BODY:
 子、問題なくお目覚めし、うどんを食べてるらしい。。なんだよ～お泊まり出来るんじゃないか～～もっと早くトライすれば良かったw因みに、やはりヨコに寝たらしい。仕様なんだな。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年05月05日 
+TITLE: 2013年05月05日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17197,7 +11745,7 @@ BODY:
 私が三歳くらいの頃、従姉妹の家に泊まりに行って楽しく過ごしていると、「お父さんが帰って来てって言ってるよ」と母から電話があって、タクシーで一人、何度も途中で帰らされたものだ。今思えば、遅くに出来た子で、肺癌だったし(再発して確か7歳の時に亡くなった)、父も寂しかったんだろうな。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年05月05日 
+TITLE: 2013年05月05日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17213,7 +11761,7 @@ BODY:
 ヤマザキは「いや～、しーちゃんの居ない朝も良いねぇ。月2くらいお願いしちゃおっか！(＠⌒ー⌒＠)」とはしゃいでおりますw子が居ない時に何がしたい？と問うと、「えーっとねー、ダラダラ！o(*ﾟ▽ﾟ*)o」だそうですww私も二度寝を楽しみます(=￣ ρ￣=) ..zzZZ
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年05月10日 
+TITLE: 2013年05月10日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17229,7 +11777,7 @@ BODY:
 最近ずっと私のベッドで寝る子に、しーちゃんが一緒に寝てくれないって、しーちゃんのベッドが寂しがってるよ～　アンパンマンの枕も悲しいって言ってたよ～と言うと、「もぉぉ～母上！なんでそんなイジワルいうのよぉぉ～～！！(&gt;_&lt;)」と怒っていたが、結局、自分のベッドで寝てくれたｗｗ
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年05月11日 
+TITLE: 2013年05月11日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17245,7 +11793,7 @@ BODY:
 保育園で演劇鑑賞。一時間、目まぐるしく繰り広げられる出し物に、子供達は飽きずに魅入っていっていた。上から目線でアレだけど、良く出来てるな、と感心。
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年05月11日 
+TITLE: 2013年05月11日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17261,7 +11809,7 @@ BODY:
 メインの劇は、殻に閉じこもってばかりのカタツムリが、親に放り出され、ダンゴムシを友にして旅をし、困難に立ち向かう中、勇気を出して殻から出て、外ってイイね・友達ってイイね的な。色々と示唆的なストーリーと言えるw家に帰り着くと、実は家の周りを一周しただけで、親は見守ってたというオチ。
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年05月11日 
+TITLE: 2013年05月11日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17277,7 +11825,7 @@ BODY:
 子は、家から放り出されれるシーンが衝撃だったようで、「小さいカタツムリが…お父さんから、ウチの子じゃありませーん！って、、一人になっちゃって、、お父さんもお母さんもいなくなっちゃって、、ウチの子じゃありませーん！って…(´･Д･)」と、帰宅中何度も繰り返していたww
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年05月11日 
+TITLE: 2013年05月11日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17293,7 +11841,7 @@ BODY:
 そしてその後も思い出したように、「しーちゃん、ウチの子じゃありませんから…(　ﾟдﾟ)」とか呟いてて爆笑www
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年05月19日 
+TITLE: 2013年05月19日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17309,7 +11857,7 @@ BODY:
 三歳児、何かと怒られる事ばかりしやがります。眉間にシワ出来そう。。でも「もっとカワイイ顔しなよ…ね…？」とか、「しーちゃん、◯◯って泣いちゃったねぇ。。もうねぇ、、ワガママ言ってごめんなさい♡」とか、何処で覚えたそのセリフ！的な事を言われると言われると笑ってしまうww
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年05月20日 
+TITLE: 2013年05月20日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17322,13 +11870,13 @@ DATE: 05/20/2013 12:00:58
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-母が子猫を拾ってきた(￣□￣;)!!子は勿論、大喜びw実家に寄ると中々帰らず、、ぬいぐるみ(ソックリな代理)があるじゃないと言うと「動くのがいいの〜」マールも居るじゃないと言うと... 
+母が子猫を拾ってきた(￣□￣;)!!子は勿論、大喜びw実家に寄ると中々帰らず、、ぬいぐるみ(ソックリな代理)があるじゃないと言うと「動くのがいいの〜」マールも居るじゃないと言うと...
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年05月21日 
+TITLE: 2013年05月21日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17344,7 +11892,7 @@ BODY:
 子が久しぶりに夜泣き。「何か食べるー！くだもの食べたいのーー！！」と30分、餓鬼が取り付いたような狂乱・・・orz（注：もちろん夕食はしっかり食べている）　普通夜泣きって、怖い夢みたとかじゃないのかと。根負けしてバナナを与えたけど、デブ一直線、という言葉が頭に浮かんだ。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年05月22日 
+TITLE: 2013年05月22日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17363,7 +11911,7 @@ BODY:
 しばらくは恐る恐る…変な歩き方で腰が……だったけど、だいぶ慣れてきたので、今日... http://t.co/W9iADbZ4Pq
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年06月02日 
+TITLE: 2013年06月02日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17379,7 +11927,7 @@ BODY:
 子は補助便座の取っ手にシャツを掛けるのだけど(服を汚さないようにという彼女なりの工夫らしい)、全裸で行ったら少し考えて、腹の肉を掴んで掛けようとしてて爆笑wwwなんでイチイチ笑いをとりにくるんだwwww
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年06月04日 
+TITLE: 2013年06月04日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17395,7 +11943,7 @@ BODY:
 装具のロックが徐々に解除されて、時々保育園にも顔を出せるようになった。他の子が、足をどうしたの？と聞くと、子が「アキレチ！アキレチュけんを切ったんよ！玄関でこけたのよ～。でももうすぐ治るんよ！」と解説してくれるｗｗ玄関で痛さでもんどりうったため、子は怪我の原因を誤解している。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年06月12日 
+TITLE: 2013年06月12日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17411,7 +11959,7 @@ BODY:
 子、アルバムを見ながら物語を作るのがマイブーム。「母上と父上としーちゃんは、みんなで遠足にやってきました」「でも、ゴロゴロゴローと雷が。」「たいへんたいへん、皆で隠れました」などなど。「とってもカワイイしーちゃんは～お団子作りの名人です！」など自画自賛ストーリーもあるｗｗ
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年06月13日 
+TITLE: 2013年06月13日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17428,7 +11976,7 @@ BODY:
  http://t.co/dazk7U24Xo
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年06月14日 
+TITLE: 2013年06月14日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17444,7 +11992,7 @@ BODY:
 子、歯医者を頑張ったので(そして私達も疲れて寝かしつけしたくないので)、久々に一緒に寝る事に。夜中にヤマザキと、大きくなったよねえ…としみじみ。三歳児ってこんなに存在感あるんだねえ。いやクラスでもダントツだよねえ。なんかモズの巣にいるカッコウみたいじゃない？wと、、脱しみじみww
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年06月14日 
+TITLE: 2013年06月14日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17461,7 +12009,7 @@ BODY:
  http://t.co/vIlbd60Zsb
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年06月17日 
+TITLE: 2013年06月17日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17477,7 +12025,7 @@ BODY:
 子が玩具売り場で「クリスチャンがいい、クリスチャンが欲しい」というのでハァ？(?_?)？？となったが、子リスちゃんだった。。そんな初シルバニアファミリー。
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年06月23日 
+TITLE: 2013年06月23日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17494,7 +12042,7 @@ BODY:
  http://t.co/qpJftae5LK
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年06月23日 
+TITLE: 2013年06月23日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17511,7 +12059,7 @@ BODY:
  http://t.co/ELu6QUxjmB
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年06月23日 
+TITLE: 2013年06月23日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17524,13 +12072,13 @@ DATE: 06/23/2013 07:48:41
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-ゲームを初購入。ちゃんとルールを理解し、楽しんでて成長を感じた！しかし、悪いマスに止まったときのガッカリっぷりがすごいwまさに涙目ww私達がなっても、励ましたりズルさせてくれよう... 
+ゲームを初購入。ちゃんとルールを理解し、楽しんでて成長を感じた！しかし、悪いマスに止まったときのガッカリっぷりがすごいwまさに涙目ww私達がなっても、励ましたりズルさせてくれよう...
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年06月23日 
+TITLE: 2013年06月23日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17547,7 +12095,7 @@ BODY:
  http://t.co/uZpD2HRgNt
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年06月26日 
+TITLE: 2013年06月26日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17563,7 +12111,7 @@ BODY:
 やばい・・・子の寵愛がヤマザキから私に移りつつある。。「母上じゃないと嫌！」とか初めて聞いた・・・！あの、私ホントに一番じゃなくて二番で良いんです。。ヤマザキがちゃんと喋ってやらないからだよ、、ヤツはもう赤子じゃないので会話のキャッチボールが必要なんだよ例え不毛な会話でもさ。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年07月05日 
+TITLE: 2013年07月05日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17579,7 +12127,7 @@ BODY:
 とうとう来たｗｗ「しーちゃん、はっくんと、きのう（いつも明日と混同する）、結婚する♡」だとｗｗｗｗ　　結婚したら何したい？と問うと、「砂場で遊びたい！」だってｗｗｗｗ　ヤマザキ、最初の婚約はGet出来なかったなｗｗｗ
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年07月05日 
+TITLE: 2013年07月05日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17595,7 +12143,7 @@ BODY:
 今日は家庭訪問・・・ドキドキ。。保育園で家庭訪問って相当変わってるよね。。。園に飾っている子の絵、とても上手に書けてたんだけど、「この絵は～父上と母上がケンカしてるとこ！」と子から解説されたんだがどうすれば・・・そんなにケンカとかしてないと思うんだけど・・・
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年07月11日 
+TITLE: 2013年07月11日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17611,7 +12159,7 @@ BODY:
 子が私の写真を見ながらポエムを作ってくれたｗｗ「しーちゃんの母上はかわいくて（ｗｗｗ）しーちゃんの事を守ってくれる。母上の大好きな、しーちゃんの大好きな母上♡」なかなか嬉しいｗｗ
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年07月24日 
+TITLE: 2013年07月24日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17627,7 +12175,7 @@ BODY:
 子のお姫様口調が面白い。「牛乳、も～ちょっと！いただいてもよろしいかしら？」とか突然言い出して噴出しそうになるｗｗよ、、よろしくてよｗｗｗ　　でも数秒後には、「母上～一緒に遊ぼうや～～」「しーちゃん、お絵かきするんばい！」と北九州弁が凄いことになってる。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年08月07日 
+TITLE: 2013年08月07日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17643,7 +12191,7 @@ BODY:
 ヤマザキの研究室の焼肉に参加。子が「父上のお友達？」と聞くので、父上の生徒だよー父上は先生なんだよーと教えると、子、まさかの大爆笑ｗｗｗちょｗｗ母上がすごい冗談をｗｗｗといった面持ちで、「父上！母上が父上を先生だってｗｗｗｗ」と走っていった。。父上＝先生はそんなに可笑しいか！
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年08月07日 
+TITLE: 2013年08月07日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17659,7 +12207,7 @@ BODY:
 最近の子の大好物は鉄火巻。次々に口にいれようとするので、ちょっとづつだよーと注意すると「・・・ちょっと・・・味見しただけよ！！」と。こういうものすごく下らない言い訳をするのはヤマザキに似てるｗ　あと、「○○って何？」と聞くので答えてやってら、「・・・知ってた！」とかも言いやがる。
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年08月10日 
+TITLE: 2013年08月10日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17675,7 +12223,7 @@ BODY:
 子がお風呂中、股間にハンカチを当てて夢見る表情で「私のパンツドレスどうかしら…」とのたまった。。更に「亡くなったお母様のドレスなの…」と…!!えええ〜…
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年08月11日 
+TITLE: 2013年08月11日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17691,7 +12239,7 @@ BODY:
 いのちのたび博物館。私は初めて、子は二回目。子は一回目は恐竜を見て大泣きしたらしいけど、今回はオ大丈夫！オンブで入場だけど(汗)
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年08月11日 
+TITLE: 2013年08月11日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17708,7 +12256,7 @@ BODY:
  http://t.co/Zet3FaXYCp
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年08月11日 
+TITLE: 2013年08月11日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17721,13 +12269,13 @@ DATE: 08/11/2013 00:49:28
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-でもまだまだキッズプレイルームが一番落ち着くらしい w ここのぬいぐるみ…毒蛙やら昆虫やら…… 
+でもまだまだキッズプレイルームが一番落ち着くらしい w ここのぬいぐるみ…毒蛙やら昆虫やら……
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年08月11日 
+TITLE: 2013年08月11日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17744,7 +12292,7 @@ BODY:
  http://t.co/xxjd6C9vOQ
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年08月12日 
+TITLE: 2013年08月12日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17761,7 +12309,7 @@ BODY:
  http://t.co/enelyQDXys
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年08月14日 
+TITLE: 2013年08月14日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17778,7 +12326,7 @@ BODY:
  http://t.co/IQEWqkGM2e
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年08月14日 
+TITLE: 2013年08月14日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17794,7 +12342,7 @@ BODY:
 川遊びにそうめん流しに温泉に打ち上げ花火。THE夏休み!!写真撮る暇も無いw
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年08月15日 
+TITLE: 2013年08月15日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17807,13 +12355,13 @@ DATE: 08/15/2013 21:19:51
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-島原の精霊流し。商業化されてない祭りはすごく心に響くものがあり、遠くの空で雷が輝いて時々フラッシュのように明るくなる中、精霊船が海に入って行く様はとても幻想的だった。私が三〜四歳... 
+島原の精霊流し。商業化されてない祭りはすごく心に響くものがあり、遠くの空で雷が輝いて時々フラッシュのように明るくなる中、精霊船が海に入って行く様はとても幻想的だった。私が三〜四歳...
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年08月16日 
+TITLE: 2013年08月16日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17830,7 +12378,7 @@ BODY:
  http://t.co/oh9mpZ8apb
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年08月16日 
+TITLE: 2013年08月16日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17847,7 +12395,7 @@ BODY:
  http://t.co/z5vUWyHgF3
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年08月19日 
+TITLE: 2013年08月19日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17863,7 +12411,7 @@ BODY:
 子に桃太郎の替え歌で、にーくだんごー肉団子♪ほっぺにつけたー肉団子ー♫と歌ってやっていたら、自らほっぺを摘み、白目で「・・・にくだんご・・・」と言うギャグを開発してしまった。。おもしろい・・・
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年08月22日 
+TITLE: 2013年08月22日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17876,13 +12424,13 @@ DATE: 08/22/2013 07:16:36
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-保育園の市民プール行きの付き添いに行ってきた。暑っつー！！朝イチで時折曇るこの天気でもこの暑さ!!子、、皆と一緒だと動きが違う…。顔に水かかっても平気なんじゃないか。お風呂では物... 
+保育園の市民プール行きの付き添いに行ってきた。暑っつー！！朝イチで時折曇るこの天気でもこの暑さ!!子、、皆と一緒だと動きが違う…。顔に水かかっても平気なんじゃないか。お風呂では物...
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年08月24日 
+TITLE: 2013年08月24日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17899,7 +12447,7 @@ BODY:
  http://t.co/rnZOvVA0Q2
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年08月24日 
+TITLE: 2013年08月24日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17916,7 +12464,7 @@ BODY:
  http://t.co/2z93MstIzg
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年08月24日 
+TITLE: 2013年08月24日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17933,7 +12481,7 @@ BODY:
  http://t.co/3LJDvVcLTa
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年08月27日 
+TITLE: 2013年08月27日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17952,7 +12500,7 @@ BODY:
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年09月18日 
+TITLE: 2013年09月18日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17968,7 +12516,7 @@ BODY:
 子が電話で「良い子にしてるよ！」「明日の朝には帰ってくる？朝にいっぱい遊ぼうや！」「母上、ラーメンいっぱい食べてきな！」など可愛い事を言うので、お土産にミスドを買ってしまった。
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年09月25日 
+TITLE: 2013年09月25日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -17984,7 +12532,7 @@ BODY:
 子はマールへの尊敬の念を高めているようで、「しーちゃんねこよ！にゃおー」と雄たけびを上げたり、マールの毛づくろいを観察しつつ真似して体を舐めたりしている。頑張って耳を足で掻こうともしていた。ヤバイ
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年10月02日 
+TITLE: 2013年10月02日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18001,7 +12549,7 @@ BODY:
  http://t.co/H7oJcwMSxu
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年10月15日 
+TITLE: 2013年10月15日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18019,7 +12567,7 @@ BODY:
  http://t.co/DBEqYuSuQT
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年10月21日 
+TITLE: 2013年10月21日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18035,7 +12583,7 @@ BODY:
 子はTVでフィギュアスケートを見て触発されたらしく、必死に回転ジャンプの練習を始めたｗｗ尻を着いた状態でスピンしたり、足を持ってY字バランスを試みたりと、芸が細かいｗｗｗ
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年11月02日 
+TITLE: 2013年11月02日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18051,7 +12599,7 @@ BODY:
 子の我儘に手を焼いた後、無表情で世話していたら「…よろこんでよ…(笑えという意味)」と。しーちゃん、何か母上の喜ぶ事、してくれた？とにっこり笑って言ったら「して無かった！なーんにもしなかった！！ごめんなざいぃぃ〜」と大泣きされたww脅しすぎたかwww
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年11月09日 
+TITLE: 2013年11月09日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18067,7 +12615,7 @@ BODY:
 子が猿渡から落ちて、足首を捻挫…と思ってたら、腓骨骨折してた（；￣ェ￣）腫れもしないし、そんなに痛がりもしないし、足を多少引きずるけど歩くし、でもまぁ一応と思って受診したらこの有様。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年11月12日 
+TITLE: 2013年11月12日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18083,7 +12631,7 @@ BODY:
 子、シーネ固定で動きが悪いため、保育園で赤ちゃんクラスに降格ｗｗ 「こどもせんせい」と祭り上げてもらい、何とかプライドを保っているらしいｗｗｗ
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年11月12日 
+TITLE: 2013年11月12日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18099,7 +12647,7 @@ BODY:
 子から「母上は、murder？」と聞かれて固まったが、motherの事だった。ああ、、映画のバンビで出てくるね・・・ヤマザキが間違って英語版入れちゃったからね・・・　そんな子の好きな遊びは、戦う牡鹿ごっこですｗ
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年11月12日 
+TITLE: 2013年11月12日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18112,13 +12660,13 @@ DATE: 11/12/2013 14:00:47
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-空きカンを椅子にして懸命に穴を掘るの図。今日はシーネ固定での歩き方にも慣れてきて、ヨチヨチ歩き組と山へ散歩に行ったらしい wなんかもうスタスタ歩いてる… 
+空きカンを椅子にして懸命に穴を掘るの図。今日はシーネ固定での歩き方にも慣れてきて、ヨチヨチ歩き組と山へ散歩に行ったらしい wなんかもうスタスタ歩いてる…
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年11月21日 
+TITLE: 2013年11月21日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18135,7 +12683,7 @@ BODY:
  http://t.co/rriGkDfX8d
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年11月28日 
+TITLE: 2013年11月28日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18151,7 +12699,7 @@ BODY:
 子が朝起きるとすぐ、「サンドイッチ・・・サンドイッチが食べたい・・・！！」と切羽詰った様子で言う。。まあ・・・材料あるし・・・と作ってあげるとすごい貪りつき方ｗ　やっと一息つくと「夢で、サンドイッチとドーナッツ食べる夢みたんよ(*^。^*)」と。餓鬼でも取り付いたのかと思ったｗｗ
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年12月17日 
+TITLE: 2013年12月17日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18167,7 +12715,7 @@ BODY:
 子をしまじろうコンサートに連れて行ってみた！最初はノリについていけず固まっていたがw劇はしっかり見てたし、終盤は声援もダンスもしてて楽しんだ様子。終了後は「ふう、、ちょっと疲れたね。次から次へと。。」という感想だったwww
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年12月25日 
+TITLE: 2013年12月25日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18183,7 +12731,7 @@ BODY:
 子、泣きながら起床。。「サンタさんが来なかった～夜に鈴の音が聞こえんかったぁぁ～～｡(ﾟ´Д｀ﾟ)゜｡ｳｧｧｧﾝ」・・・落ち着いて、、プレゼントで膨れた靴下を確認してよ。。そこまでの小細工は出来ないわ。。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年12月25日 
+TITLE: 2013年12月25日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18199,7 +12747,7 @@ BODY:
 子、泣いて起床。。「サンタさんが来なかった～　鈴の音が聞こえんかった～～゜ﾟ(&gt;ヘ＜）ﾟ ゜｡ﾋﾞｴｪｰﾝ 」・・・落ち着いて、、膨れた靴下を確認してください。。鈴・・・そこまでの小細工は出来ないわ。。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年01月14日 
+TITLE: 2014年01月14日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18215,7 +12763,7 @@ BODY:
 子が怖い夢を見たらしく、夜泣き。。「いっぱい目玉が浮いてた。。」・・・それは怖いね・・・。「母上の髪の毛から、、変なのがいっぱい出てきてた。。。」やーめーてーーー　何で幼児のくせにそんなシュールな夢を見るんだよーーーー
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年01月15日 
+TITLE: 2014年01月15日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18231,7 +12779,7 @@ BODY:
 子は悪夢に出た妖怪「目玉のチクチク」を怖がって、寝る前に大騒ぎしたらしい。（私は外出）　ヤマザキが上手く宥めたらしく、翌朝、「父上がチクチクを鬼のところに、エイって退治した！マール様が目玉をガブリとやっつけてくれた！！」と報告してくれたｗｗ「マール様は立派な王様」と崇めていたｗｗ
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年01月15日 
+TITLE: 2014年01月15日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18247,7 +12795,7 @@ BODY:
 夜中に目を覚ました子に、楽しい夢見るよーアイスクリームの夢を見ようかーと暗示をかけると「フヒヒ・・・イチゴのアイス・・・クリームも乗ってる・・・チョコケーキも来たよ・・・玉子もいっぱい来た～・・・」と言ってコトリと寝たｗｗｗ多分、夜に行った回転寿司のイメージだな。
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年01月23日 
+TITLE: 2014年01月23日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18263,7 +12811,7 @@ BODY:
 子が「今日の保育園、楽しかった～！」と言って帰ってきたので、 よかったねー何して遊んだのー？と聞くと、 「（連絡）ノートでも見たら・・・」と冷たく返された・・・何その落差ｏｒｚ  皿倉山には一学年上のクラスからしか行けなかったらしいが、 保育園の山でソリ遊びを満喫したらしいｗ
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年01月24日 
+TITLE: 2014年01月24日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18279,7 +12827,7 @@ BODY:
 「しーちゃん猫よ、にゃーおー！」と猫ごっこする子。 「マールはお兄ちゃんね。しーちゃんは妹猫だにゃ！」とマールについていってウザがられてる。。 指を差し出せばフンフンと匂いを嗅ぎ、鼻チューをするなど、模写が細かくて面白いが、猫として育ててる？虐待？！と思われないかちょっと心配。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年01月31日 
+TITLE: 2014年01月31日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18295,7 +12843,7 @@ BODY:
 母と一緒につばさでお鮨。大変喜んでくれて、よかった♪ そして、子が目をキラキラさせて、(*゜∀゜*)ｵｲｼｰ　(＊´ω`＊)ﾑﾌｰとなる姿を堪能した様子。 うん、、回転寿司ではこんな顔しないんだよね・・・ 自分の幼少期を見てるようで、何だかいたたまれない気分になるわ・・・
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年02月17日 
+TITLE: 2014年02月17日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18308,13 +12856,13 @@ DATE: 02/17/2014 02:23:51
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-マントをつければ飛べると主張。危険。。 
+マントをつければ飛べると主張。危険。。
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年02月22日 
+TITLE: 2014年02月22日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18327,13 +12875,13 @@ DATE: 02/22/2014 19:28:51
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-親バカですみません。此れ程、ウチの子が世界一カワイイと思ったのは初めてかもしれない…！猫の日イベントでCATSのスタッフが書いてくれたのです。私も、、したかった。。(小学生以下限定) 
+親バカですみません。此れ程、ウチの子が世界一カワイイと思ったのは初めてかもしれない…！猫の日イベントでCATSのスタッフが書いてくれたのです。私も、、したかった。。(小学生以下限定)
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年03月03日 
+TITLE: 2014年03月03日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18346,13 +12894,13 @@ DATE: 03/03/2014 10:10:28
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-ひな祭りに気合いを入れまくり「着物を着る!」と言い張る子。うん、コスプレ楽しいよねwグローバーのケーキが楽しみで、ご飯は腹八分に抑えていたww 
+ひな祭りに気合いを入れまくり「着物を着る!」と言い張る子。うん、コスプレ楽しいよねwグローバーのケーキが楽しみで、ご飯は腹八分に抑えていたww
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年03月03日 
+TITLE: 2014年03月03日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18365,13 +12913,13 @@ DATE: 03/03/2014 10:16:51
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-もう着崩れなんてものじゃないwww 
+もう着崩れなんてものじゃないwww
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年03月04日 
+TITLE: 2014年03月04日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18387,7 +12935,7 @@ BODY:
 ヤマザキ出張中。子が、父上は？と聞くので、仕事だよ～と答えると、「ふーん、何の仕事かなぁ・・・掃き仕事かなぁ。草刈りかなぁ。」ｗｗ「あ！救急車で、病気の人を運んでるんじゃない？！( ﾟ∀ﾟ)」・・・なんで・・・そう思うの・・・・？ｗｗｗ
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年03月06日 
+TITLE: 2014年03月06日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18400,13 +12948,13 @@ DATE: 03/06/2014 02:02:19
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-寝る前はサラサラストレートなのに、起きると鳥の巣。。夜中にブレイクダンスでもしてるんだろうか。。 
+寝る前はサラサラストレートなのに、起きると鳥の巣。。夜中にブレイクダンスでもしてるんだろうか。。
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年03月08日 
+TITLE: 2014年03月08日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18422,7 +12970,7 @@ BODY:
 子は「わたし、ねこ」を歌えるようになったwドライブ中に、舌足らずに、若干調子外れで歌うのが可愛くて、思わず、くう〜萌え死ぬwwと言ったら、「・・・車が燃えちゃうの？Σ（ﾟдﾟlll）」とすごく心配された…うん、車ごと燃え死んだら大変だね。。縁起でもないね。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年03月12日 
+TITLE: 2014年03月12日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18438,7 +12986,7 @@ BODY:
 子、発熱3日目。初めての事態だわ・・・本人はケロリと上機嫌で「今日のお昼はお寿司がいーなー♪」とか言ってるんだけど。。ヤマザキと交代で看護してるけど、ヤマザキがダウンしたっぽい。ヤバイ・・・
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年03月13日 
+TITLE: 2014年03月13日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18454,7 +13002,7 @@ BODY:
 iPhoneの緊急地震速報はじめてきいた。。こりゃ心臓に悪いわ。直後に速やかに睡眠にもどれる子とヤマザキすごい
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年03月17日 
+TITLE: 2014年03月17日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18467,13 +13015,13 @@ DATE: 03/17/2014 12:24:01
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-気がついたら勝手に寝てた・・・！子はうっかり寝るという事が少ないので(食事中に寝た事とか一度もない)、すごく珍しい。今日は風邪薬で眠いせいだろうけど、いつもこうだと良いのにーー。ジーナ式、最後の最後で妥協しちゃったのよね。。 
+気がついたら勝手に寝てた・・・！子はうっかり寝るという事が少ないので(食事中に寝た事とか一度もない)、すごく珍しい。今日は風邪薬で眠いせいだろうけど、いつもこうだと良いのにーー。ジーナ式、最後の最後で妥協しちゃったのよね。。
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年03月18日 
+TITLE: 2014年03月18日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18486,13 +13034,13 @@ DATE: 03/18/2014 22:15:34
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-何故か雑誌に食いつき、自分の馬のオモチャもオルフェーブルという名前にするとか言い出した。。「しーちゃんのお馬の名前はオルフェーブル！夢と欲望を乗せて走るんよ♪(何で馬は走るのか、への親達の回答)」とか保育園で言ったらどうしよう。。 
+何故か雑誌に食いつき、自分の馬のオモチャもオルフェーブルという名前にするとか言い出した。。「しーちゃんのお馬の名前はオルフェーブル！夢と欲望を乗せて走るんよ♪(何で馬は走るのか、への親達の回答)」とか保育園で言ったらどうしよう。。
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年04月10日 
+TITLE: 2014年04月10日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18505,13 +13053,13 @@ DATE: 04/10/2014 00:58:33
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-子の突然の一発芸。「チューリップのなかま！」・・・ああ、、うん。。 
+子の突然の一発芸。「チューリップのなかま！」・・・ああ、、うん。。
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年04月25日 
+TITLE: 2014年04月25日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18524,13 +13072,13 @@ DATE: 04/25/2014 05:58:48
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-子の保育園での誕生会に参加、後、子供達の案内で散歩へ。‘いつもの散歩道’がこの登山道だなんて、頑丈になるわけだ・・・「素敵な所に連れて行ってくれて、ありがとう、は？」とか言われたんだけど。。うん、、ありがとう・・・ 
+子の保育園での誕生会に参加、後、子供達の案内で散歩へ。‘いつもの散歩道’がこの登山道だなんて、頑丈になるわけだ・・・「素敵な所に連れて行ってくれて、ありがとう、は？」とか言われたんだけど。。うん、、ありがとう・・・
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年04月26日 
+TITLE: 2014年04月26日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18546,7 +13094,7 @@ BODY:
 子にキスシーンの相手役を命じられる。「王子様は、ちょっと(顔を)斜めで！チュって言わんで！」など細かいったら・・・
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年04月27日 
+TITLE: 2014年04月27日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18562,7 +13110,7 @@ BODY:
 子、夜中に高熱orz やけに一緒に寝たいと粘ると思ったらこれだ。。軽い熱性けいれん起こして白目剥くし、痰で呼吸出来てないし(汗)子供は油断ならないな！GW・・・かなりの確率で厄災に襲われている気がする。去年は私が松葉杖だし、救急に行った年も2回程。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年04月30日 
+TITLE: 2014年04月30日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18575,13 +13123,13 @@ DATE: 04/30/2014 10:32:34
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-「メロンまで、頑張ってるの」・・・うん、カブトムシも跨いで行きそうね。。 
+「メロンまで、頑張ってるの」・・・うん、カブトムシも跨いで行きそうね。。
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年05月02日 
+TITLE: 2014年05月02日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18594,13 +13142,13 @@ DATE: 05/02/2014 23:41:06
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-バースデーの写真を撮りにスタジオへ。ドレスを選ばせたら、まさかのAKB風・・・！AKBとか見たこと無いと思うんだけど。。 
+バースデーの写真を撮りにスタジオへ。ドレスを選ばせたら、まさかのAKB風・・・！AKBとか見たこと無いと思うんだけど。。
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年05月02日 
+TITLE: 2014年05月02日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18613,13 +13161,13 @@ DATE: 05/02/2014 23:42:36
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-母セレクトのドレスも着せた。中々の出費・・・ 
+母セレクトのドレスも着せた。中々の出費・・・
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年05月08日 
+TITLE: 2014年05月08日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18632,13 +13180,13 @@ DATE: 05/08/2014 22:22:01
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-GWは近場でのんびり。苺狩りで子は幼児料金¥500のモトをしっかり取ったw大人料金¥1500は、、無理だわ。。一応、氷水を持参して冷やして食べたのだけど。 
+GWは近場でのんびり。苺狩りで子は幼児料金¥500のモトをしっかり取ったw大人料金¥1500は、、無理だわ。。一応、氷水を持参して冷やして食べたのだけど。
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年05月21日 
+TITLE: 2014年05月21日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18654,7 +13202,7 @@ BODY:
 子を私の母に預けた時、「母上はときどき、父上を怒るんよ～」と報告したらしい。喧嘩してるの？？と問うと、「ちがうよ。母上が！父上を！怒るんよ(^O^)」って・・・orzそんなこと・・・無いと思うんだけど。。私の母だから良かったものの、、ヤマザキ家には預けられんな・・・
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年05月25日 
+TITLE: 2014年05月25日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18667,13 +13215,13 @@ DATE: 05/25/2014 12:14:00
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-「雨が降ってるの。泣いてるのよ・・・子供が一人だけになっちゃったから。。」・・・えー、、右の黄色いのは天に召された子供って事ですか？なんでそんな悲しいストーリーなんだ・・・ 
+「雨が降ってるの。泣いてるのよ・・・子供が一人だけになっちゃったから。。」・・・えー、、右の黄色いのは天に召された子供って事ですか？なんでそんな悲しいストーリーなんだ・・・
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年05月29日 
+TITLE: 2014年05月29日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18686,13 +13234,13 @@ DATE: 05/29/2014 00:41:34
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-毎日のように持ち帰られる桜の実。 いつもはコッソリ捨てるのだけど、今日はどうしてもジャムにすると言って聞かない。。まあ今日のは比較的に綺麗だし・・・と、ジャム作りしてみた。 意外と普通の味wしかし年一回だけだ！ 
+毎日のように持ち帰られる桜の実。 いつもはコッソリ捨てるのだけど、今日はどうしてもジャムにすると言って聞かない。。まあ今日のは比較的に綺麗だし・・・と、ジャム作りしてみた。 意外と普通の味wしかし年一回だけだ！
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年05月29日 
+TITLE: 2014年05月29日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18705,13 +13253,13 @@ DATE: 05/29/2014 00:44:37
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-こんどは、、木苺・・・orzパンケーキにしてみた。でも本当に年一回だけだからね‼︎虫が出てきそうで嫌いなんだよぉぉ〜ヽ(；▽；)ノ 
+こんどは、、木苺・・・orzパンケーキにしてみた。でも本当に年一回だけだからね‼︎虫が出てきそうで嫌いなんだよぉぉ〜ヽ(；▽；)ノ
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年05月31日 
+TITLE: 2014年05月31日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18728,7 +13276,7 @@ BODY:
 ！ビールうまーー（≧∇≦） http://t.co/LP3InD5Jqh
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年06月24日 
+TITLE: 2014年06月24日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18744,7 +13292,7 @@ BODY:
 私が飲み会に行くときは、子が「美味しいモノいっぱい食べてきな！明日の朝には帰ってくる？(^o^)丿」と言って、送り出してくれるｗｗ　子を置いて遊びに行くのに躊躇が無いのは、この言葉のおかげと、私の母もよく遊びに行っていたのを見て育ったからだと思う。勿論、最大功労者はヤマザキだが。
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年06月27日 
+TITLE: 2014年06月27日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18760,7 +13308,7 @@ BODY:
 大抵、子が一番に起きて、私達を起こしに来るのだけど(駄目親？)、今朝はバッチリ着替えて起こしに来た！先週のクラス会で指摘されて、朝食の前に着替えるように指導中だったのだけど、その成果が？！と喜んだのだのも束の間、ベッドの上には濡れたパジャマが。。ああ・・・そういうことでしたか。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年07月26日 
+TITLE: 2014年07月26日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18773,13 +13321,13 @@ DATE: 07/26/2014 01:56:25
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-海へ連れて行ったがホテル前は波が高め。貝に手を噛まれた(多分、取ろうとした貝殻が波でひっくり返って手に当たっただけ)らしく、30分で退散wwま、子は風邪気味だし、こんなもんでしょう。後は海を見ながらゴロゴロという私らしいリゾート♡ 
+海へ連れて行ったがホテル前は波が高め。貝に手を噛まれた(多分、取ろうとした貝殻が波でひっくり返って手に当たっただけ)らしく、30分で退散wwま、子は風邪気味だし、こんなもんでしょう。後は海を見ながらゴロゴロという私らしいリゾート♡
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年07月26日 
+TITLE: 2014年07月26日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18792,13 +13340,13 @@ DATE: 07/26/2014 05:35:11
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-日中は日射しが凄すぎるので室内プール(^^;;一目惚れして2年前に買ったボートにようやく乗れるようになったw 
+日中は日射しが凄すぎるので室内プール(^^;;一目惚れして2年前に買ったボートにようやく乗れるようになったw
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年08月05日 
+TITLE: 2014年08月05日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18814,7 +13362,7 @@ BODY:
 毎日うっとうしい雨だ。。この雨の最中、わっしょい百万の花火が見れたのは、かなり運が良かったなぁ。子は「キレイすぎて・・・涙がでそうぉぉ～～」「花火って、宇宙まで飛んでいっちゃうんじゃなーい？」「ヤッホーー！！」と何処から習ったその表現とツッコミたくなる喜びようだったｗｗ
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年08月07日 
+TITLE: 2014年08月07日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18830,7 +13378,7 @@ BODY:
 子が食事前に「腹いっぱい食べるゾー！！」と宣言するのだがどうすれば。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年08月08日 
+TITLE: 2014年08月08日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18846,7 +13394,7 @@ BODY:
 子が「昔、バクダー(爆弾)が落ちたの、知ってる？」と聞かれた。紙芝居を見たらしい。保育園でも平和教育するんだな！ちょうど母と食事に行ったので、母が島原でも見えたキノコ雲の話をしてくれた。私も昔聞いて、その感想画というか、場面が鮮烈に脳裏に残ってる。種の記憶ってこうして残るのかも。
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年09月03日 
+TITLE: 2014年09月03日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18862,7 +13410,7 @@ BODY:
 子から「母上って、お后っぽいよね」と言われたのだがどうすれば・・・おそるおそる、何に出てくるお后・・・？と問うと、「・・・うーんとね、、オーロラ姫の！(*^。^*)」・・・ほんとうに最初からそう思って発言した・・・？
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年09月03日 
+TITLE: 2014年09月03日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18878,7 +13426,7 @@ BODY:
 子の最近の口癖「かしこまりだ！(^^ゞ」　うん、かしこまりましたっていうのも堅苦しいけどさ、フランクな方向性を間違えてるっていうかさ・・・
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年09月11日 
+TITLE: 2014年09月11日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18894,7 +13442,7 @@ BODY:
 子が最近、「母上の事、だんだん好きになってきた」というので理由を聞いたら「前は父上が好きな風が吹いていた」という非常に文学的な返事をされた。奥深い。因みに本当の理由は、早くしなさーい！をヤマザキにも半分言わせるようにしたからだw
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年09月19日 
+TITLE: 2014年09月19日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18910,7 +13458,7 @@ BODY:
 子が登園中、「父上の名前ってなんだっけ・・・」　超小声で「クロネコヤマトじゃないよね・・・」とつぶやいた。。クロネコヤマトはタクシーにマンションの場所を説明する時に使う台詞だよ・・・
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年11月14日 
+TITLE: 2014年11月14日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18923,13 +13471,13 @@ DATE: 11/14/2014 21:19:44
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-子の初ディズニーは香港。噂通りこじんまりしてて、人もそこまで多くないし(というか平日朝はガラガラ)子連れ向き！ 
+子の初ディズニーは香港。噂通りこじんまりしてて、人もそこまで多くないし(というか平日朝はガラガラ)子連れ向き！
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年11月14日 
+TITLE: 2014年11月14日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18942,13 +13490,13 @@ DATE: 11/14/2014 21:34:12
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-グリーティングをレストランでしまくった。子はかなり固まってて、私抜きでは写真を撮らせてくれない´д` ;っていうか、私に似て、写真に撮られるのが好きでは無いのかも。。エルサがいたので 
+グリーティングをレストランでしまくった。子はかなり固まってて、私抜きでは写真を撮らせてくれない´д` ;っていうか、私に似て、写真に撮られるのが好きでは無いのかも。。エルサがいたので
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年11月14日 
+TITLE: 2014年11月14日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18961,13 +13509,13 @@ DATE: 11/14/2014 21:46:50
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-アトラクションに乗りまくり！騙くらかしてwミスティックマナー(お化け屋敷的)や、スペースマウンテン(室内ジェットコースター)へもwww 子は空とぶダンボに一番乗りたがったが、これが人気で一番長く・・・とは言っても30分弱並んだ。 
+アトラクションに乗りまくり！騙くらかしてwミスティックマナー(お化け屋敷的)や、スペースマウンテン(室内ジェットコースター)へもwww 子は空とぶダンボに一番乗りたがったが、これが人気で一番長く・・・とは言っても30分弱並んだ。
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年11月14日 
+TITLE: 2014年11月14日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -18980,13 +13528,13 @@ DATE: 11/14/2014 22:07:28
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-パレードなんて15分前並びで最前列w子はプリンセスやティンカーベルに大喜び！地道に予習してきた甲斐があったわ〜（≧∇≦） 写真はパレードの子供のダンスタイムのリボンの争奪戦に負けて悲しむ図ww一人っ子はガッツが足りんwww 
+パレードなんて15分前並びで最前列w子はプリンセスやティンカーベルに大喜び！地道に予習してきた甲斐があったわ〜（≧∇≦） 写真はパレードの子供のダンスタイムのリボンの争奪戦に負けて悲しむ図ww一人っ子はガッツが足りんwww
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年11月14日 
+TITLE: 2014年11月14日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19002,7 +13550,7 @@ BODY:
 子は怖い乗り物の後、「もう乗ら〜ん‼︎大きくなっても、大人になっても乗らん‼︎‼︎」と絶叫ww乗ってる間、静かだったのは「怖すぎて・・・言葉もなかった・・・‼︎」との事www でも、怖いのもちょっとは面白い？と聞くと、「・・・うん」と答える素直さよ(=^ェ^=)
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年11月14日 
+TITLE: 2014年11月14日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19018,7 +13566,7 @@ BODY:
 寝る前に、「母上はしーちゃんの事、騙したんやね。。(怖いアトラクションに乗せた事w)  」「しーちゃんの事、二回も騙した事・・・！絶対・・・!！・・・許してあげる。」と恨みがましい声で言われたwww多分、許さないと言ったら、もうディズニーに連れてきて貰えないと思ったんだろうw
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年11月19日 
+TITLE: 2014年11月19日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19037,7 +13585,7 @@ BODY:
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年11月20日 
+TITLE: 2014年11月20日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19053,7 +13601,7 @@ BODY:
 子は未だに、ミスティックマナー（お化け屋敷）に乗せた事を「だまされた・・・」とぼやいているｗ　いやー母上は面白かったよ。父上も乗りたいんじゃない？と子に言うと、ソレいい考え゜∀゜！！と、「今度は父上を騙して乗せよう！！」と悪い笑顔で張りきっているｗｗｗ
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年11月26日 
+TITLE: 2014年11月26日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19070,7 +13618,7 @@ BODY:
 ふと静かになった横を見ると、子が顔マネしてて爆笑www http://t.co/dQyC62ecfR
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年11月29日 
+TITLE: 2014年11月29日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19086,7 +13634,7 @@ BODY:
 子が、「父上と母上の結婚式」の絵を書いてくれたんだけど、ドレスに猫柄を入れてくれてたw  母上といえば猫、という認識ができているらしい。
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年12月02日 
+TITLE: 2014年12月02日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19102,7 +13650,7 @@ BODY:
 子が「ディズニーランド、楽しかったなぁ・・・一年に一回、ううん、二回行きたいなぁ・・・三回でも良いなぁ・・・( ´ ▽ ` )」と私の母(ウチの社長)に夢見る顔で囁いて、有給をもぎ取ろうとしている。
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年01月12日 
+TITLE: 2015年01月12日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19115,13 +13663,13 @@ DATE: 01/12/2015 12:19:35
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-マールさま申し訳ございませぬ。。 
+マールさま申し訳ございませぬ。。
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年01月12日 
+TITLE: 2015年01月12日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19137,7 +13685,7 @@ BODY:
 ヤマザキの「頭が優れないから寝るね・・・」という言葉にツボってるww確かに優れてないwww
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年01月17日 
+TITLE: 2015年01月17日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19150,13 +13698,13 @@ DATE: 01/17/2015 00:12:15
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-子のお弁当の渋さに我ながら驚いている・・・！プチトマトくらいは入れるべきなんだろうか。。園のお弁当見本には「庭の葉っぱを仕切りに利用」とあるけど、そこまではちょっと・・・汁が流れるじゃん(ｰｰ;) 
+子のお弁当の渋さに我ながら驚いている・・・！プチトマトくらいは入れるべきなんだろうか。。園のお弁当見本には「庭の葉っぱを仕切りに利用」とあるけど、そこまではちょっと・・・汁が流れるじゃん(ｰｰ;)
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年01月18日 
+TITLE: 2015年01月18日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19169,13 +13717,13 @@ DATE: 01/18/2015 05:24:58
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-凧上げ大会。まさかこの私がこんなアウトドアイベントに参加する日が来ようとは・・・。子が保育園で作った凧は、期待していなかったけど意外とあがった。予備としてトイザらスで買った連凧は何もせずとも驚くほど上がった‼︎どうやら凧日和みたい。 
+凧上げ大会。まさかこの私がこんなアウトドアイベントに参加する日が来ようとは・・・。子が保育園で作った凧は、期待していなかったけど意外とあがった。予備としてトイザらスで買った連凧は何もせずとも驚くほど上がった‼︎どうやら凧日和みたい。
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年02月05日 
+TITLE: 2015年02月05日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19191,7 +13739,7 @@ BODY:
 子のお腹がクルル・・・と鳴ったら、「なんだろう・・・しやわせだから鳴ったのかな。。」って、君は猫ではないので喉は鳴らないｗｗ
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年02月15日 
+TITLE: 2015年02月15日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19204,13 +13752,13 @@ DATE: 02/15/2015 05:24:24
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-ふくろうカフェ。子は行く前からホゥホゥと鳴いて興奮気味w 
+ふくろうカフェ。子は行く前からホゥホゥと鳴いて興奮気味w
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年02月15日 
+TITLE: 2015年02月15日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19223,13 +13771,13 @@ DATE: 02/15/2015 05:31:36
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-ホゥちゃん買わされた・・・ 
+ホゥちゃん買わされた・・・
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年02月26日 
+TITLE: 2015年02月26日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19242,13 +13790,13 @@ DATE: 02/26/2015 11:26:20
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-子は雛祭り歌が大好き。しかし何故か「父上が死んだら、私はこれを踊るから、母上は歌ってね。お客さんに見せるなら、こういう感じが良いかなぁ？」とウチワを振って熱心に踊りを練習してるwwシュールすぎる葬式を想像してしまい腹筋がいたいwww 
+子は雛祭り歌が大好き。しかし何故か「父上が死んだら、私はこれを踊るから、母上は歌ってね。お客さんに見せるなら、こういう感じが良いかなぁ？」とウチワを振って熱心に踊りを練習してるwwシュールすぎる葬式を想像してしまい腹筋がいたいwww
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年03月04日 
+TITLE: 2015年03月04日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19261,13 +13809,13 @@ DATE: 03/04/2015 11:09:34
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-フランソワ・ブルゴン氏(チーズ熟成士)のフルムダンベール(青カビチーズ)をガツガツ食べる子。。そら、プロセスチーズ、食べないよね。。。 
+フランソワ・ブルゴン氏(チーズ熟成士)のフルムダンベール(青カビチーズ)をガツガツ食べる子。。そら、プロセスチーズ、食べないよね。。。
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年03月06日 
+TITLE: 2015年03月06日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19283,7 +13831,7 @@ BODY:
 家に帰った瞬間、「昨日はごめんなさいぃ〜」と泣き崩れる子・・・。うん、母上も叱り過ぎたね、もうしないでね、と言うと、「え－！何したんだっけ(^◇^)ゲヘヘ」と大笑いしてるし・・・！！怒られた記憶だけで、反省してるわけじゃないんだな・・・(-｡-;
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年03月07日 
+TITLE: 2015年03月07日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19299,7 +13847,7 @@ BODY:
 4歳11ヶ月の子に玩具は自分で片付けてと言ったら「手伝わないのなら、それは母上の仕事をしていないって事！母上はいつも私に難しい仕事ばかりさせて、自分の事ばっかりして！そんなんやったら、母上やめさせるよ！！大きくなってハヤトと結婚したら、会いにきてやらん‼︎‼︎」まで言われた…
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年03月11日 
+TITLE: 2015年03月11日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19315,7 +13863,7 @@ BODY:
 子がハヤトと結婚すると言うので、子供は何人欲しいの？とお決まりのセクハラ質問をすると、「二人！・・・二人おなかに入ったら、玉(おなかの膨らみ)は二つできるのかな・・・」と。あ〜なるほどね〜
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年03月15日 
+TITLE: 2015年03月15日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19331,7 +13879,7 @@ BODY:
 保育園の親子遠足は花尾山から皿倉山のルートで登山、の予定が夜の雨で車道を上がって行くことに。。キツい上につまんない・・・とテンションが落ちてたら、子が「サボりたいんでしょ？後からケーブルカーで上がっておいで。父上と二人で歩くから（＾∇＾）」と言うので甘えさせて頂いたwwできた子！
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年03月18日 
+TITLE: 2015年03月18日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19347,7 +13895,7 @@ BODY:
 子が前歯が痛い～と気にしていて、ヤマザキがなんだろ～？と押すとグラッっと揺らいで、驚きすぎて目を見開いて固まってしまった・・・！！心の準備が全く出来ていなかった。。もう抜け替わるの？？(◎o◎)（４歳１１ヶ月）そりゃ確かに誰より立派な頭蓋骨だけど。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年03月21日 
+TITLE: 2015年03月21日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19363,7 +13911,7 @@ BODY:
 子の歯が抜けてしまった…五歳までもたなかったorz。永久歯はまだ顔を出しておらず。。キレイに生えてくると良いけど(⌒-⌒; )
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年03月21日 
+TITLE: 2015年03月21日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19376,13 +13924,13 @@ DATE: 03/21/2015 06:53:55
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-歯が抜けたショックで情けない顔ww歯の隙間から出そうと心配なのか、首を傾けて飲み物を飲んでるwww喋らないからむっちゃ静か！^^; 
+歯が抜けたショックで情けない顔ww歯の隙間から出そうと心配なのか、首を傾けて飲み物を飲んでるwww喋らないからむっちゃ静か！^^;
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年03月26日 
+TITLE: 2015年03月26日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19398,7 +13946,7 @@ BODY:
 ヤマザキが夜に不在だと、子は、「・・・父上、どうしたのかな。。心配でたまらない。。ずっと気になっちゃう・・・」と、さみしいとは言わずに心配してるｗｗ
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年03月28日 
+TITLE: 2015年03月28日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19411,13 +13959,13 @@ DATE: 03/28/2015 22:59:42
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-子の建造物がなんとなくタワー・オブ・テラーっぽい。見たことないはずだけど。。 
+子の建造物がなんとなくタワー・オブ・テラーっぽい。見たことないはずだけど。。
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年04月07日 
+TITLE: 2015年04月07日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19433,7 +13981,7 @@ BODY:
 豚児（ 自分の子供をへりくだっていう語）という言葉を知って戦慄している・・・！子の場合、洒落にならん。。　そういえば私は小さいとき、母から「ウチのチビタンは～・・・」と言われていたなぁ。微妙に嫌だったｗ
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年04月13日 
+TITLE: 2015年04月13日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19446,13 +13994,13 @@ DATE: 04/13/2015 10:58:19
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-「フランクフルトに行っても…私を置いて行かないで…！！」 ああ、、ハイジね´д` ;唐突に始まる小芝居にいつも戸惑わされる。。「マールが、、ロッテンマイヤーさんを殺そうとしている！！」と突然の悪役設定に憮然とするマール（ ;  ; ） 
+「フランクフルトに行っても…私を置いて行かないで…！！」 ああ、、ハイジね´д` ;唐突に始まる小芝居にいつも戸惑わされる。。「マールが、、ロッテンマイヤーさんを殺そうとしている！！」と突然の悪役設定に憮然とするマール（ ;  ; ）
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年04月14日 
+TITLE: 2015年04月14日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19468,7 +14016,7 @@ BODY:
 子がリア充すぎてこわい。「ハヤトがね～、私のことカワイコちゃんって言うのよ～　ぐふふ～～んもぅ～～困っちゃうよね～～^m^　だからね、ハヤトのこと、カッコイイコちゃんって言ったの！（●＾o＾●）」というノロケが夕食の時に披露される(笑)
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年04月22日 
+TITLE: 2015年04月22日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19485,7 +14033,7 @@ BODY:
 とりあえず湯がいて一晩干して巻いて見たけど、何か違うんじゃないか感がハンパない。。 http://t.co/mXsQ6AtFHl
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年04月26日 
+TITLE: 2015年04月26日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19498,13 +14046,13 @@ DATE: 04/26/2015 12:14:21
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-「マールを、この国の王にしよう」と戴冠していてたw 「そろそろお妃を見つけねば…」って、もうおじいちゃんだから・・・ 
+「マールを、この国の王にしよう」と戴冠していてたw 「そろそろお妃を見つけねば…」って、もうおじいちゃんだから・・・
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年05月02日 
+TITLE: 2015年05月02日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19517,13 +14065,13 @@ DATE: 05/02/2015 06:23:05
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-天亭で初カウンター天ぷらからの〜 
+天亭で初カウンター天ぷらからの〜
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年05月02日 
+TITLE: 2015年05月02日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19536,13 +14084,13 @@ DATE: 05/02/2015 06:24:28
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-日本科学未来館。3Dプラネタリウム、子にはまだ早かったけど、私は感動した！ 
+日本科学未来館。3Dプラネタリウム、子にはまだ早かったけど、私は感動した！
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年05月02日 
+TITLE: 2015年05月02日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19555,13 +14103,13 @@ DATE: 05/02/2015 10:01:20
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-チームラボもみれた〜 
+チームラボもみれた〜
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年05月02日 
+TITLE: 2015年05月02日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19574,13 +14122,13 @@ DATE: 05/02/2015 10:02:31
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-一泊一万をきる安宿。2段ベッドに大喜びwお安い子ww 
+一泊一万をきる安宿。2段ベッドに大喜びwお安い子ww
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年05月03日 
+TITLE: 2015年05月03日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19593,13 +14141,13 @@ DATE: 05/03/2015 00:23:12
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-ラ・フォル・ジュルネ「ダンス！ダンス！ダンス！」 子の初クラシックコンサート 
+ラ・フォル・ジュルネ「ダンス！ダンス！ダンス！」 子の初クラシックコンサート
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年05月03日 
+TITLE: 2015年05月03日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19612,13 +14160,13 @@ DATE: 05/03/2015 02:52:11
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-銀座三越でシンデレラのドレス見物。ウエスト細っ…！ 
+銀座三越でシンデレラのドレス見物。ウエスト細っ…！
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年05月05日 
+TITLE: 2015年05月05日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19631,13 +14179,13 @@ DATE: 05/05/2015 19:53:31
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-ディズニーでも 岩あれば登る あゆみっこ 
+ディズニーでも 岩あれば登る あゆみっこ
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年05月08日 
+TITLE: 2015年05月08日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19650,13 +14198,13 @@ DATE: 05/08/2015 02:12:43
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-蒲田泊でミレイ・黒湯の銭湯・餃子・トンカツなどを堪能（＾ω＾）街を歩くと、子が「なんだか…わたしの国(ウチの近所)に似てるね…」と。そう！私もそう思った‼︎栄えている頃の八幡って、こんな感じだったんじゃないかな。程々に下品というか。 
+蒲田泊でミレイ・黒湯の銭湯・餃子・トンカツなどを堪能（＾ω＾）街を歩くと、子が「なんだか…わたしの国(ウチの近所)に似てるね…」と。そう！私もそう思った‼︎栄えている頃の八幡って、こんな感じだったんじゃないかな。程々に下品というか。
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年05月08日 
+TITLE: 2015年05月08日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19669,13 +14217,13 @@ DATE: 05/08/2015 02:27:57
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-後半はディズニー。前半はもう帰ってハヤトに会いたい…と言っていたのに、ディズニーに行くと、まだ居たい！とw「どうして連れてきてくれたの？」と聞くので、しーちゃんを喜ばすためと答えると、「すごく喜んだ‼︎‼︎」とお褒めの言葉を頂いたww 
+後半はディズニー。前半はもう帰ってハヤトに会いたい…と言っていたのに、ディズニーに行くと、まだ居たい！とw「どうして連れてきてくれたの？」と聞くので、しーちゃんを喜ばすためと答えると、「すごく喜んだ‼︎‼︎」とお褒めの言葉を頂いたww
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年05月09日 
+TITLE: 2015年05月09日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19691,7 +14239,7 @@ BODY:
 子が白紙の手紙を読んでくれた。「母上、お元気ですか？美味しいごはんを作って、しやわせに暮らして、死なないようにしてください！」ww死んだら困る？と聞くと、「うん、もう(父でも用意出来る)朝ご飯しか食べれなくなる」…うん…奇しくも母の日シーズンだし、記録させていただくよ。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年05月14日 
+TITLE: 2015年05月14日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19707,7 +14255,7 @@ BODY:
 お泊り保育の翌日、迎えに行くと、子は一目散に逃げおったｗｗ（帰りの用意を急いでやりに行ったと判明）　先生から、しーちゃん居なくてどうでした？と聞かれたので、「ええ！ゆっくり出来ました～　飲みにも行きました♪」と元気に答えてしまったが、よく考えたら、寂しかった、が正解だったのか…？
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年05月16日 
+TITLE: 2015年05月16日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19723,7 +14271,7 @@ BODY:
 子はディズニーで習った‘ドレスの裾を持って御機嫌ようの御挨拶’を恥ずかしがってしなかったのだけど、家でコッソリ練習して披露してくれたw 母上も中学校と高校の時は御機嫌ようって挨拶してたよ…と話すと「ええ〜w何それwwそれって、ごきげん学校やったん？！」と何だかバカにされた…‼︎
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年05月22日 
+TITLE: 2015年05月22日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19736,13 +14284,13 @@ DATE: 05/22/2015 10:48:31
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-今はプラレールをしたい父と女児の組み合わせのために、ミッキーやら水族館やら様々なシリーズがあるのですよ… 
+今はプラレールをしたい父と女児の組み合わせのために、ミッキーやら水族館やら様々なシリーズがあるのですよ…
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年05月24日 
+TITLE: 2015年05月24日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19755,13 +14303,13 @@ DATE: 05/24/2015 10:33:02
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-夕暮れに月を見上げてブランコ 
+夕暮れに月を見上げてブランコ
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年05月25日 
+TITLE: 2015年05月25日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19777,7 +14325,7 @@ BODY:
 子が「ジャムを舐めさせなかったら、、不具合だすよ‼︎」という斬新な脅しをしてきた。なにそれこわい
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年05月25日 
+TITLE: 2015年05月25日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19793,7 +14341,7 @@ BODY:
 子はやけにギョウ中検査を楽しみにして就寝したのだけど、いざ尻を出せと言うと大泣きww羞恥心が芽生えてきたんだなぁ〜。「皆もしとると？本当？？やっぱりハヤトと一緒じゃないと嫌だ〜・゜・(ノД`)・゜・」とカオス…好きな子と一緒にやるのは恥ずかしくないのか…？
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年05月27日 
+TITLE: 2015年05月27日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19809,7 +14357,7 @@ BODY:
 子よ、ここに記しておこう。父上が出張の土産に買ってくれたクッキーは母がリサーチした物だ。ガラス（風）の靴は、母が選んで、父上に渡させたのだ。君が「ちちうえ～　（出張から）早く帰ってきてぇ～　しーちゃん、さびしくて死んじゃう～」と言うまでに父上が好きなのは、母の努力でもあるのです。
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年05月27日 
+TITLE: 2015年05月27日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19825,7 +14373,7 @@ BODY:
 そしてイマイチ気の利かない父上が細々と君の世話をしているのは、私が指揮しているからなのです。だから「母上は、いつも父上をいじめて、しーちゃんの世話をさせて！」などと人聞きの悪い事を言うのは止めなさい。母は何も言わなくても、それ以上の世話をやっておるのだ。ちゅーか、自分でしろ。
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年06月02日 
+TITLE: 2015年06月02日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19838,13 +14386,13 @@ DATE: 06/02/2015 12:34:26
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-バレエとかミュージカルのDVDを見ると踊りだす 
+バレエとかミュージカルのDVDを見ると踊りだす
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年06月02日 
+TITLE: 2015年06月02日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19857,13 +14405,13 @@ DATE: 06/02/2015 12:35:31
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-ヤマザキも駆り出されるw 
+ヤマザキも駆り出されるw
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年06月06日 
+TITLE: 2015年06月06日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19876,13 +14424,13 @@ DATE: 06/06/2015 23:18:27
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-子が着せ替えたはなちゃん。何やら卑猥な感じwww 
+子が着せ替えたはなちゃん。何やら卑猥な感じwww
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年06月10日 
+TITLE: 2015年06月10日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19895,13 +14443,13 @@ DATE: 06/10/2015 06:08:30
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-「大きくなったら宇宙勉強して、ブラックホールに入ったら生きるか死ぬか、母上に教えてあげる！」 との事。ヤマザキの「ブラックホールは…質量がとても大きくてね…」という説明で、よく勉強してみようという気が起きるものだ。 
+「大きくなったら宇宙勉強して、ブラックホールに入ったら生きるか死ぬか、母上に教えてあげる！」 との事。ヤマザキの「ブラックホールは…質量がとても大きくてね…」という説明で、よく勉強してみようという気が起きるものだ。
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年06月10日 
+TITLE: 2015年06月10日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19918,7 +14466,7 @@ BODY:
 でも、子はこちらから問わなくても、○○したい！○○になりたい！と口にするので、素直に育ってるな～と感心する。
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年06月17日 
+TITLE: 2015年06月17日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19934,7 +14482,7 @@ BODY:
 ひらがなスタンプで遊び始めた子。ふとみると、「しのかわ　いいこに　そだっているね」と書いていて、変な声でたｗｗｗｗ
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年06月18日 
+TITLE: 2015年06月18日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19947,13 +14495,13 @@ DATE: 06/18/2015 22:43:37
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-子に朝ごはん何がいい？と聞くと「今まで食べたこと無いもの‼︎」というリクエスト…。うん、わかるよ、朝ごはんって似たようなメニューで退屈だよね。。私もそれで朝ごはんって食べないわけだし。。というわけで、話題のTKGパンケーキ（笑） 
+子に朝ごはん何がいい？と聞くと「今まで食べたこと無いもの‼︎」というリクエスト…。うん、わかるよ、朝ごはんって似たようなメニューで退屈だよね。。私もそれで朝ごはんって食べないわけだし。。というわけで、話題のTKGパンケーキ（笑）
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年06月20日 
+TITLE: 2015年06月20日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19966,13 +14514,13 @@ DATE: 06/20/2015 11:57:12
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-もちろん、ぬいぐるみとか買わされるわけで´д` ;楽しい演出に、ヤマザキは「これは…大阪系のコミックバンドなの…？」と訝しがる始末。。 
+もちろん、ぬいぐるみとか買わされるわけで´д` ;楽しい演出に、ヤマザキは「これは…大阪系のコミックバンドなの…？」と訝しがる始末。。
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年06月20日 
+TITLE: 2015年06月20日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -19988,7 +14536,7 @@ BODY:
 子は二本目の前歯がグラグラ中。一本目は「ソファーを噛んだら取れた」らしいが、今回も「なんだかソファーが噛みたくなってきた…」らしいwwあれか。自然からの呼びかけなのか。出産時にイキミたくなる、みたいな。ちなみに私は無痛分娩(無ではない)だったけど、イキミたくなる感覚はあった。
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年06月22日 
+TITLE: 2015年06月22日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20001,13 +14549,13 @@ DATE: 06/22/2015 00:17:08
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-友人一家と福間の海岸へ海水浴。日光を避けて15時から遊んで、母はカフェでおしゃべりして、お風呂入って、サンセット見ながら夕食というコース。最高♪ 
+友人一家と福間の海岸へ海水浴。日光を避けて15時から遊んで、母はカフェでおしゃべりして、お風呂入って、サンセット見ながら夕食というコース。最高♪
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年06月23日 
+TITLE: 2015年06月23日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20020,13 +14568,13 @@ DATE: 06/23/2015 05:49:19
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-海で見た星の配置、やけにキレイだなーと思ってたら・・・ 
+海で見た星の配置、やけにキレイだなーと思ってたら・・・
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年06月23日 
+TITLE: 2015年06月23日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20039,13 +14587,13 @@ DATE: 06/23/2015 05:53:05
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-えっ、これって、飛行機かな？って言ってたやつ？？ 
+えっ、これって、飛行機かな？って言ってたやつ？？
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年06月23日 
+TITLE: 2015年06月23日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20058,13 +14606,13 @@ DATE: 06/23/2015 18:47:34
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-保育園へのボランティアで、アフィリエイト勉強中。。 [楽天] http://t.co/ZPPu0qWaSW 電子ブック楽天koboへ招待しよう！ 
+保育園へのボランティアで、アフィリエイト勉強中。。 [楽天] http://t.co/ZPPu0qWaSW 電子ブック楽天koboへ招待しよう！
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年06月23日 
+TITLE: 2015年06月23日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20077,13 +14625,13 @@ DATE: 06/23/2015 18:56:38
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-★このマンガ、かなりツボww★ 『【はじめての方限定！一冊無料クーポンもれなくプレゼント】伊藤潤二の猫日記 よん&amp;むー1巻【電...』を見る [楽天] 
+★このマンガ、かなりツボww★ 『【はじめての方限定！一冊無料クーポンもれなくプレゼント】伊藤潤二の猫日記 よん&amp;むー1巻【電...』を見る [楽天]
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年06月24日 
+TITLE: 2015年06月24日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20096,13 +14644,13 @@ DATE: 06/24/2015 06:12:06
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-子にもそろそろ地獄の勉強をさせるとするか…ふふふ… 怖いと言いつつも、気になって何度もみている。「意外と、夢にでない」と言うので、しーちゃんが良い子だからじゃない？と言うと、照れたようなホッとしたような顔をしてたw 
+子にもそろそろ地獄の勉強をさせるとするか…ふふふ… 怖いと言いつつも、気になって何度もみている。「意外と、夢にでない」と言うので、しーちゃんが良い子だからじゃない？と言うと、照れたようなホッとしたような顔をしてたw
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年06月26日 
+TITLE: 2015年06月26日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20119,7 +14667,7 @@ BODY:
 しかしキミ、人生楽しそうだよね〜 http://t.co/2EOd70ffNq
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年06月26日 
+TITLE: 2015年06月26日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20132,13 +14680,13 @@ DATE: 06/26/2015 10:56:44
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-ヤマザキの居ない日は、お行儀わるくカウチポテトで女子会w 
+ヤマザキの居ない日は、お行儀わるくカウチポテトで女子会w
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年06月29日 
+TITLE: 2015年06月29日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20151,13 +14699,13 @@ DATE: 06/29/2015 05:49:23
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-このツイートを見て私もインスタントコーヒーをやめたのだけど、本当に思ったより幸福度が下がらない。最近はやけに白湯が甘く感じるので、ひょっとして糖尿？とググって見たが、デトックスされたせいとか書いている。ほんとうか！？ 
+このツイートを見て私もインスタントコーヒーをやめたのだけど、本当に思ったより幸福度が下がらない。最近はやけに白湯が甘く感じるので、ひょっとして糖尿？とググって見たが、デトックスされたせいとか書いている。ほんとうか！？
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年06月29日 
+TITLE: 2015年06月29日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20174,7 +14722,7 @@ BODY:
 【調査】飼い猫のテーマソングって知ってる？みんなの「猫歌」を紹介！ ｜ しらべぇ http://t.co/fkEdCgvZ9q
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年06月30日 
+TITLE: 2015年06月30日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20193,7 +14741,7 @@ BODY:
 http://t.co/OvvHRhBa9n http://t.co/8upmVpBWDR
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年07月02日 
+TITLE: 2015年07月02日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20209,7 +14757,7 @@ BODY:
 子、久しぶりに風邪。何故か女優スイッチが入って、「私が死んだら、、この絵(自作)をみて、私のことを思い出してね…」「私が死んだら、母上も父上も悲しい？ううん、一番悲しむのはハヤト！だって私と結婚できないなんて…」と、小芝居していたw 一日休んだら、もうプール入ってる位に元気^^;
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年07月02日 
+TITLE: 2015年07月02日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20227,7 +14775,7 @@ BODY:
 まあ、やれば楽しいよ。よく見ると猫柄なのさw http://t.co/68jJUw8zbF
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年07月05日 
+TITLE: 2015年07月05日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20240,13 +14788,13 @@ DATE: 07/05/2015 05:39:35
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-日差しがでてきたから嫌だ！と放置して日陰で見守っていたら、一人で発進できるようになったので、やはり親は頼りない位が子はしっかりするよなって思った。私の子育ての指針w 
+日差しがでてきたから嫌だ！と放置して日陰で見守っていたら、一人で発進できるようになったので、やはり親は頼りない位が子はしっかりするよなって思った。私の子育ての指針w
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年07月05日 
+TITLE: 2015年07月05日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20259,13 +14807,13 @@ DATE: 07/05/2015 05:50:54
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-トーベ・ヤンソン展。ここ数日、映画・絵本と予習して行ったけれど、やはりムーミンはよくわからない。。子が見たがっていた「血を吸うオバケ」の絵は無かったのでションボリしていたw 
+トーベ・ヤンソン展。ここ数日、映画・絵本と予習して行ったけれど、やはりムーミンはよくわからない。。子が見たがっていた「血を吸うオバケ」の絵は無かったのでションボリしていたw
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年07月05日 
+TITLE: 2015年07月05日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20282,7 +14830,7 @@ BODY:
 いいな〜 これ、私もやってみたいけど、大人は誰もやってないからな〜〜 http://t.co/7pJmaCbUoB
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年07月05日 
+TITLE: 2015年07月05日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20295,13 +14843,13 @@ DATE: 07/05/2015 22:53:17
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-火傷の跡って日焼けしてシミになりやすいんだけど、このUVカットフィルムはすごく優秀！よく見ないと貼ってるのわからないし、全く剥がれないし、痒くもならない。すごい‼︎[楽天] http://t.co/E2uoTc0ipj 
+火傷の跡って日焼けしてシミになりやすいんだけど、このUVカットフィルムはすごく優秀！よく見ないと貼ってるのわからないし、全く剥がれないし、痒くもならない。すごい‼︎[楽天] http://t.co/E2uoTc0ipj
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年07月07日 
+TITLE: 2015年07月07日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20314,13 +14862,13 @@ DATE: 07/07/2015 09:44:16
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-保育園で給食で使った竹の器を持って帰ってきた…。七夕のご馳走(とは言ってもスシローのちらし寿司がメインw)を盛り付けて、私はワイン会にGO!! 
+保育園で給食で使った竹の器を持って帰ってきた…。七夕のご馳走(とは言ってもスシローのちらし寿司がメインw)を盛り付けて、私はワイン会にGO!!
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年07月07日 
+TITLE: 2015年07月07日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20339,7 +14887,7 @@ BODY:
 私はヴァンナチュールを育てていきたいけれど、技術への未練もあって、、やはりバランス型で行くのだと思うw
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年07月10日 
+TITLE: 2015年07月10日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20352,13 +14900,13 @@ DATE: 07/10/2015 23:08:07
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-ままごと(？)がダイナミック。。ソファが小屋にされて座れません´д` ;「今、畑を荒らしてるんだけど〜」え、何それ、どんなシチュエーション？と思ったら、耕してるだった(^^; 
+ままごと(？)がダイナミック。。ソファが小屋にされて座れません´д` ;「今、畑を荒らしてるんだけど〜」え、何それ、どんなシチュエーション？と思ったら、耕してるだった(^^;
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年07月12日 
+TITLE: 2015年07月12日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20371,13 +14919,13 @@ DATE: 07/12/2015 06:27:11
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-「シンドバッド 空とぶ姫と秘密の島」を鑑賞後はこんな感じになりますwwあ、私だけターミネーター4DXのほうに行かせて頂きました(・ω・) 
+「シンドバッド 空とぶ姫と秘密の島」を鑑賞後はこんな感じになりますwwあ、私だけターミネーター4DXのほうに行かせて頂きました(・ω・)
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年07月12日 
+TITLE: 2015年07月12日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20390,13 +14938,13 @@ DATE: 07/12/2015 07:46:58
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-お人形ごっこで男の子が欲しいらしい。ググったが、新発売のこの「おうじさまレンくん」とやら…生理的にだめだ、私的に…。ちゅーか、イサムくんは何処へ。。［楽天] 
+お人形ごっこで男の子が欲しいらしい。ググったが、新発売のこの「おうじさまレンくん」とやら…生理的にだめだ、私的に…。ちゅーか、イサムくんは何処へ。。［楽天]
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年07月16日 
+TITLE: 2015年07月16日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20412,7 +14960,7 @@ BODY:
 今日は曇りだけど気温も高く、私的にはプール日和。保育園の助っ人で、市民プールに入ってきたよ・・・。もうね、揉みくちゃ。。常時３～４人くっついたコアラの木みたいな。。でも、子は何だか顔をつけて浮かべるようになって、それを見た他の子も挑戦してみてたりして、まぁ何だかんだと楽しいのだ。
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年07月25日 
+TITLE: 2015年07月25日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20425,13 +14973,13 @@ DATE: 07/25/2015 01:47:35
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-角島！確かにコバルト色だ〜 
+角島！確かにコバルト色だ〜
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年07月25日 
+TITLE: 2015年07月25日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20444,13 +14992,13 @@ DATE: 07/25/2015 01:51:28
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-少々波があるけど、頑張って泳いでるw 
+少々波があるけど、頑張って泳いでるw
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年07月25日 
+TITLE: 2015年07月25日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20463,13 +15011,13 @@ DATE: 07/25/2015 07:08:47
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-本州側に移動。こっちは波がなくて、透明度も高くて、泳ぎやすい(o^^o) 
+本州側に移動。こっちは波がなくて、透明度も高くて、泳ぎやすい(o^^o)
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年07月25日 
+TITLE: 2015年07月25日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20486,7 +15034,7 @@ BODY:
 山口の海、気に入った！！ http://t.co/66ZrTp46at
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年07月25日 
+TITLE: 2015年07月25日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20499,13 +15047,13 @@ DATE: 07/25/2015 23:45:16
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-風が結構あるけど、頑張ってもうひと泳ぎ中。 
+風が結構あるけど、頑張ってもうひと泳ぎ中。
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年07月26日 
+TITLE: 2015年07月26日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20523,7 +15071,7 @@ BODY:
 来年はシュノーケルだな（≧∇≦） http://t.co/PAauIu5QJr
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年07月27日 
+TITLE: 2015年07月27日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20536,13 +15084,13 @@ DATE: 07/27/2015 01:55:15
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-サザエはちゃんと朝ごはんに食べましたw 
+サザエはちゃんと朝ごはんに食べましたw
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年07月31日 
+TITLE: 2015年07月31日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20555,13 +15103,13 @@ DATE: 07/31/2015 08:54:16
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-子がアトピー疑惑なのでオメガ3をばと、朝食にチアシード＆ヨーグルトにメープルシロップで甘みつけて、フルーツ入れたものを食べさせてみている。「肌がキレイになるの！」と毎日飽きずに。。女子力高いな〜…私はすぐ飽きちゃうわ〜´д` ; 
+子がアトピー疑惑なのでオメガ3をばと、朝食にチアシード＆ヨーグルトにメープルシロップで甘みつけて、フルーツ入れたものを食べさせてみている。「肌がキレイになるの！」と毎日飽きずに。。女子力高いな〜…私はすぐ飽きちゃうわ〜´д` ;
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年07月31日 
+TITLE: 2015年07月31日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20577,7 +15125,7 @@ BODY:
 子がいま一番好きな映画、アラジンを一緒にみてみた。アラジン、ハヤト（子の好きな子)みたいだね、勇気があって優しくて…と私が煽てると、「そう、そして私（＝ジャスミン）の事が大好きで…\(//∇//)\」とか言っててリア充爆発。うん、まあ私も、一番私を好いてくれる人が一番好きだな。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年07月31日 
+TITLE: 2015年07月31日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20594,7 +15142,7 @@ BODY:
 綺麗なブルームーン！ISSは見つからなかった´д` ; http://t.co/UcPbcp7eol
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年08月31日 
+TITLE: 2015年08月31日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20610,7 +15158,7 @@ BODY:
 今年の子の夏は、とびひ・手足口病・風邪の間隙をぬって遊んだ夏だったな…今日は咳→嘔吐だよ。。しかし、ヤバい感じの咳してるー！と駆けつけたら、既に袋スタンバイ済みで、成長を感じた(´o｀；
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年09月06日 
+TITLE: 2015年09月06日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20626,7 +15174,7 @@ BODY:
 テレビに大沢たかおが出てたので、子にこの人、父上にちょっと似てない？と聞くと、「似てる似てるwねぼすけな感じよねー」とかいうので、大沢たかお本当にごめん…
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年09月09日 
+TITLE: 2015年09月09日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20642,7 +15190,7 @@ BODY:
 子は食育に熱心な保育園のおかげで、好き嫌いが少ない。今日は、ちょっと苦手だったピーマンも、ジャコと卵で炒めると美味しいと言ってパクパク食べた。食わず嫌い大王で中学生まで野菜を全く食べなかった私からすると、我が子ながら感心する‼︎( ^ω^ )
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年09月11日 
+TITLE: 2015年09月11日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20658,7 +15206,7 @@ BODY:
 子が！小さな虫を家で見つけたら、ティッシュで包んで退治してくれるようになった‼︎「母上は、虫が嫌なんでしょ。私がやっつけてあげるから！」と、とても男前です、惚れそうです、女児だけど。
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年09月29日 
+TITLE: 2015年09月29日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20674,7 +15222,7 @@ BODY:
 子が保育園で一泊キャンプ。「しーちゃんがキャンプで、くやしい？」と聞くので、いや別に…私はキャンプとか全く好きじゃないし…と言うと、微妙な顔。「そうじゃなくて、居ないから、くやしい？？」・・・ああ！さびしいかって事？そうだねー、さびしいよーと言うと、子は安心した顔で出発したｗ
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年10月13日 
+TITLE: 2015年10月13日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20690,7 +15238,7 @@ BODY:
 子は「父上、お片づけの競争しよう♡」などとサボろうとする。。懇々と自分で遊んだ物は自分で片付けるように言ったら、「…しーちゃん、人をやめたい…」え？「動物がいい…」…そこまで、、片付けが嫌か。。私も猫になりたいとよく思うけど、君はまだ５歳だろ…人生に疲れるのはまだ早いよ…
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年11月03日 
+TITLE: 2015年11月03日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20706,7 +15254,7 @@ BODY:
 室内遊戯施設は日差しを浴びなくて良いのは助かるけど、大勢の子供の声と玩具の音、館内放送やBGMが絶えず煩くて頭が痛くなる。。耳栓を持参したら物凄く快適になった！
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年11月06日 
+TITLE: 2015年11月06日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20722,7 +15270,7 @@ BODY:
 子から服についた匂いがクサイと言われてしょんぼりしていたら、「大丈夫、母上の肉が臭いわけじゃないよ…」と励ましてもらった…肉か……
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年11月16日 
+TITLE: 2015年11月16日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20738,7 +15286,7 @@ BODY:
 子はピーターパン好きなので「ＰＡＮ」を見に行ってみた。あーなるほど、ハリーポッターのスタジオなのか。迫力ある映像だったけど、泣いたりせず耐えてくれた(^。^；)子には「この映画では○○だけど、ディズニー版では○○という設定」というのが理解できるわけもなく、帰って質問攻めに逢う。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年11月17日 
+TITLE: 2015年11月17日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20754,7 +15302,7 @@ BODY:
 子の考えた遊び「命を頂きます！」ごっこ。子が獲物で私は捕食者。魚ならば吊り上げ、鴨や猪ならば銃で撃ち、家禽ならば抱きかかえて捕獲。下しらえをして調理（色々変える必要あり）、命を頂きます！と宣言して美味しく食べるという遊び。中々シュールだわ・・・。食育なのか、これは。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年11月21日 
+TITLE: 2015年11月21日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20767,13 +15315,13 @@ DATE: 11/21/2015 17:40:38
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-蒲田の天婦羅屋さんにて、人生初のアンキモに舌鼓を打つ子。将来、酒飲みになるんだろうなぁ…私も散々そう言われて育ったわけだけれども。。 
+蒲田の天婦羅屋さんにて、人生初のアンキモに舌鼓を打つ子。将来、酒飲みになるんだろうなぁ…私も散々そう言われて育ったわけだけれども。。
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年11月22日 
+TITLE: 2015年11月22日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20786,13 +15334,13 @@ DATE: 11/22/2015 09:50:03
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-キッザニア、並んだり待ったりするのが嫌いな私には爆発しそうなほどイライラする‼︎でもかわいいので親バカ全開になる‼︎‼︎ 
+キッザニア、並んだり待ったりするのが嫌いな私には爆発しそうなほどイライラする‼︎でもかわいいので親バカ全開になる‼︎‼︎
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年11月25日 
+TITLE: 2015年11月25日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20808,7 +15356,7 @@ BODY:
 子は何かが思ったように出来ないと、「もー！自分なんて大嫌い！！」とキレるｗ　えー、大事なしーちゃんなのに、そんな事を言わないで。そんな事言うんだったら、しーちゃんを母上に返してよ。と諭すと、「・・・しーちゃん（体）を返したら、しーちゃん（精神）は何処に行けば・・・」と悩んでたｗｗ
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年12月13日 
+TITLE: 2015年12月13日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20824,7 +15372,7 @@ BODY:
 子にパチンコって何？と聞かれたので、お金と時間を吸い取る機械だよ…と教えると、「何でそんな事をやらされとるん？！かわいそう…私が支配者（最近のお気に入りワード）になったら、無くしてあげる‼︎」と宣言してたので清き一票をよろしくお願いします。
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年12月18日 
+TITLE: 2015年12月18日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20840,7 +15388,7 @@ BODY:
 子の寝つきが悪い時には隣の部屋でネットでもしながら子守唄を歌ってやるのだけど、今日は風邪気味で喉が痛い。で、ボイスメモに録音したのを繰り返したら、特に何も言及されずに成功しちゃったんだけど…。なんでこんな簡単な事を今まで気づかなかったんだろう私…と愕然としている。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年12月21日 
+TITLE: 2015年12月21日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20853,13 +15401,13 @@ DATE: 12/21/2015 11:39:49
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-CATSのロンドンオリジナルキャストのDVDは本当に良い。去年の福岡公演で不完全燃焼だったので買ったら、子とハマってるw画像は荒いけど、こんな素晴らしい物が1000円以下だなんて！ https://t.co/lB07VapwpT 
+CATSのロンドンオリジナルキャストのDVDは本当に良い。去年の福岡公演で不完全燃焼だったので買ったら、子とハマってるw画像は荒いけど、こんな素晴らしい物が1000円以下だなんて！ https://t.co/lB07VapwpT
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年01月01日 
+TITLE: 2016年01月01日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20876,7 +15424,7 @@ BODY:
 おやすみ、ロジャー  https://t.co/wmquecuh12
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年01月01日 
+TITLE: 2016年01月01日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20893,7 +15441,7 @@ BODY:
 バムとケロのさむいあさ  https://t.co/eV9rkYGytZ
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年01月01日 
+TITLE: 2016年01月01日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20910,7 +15458,7 @@ BODY:
 かこさとし・ほしのほん https://t.co/FB2XwqUJzd
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年01月16日 
+TITLE: 2016年01月16日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20923,13 +15471,13 @@ DATE: 01/16/2016 12:56:52
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-子のスリーパー姿があまりに面白く、王様？wいや、ペンギン？ww王様ペンギン？wwwと笑ったら、「ね？やっぱりわたしがこの家の支配者よ！（・∀・）」と高らかに宣言されました´д` ; 
+子のスリーパー姿があまりに面白く、王様？wいや、ペンギン？ww王様ペンギン？wwwと笑ったら、「ね？やっぱりわたしがこの家の支配者よ！（・∀・）」と高らかに宣言されました´д` ;
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年01月27日 
+TITLE: 2016年01月27日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20945,7 +15493,7 @@ BODY:
 子は「放題」を覚えた (チャララチャッチャンチャンチャーン)「今日は甘え放題の日やけ、寝るまで隣におって♥️」母のMPは可愛さで5回復した。HPは10のダメージ。 「(眠りかけ)…大きくなったら…からあげ食べ放題のお店をする…」母は笑いをこらえてHP5のダメージww
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年01月31日 
+TITLE: 2016年01月31日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20958,13 +15506,13 @@ DATE: 01/31/2016 00:06:49
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-子がままごとで本日のメニューとドリンクリストを作ってくれた。しゃんぱにゅwww 
+子がままごとで本日のメニューとドリンクリストを作ってくれた。しゃんぱにゅwww
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年01月31日 
+TITLE: 2016年01月31日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20977,13 +15525,13 @@ DATE: 01/31/2016 07:13:27
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-このセンス、嫌いじゃない 
+このセンス、嫌いじゃない
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年02月14日 
+TITLE: 2016年02月14日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -20996,13 +15544,13 @@ DATE: 02/14/2016 10:44:47
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-子にはバレンタインの制度をまだ教えていないので、チョコケーキを食べる日として記憶されているwあ〜グローバーのケーキ美味しいわ〜〜（≧∇≦） 
+子にはバレンタインの制度をまだ教えていないので、チョコケーキを食べる日として記憶されているwあ〜グローバーのケーキ美味しいわ〜〜（≧∇≦）
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年02月29日 
+TITLE: 2016年02月29日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -21019,7 +15567,7 @@ BODY:
 ）、「ひどい事を言った……えーっと、、…おみやげ？」とか言ってきた。それ多分、仕返し(;ﾟ;ж;ﾟ; )ﾌﾞﾌｫ
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年03月13日 
+TITLE: 2016年03月13日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -21035,7 +15583,7 @@ BODY:
 子が「明日、ティニー(アニメ)見せないと、怒るからね(*｀へ´*)」などと言うので、そんな言い方されると言われた人は絶対に見せてやらん！一生怒っておれば良い！って思うよ(｀_´)、と諭したら、ヤマザキがいやそこまでは…とフォローしていたw
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年03月25日 
+TITLE: 2016年03月25日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -21048,13 +15596,13 @@ DATE: 03/25/2016 01:27:45
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-天ぷら居酒屋。子が「あっ！ゆきのしただー、食べたーい」と一目で言い当てて驚かれる。さすがあゆみっこ…！私はわかりませんでした。。おじちゃんがご褒美にか、海老天ぷらサービスしてくれたw 
+天ぷら居酒屋。子が「あっ！ゆきのしただー、食べたーい」と一目で言い当てて驚かれる。さすがあゆみっこ…！私はわかりませんでした。。おじちゃんがご褒美にか、海老天ぷらサービスしてくれたw
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年04月08日 
+TITLE: 2016年04月08日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -21070,7 +15618,7 @@ BODY:
 年長になって鶏当番が始まった子が「ニワトリ上手に抱っこ出来るようになった！(`･ω･´)ｷﾘｯ」と嬉しそう。「やけね、マール（猫）も抱っこ出来るかなーと思ってやってみたけど、前足が伸びただけやった…(´･ω･`)しょぼｰん」あ～・・・猫は長いからね、、そろそろ練習させてみるか。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年04月09日 
+TITLE: 2016年04月09日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -21083,13 +15631,13 @@ DATE: 04/09/2016 08:41:12
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-保育園のレクレーションの筍掘り。品評会では一等賞をGET‼︎今年で最後なので、力を出し切った…(*￣ω￣)美味しいサイズも五本程獲れたし、我が筍掘り人生に悔いなし(๑¯﹀¯๑) 
+保育園のレクレーションの筍掘り。品評会では一等賞をGET‼︎今年で最後なので、力を出し切った…(*￣ω￣)美味しいサイズも五本程獲れたし、我が筍掘り人生に悔いなし(๑¯﹀¯๑)
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年04月28日 
+TITLE: 2016年04月28日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -21105,7 +15653,7 @@ BODY:
 子、初めてアイカツのアニメを視聴。「アイドルになりたいかも…そのためには、髪を伸ばさんといけんし、ポチャリケもどうにかせんといけん…」ポチャリケwwwポチャリ気かwwポッチャリ感って事かwww
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年05月10日 
+TITLE: 2016年05月10日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -21121,7 +15669,7 @@ BODY:
 子に自分で出した鉛筆を片付けてと言ったら、「母上は、なにも仕事しないで、わたしばっかり・・・ﾌﾞﾂﾌﾞﾂ・・・もう手伝ってやらん」と言われたのでブチ切れました。丸一日、育児を放棄したいとおもいます。夕食は、自分で作った卵かけご飯でも食べとけ！と言おうと思います。これもまた母の日。
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年05月10日 
+TITLE: 2016年05月10日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -21137,7 +15685,7 @@ BODY:
 〈速報＞卵ごはん作成中w醤油入れすぎたらしく、卵を3個使用www
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年05月10日 
+TITLE: 2016年05月10日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -21150,13 +15698,13 @@ DATE: 05/10/2016 10:49:33
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-〈速報＞卵ごはん作成中w醤油入れすぎたらしく、卵を3個使用www 
+〈速報＞卵ごはん作成中w醤油入れすぎたらしく、卵を3個使用www
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年05月16日 
+TITLE: 2016年05月16日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -21172,7 +15720,7 @@ BODY:
 子のお医者さんごっこ。「困った事はなんですか？」というので、子供がキミちゃんちに泊まると、おやつばかりちょこちょこ食べてご飯をあまりたべないんですと相談すると、「あ～それはね～、お菓子とか買わないでください。それか、隠す！」と真っ当な回答ｗ処方箋？に　かくす　って書いてくれたｗｗ
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年05月17日 
+TITLE: 2016年05月17日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -21188,7 +15736,7 @@ BODY:
 子、きみちゃんちにお泊りの際、フラワーバスに入りたいと…。オマエはどっかの姫なのか！と。きみちゃんが丹精こめて育てた花を、コレも、コレも！とブチブチ手折っていったとか…。ちゅーか、きみちゃん、ちゃんと怒ってくれ。
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年05月18日 
+TITLE: 2016年05月18日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -21201,13 +15749,13 @@ DATE: 05/18/2016 09:19:27
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-手抜きして夕食にお弁当を買ったので、せっかく気持ちいい気候だし公園で。立ち漕ぎとか出来るようになったんだな〜。「ブランコさん、私を木まで連れてって！」といちいちメルヘンw 
+手抜きして夕食にお弁当を買ったので、せっかく気持ちいい気候だし公園で。立ち漕ぎとか出来るようになったんだな〜。「ブランコさん、私を木まで連れてって！」といちいちメルヘンw
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年05月20日 
+TITLE: 2016年05月20日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -21220,13 +15768,13 @@ DATE: 05/20/2016 15:34:40
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-子の保育園でのお泊まり会、海にも山にも行ったらしい。ハードだなぁ…私には無理だわ…。すごく楽しかったみたいで、夕食にフキごはん作ったとか、海で死んでた魚の様子とか、山登りのルートとか、帰ってから話が停まらないw 
+子の保育園でのお泊まり会、海にも山にも行ったらしい。ハードだなぁ…私には無理だわ…。すごく楽しかったみたいで、夕食にフキごはん作ったとか、海で死んでた魚の様子とか、山登りのルートとか、帰ってから話が停まらないw
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年05月20日 
+TITLE: 2016年05月20日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -21242,7 +15790,7 @@ BODY:
 「でもね、寝る前には、ちょっとだけ涙がでたんよ。ワーンとじゃないよ、こっち（左）の目から、ちょっとだけ。私だけじゃなくて、皆だよ。だって、お母さんが恋しくなるんよ。しょうがない。みんな、お母さんが大好きなんよ」…君、ポエムの才能あるわ〜（゜-Å) ホロリ
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年05月22日 
+TITLE: 2016年05月22日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -21258,7 +15806,7 @@ BODY:
 今日の発見。紫河'sの水環境館は意外と面白い事。そこと井筒屋地下が地下道で繋がってる事。ビーフキッチン菜好牛のソファ席が半円形でゆったり出来る事。お子様ランチは肝心のハンバーグがイマイチ（火を通しすぎ）で大人のハンバーグをガッポリ取られるので次回は大人用を三人前頼む必要がある事。
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年05月25日 
+TITLE: 2016年05月25日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -21274,7 +15822,7 @@ BODY:
 子はキッザニアの中で、科学研究所（ヤクルト提供）の仕事が一番楽しかったらしい。将来は科学者になりたいそうｗ父も科学者だよ（一応）と言うとΣ(ﾟдﾟ;) ﾇｵｫ!?と超おどろいてたｗｗスーパーに行くと、ヤクルトの効能を鼻息荒く力説して、ヤクルトを買わされるようになりました。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年05月28日 
+TITLE: 2016年05月28日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -21287,13 +15835,13 @@ DATE: 05/28/2016 07:13:37
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-子のキッザニアごっこ（動物病院）が中々に本格的wwちゃんと開腹器使ってるwww 
+子のキッザニアごっこ（動物病院）が中々に本格的wwちゃんと開腹器使ってるwww
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年05月28日 
+TITLE: 2016年05月28日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -21306,13 +15854,13 @@ DATE: 05/28/2016 07:18:47
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-救急車はかなり小さい模様… 
+救急車はかなり小さい模様…
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年05月29日 
+TITLE: 2016年05月29日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -21325,13 +15873,13 @@ DATE: 05/29/2016 00:13:31
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-子は父に抱きつき「1番好きなのが父上、2番目が母上、3番がハヤト！」こっちをチラリとみて「母上、くやしい？( ^ω^ )」と挑発する事も忘れないw父が、えっ！僕、ハヤトより上？！と声を弾ませると、「べっ、べつに！」ってツンデレか！ 
+子は父に抱きつき「1番好きなのが父上、2番目が母上、3番がハヤト！」こっちをチラリとみて「母上、くやしい？( ^ω^ )」と挑発する事も忘れないw父が、えっ！僕、ハヤトより上？！と声を弾ませると、「べっ、べつに！」ってツンデレか！
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年05月31日 
+TITLE: 2016年05月31日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -21344,13 +15892,13 @@ DATE: 05/31/2016 00:37:57
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-★こちらが編集可能スペースです（あなたの紹介文を40文字でご記入ください）★ 『楽天カード』を見る [楽天] 
+★こちらが編集可能スペースです（あなたの紹介文を40文字でご記入ください）★ 『楽天カード』を見る [楽天]
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年05月31日 
+TITLE: 2016年05月31日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -21363,13 +15911,13 @@ DATE: 05/31/2016 11:15:51
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-保育園で、縫い物の課題がスタート。家に帰って早速、雑巾を縫って、拭き掃除もしてくれたw できれば毎日お願い致したいww 
+保育園で、縫い物の課題がスタート。家に帰って早速、雑巾を縫って、拭き掃除もしてくれたw できれば毎日お願い致したいww
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年06月01日 
+TITLE: 2016年06月01日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -21382,13 +15930,13 @@ DATE: 06/01/2016 23:04:04
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-突然の「明日、海に行きます♪お弁当と水着・ラッシュガードよろしく」という保育園のお知らせに驚く…。もはやOL弁当を超えて、サラリーマン弁当だな、コレ。 
+突然の「明日、海に行きます♪お弁当と水着・ラッシュガードよろしく」という保育園のお知らせに驚く…。もはやOL弁当を超えて、サラリーマン弁当だな、コレ。
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年06月03日 
+TITLE: 2016年06月03日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -21401,13 +15949,13 @@ DATE: 06/03/2016 10:56:07
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-茄子・しめじ入りミートソースとほうれん草入りホワイトソースマカロニのグラタンを作ったけど、結構大変で一品で終了w（あとは作り置きのトマトのマリネ）メニューの寂しさを紛らわすために、ベランダで食べてみた。もう暑いしね〜 
+茄子・しめじ入りミートソースとほうれん草入りホワイトソースマカロニのグラタンを作ったけど、結構大変で一品で終了w（あとは作り置きのトマトのマリネ）メニューの寂しさを紛らわすために、ベランダで食べてみた。もう暑いしね〜
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年06月03日 
+TITLE: 2016年06月03日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -21420,13 +15968,13 @@ DATE: 06/03/2016 11:02:56
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-結構、飛行機がいっぱいとんでるんだなー。夕暮れの飛行機って綺麗。点滅しないゆっくり移動する光をみつけて、ISSかと思ったけど軌道的に違う。他の人口衛星？でもかなり大きかったような… 
+結構、飛行機がいっぱいとんでるんだなー。夕暮れの飛行機って綺麗。点滅しないゆっくり移動する光をみつけて、ISSかと思ったけど軌道的に違う。他の人口衛星？でもかなり大きかったような…
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年06月11日 
+TITLE: 2016年06月11日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -21439,13 +15987,13 @@ DATE: 06/11/2016 00:07:59
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-子、すごく遊びきった感じの良い顔で合宿から帰ってきた(*^o^*)野うさぎ見た！二段ベッドで寝た‼︎と大喜び。でも、さみしくはならなかったらしく、意外とベッタリとは甘えてこない。。サッサと一人で寝たしw成長…したんだなぁ…！ 
+子、すごく遊びきった感じの良い顔で合宿から帰ってきた(*^o^*)野うさぎ見た！二段ベッドで寝た‼︎と大喜び。でも、さみしくはならなかったらしく、意外とベッタリとは甘えてこない。。サッサと一人で寝たしw成長…したんだなぁ…！
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年06月11日 
+TITLE: 2016年06月11日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -21458,13 +16006,13 @@ DATE: 06/11/2016 13:34:15
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-子、美女と野獣を観劇。３時間弱がんばって集中して観てたけど、カーテンコールに「なんでこんなん、ずっとみとかないけんの( *｀ω´)」とイライラしだした…´д` ;うん…あれ、子供には退屈だよね…。 
+子、美女と野獣を観劇。３時間弱がんばって集中して観てたけど、カーテンコールに「なんでこんなん、ずっとみとかないけんの( *｀ω´)」とイライラしだした…´д` ;うん…あれ、子供には退屈だよね…。
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年06月13日 
+TITLE: 2016年06月13日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -21477,13 +16025,13 @@ DATE: 06/13/2016 04:26:12
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-日曜日は雨だったので、針山を作ったり、お昼寝のまどろみを楽しんだり。。 
+日曜日は雨だったので、針山を作ったり、お昼寝のまどろみを楽しんだり。。
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年06月13日 
+TITLE: 2016年06月13日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -21496,13 +16044,13 @@ DATE: 06/13/2016 11:30:04
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-鼻チュウをしてもらって、幸せそうな様子。「マール様…ありがたい…(*^^*)」とか言ってて、完全に教化されてる。。猫教、バンザイ！ 
+鼻チュウをしてもらって、幸せそうな様子。「マール様…ありがたい…(*^^*)」とか言ってて、完全に教化されてる。。猫教、バンザイ！
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年06月15日 
+TITLE: 2016年06月15日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -21518,7 +16066,7 @@ BODY:
 子がマール様に教育的指導（ガブリ）されて泣きそうだったので、本気で噛んだら君は血だらけだよ、やさしく甘噛みしてくれたんだよ、と慰めると、「甘噛み…？甘えて噛んだってこと？じゃあやっぱりマール様は私のこと好きなんだね！」ってポジティブすぎるし、将来DV男にひっかかりそうな思考。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年06月17日 
+TITLE: 2016年06月17日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -21535,7 +16083,7 @@ BODY:
 翌朝のカレーチーズトーストまで満喫のもよう（＾ω＾） https://t.co/Tpn5PzXd1S
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年06月19日 
+TITLE: 2016年06月19日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -21551,7 +16099,7 @@ BODY:
 父の日。きみちゃん家にお泊まりに行っていた子は、朝のパン屋で「おとうさんの顔のパン」、ついでにスーパーでカーネーションをゲットして帰ってきた。祖母のお金で親孝行とはチャッカリしてる…自分も財布持ってるのに…
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年06月22日 
+TITLE: 2016年06月22日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -21574,7 +16122,7 @@ BODY:
 鳥「ちゃうちゃう」 https://t.co/yenx4d692y
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年06月22日 
+TITLE: 2016年06月22日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -21593,7 +16141,7 @@ BODY:
 「ががん」が漫画的ww https://t.co/FrmB4hoe0H
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年06月22日 
+TITLE: 2016年06月22日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -21614,7 +16162,7 @@ BODY:
 意味深だなwたぬきBの心情を答えよ、的な。 https://t.co/jouVWle7JY
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年06月22日 
+TITLE: 2016年06月22日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -21627,13 +16175,13 @@ DATE: 06/22/2016 22:05:17
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-子の画力が急に上がってきた。先日なんて、「虫に刺されてて、とったらこんな虫やった。」といって絵を見せられ、これ…マダニじゃない…？と病院行ったよ。。 
+子の画力が急に上がってきた。先日なんて、「虫に刺されてて、とったらこんな虫やった。」といって絵を見せられ、これ…マダニじゃない…？と病院行ったよ。。
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年07月09日 
+TITLE: 2016年07月09日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -21650,7 +16198,7 @@ BODY:
 自分でノコギリで切って、ヤスリで磨いたらしい。ワイルドだよ、本当に。 https://t.co/VFSgEAADZn
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年07月14日 
+TITLE: 2016年07月14日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -21666,7 +16214,7 @@ BODY:
 保育園の田植えの後、スイカを切ってもらって、子が「一番大っきいのゲットした！（≧∇≦）」って、満面の笑みでサッサと車に戻ってきたのよ。そしたらさ、後からもどってきた友達が、二個目のスイカをゲットしてて。その時の、子のショック！！😱という顔…未だに思い出し笑いしてしまう…www
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年08月13日 
+TITLE: 2016年08月13日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -21682,7 +16230,7 @@ BODY:
 子がマール(猫)を洗いたいという。何で？クサイ？と聞くと、「ちがう。マール様が困ってニャオーって鳴く姿をみてみたいんよ〜(=´∀｀)」と、なかなかに歪んだ愛情www「マール、なんて言いよる？お風呂なんか嫌だにゃ、助けてにゃーって言ってる？」と嬉しそうだし、いい性格ですこと…
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年10月06日 
+TITLE: 2016年10月06日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -21695,13 +16243,13 @@ DATE: 10/06/2016 23:01:38
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-子は化石や宝石（自称）をよく拾ってくるんだけど、おおっコレは今までで一番化石っぽい！って褒めたら、「…じゃあ、今までのは、化石っぽく無かったっていうの？(¬_¬)」と突っ込まれた。。言語能力、上がってるな… 
+子は化石や宝石（自称）をよく拾ってくるんだけど、おおっコレは今までで一番化石っぽい！って褒めたら、「…じゃあ、今までのは、化石っぽく無かったっていうの？(¬_¬)」と突っ込まれた。。言語能力、上がってるな…
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年10月06日 
+TITLE: 2016年10月06日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -21714,13 +16262,13 @@ DATE: 10/06/2016 23:21:32
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-アイドルとヲタ 
+アイドルとヲタ
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年10月06日 
+TITLE: 2016年10月06日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -21733,13 +16281,13 @@ DATE: 10/06/2016 23:23:00
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-宇宙人にさらわれて人体実験を受けている…ように見えるんだけど。。 
+宇宙人にさらわれて人体実験を受けている…ように見えるんだけど。。
 <img src=""></img>
 
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年10月17日 
+TITLE: 2016年10月17日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -21755,7 +16303,7 @@ BODY:
 バリカンの設定を間違えてヒゲを刈りすぎションボリしている父上を慰めようと声をかける子と私。子「黒じゃなくて、灰色」　私「そうね、軽くなったとも言える」　子「スッキリ！」　私「さわやか！！」　子「春のような！！！」　春のようなｗｗｗ芽吹いた芝生のイメージだろうかｗｗｗｗ
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年12月27日 
+TITLE: 2016年12月27日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -21771,7 +16319,7 @@ BODY:
 子のクリスマスプレゼントに「どうぶつしょうぎ」を選んでみた。うん、面白い。でも中々難しい。子供相手に時々は上手く負けてやるのがまた難しい。こういう時こそアプリ版！五回に一回だけ親が相手だ！！…あれ、だけど…最初からアプリだけでも良かったのか…？アプリで対戦もできる訳だし…
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年12月28日 
+TITLE: 2016年12月28日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -21788,7 +16336,7 @@ BODY:
 ブランデーはどう？と提案したら、「ソリの運転せないけんやろ」と冷たく却下されました。
 --------
 AUTHOR: Foo Bar
-TITLE: 2017年01月16日 
+TITLE: 2017年01月16日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -21804,7 +16352,7 @@ BODY:
 早くも子の卒園式・入学式の衣装を見に行った。子はここぞとばかりにフリフリを所望するだろうな…と思っていたら、ものすごくシックな物を選んできた。あ…フリフリじゃないんだ…と言ったら「卒園式はね、こういう感じの服を着るもんなんよ」と諭された(｡⚪︎ω⚪︎｡)
 --------
 AUTHOR: Foo Bar
-TITLE: 2017年02月25日 
+TITLE: 2017年02月25日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -21820,7 +16368,7 @@ BODY:
 子、最後の合宿。「母上、しーちゃんが居ないでさみしくなるよね。しーちゃんのスリーパー、着てていいよ。」と、衣を下賜された。。恩賜の御衣ですか…？スリーパーは洗濯した。
 --------
 AUTHOR: Foo Bar
-TITLE: 2017年02月25日 
+TITLE: 2017年02月25日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -21836,7 +16384,7 @@ BODY:
 子は大人になったら、二階建ての家に住みたいという。誰と住むの？(どうせハヤトやろ…w)と聞くと、「かっこいい男の子と結婚してから」「…例えば、ハヤトみたいな、ね！」と、中々複雑な言い回しをしてきたので驚いたww ウチの近くに建てるので、時々は母上も遊びにきて良いらしいです。
 --------
 AUTHOR: Foo Bar
-TITLE: 2017年03月01日 
+TITLE: 2017年03月01日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -21852,7 +16400,7 @@ BODY:
 子が人形を「ぽぽタン❤️」と抱きしめたので、私も「しのタン」と抱っこすると、「ははタン❤️」と抱き返してくれた。私が忍笑いしていると、「さちタンの方がよかった？」と、変に気を遣っていただいた。
 --------
 AUTHOR: Foo Bar
-TITLE: 2017年03月15日 
+TITLE: 2017年03月15日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -21869,7 +16417,7 @@ BODY:
 でも昨日、「もう少しでオニギリの時間やったのに！みんなズルいよ〜(´°̥̥̥̥̥̥̥̥ω°̥̥̥̥̥̥̥̥｀)」と、延長保育の時に配られるオニギリ目当てだった…
 --------
 AUTHOR: Foo Bar
-TITLE: 2017年03月24日 
+TITLE: 2017年03月24日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -21882,7 +16430,7 @@ DATE: 03/24/2017 06:26:55
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-朝からノビルを大量に洗って、茹でて酢味噌で食べる7歳女児。残り、どうしよう… 
+朝からノビルを大量に洗って、茹でて酢味噌で食べる7歳女児。残り、どうしよう…
 <img src=""></img>
 
 
