@@ -105,7 +105,7 @@ DATE: 04/10/2010 00:00:00
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-<html><body><img src="http://twitpic.com/1eisdl"></img><p>産まれたて〜。これでいいのかな？ </p></body></html>
+<html><body><p>産まれたて〜。これでいいのかな？ </p><img src="http://twitpic.com/1eisdl"></img></body></html>
 --------
 AUTHOR: Foo Bar
 TITLE: 2010年04月10日 

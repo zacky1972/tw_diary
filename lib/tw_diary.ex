@@ -70,7 +70,7 @@ defmodule TwDiary do
 
   def escape_image(text) do
     match = Regex.named_captures(@http, text)
-    Regex.replace(@http, text, "<img src=\"#{match["url"]}\"></img><p>#{match["text"]}</p>")
+    Regex.replace(@http, text, "<p>#{match["text"]}</p><img src=\"#{match["url"]}\"></img>")
   end
 
   def all_read() do
