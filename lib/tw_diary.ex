@@ -54,8 +54,6 @@ defmodule TwDiary do
     head 
     <> (body = tweets 
       |> Enum.map(& &1[:text])
-      |> Enum.reject(& Regex.match?(~r/RT/, &1))
-      |> Enum.reject(& Regex.match?(~r/@/, &1))
       |> Enum.map(& escape_image(&1, image_kl))
 #      |> Enum.map(& "<p>#{&1}</p>")
       |> Enum.join("\n")
@@ -66,6 +64,8 @@ defmodule TwDiary do
 
   def contents_mt(image_kl) do
     tweets()
+      |> Enum.reject(& Regex.match?(~r/RT/, &1[:text]))
+      |> Enum.reject(& Regex.match?(~r/@/, &1[:text]))
     |> Enum.chunk_by(& &1[:date])
     |> Enum.map(& convert_mt_all(&1, image_kl))
   end

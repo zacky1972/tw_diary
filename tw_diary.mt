@@ -1358,22 +1358,6 @@ BODY:
 産休中に溜まっていた仕事が片付いたと思ったら、次から次へとやることが降って来る・・・。いつになったらノンビリ出来るんだろう。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年06月20日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/20/2010 00:00:00
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2010年06月21日 
 BASENAME: filename
 STATUS: Publish
@@ -1844,22 +1828,6 @@ BODY:
 バンボを買ってしまった。既にミッチリとお尻と太ももが詰まってるんだが・・・ハイハイしだすと細くなる・・・んだよね？？（汗）。偉そうに座ってて、なかなか可愛い。ただ、これに座るとヨダレがもの凄い事になる。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年08月09日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/09/2010 00:00:00
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2010年08月10日 
 BASENAME: filename
 STATUS: Publish
@@ -1877,22 +1845,6 @@ BODY:
 しかし、足は強い。体をピンと力を入れて伸ばすので、腰に手を添えると立ってしまう。数人いる保育の先生から異口同音に「なんか・・・立ちますよね・・・」と驚かれる。胎内にいる時から、私のみぞおちを蹴り上げて鍛えていたからな。。
 子は今日で４ヶ月。寝返りは、かなり横向きに肩が上がるようになったものの、完成する気配はない。そもそも、子はうつ伏せが好きではない模様。うつ伏せにすると、シャチホコのように反り返り、泣き出してしまう。寝返る動機がないのだから、このまましないのかもしれないな。。
 うわー！人生初白髪発見！！とうとう来ましたか・・・。しかも、途中から白くなっているレアもの。約５センチ程が白いんだが、あれか、やはり子育てで栄養が吸い取られたということか。。この毛穴からは、これからずっと白髪が生産されるのだなぁ（しみじみ）
---------
-AUTHOR: Foo Bar
-TITLE: 2010年08月11日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/11/2010 00:00:00
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2010年08月12日 
@@ -1949,22 +1901,6 @@ BODY:
 そして、機嫌が悪い時間が少なくなった気がする。その代り、も・の・す・ご・く！大きい声を出すようになった。顔の横でギャオー！！と叫ばれると、本当に耳が痛くなる程。。
 ここ数日で、子は急に成長した感じ。うつ伏せにしても5分程度は持つようになった。首を上げて前の物を観察したり、私に笑いかける余裕も。ガラガラを、舐めるついでに偶然鳴らすのではなく、ちゃんと振って遊んでいる素振りも見える。オーボールで長い時間遊べるようになった。
 子の4ヶ月検診＆DPT1回目に行ってきた。検診では、今までで一番の角度でググッと首を持ち上げ、先生に披露。順調に発達してますと言われ、一安心。でも、とうとう「肥」にマルされてしまった・・・orz。
---------
-AUTHOR: Foo Bar
-TITLE: 2010年08月25日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/25/2010 00:00:00
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2010年08月30日 
@@ -2319,38 +2255,6 @@ BODY:
 快く送りだしてくれたヤマザキに感謝。しかも「家事&育児には相当関わっているので，たいていのことは朝飯前に対応できると思っていたのだが，ただのうぬぼれでした．」、「しょせん今まで半分以下しか家事&育児に関わっていなかったんだな．」とつぶやくヤマザキ、良い人すぎる。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年11月17日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/17/2010 11:33:10
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2010年11月17日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/17/2010 11:50:40
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2010年11月18日 
 BASENAME: filename
 STATUS: Publish
@@ -2413,22 +2317,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 上前歯がお目見え。急にズリ這いのような事を始めた。前にはあまり進まず、回転しているだけだけど。。
---------
-AUTHOR: Foo Bar
-TITLE: 2010年11月19日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/19/2010 01:52:07
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2010年11月19日 
@@ -2587,38 +2475,6 @@ BODY:
 よくみたら、林家夫妻ばりのピンクっぷり・・・(汗) 
 <img src="https://zacky1972.github.io/tw_diary_images/twitpic.com_38tbiz.JPEG"></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2010年11月21日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/21/2010 10:36:22
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2010年11月22日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/22/2010 01:59:45
-TAGS: "Movable Type",foo,bar
------
-BODY:
 
 --------
 AUTHOR: Foo Bar
@@ -2814,22 +2670,6 @@ BODY:
 ちなみに子が一番最初に覚えた芸は、「コツン！」と言うと軽く頭突きしてくるという芸。そのあとグリグリスリスリしてきて、猫のようだw保育園の他の子は、「好き好きー」のコマンドで同じ事をやるらしい。好き好きか・・・その手があったか・・・
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年12月05日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 12/05/2010 11:12:32
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2010年12月08日 
 BASENAME: filename
 STATUS: Publish
@@ -2844,38 +2684,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 mixiとの連携が切れてるらしい。テスト
---------
-AUTHOR: Foo Bar
-TITLE: 2010年12月09日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 12/09/2010 01:31:55
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2010年12月09日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 12/09/2010 08:18:40
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2010年12月15日 
@@ -2926,38 +2734,6 @@ BODY:
 子のインフルエンザ注射2回目。いつもの小児科ではなく、私が利便性重視で行っている駅ビルの内科へ。激空きだったせいか、子を抱いた私の靴の出し入れをしてくれるわ、子をあやしまくってくれるわ、ソファーで支払いまで済ませてくれるわのＶＩＰ待遇だった（驚）予防注射はここにしよっかな。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年12月16日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 12/16/2010 06:45:13
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2010年12月17日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 12/17/2010 00:53:59
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2010年12月17日 
 BASENAME: filename
 STATUS: Publish
@@ -2972,22 +2748,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子が8ヶ月になって、ようやく毎日タンパク質を与え始めた。通常より遅めなのは、アレルギー対策２０％・面倒くさい８０％・・・。乳飲み子って、特有の良いニオイがするんだけど、タンパク質を食べ始めたらこのニオイも無くなりそうな気がして残念。。
---------
-AUTHOR: Foo Bar
-TITLE: 2010年12月17日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 12/17/2010 13:43:30
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2010年12月17日 
@@ -3086,22 +2846,6 @@ BODY:
 洋食屋にて、デミグラスソースの匂いに釣られて、子が初つかまり膝立ち！おお、まさかこのまま立つのか・・？！と思いきや、両足揃えて後ろに滑らせて、そのまま腕立て伏せ状態に・・・。まだ足を前に出すという考えは浮かばないらしい。そのうち立たねば！という本能が目覚めるのだろうか。
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年12月24日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 12/24/2010 05:43:44
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2010年12月25日 
 BASENAME: filename
 STATUS: Publish
@@ -3148,22 +2892,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 やばいw子がマールの真似をして、爪とぎしだしたっw
---------
-AUTHOR: Foo Bar
-TITLE: 2010年12月27日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 12/27/2010 12:47:47
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2010年12月28日 
@@ -3262,22 +2990,6 @@ BODY:
 午前中にちょっと会社に行った後は、すっかり冬休みモードに突入。借りてきた漫画や年末番組を見たり、子と遊んだり、マールに挑む子をビデオに撮ったり。ダラダラ過ごすの楽しいな〜〜ビバ！自堕落な日々wwでも、子にはいつも通り早寝して頂こう。そして深夜までヤマザキとゲームwww
 --------
 AUTHOR: Foo Bar
-TITLE: 2010年12月31日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 12/31/2010 12:44:52
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2011年01月02日 
 BASENAME: filename
 STATUS: Publish
@@ -3319,22 +3031,6 @@ CONVERT BREAKS: richtext
 PRIMARY CATEGORY: News
 CATEGORY: News
 CATEGORY: Product
-DATE: 01/02/2011 07:56:54
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年01月02日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
 DATE: 01/02/2011 08:01:57
 TAGS: "Movable Type",foo,bar
 -----
@@ -3356,54 +3052,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 うおぅ、今度はうつ伏せからお座りが出来るようになった！正月早々、大盤振る舞いだな、オイ！！
---------
-AUTHOR: Foo Bar
-TITLE: 2011年01月02日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 01/02/2011 09:06:51
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年01月02日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 01/02/2011 13:16:08
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年01月02日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 01/02/2011 15:19:41
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2011年01月04日 
@@ -3468,38 +3116,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 10年ぶり位にものもらいが出来た。見ても解らない程度だけど結構痛い。。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年01月10日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 01/10/2011 09:27:00
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年01月12日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 01/12/2011 04:28:43
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2011年01月16日 
@@ -3601,22 +3217,6 @@ BODY:
 咳が出て、水を飲んでも飲んでも喉が渇く感じがする。。ちゃんと加湿もしてるんだけどなぁ
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年01月20日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 01/20/2011 12:18:28
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2011年01月22日 
 BASENAME: filename
 STATUS: Publish
@@ -3713,22 +3313,6 @@ BODY:
 自らタオルケットを顔に掛けたり取ったりしながら「ぃないなぃばぁ」と言っているような気がするんだが、これは空耳であろうか。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年01月28日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 01/28/2011 14:13:36
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2011年01月30日 
 BASENAME: filename
 STATUS: Publish
@@ -3759,22 +3343,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 午後はヤマザキ＆子と合流して「世界の絵本作家展」に。子はそれなりに、半分位は熱心に見ていた様子。夜は結婚披露パーティーをしたブルーシエルが移転するので、最後に伺った。充実した一日。新しい店は個室が出来るらしいので、今度は子も連れていてみようかなー。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年01月31日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 01/31/2011 07:03:38
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2011年02月01日 
@@ -3892,22 +3460,6 @@ BODY:
 Facebookはプロフィールに恋愛対象の性別の欄があって、流石アメリカだなーと。ヤマザキはそれを男性に設定していたのに気付き、慌てて修正していたw。Facebookもお友達求むー。まだ何もしてないんだけどさ。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年02月04日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/04/2011 12:23:42
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2011年02月05日 
 BASENAME: filename
 STATUS: Publish
@@ -3922,22 +3474,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 今年に入って、子は夜泣きをたまにする。今まではちょっと目が覚めても自力で眠れていたのに、どうも怖い夢を見るらしく、寝ぼけたまま泣き出す模様。。オイオイそんな人生経験でどんなコワイ事がwと思っていたけど、今日はソファから落下させてしまったので、それを反芻しているのかも・・・。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年02月07日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/07/2011 01:33:02
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2011年02月07日 
@@ -3982,43 +3518,11 @@ CONVERT BREAKS: richtext
 PRIMARY CATEGORY: News
 CATEGORY: News
 CATEGORY: Product
-DATE: 02/14/2011 07:05:32
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年02月14日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
 DATE: 02/14/2011 14:17:31
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
 なにぃ・・・バナナの嫌いな赤子なんて・・・。生まれて初めて拒否した食べ物がバナナだなんて意外すぎる。。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年02月14日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/14/2011 15:21:34
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2011年02月15日 
@@ -4198,22 +3702,6 @@ BODY:
  http://twitpic.com/41vx1r
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年02月21日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/21/2011 01:31:31
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2011年02月22日 
 BASENAME: filename
 STATUS: Publish
@@ -4297,54 +3785,6 @@ BODY:
 欠点は、暗くしたベッドか車でしか寝ないので、外出先での昼寝に困る事。上手くスケジュールを組まないといけない。あと、多少良心？の呵責があるのか、抱っこされて寝ている赤子＆母親が、眩しく神々しく見える事w眠っていく可愛さを見るのは、たまに休日の昼寝に添い寝すれば、私的には十分かなー
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年02月23日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/23/2011 00:37:45
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年02月23日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/23/2011 02:22:22
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年02月23日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/23/2011 02:28:29
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2011年02月24日 
 BASENAME: filename
 STATUS: Publish
@@ -4377,38 +3817,6 @@ TAGS: "Movable Type",foo,bar
 BODY:
 本当は赤子らしいツナギが好みなんだけど、最近暴れるので股スナップを止められず、イメチェンに踏み切ってみた。
  http://twitpic.com/433nog
---------
-AUTHOR: Foo Bar
-TITLE: 2011年02月24日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/24/2011 04:40:47
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年02月24日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/24/2011 05:38:06
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2011年02月24日 
@@ -4473,22 +3881,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 意外と防水&ワンセグが心地よい。今までお風呂では本かロケフリ&PSP&ジップロックだったんだけど、ボンヤリ湯に浸かってる時には、くだらないバラエティー番組位がちょうどいいのかも。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年02月25日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/25/2011 00:31:31
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2011年02月25日 
@@ -4619,22 +4011,6 @@ BODY:
 子は初めての旅館&川の字に大ハシャギ。20時には真っ暗にして一家で布団に入ってみたが、ゴロゴロ転がったり、布団にバフーンとしたり、顔を触ってきてニターっとしたり…。ウッカリ私達の方が先に寝てしまった。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年02月27日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/27/2011 14:56:22
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2011年02月28日 
 BASENAME: filename
 STATUS: Publish
@@ -4692,75 +4068,11 @@ CONVERT BREAKS: richtext
 PRIMARY CATEGORY: News
 CATEGORY: News
 CATEGORY: Product
-DATE: 02/28/2011 06:29:28
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年02月28日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
 DATE: 02/28/2011 06:36:52
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
 朝も昼も空弁。寿司岩の穴子弁当、中々美味しいじゃなーい。タレが別なので、赤子に具のみ与える事も出来るかも。私は会社で一人で食べたけどｗｵｼﾞｻﾝにこれも持って貰ったと思うと、ちょっと良心が痛む・・・ｺﾞﾒﾝ､ｿﾚﾜﾀｼﾉﾍﾞﾝﾄｳﾅﾝﾀﾞ･･･
---------
-AUTHOR: Foo Bar
-TITLE: 2011年02月28日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/28/2011 06:59:26
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年02月28日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/28/2011 10:36:18
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年03月01日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/01/2011 02:17:04
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2011年03月02日 
@@ -4777,22 +4089,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子の名前を呼ぶと、突然「ハーイ」と言って手を挙げたので驚いた。保育園で覚えてきたんだな。保育園では、他の子や先生の事をジーッと観察しているらしい。最近、食べ物を目の前にしても、自分で「いただきます」と手を合わせる余裕が出来た模様。今までも「ご馳走様」は出来ていたんだが。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年03月02日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/02/2011 20:12:01
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2011年03月02日 
@@ -4931,22 +4227,6 @@ BODY:
  http://twitpic.com/45n0wj
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年03月03日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/03/2011 12:32:52
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2011年03月04日 
 BASENAME: filename
 STATUS: Publish
@@ -5008,22 +4288,6 @@ CONVERT BREAKS: richtext
 PRIMARY CATEGORY: News
 CATEGORY: News
 CATEGORY: Product
-DATE: 03/05/2011 00:47:51
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年03月05日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
 DATE: 03/05/2011 00:55:45
 TAGS: "Movable Type",foo,bar
 -----
@@ -5048,54 +4312,6 @@ BODY:
  http://twitpic.com/469ukt
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年03月05日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/05/2011 09:38:40
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年03月05日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/05/2011 10:53:30
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年03月05日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/05/2011 15:16:52
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2011年03月06日 
 BASENAME: filename
 STATUS: Publish
@@ -5110,38 +4326,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 ヤマザキがiPhoneに「ドラえもんのフリックマシーン」を入れたので試してみる。フリック入力、悪くないかも。コレで慣れておいて、ドコモでiPhoneが出たら買い替えても良いなぁ。・・・４年後位に！iPad２がフリック入力対応なら、母に買っても良いのになー。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年03月07日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/07/2011 01:56:10
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年03月08日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/08/2011 01:00:12
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2011年03月08日 
@@ -5226,38 +4410,6 @@ BODY:
  http://twitpic.com/47olr9
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年03月09日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/09/2011 14:46:34
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年03月10日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/10/2011 00:06:45
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2011年03月11日 
 BASENAME: filename
 STATUS: Publish
@@ -5322,102 +4474,6 @@ BODY:
 グッタリと確定申告していたら、母とヤマザキから地震のニュースが。東京も結構揺れたみたいね。。皆、大丈夫かな。。鶴見のヤマザキ両親は連絡が取れないらしい。携帯を持たない派なので、普段から連絡が取り難いらしいのだけど。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年03月11日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/11/2011 12:00:26
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年03月11日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/11/2011 12:15:39
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年03月11日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/11/2011 13:38:10
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年03月11日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/11/2011 23:10:56
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年03月13日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/13/2011 23:22:55
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年03月13日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/13/2011 23:25:09
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2011年03月14日 
 BASENAME: filename
 STATUS: Publish
@@ -5478,91 +4534,11 @@ CONVERT BREAKS: richtext
 PRIMARY CATEGORY: News
 CATEGORY: News
 CATEGORY: Product
-DATE: 03/15/2011 01:20:33
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年03月15日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/15/2011 01:29:13
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年03月15日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
 DATE: 03/15/2011 01:35:27
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
 福島以北に救援物資を運ぶ場合は、警察署で緊急車輌の許可証が発行してもらえるとの事。しかし、茨城・栃木には、東京から下道でいくしかないらしい。ガソリン・軽油が無く、物流が混乱しているとの情報も。何とかならないのかな。。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年03月15日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/15/2011 02:01:41
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年03月16日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/16/2011 11:09:44
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年03月16日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/16/2011 11:42:40
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2011年03月16日 
@@ -5579,22 +4555,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 為替がすごい事に・・・！！大災害時にはこういう動きをするんだ。。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年03月16日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/16/2011 23:06:30
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2011年03月17日 
@@ -5659,22 +4619,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 言葉と言えば、食後に手を合わせて「○×□●・・マシュ・・タ！」と口走るようになった。保育園では、他の子が上着を着せられたりして帰ろうとしだすと、「バイバーイ」と言い始めるらしい。あと、ヤマザキが「ねむれよいこー・・・よ？」とハズして歌うと大ウケする。色々解ってきてるんだなぁ。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年03月18日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/18/2011 03:16:51
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2011年03月18日 
@@ -5916,22 +4860,6 @@ CONVERT BREAKS: richtext
 PRIMARY CATEGORY: News
 CATEGORY: News
 CATEGORY: Product
-DATE: 03/31/2011 00:02:37
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年03月31日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
 DATE: 03/31/2011 15:19:29
 TAGS: "Movable Type",foo,bar
 -----
@@ -6071,38 +4999,6 @@ BODY:
 石釜で焼いたナポリ風のピザ。薄いけどもっちりの感じは中々だけど、欲を言えば淵のボコボコが足りない。ソースたっぷりで味加減もgood。菜の花ソースのオレキエッテや自家製ベーコンのサラダも美味しかった。子連れや犬も歓迎。[食べログ] 檪の丘 
 <img src=""></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年04月03日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 04/03/2011 11:18:17
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年04月05日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 04/05/2011 01:26:03
-TAGS: "Movable Type",foo,bar
------
-BODY:
 
 --------
 AUTHOR: Foo Bar
@@ -6246,59 +5142,11 @@ CONVERT BREAKS: richtext
 PRIMARY CATEGORY: News
 CATEGORY: News
 CATEGORY: Product
-DATE: 04/11/2011 00:52:45
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年04月11日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 04/11/2011 00:58:27
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年04月11日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
 DATE: 04/11/2011 23:27:06
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
 ヤマザキがPS3を借りてきた。TVゲームはPSで止まってた私には…衝撃的な映像！でも、難しいよ、、CRYSIS2。。ヤマザキも下手なので、前に進まない。誰か上手な人がやるのを見たい。。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年04月12日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 04/12/2011 06:38:05
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2011年04月13日 
@@ -6315,38 +5163,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 mixiに動画をUPしたら、「母親らしい声だ！（驚？）」と反響がｗ私だって猫撫で声くらい出せるやい！でも、思えば今まで、他人の子に猫撫で声って出したこと無かったな～。なんというか、可愛さのあまりっていうより、無理にでもテンション上げないとやってられないというか・・・
---------
-AUTHOR: Foo Bar
-TITLE: 2011年04月14日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 04/14/2011 01:23:27
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年04月15日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 04/15/2011 00:20:16
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2011年04月15日 
@@ -6413,43 +5229,11 @@ CONVERT BREAKS: richtext
 PRIMARY CATEGORY: News
 CATEGORY: News
 CATEGORY: Product
-DATE: 04/16/2011 04:01:55
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年04月16日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
 DATE: 04/16/2011 04:06:28
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
 今日はヤマザキに子を任せて、初博多阪急へ出発！しかし特急が行ったばかりで20分待ち…コンビニで猫マンガに夢中になってたら乗り損ねて更に20分待ち…なにやってるんだ(o&gt;ω&lt;o)
---------
-AUTHOR: Foo Bar
-TITLE: 2011年04月16日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 04/16/2011 18:55:01
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2011年04月16日 
@@ -6670,54 +5454,6 @@ IKEA楽しみ～♪外国人が起工式をする姿にちょっと和んだ。�
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年04月20日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 04/20/2011 11:03:58
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年04月20日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 04/20/2011 11:10:50
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年04月20日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 04/20/2011 11:18:49
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2011年04月21日 
 BASENAME: filename
 STATUS: Publish
@@ -6883,22 +5619,6 @@ CONVERT BREAKS: richtext
 PRIMARY CATEGORY: News
 CATEGORY: News
 CATEGORY: Product
-DATE: 05/01/2011 04:59:47
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月01日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
 DATE: 05/01/2011 05:08:19
 TAGS: "Movable Type",foo,bar
 -----
@@ -7018,54 +5738,6 @@ BODY:
 乗り物といえば，昨日はオープントップバスツアーに参加した．今は食事抜きのツアーがあるので参加しやすい．ダラなので滅多に観光ってしないんだけど，実は乗り物マニアなので一度乗ってみたかったのだw小一時間で２００香港㌦と割高だけど，意外とオススメ．
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年05月02日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/02/2011 23:48:28
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月02日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/02/2011 23:50:51
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月05日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/05/2011 11:16:00
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2011年05月05日 
 BASENAME: filename
 STATUS: Publish
@@ -7080,22 +5752,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 昨日の夜に帰ってきて今日は休息…のつもりが、友人とポトフで昼酒飲んで、またもや胃を酷使。。明日からしばらく粗食にせねば。あー、良いGWだったなーー
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月05日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/05/2011 11:27:22
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2011年05月05日 
@@ -7277,38 +5933,6 @@ BODY:
 福岡空港の国際線に車で行く場合は、楽楽パーキングが超オススメ！公式駐車場と同料金でバレットサービスしてくれる。すごく楽だった。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年05月05日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/05/2011 15:47:23
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月06日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/06/2011 05:03:14
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2011年05月06日 
 BASENAME: filename
 STATUS: Publish
@@ -7401,43 +6025,11 @@ CONVERT BREAKS: richtext
 PRIMARY CATEGORY: News
 CATEGORY: News
 CATEGORY: Product
-DATE: 05/07/2011 13:43:20
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月07日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
 DATE: 05/07/2011 13:47:45
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
 ipad2ホワイト予約したぜぃ！いつくるのかなー*･゜ﾟ･*:.｡..｡.:*･'(*ﾟ▽ﾟ*)'･*:.｡. .｡.:*･゜ﾟ･*50 音キーボード試したけど、中々良い。babapadと命名しようw
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月07日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/07/2011 13:53:00
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2011年05月07日 
@@ -7478,54 +6070,6 @@ BODY:
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年05月08日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/08/2011 06:43:44
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月09日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/09/2011 00:18:35
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月09日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/09/2011 05:26:03
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2011年05月09日 
 BASENAME: filename
 STATUS: Publish
@@ -7542,22 +6086,6 @@ BODY:
 飯塚市で、男の子が田んぼの中から手榴弾を発見したという地域ニュースが。アナウンサーの「これは全国ニュースにもなりましたが」という前置きに笑ってしまった。うん、ここらじゃ頻発してるけど、普通じゃないよね。ああ…またか…と流しそうになってたw
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年05月10日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/10/2011 00:11:35
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2011年05月11日 
 BASENAME: filename
 STATUS: Publish
@@ -7572,22 +6100,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 バンボチェアは子供が成長すると抜け出すようになって使えなくなるというが、子は未だ抜け出せない…太ももが太いから…orz。しかし最近、自分で座れるようになった。体をひねり中々器用にすわって、楽しいらしい。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月12日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/12/2011 00:07:07
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2011年05月12日 
@@ -7673,54 +6185,6 @@ BODY:
 おお、とうとう靴の恐怖心を克服！タカタカ歩き出したー！！
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年05月15日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/15/2011 04:34:41
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月16日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/16/2011 05:44:03
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月16日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/16/2011 06:51:52
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2011年05月17日 
 BASENAME: filename
 STATUS: Publish
@@ -7753,22 +6217,6 @@ BODY:
 恒例の母の日鮨接待、今年は子連れでもり田さんへ。母…はしゃぎ過ぎだよ…！！まあ楽しそうで何よりなんだけど。次のグループが待っているというのに注文してるし…この食い意地は遺伝か。脈々と…繋がっているのか…
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年05月17日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/17/2011 22:16:21
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2011年05月18日 
 BASENAME: filename
 STATUS: Publish
@@ -7783,54 +6231,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 車のバッテリー点検&オイル交換なう。待ってる間に松屋の牛丼弁当を持ち込んで食べてるなう。。これって女子的にヤバいのではやいかと…
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月18日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/18/2011 06:54:28
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月19日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/19/2011 10:06:23
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月19日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/19/2011 11:08:35
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2011年05月20日 
@@ -7874,43 +6274,11 @@ CONVERT BREAKS: richtext
 PRIMARY CATEGORY: News
 CATEGORY: News
 CATEGORY: Product
-DATE: 05/20/2011 06:56:51
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月20日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
 DATE: 05/20/2011 11:55:43
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子がいつの間にかipadを操作して、「火」 をググってWikipediaのページを開いてた。。勝手にiTunesで音楽かけて( これは確信犯っぽい)、踊ったりもする。すごいよ、デジタルネイティブ…
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月20日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/20/2011 17:34:05
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2011年05月22日 
@@ -7927,54 +6295,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 ipadでも左右のカーソルキーを表示してテキストが書ける、iA writer というアプリを購入した。やっぱりカーソルあった方が便利だよ！でもこれ、- とか: のボタンを作る位なら、上下のカーソルと、Select All のボタンを作って欲しいんだけど。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月22日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/22/2011 04:21:55
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月23日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/23/2011 00:35:11
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月23日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/23/2011 00:38:11
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2011年05月23日 
@@ -8092,22 +6412,6 @@ BODY:
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年05月25日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/25/2011 10:01:40
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2011年05月26日 
 BASENAME: filename
 STATUS: Publish
@@ -8156,38 +6460,6 @@ BODY:
 久しぶりに馬乗りたいな～と、近くの若松の乗馬クラブのHPを見たら、衝撃の広告が・・・！
 <img src=""></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月27日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/27/2011 00:51:00
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年05月30日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/30/2011 02:36:07
-TAGS: "Movable Type",foo,bar
------
-BODY:
 
 --------
 AUTHOR: Foo Bar
@@ -8592,22 +6864,6 @@ BODY:
 祝福を…祝福をくださいませ…！と言って、マールに鼻を舐めて頂くのです。ザリザリで痛いけど、有難い事この上ない…( ´ ▽ ` )
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年06月09日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/09/2011 10:24:26
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2011年06月10日 
 BASENAME: filename
 STATUS: Publish
@@ -8641,22 +6897,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 ちなみに，この猫の着ぐるみは自前です．思えば，産前に一番最初に購入した赤子用品だ．万一，母性本能が降臨せず，我が子が可愛いと思えなかったらずっと着せて育てようと思ってｗ撮影まで出番が無くて良かったｗｗ
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月10日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/10/2011 22:42:00
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2011年06月11日 
@@ -8711,22 +6951,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 コップ重ねを久しぶりにやらせてみたら、「これにこれを重ねて~」と言うとちゃんと理解し、7段重ねに成功！！すごい！ちょっと前までルールも理解出来ず、入れ子にして遊ぶだけだったのに！！
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月14日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/14/2011 04:00:43
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2011年06月15日 
@@ -8868,22 +7092,6 @@ BODY:
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年06月16日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/16/2011 06:25:47
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2011年06月17日 
 BASENAME: filename
 STATUS: Publish
@@ -8962,22 +7170,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 託児の場所を別室とかにすれば、もっと楽なのかもしれないけど。それもちょっと寂しいし、他の子と遊ぶ姿も見たいし、せっかくなら子にも食べさせてみたいしね。。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月18日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/18/2011 14:35:38
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2011年06月19日 
@@ -9099,54 +7291,6 @@ BODY:
 ただ、送料単価を下げるために、同じようなのを３サイズ購入…。 半年ごとにサイズアップらしいので、しばらくはこんな感じです (笑)。すごく歩きやすそうで、転びにくくな ったような気... 
 <img src="https://zacky1972.github.io/tw_diary_images/twitpic.com_5e8d2p.JPEG"></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月22日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/22/2011 03:33:37
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月22日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/22/2011 04:27:26
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月22日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/22/2011 04:29:59
-TAGS: "Movable Type",foo,bar
------
-BODY:
 
 --------
 AUTHOR: Foo Bar
@@ -9503,38 +7647,6 @@ CONVERT BREAKS: richtext
 PRIMARY CATEGORY: News
 CATEGORY: News
 CATEGORY: Product
-DATE: 06/28/2011 05:22:27
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月28日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/28/2011 11:41:32
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月28日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
 DATE: 06/28/2011 11:46:38
 TAGS: "Movable Type",foo,bar
 -----
@@ -9570,43 +7682,11 @@ CONVERT BREAKS: richtext
 PRIMARY CATEGORY: News
 CATEGORY: News
 CATEGORY: Product
-DATE: 06/30/2011 00:55:55
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月30日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
 DATE: 06/30/2011 05:40:07
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
 突然の大雨とともに停電なう(∋_∈)
---------
-AUTHOR: Foo Bar
-TITLE: 2011年06月30日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/30/2011 06:33:37
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2011年07月02日 
@@ -9685,22 +7765,6 @@ CONVERT BREAKS: richtext
 PRIMARY CATEGORY: News
 CATEGORY: News
 CATEGORY: Product
-DATE: 07/03/2011 01:29:23
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月03日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
 DATE: 07/03/2011 06:57:22
 TAGS: "Movable Type",foo,bar
 -----
@@ -9740,54 +7804,6 @@ BODY:
 最近、子は食べたい物を出さないと怒る。。今朝はバナナを切らしてて、朝イチはバナナを食すと決まっておろう！と激怒された。夜はパスタが出来るまでにとパンを渡したら、こんな物で誤魔化されるか！食事を寄越せ！！とご立腹。そのくせパスタが出来てパンを下げると悲しそうにパ…パ…と抗議するし…
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年07月03日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/03/2011 09:30:21
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月03日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/03/2011 12:44:12
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月04日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/04/2011 04:42:54
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2011年07月05日 
 BASENAME: filename
 STATUS: Publish
@@ -9802,22 +7818,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 ポニーテールしたら、車のヘッドレストに当たるので変な姿勢になって肩こった。そういえば去年も同じ事やらかして、横結びにせねば！と思ったのを思い出した
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月05日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/05/2011 04:38:17
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2011年07月05日 
@@ -9925,22 +7925,6 @@ BODY:
 午前中はヤマザキに任せて、私は午後担当。しかし、体は元気で退屈そうで持て余し気味…。雨なので、買い物がてら近くのトイザらスに出掛けてみる。ああ、こうして手足口病って大流行してるんだろうな、と後ろ暗い心持ち。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年07月07日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/07/2011 13:10:42
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2011年07月08日 
 BASENAME: filename
 STATUS: Publish
@@ -10034,22 +8018,6 @@ CONVERT BREAKS: richtext
 PRIMARY CATEGORY: News
 CATEGORY: News
 CATEGORY: Product
-DATE: 07/09/2011 10:47:50
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月09日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
 DATE: 07/09/2011 16:33:18
 TAGS: "Movable Type",foo,bar
 -----
@@ -10085,22 +8053,6 @@ CONVERT BREAKS: richtext
 PRIMARY CATEGORY: News
 CATEGORY: News
 CATEGORY: Product
-DATE: 07/09/2011 17:22:39
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月09日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
 DATE: 07/09/2011 17:28:58
 TAGS: "Movable Type",foo,bar
 -----
@@ -10123,22 +8075,6 @@ TAGS: "Movable Type",foo,bar
 BODY:
 自分が入れる程大きなカゴを下げて闊歩中。暑すぎたり雨だったりの日は、マンションの廊下や階段の散歩でお茶を濁す。。
  http://twitpic.com/5o3due
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月11日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/11/2011 00:16:04
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2011年07月11日 
@@ -10208,102 +8144,6 @@ BODY:
 家の近くにこんなナイスなカキ氷店があったとは・・・！花の露＠黒崎が無くなって寂しい数年だったけど、今年は素晴しいカキ氷ライフが送れそう♪でも～やっぱ中州ぜんざいにも行きた～い・・・[食べログ] ゑびす餅店 
 <img src=""></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月12日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/12/2011 01:17:46
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月12日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/12/2011 01:28:11
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月12日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/12/2011 01:32:25
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月12日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/12/2011 01:52:29
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月12日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/12/2011 04:04:53
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月13日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/13/2011 00:43:34
-TAGS: "Movable Type",foo,bar
------
-BODY:
 
 --------
 AUTHOR: Foo Bar
@@ -10577,38 +8417,6 @@ BODY:
 子は台湾でシッターさんからバナナを貰って以来、バナナが好きになって毎朝食べる。ウェルカムフルーツのはまだ若いからって、わざわざ従業員の休憩ルームから熟れたのを持ってきてくれたんだよねー。最近、台湾バナナを見つけたので買ったら、子、大喜び！朝食にパンを拒否してバナナ二本だよ・・・。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年07月21日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/21/2011 08:03:17
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月21日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/21/2011 08:06:35
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2011年07月25日 
 BASENAME: filename
 STATUS: Publish
@@ -10682,75 +8490,11 @@ CONVERT BREAKS: richtext
 PRIMARY CATEGORY: News
 CATEGORY: News
 CATEGORY: Product
-DATE: 07/26/2011 05:37:34
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月26日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/26/2011 06:16:41
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月26日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/26/2011 07:17:24
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月26日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
 DATE: 07/26/2011 12:35:04
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
 最近、ビールの予想必要量を見誤るわ～。大瓶か中瓶か迷って中瓶にしたけど、足りずにもう一本中瓶を開けてしまい余らせてしまう罠。。小瓶も買った方が良いのか？いっそサーバーを買うべき？？
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月27日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/27/2011 04:30:13
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2011年07月28日 
@@ -10872,70 +8616,6 @@ BODY:
  http://twitpic.com/5x5s1t
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年07月28日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/28/2011 13:48:21
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月28日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/28/2011 13:49:19
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月28日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/28/2011 13:52:21
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月29日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/29/2011 00:25:37
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2011年07月30日 
 BASENAME: filename
 STATUS: Publish
@@ -10998,22 +8678,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 ヤマザキが新幹線乗っちゃえ♪とけしかけるので乗ったら、小倉での乗り換え時間二分！まさかの全力疾走！！オジサン追い抜いて新幹線組でトップを取り、何とか間に合いました(-ω-)
---------
-AUTHOR: Foo Bar
-TITLE: 2011年07月30日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/30/2011 22:46:43
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2011年07月30日 
@@ -11099,22 +8763,6 @@ BODY:
 小上がりもベンチシートも子供椅子もある、子連れに優しい札幌ラーメン屋。子には塩ラーメン大盛りを取り分けて、持参のハサミでカット、氷を入れて冷却&薄味効果。モヤシ・玉ねぎ・青菜が入ってて、ゆで卵を追加して栄養もバッチリ！[食べログ] らう家 
 <img src=""></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月01日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/01/2011 05:21:22
-TAGS: "Movable Type",foo,bar
------
-BODY:
 
 --------
 AUTHOR: Foo Bar
@@ -11283,54 +8931,6 @@ BODY:
 しかし赤子って、こんな鳥のエサみたいな味も素っ気もないせんべい、よく有難がって食べるもんだな。。乳ボーロも食べてみたけど、やはり美味しくは無いと思う(´･ω･｀)
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年08月03日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/03/2011 10:39:15
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月03日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/03/2011 10:41:37
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月03日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/03/2011 10:54:56
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2011年08月04日 
 BASENAME: filename
 STATUS: Publish
@@ -11375,43 +8975,11 @@ CONVERT BREAKS: richtext
 PRIMARY CATEGORY: News
 CATEGORY: News
 CATEGORY: Product
-DATE: 08/04/2011 03:39:55
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月04日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
 DATE: 08/04/2011 13:41:19
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
 大喜利を「おおぎり」と読む事は最近(ここ数年で)知った。先ほど、つい昔の思い込みの呼び方で「おおどっくり」と言ってしまい、ヤマザキに爆笑される。悔しい。。そういえば、中学の時に山田クンを知らなくて、馬鹿にされた事があったなぁ…
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月05日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/05/2011 04:53:57
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2011年08月05日 
@@ -11490,38 +9058,6 @@ CONVERT BREAKS: richtext
 PRIMARY CATEGORY: News
 CATEGORY: News
 CATEGORY: Product
-DATE: 08/08/2011 02:10:13
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月08日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/08/2011 02:14:24
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月08日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
 DATE: 08/08/2011 11:47:12
 TAGS: "Movable Type",foo,bar
 -----
@@ -11559,38 +9095,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 全開ガール、初視聴。アレか、錦戸亮はイクメンで売る方向なのか。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月09日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/09/2011 04:39:15
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月10日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/10/2011 00:23:54
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2011年08月10日 
@@ -11657,38 +9161,6 @@ BODY:
 母校の旧校歌も、学校名が出ない校歌らしく無い校歌だったなぁ。そういや、新校歌ってどんなんだっけ・・・「あーあー○○学園ー」の所しか思い出せない。。「ＪＰＯＰみたい」とネットで話題の至学館の校歌　甲子園で流れる - MSN産経ニュース 
 <img src=""></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月10日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/10/2011 05:31:33
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月11日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/11/2011 00:11:25
-TAGS: "Movable Type",foo,bar
------
-BODY:
 
 --------
 AUTHOR: Foo Bar
@@ -11876,54 +9348,6 @@ BODY:
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年08月16日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/16/2011 00:31:35
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月18日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/18/2011 00:57:01
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月18日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/18/2011 05:06:35
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2011年08月18日 
 BASENAME: filename
 STATUS: Publish
@@ -11938,22 +9362,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子にエサやりしてると、箸を寄越せとウルサイ。。君にはスプーンもフォークもあるじゃないか！何故箸に執着するんだ！！仕方なく子供用箸を与えるが勿論使えず、、次第に遊びに変化していき撒き散らし始め…orz。。半分程度食べた所で没収…。消耗した…明朝、腹が減ったと泣いても知らんからな…。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月19日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/19/2011 00:47:24
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2011年08月19日 
@@ -12031,22 +9439,6 @@ CONVERT BREAKS: richtext
 PRIMARY CATEGORY: News
 CATEGORY: News
 CATEGORY: Product
-DATE: 08/22/2011 00:58:16
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月22日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
 DATE: 08/22/2011 05:56:44
 TAGS: "Movable Type",foo,bar
 -----
@@ -12070,22 +9462,6 @@ BODY:
 集中豪雨！駐車してる車のバンパー下のとこまで水が上がってきたので、慌てて移動。。ココは埋立地なので、潮が満ちてるとマンホールが流れなくなるどころか逆流するのよね(-_-;)
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年08月22日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/22/2011 06:49:41
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2011年08月25日 
 BASENAME: filename
 STATUS: Publish
@@ -12102,38 +9478,6 @@ BODY:
 子が「★＆△％◆！・・・ゥオイッチニー！イッチニー！！」と言いながら踊って？いる。。しかし何なんだろうな、この踊るという動作。つかまり立ちの頃から音楽が流れると踊りだすんだよなー。本能に組み込まれてるとしか思えないが、何のためになんだろ？？
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年08月25日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/25/2011 21:07:26
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月25日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/25/2011 21:46:25
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2011年08月27日 
 BASENAME: filename
 STATUS: Publish
@@ -12148,22 +9492,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 お台場なう。ランチはよねむら。やっぱこういうの大好き！コスパ悪いと言われてるけど、私的には満足度が高かった(´∀｀)リピートすると思う(=・ω・)/
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月27日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/27/2011 10:24:02
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2011年08月28日 
@@ -12264,22 +9592,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子が…ソッと鏡に……キスしてる！！(;´∩｀)
---------
-AUTHOR: Foo Bar
-TITLE: 2011年08月30日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/30/2011 00:56:57
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2011年08月30日 
@@ -12401,70 +9713,6 @@ BODY:
 子がベッドから足を踏み外して落下！お尻は打ったものの、なんと頭をナイスキャッチ出来た。自分の素早さにビックリした。。(◎o◎)
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年09月01日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 09/01/2011 02:31:29
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年09月01日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 09/01/2011 14:31:58
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年09月02日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 09/02/2011 00:42:43
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年09月02日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 09/02/2011 00:43:56
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2011年09月02日 
 BASENAME: filename
 STATUS: Publish
@@ -12479,22 +9727,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子がガブリエルに！！ΣΣ（゜д゜lll）・・・同級生を噛んでしまいました・・・orz。。オモチャを何度も奪われ、「ターイ！ィタイヨー？！（訳：これを取ったら叩くよ！痛い目みるよ？！）」と手を振り上げて威嚇したもの無視され、腹に据えかねての犯行らしい。。はぁ・・・
---------
-AUTHOR: Foo Bar
-TITLE: 2011年09月04日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 09/04/2011 00:23:46
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2011年09月05日 
@@ -12618,43 +9850,11 @@ CONVERT BREAKS: richtext
 PRIMARY CATEGORY: News
 CATEGORY: News
 CATEGORY: Product
-DATE: 09/07/2011 00:40:38
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年09月07日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
 DATE: 09/07/2011 00:50:28
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
 私が扁桃腺が腫れて発熱。。久しぶりだわ…しんどい……。今日は休んで一日で完治しちゃる！全て用意して子を保育園に連れて行ってくれたヤマザキに感謝。子がウルサイから泣き止ませろなんて昭和なオヤジみたいなこと言ってゴメンよぅ。。さーて、病院行くか…
---------
-AUTHOR: Foo Bar
-TITLE: 2011年09月07日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 09/07/2011 10:06:38
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2011年09月08日 
@@ -12671,22 +9871,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 一応症状は治まったんだけど、頭が全く働かない。。抗生剤しか飲んでないので、薬のせいじゃないと思うんだけど・・・。熱で脳細胞がヤラレタのかな。。私「頭が働かなくてグルグル同じ事してるよ・・・」山「僕、いつもそんなだよ！」私「それは・・・生き難いね・・・」山「だから労わってね！！」
---------
-AUTHOR: Foo Bar
-TITLE: 2011年09月08日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 09/08/2011 05:18:58
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2011年09月10日 
@@ -12721,22 +9905,6 @@ BODY:
 母の兄弟が会した宴会に子を連れて行った。従兄弟の子達も来てて、こはそれはもう大はしゃぎ！階段を十往復以上し、プラモデルやぬいぐるみで遊んで貰い、ウキーと走り回り…。流石に疲れたらしく、帰ってお風呂の中でウトウト。。こんなの初めてだ～w超ラクww
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年09月10日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 09/10/2011 22:15:50
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2011年09月13日 
 BASENAME: filename
 STATUS: Publish
@@ -12762,123 +9930,11 @@ CONVERT BREAKS: richtext
 PRIMARY CATEGORY: News
 CATEGORY: News
 CATEGORY: Product
-DATE: 09/13/2011 05:07:29
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年09月13日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
 DATE: 09/13/2011 12:39:04
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
 誕生日ディナーはおか野でウマウマ♡プレゼントは浅野忠信の写真集wと、浅野の髪型を真似たヤマザキww、直筆カードに自前ラッピングなど、大変心温まるモノでした（笑）ただいま、愛猫がバースデーマッサージを念入りにしてくれてる。しあわせ～
---------
-AUTHOR: Foo Bar
-TITLE: 2011年09月13日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 09/13/2011 12:41:07
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年09月13日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 09/13/2011 12:42:54
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年09月13日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 09/13/2011 12:50:56
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年09月14日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 09/14/2011 00:58:54
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年09月14日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 09/14/2011 01:33:51
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年09月14日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 09/14/2011 01:35:53
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2011年09月15日 
@@ -12943,54 +9999,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子の朝食は毎日ロールパンとバナナ。というのは、私自身は朝食を食べない人で、その理由が「毎日同じ物食べるのは退屈」だからだ。逆説っぽいが、毎日朝食メニューが同じでも良い人、むしろ同じ方が良い人というのが存在するわけで、そういう人の方が人生ラクだろうし、子もそうさせてみようかと。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年09月15日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 09/15/2011 18:24:54
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年09月15日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 09/15/2011 18:32:06
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年09月16日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 09/16/2011 00:37:16
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2011年09月17日 
@@ -13092,54 +10100,6 @@ BODY:
 今日までヤマザキは出張なので、田舎庵から出前の鰻をとっちゃった♪何だか疲れたので甘いモノが飲みたいわ～と、ひさびさに日本酒を開けてみる。美味し！でも、日本酒は180ml瓶で丁度良いなぁ。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年09月21日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 09/21/2011 00:19:12
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年09月22日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 09/22/2011 02:40:30
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年09月22日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 09/22/2011 06:26:03
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2011年09月23日 
 BASENAME: filename
 STATUS: Publish
@@ -13215,22 +10175,6 @@ CONVERT BREAKS: richtext
 PRIMARY CATEGORY: News
 CATEGORY: News
 CATEGORY: Product
-DATE: 09/24/2011 04:10:57
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年09月24日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
 DATE: 09/24/2011 06:26:33
 TAGS: "Movable Type",foo,bar
 -----
@@ -13266,60 +10210,12 @@ CONVERT BREAKS: richtext
 PRIMARY CATEGORY: News
 CATEGORY: News
 CATEGORY: Product
-DATE: 09/24/2011 08:23:27
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年09月24日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
 DATE: 09/24/2011 17:09:56
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
 夕食は天ぷら加とう。別府泊の時は必ず行くお店。創作系で、茗荷の湯葉包とか秋刀魚のムースの天ぷらが美味しかった！シャンパン一本飲み上げちゃった(о＾∇＾о)
  http://t.co/lbqHwGUx
---------
-AUTHOR: Foo Bar
-TITLE: 2011年09月25日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 09/25/2011 05:32:33
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年09月25日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 09/25/2011 05:37:41
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2011年09月25日 
@@ -13398,59 +10294,11 @@ CONVERT BREAKS: richtext
 PRIMARY CATEGORY: News
 CATEGORY: News
 CATEGORY: Product
-DATE: 09/26/2011 01:52:23
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年09月26日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
 DATE: 09/26/2011 01:54:03
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
 思えば私もぬいぐるみとかってあんまり興味なかったような。。もちろん今も別段・・・。ひょっとして、私がヌイグルミを可愛がる姿を見せないので、子も興味を持たないのか？猫の事は私同様、お腹にソッと顔を埋めて可愛がって？るし。。ふうむ、いっちょ子の前でヌイグルミを撫でてみるか。。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年09月26日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 09/26/2011 04:36:33
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年09月26日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 09/26/2011 06:44:18
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2011年09月27日 
@@ -13510,22 +10358,6 @@ CONVERT BREAKS: richtext
 PRIMARY CATEGORY: News
 CATEGORY: News
 CATEGORY: Product
-DATE: 09/30/2011 06:52:55
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年09月30日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
 DATE: 09/30/2011 06:59:43
 TAGS: "Movable Type",foo,bar
 -----
@@ -13565,22 +10397,6 @@ BODY:
 日曜はゲルバーのコンサート。二階舞台裏側の鍵盤丸見えな席でかぶりつき、音はイマイチだったけど楽しい。ヤマザキも寝ずに全部聞けてたｗ子は響ホールの特設託児所に。今回はウチ一人だけで、二人の保育士さんを独占し、たくさんのおもちゃでゴキゲンに遊んでいた模様。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年10月04日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 10/04/2011 02:27:13
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2011年10月05日 
 BASENAME: filename
 STATUS: Publish
@@ -13595,22 +10411,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 今日は運が悪すぎる・・・！(*_*)ポリオ集団接種の時間を間違えて無駄足踏むわ、駐禁とられるわ・・・orz　どっちも私が悪いんだけどさ～　
---------
-AUTHOR: Foo Bar
-TITLE: 2011年10月06日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 10/06/2011 04:07:32
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2011年10月07日 
@@ -13769,22 +10569,6 @@ CONVERT BREAKS: richtext
 PRIMARY CATEGORY: News
 CATEGORY: News
 CATEGORY: Product
-DATE: 10/13/2011 00:56:37
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年10月13日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
 DATE: 10/13/2011 01:59:55
 TAGS: "Movable Type",foo,bar
 -----
@@ -13828,22 +10612,6 @@ BODY:
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年10月13日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 10/13/2011 09:22:27
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2011年10月16日 
 BASENAME: filename
 STATUS: Publish
@@ -13874,22 +10642,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 昨日も子を海響館に行った後にワイン会と、ちょっと予定を詰め込みすぎた。。子は初水族館にウワー！ゥワーオ!!と大興奮。イルカのショーも意外と集中して全部見れていた。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年10月18日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 10/18/2011 04:30:00
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2011年10月18日 
@@ -13968,43 +10720,11 @@ CONVERT BREAKS: richtext
 PRIMARY CATEGORY: News
 CATEGORY: News
 CATEGORY: Product
-DATE: 10/19/2011 01:07:37
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年10月19日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
 DATE: 10/19/2011 02:08:22
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子は「ボケ」を覚えた。私をニヤニヤと見つつ、バナナをフォークの柄でつつき、「上手に刺せた～？・・・って、反対やん！」とつっこむと、ギャハハ！！と大喜び。そしてフォークをひっくり返して刺し、人を小ばかにした表情でアーム！と食べる。何、この小芝居・・・
---------
-AUTHOR: Foo Bar
-TITLE: 2011年10月20日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 10/20/2011 01:02:40
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2011年10月20日 
@@ -14037,22 +10757,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 うっかり今日放送された子（というか家庭保育員さん）のニュース、撮り損なっちゃった(*_*)　母のHDD内臓TVには録画したんだけど・・・DVDにダビング出来るのかな・・・。。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年10月20日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 10/20/2011 06:07:20
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2011年10月21日 
@@ -14117,22 +10821,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 ヤマザキが出張で居ないので、朝の用意の時間に「おかあさんといっしょ」をつけたら、そこそこの時間、集中して見て踊ったりしていた。これは・・・動画を見せながら長距離移動出来る日も近いか？o(●´ω｀●)oわくわく♪
---------
-AUTHOR: Foo Bar
-TITLE: 2011年10月21日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 10/21/2011 05:27:49
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2011年10月21日 
@@ -14265,22 +10953,6 @@ BODY:
 家庭保育所での様子をビデオで取ってもらった。私が編集して、ヤマザキにDVDに焼いて貰い、先生や他の子にプレゼント。朝チェックしたら！ヤマザキ、「なかよし保育園」と命名してタイトルに付けてる！！ΣΣ（゜д゜lll）ガガーン 　勝手に名づけちゃ駄目だろう・・・自由すぎる・・・
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年10月31日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 10/31/2011 02:17:32
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2011年11月01日 
 BASENAME: filename
 STATUS: Publish
@@ -14327,38 +10999,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子は私が迎えに行くと昼食中。横目でチラリと私を見つつ、黙々と食べ続ける。。え、そんなもんなの？(･_･;と思っていたら、お腹いっぱい食べ終わるとすぐフエェエーン…と言い出し、甘えてきた！Σ（・□・；）甘えたい気持ち&lt;食欲って事か…! 2時間楽しく過ごしたらしく良かったけど。。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年11月01日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/01/2011 06:41:12
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年11月01日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/01/2011 06:42:42
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2011年11月01日 
@@ -14474,22 +11114,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 今日まで慣らし保育で午前中のみ登園。子は「しばらく母の膝で様子を窺う」も省き、服をロッカーに入れるのを手伝って（というか邪魔して）くれ、トコトコを遊びに出掛けていった。で、はよ帰れとでも言いたげに、バイバイ！と。・・・もうすっかり慣れてるんじゃね？
---------
-AUTHOR: Foo Bar
-TITLE: 2011年11月04日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/04/2011 13:14:11
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2011年11月05日 
@@ -14623,22 +11247,6 @@ BODY:
 子はまだこぼすもののの殆ど自力で食べれるようになってきたので、保育園を変わったのを機に大人と一緒に夕食を食べる事にした。慣らし保育が終わったらお迎えはヤマザキに任せ、その間に私は夕食を作って待ち構える算段。いやー、19時に夕食食べ終わると、すごく時間にゆとりがあるね！
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年11月10日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/10/2011 05:47:13
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2011年11月11日 
 BASENAME: filename
 STATUS: Publish
@@ -14720,54 +11328,6 @@ BODY:
 姪っこ(中一)とバレエ見に行って、子とお揃いの服を見立ててプレゼントし、彼女のリクエストで馬刺を食べて(渋いぜ…)、それじゃあんまりなのでパフェ屋に寄って帰ってるなう。
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年11月13日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/13/2011 14:08:51
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年11月14日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/14/2011 00:38:33
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年11月14日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/14/2011 02:11:04
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2011年11月14日 
 BASENAME: filename
 STATUS: Publish
@@ -14838,38 +11398,6 @@ BODY:
 子、ようやく全快！結局、病院にも行かず、保育園も休まず夕方迎えで何とかなった・・・(´・｀;)&gt;ホッ　　今朝は入園始まって以来の本降りの雨で、皆で型はめボックスで遊んでいた。子、こういう「ピッタリはまる」系のオモチャが好きなんだよな～
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年11月18日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/18/2011 05:08:51
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年11月20日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/20/2011 11:24:39
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2011年11月21日 
 BASENAME: filename
 STATUS: Publish
@@ -14918,22 +11446,6 @@ BODY:
 子が始めて歌った歌は「ねこときどきらいおん」らしい。「ねこ　ねこ　ねこ・・・　にゃあー　・・・らいおん！」などとブツブツいっているところをヤマザキが目撃。NHK子供番組の歌なんだけど、私も妙に気に入って頻繁に歌ってしまう・・・^m^　　
 <img src=""></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年11月23日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/23/2011 13:57:37
-TAGS: "Movable Type",foo,bar
------
-BODY:
 
 --------
 AUTHOR: Foo Bar
@@ -15011,22 +11523,6 @@ CONVERT BREAKS: richtext
 PRIMARY CATEGORY: News
 CATEGORY: News
 CATEGORY: Product
-DATE: 11/27/2011 23:31:14
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2011年11月27日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
 DATE: 11/27/2011 23:37:24
 TAGS: "Movable Type",foo,bar
 -----
@@ -15048,22 +11544,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 扁桃腺の腫れが一日で引いた！いつもだったら三日は痛いのに・・・早く病院行って良かった。漢方薬を初めて処方されたけど、結構効くな。子の事は全部ヤマザキがしてくれ、思う存分グータラできた。有難し（^人^）　夕食はリンガーハットｗ　子の食欲スゴイよ・・・もうお子様セット必要だよ。。
---------
-AUTHOR: Foo Bar
-TITLE: 2011年12月02日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 12/02/2011 00:55:59
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2011年12月02日 
@@ -15176,22 +11656,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子、観測史上初、38.8度を記録Σ(￣□￣;)しかも親にベッタリ貼り付いて剥がれない…。呪いの赤子状態…！これは…あの薬の登場だな…!!
---------
-AUTHOR: Foo Bar
-TITLE: 2011年12月09日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 12/09/2011 19:33:21
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2011年12月09日 
@@ -15370,22 +11834,6 @@ BODY:
 父上を起こしておいでと指令を出すと、「あい！」と返事してトテトテと寝室に行き、「ちっちうーえー！」と呼ばわる姿は中々に愛らしい。ヤマザキもメロメロだwこれに釣られてか、一層、子の世話に励んでいるww
 --------
 AUTHOR: Foo Bar
-TITLE: 2011年12月24日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 12/24/2011 16:32:51
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2011年12月31日 
 BASENAME: filename
 STATUS: Publish
@@ -15500,22 +11948,6 @@ BODY:
 子が発熱！この前は痙攣を起こしたので要観察…しかし私のベッドで寝せたら折角進歩したネントレが元の木阿弥… という事で、私が子供部屋の床で寝ております。。布団の中に隠しつつipadなう
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年01月10日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 01/10/2012 00:50:32
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2012年01月11日 
 BASENAME: filename
 STATUS: Publish
@@ -15530,22 +11962,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子、インフルエンザA型でしたヽ(´o｀； 連休中の発熱で割と元気もよかったし、昨日は一旦解熱したので病院に行くのが遅れて、もうタミフル飲む時期も逸してしまった。。そしてヤマザキも見事に感染…私も時間の問題か…(-｡-;
---------
-AUTHOR: Foo Bar
-TITLE: 2012年01月11日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 01/11/2012 12:15:07
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2012年01月13日 
@@ -15594,38 +12010,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子は食欲が戻らず、フルーツとおにぎりで食い繋いでいる。。こんな可愛い気なものばっかり食べるなんて…肉食性赤子だっただけにギャップが…(-｡-;ちょっと痩せたらしく、目が二重まぶたに！うーむ、肉に埋れてたんだな…。どっちに似てるかハッキリしない顔だと思ってたけど、私似だったらしいw
---------
-AUTHOR: Foo Bar
-TITLE: 2012年01月13日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 01/13/2012 12:25:00
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2012年01月13日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 01/13/2012 12:32:01
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2012年01月13日 
@@ -15690,22 +12074,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 tweetした途端、ケイタイ見つかった・・・！！
---------
-AUTHOR: Foo Bar
-TITLE: 2012年01月25日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 01/25/2012 00:23:44
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2012年02月02日 
@@ -15791,70 +12159,6 @@ BODY:
 普段はヤマザキが子のお迎えに行くのだけれど、先日私が行ったら、「あっ！ママ！ママ～」と言われて面食らった。更に「あれー？パパは？パパいないねー？」と・・・！もう呼び名変更か？！とビクビクしつつ車に乗り込むと「ははうえ～」と言ってきた。まさかの使い分け・・・？恐るべし・・・！！
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年02月02日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/02/2012 03:33:14
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2012年02月02日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/02/2012 08:03:42
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2012年02月02日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/02/2012 08:05:05
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2012年02月03日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/03/2012 01:22:24
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2012年02月09日 
 BASENAME: filename
 STATUS: Publish
@@ -15869,22 +12173,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 やっと子の風邪が治ったと思ったら、私の風邪が本格化してきた・・・orz　喉がカサカサして咳が出るよぅ～　子が頻繁に少量の水を飲みたがっていたのはこの症状のせいだったのか。。私はヤマザキから貰った南天のど飴を舐め続けてる、、太りそう・・・
---------
-AUTHOR: Foo Bar
-TITLE: 2012年02月09日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/09/2012 03:43:51
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2012年02月10日 
@@ -15928,43 +12216,11 @@ CONVERT BREAKS: richtext
 PRIMARY CATEGORY: News
 CATEGORY: News
 CATEGORY: Product
-DATE: 02/15/2012 01:04:20
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2012年02月15日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
 DATE: 02/15/2012 12:31:36
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子がマール様(猫)の額にチューして「ウヒョヒョー！キャホーー！！」と大喜びし、「カワイイ…カワイイネェ…」とニヤニヤ。。その上、前足に頬擦りして「…アリガタイ…」と呟いた気が…何という下僕ぶり…（；￣ェ￣）ああ、私がしてるの良く見てるんだな…orz
---------
-AUTHOR: Foo Bar
-TITLE: 2012年02月15日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/15/2012 12:48:40
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2012年02月20日 
@@ -16148,38 +12404,6 @@ BODY:
 子は両足飛びをマスターした模様。まだ2㎝程だけど。。｢ぴよん!!(よが小文字ではない)｣｢ざんぷっ!!(ジャンプ)｣ と言いながら懸命に披露してくれるwwでも家(マンション)ではヤメレ…
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年03月03日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/03/2012 14:53:36
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2012年03月04日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/04/2012 13:48:29
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2012年03月04日 
 BASENAME: filename
 STATUS: Publish
@@ -16285,38 +12509,6 @@ CONVERT BREAKS: richtext
 PRIMARY CATEGORY: News
 CATEGORY: News
 CATEGORY: Product
-DATE: 03/14/2012 01:02:01
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2012年03月14日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/14/2012 06:05:11
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2012年03月14日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
 DATE: 03/14/2012 10:20:49
 TAGS: "Movable Type",foo,bar
 -----
@@ -16367,22 +12559,6 @@ CONVERT BREAKS: richtext
 PRIMARY CATEGORY: News
 CATEGORY: News
 CATEGORY: Product
-DATE: 03/17/2012 22:59:28
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2012年03月17日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
 DATE: 03/17/2012 23:05:53
 TAGS: "Movable Type",foo,bar
 -----
@@ -16415,22 +12591,6 @@ CONVERT BREAKS: richtext
 PRIMARY CATEGORY: News
 CATEGORY: News
 CATEGORY: Product
-DATE: 03/18/2012 15:51:10
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2012年03月18日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
 DATE: 03/18/2012 16:14:48
 TAGS: "Movable Type",foo,bar
 -----
@@ -16452,22 +12612,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 香港四日目。朝は霧が凄かったので、公園は早々に切り上げたが子はまだ動き足らなそう。。プール横の鯉がいる噴水でお茶を濁すか…と屋上に上がると、ジムが無人！バランスボールを転がしたり、ステップに登ったり、腹筋の器具に馬乗りしたりと良い汗流してたw
---------
-AUTHOR: Foo Bar
-TITLE: 2012年03月19日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/19/2012 09:16:32
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2012年03月19日 
@@ -16603,38 +12747,6 @@ BODY:
  http://t.co/1K07dqLA
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年03月21日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/21/2012 04:41:00
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2012年03月23日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/23/2012 00:50:48
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2012年03月23日 
 BASENAME: filename
 STATUS: Publish
@@ -16713,22 +12825,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 小学生まで覚えてて、先生にマイナスイメージを持ったらどうしようと思いつつｗ　ちなみに保育園では、保育士の方を○○ちゃん、もしくは呼び捨てという方針らしい。園長も○○ちゃんｗ　親的にはかなり違和感がある。。ま、「きみちゃん」（私の母が子に呼ばせている名称）が浮かなくて良いけどｗｗ
---------
-AUTHOR: Foo Bar
-TITLE: 2012年03月23日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/23/2012 05:22:08
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2012年03月24日 
@@ -16859,22 +12955,6 @@ CONVERT BREAKS: richtext
 PRIMARY CATEGORY: News
 CATEGORY: News
 CATEGORY: Product
-DATE: 03/29/2012 00:31:19
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2012年03月29日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
 DATE: 03/29/2012 00:59:12
 TAGS: "Movable Type",foo,bar
 -----
@@ -16899,38 +12979,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 ※汚話注意       子がどうしてもお風呂に入らないという。。悶着しているとオナラが何度も…。ああ、催しているので入りたく無いのか…！先日、初の大惨事を起こし、驚いて大泣きしてたからなぁ。。その時のヤマザキ談「ガンジス川に浸かった気分…もう何も恐くない…」中々面白い事をいうww
---------
-AUTHOR: Foo Bar
-TITLE: 2012年04月01日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 04/01/2012 05:49:02
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2012年04月02日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 04/02/2012 12:02:46
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2012年04月06日 
@@ -17068,22 +13116,6 @@ BODY:
 高校時代の友人親子と元気のもりで遊んだ後、カフェでまったり。子連れ歓迎型のマクロビのお店なんだけど、子、ケーキを気に入ってガツガツ食べてる…！こういう系が好きだったのか。。mumokuteki cafe&foods [食べログ] 
 <img src=""></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2012年04月11日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 04/11/2012 15:14:05
-TAGS: "Movable Type",foo,bar
------
-BODY:
 
 --------
 AUTHOR: Foo Bar
@@ -17713,38 +13745,6 @@ CONVERT BREAKS: richtext
 PRIMARY CATEGORY: News
 CATEGORY: News
 CATEGORY: Product
-DATE: 05/14/2012 06:18:55
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2012年05月14日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/14/2012 07:50:22
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2012年05月14日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
 DATE: 05/14/2012 09:17:27
 TAGS: "Movable Type",foo,bar
 -----
@@ -17869,22 +13869,6 @@ BODY:
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年05月22日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/22/2012 04:18:07
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2012年05月24日 
 BASENAME: filename
 STATUS: Publish
@@ -17947,22 +13931,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子の最近の口癖は「おなか～すいた～～」・・・とうとうこの言葉を覚えてしまったか・・・orz。。朝御飯食べて、三十分後に発動してきやがります。。朝食後の軽い食事って！パタリロですか！！
---------
-AUTHOR: Foo Bar
-TITLE: 2012年05月25日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/25/2012 00:49:27
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2012年05月25日 
@@ -18153,22 +14121,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子が寝る前に重々しく頷きながら「ははうえ…がんばったね。ちちうえも、がんばったね。しーちゃんも、がんばった。えらかった！ﾖｼﾖｼ ヾ(ﾟωﾟ)すごいねー( ・ω・ﾉﾉ"☆ﾊﾟﾁﾊﾟﾁﾊﾟﾁ!!」と褒めてくれたwwwえっと…そんなに辛い旅だった…?
---------
-AUTHOR: Foo Bar
-TITLE: 2012年05月28日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/28/2012 02:27:29
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2012年05月29日 
@@ -18429,43 +14381,11 @@ CONVERT BREAKS: richtext
 PRIMARY CATEGORY: News
 CATEGORY: News
 CATEGORY: Product
-DATE: 06/06/2012 21:05:11
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2012年06月06日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
 DATE: 06/06/2012 21:17:35
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
 何度トライしても、子を20時半に熟睡してる状態にすると、5時半に目を覚ます…これはツライ。。保育園的には遅いんだろうけど、やはり21時に熟睡している状態を目指す事にしよう。これだと6時半まで眠ってくれる事が多いし。まあ、そのうち起こしても起きない悩みになるんだろうけど…
---------
-AUTHOR: Foo Bar
-TITLE: 2012年06月08日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/08/2012 05:04:25
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2012年06月11日 
@@ -18501,22 +14421,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 ちなみにアトリエ木下で撮りました。お友達紹介券（2Lサイズが一枚無料）があるので、行かれる方は是非ｗ写真展に出すプランがお得！でも一枚じゃ飽き足らず、つい他のも買ってしまい散財する罠。。
---------
-AUTHOR: Foo Bar
-TITLE: 2012年06月12日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/12/2012 00:45:57
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2012年06月13日 
@@ -18623,22 +14527,6 @@ BODY:
  http://t.co/tpYPwXt5
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年06月13日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/13/2012 07:18:07
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2012年06月14日 
 BASENAME: filename
 STATUS: Publish
@@ -18653,22 +14541,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子の良い間違いネタ。テレビが言えず、「テビリ」ｗ　郵便屋さんは「てれびんやさん」ｗｗ　何故、「てれびんやさん」では「てれび」という配列を言えるのに、テレビは「テビリ」になるのだろうか。
---------
-AUTHOR: Foo Bar
-TITLE: 2012年06月18日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/18/2012 01:07:57
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2012年06月18日 
@@ -18811,59 +14683,11 @@ CONVERT BREAKS: richtext
 PRIMARY CATEGORY: News
 CATEGORY: News
 CATEGORY: Product
-DATE: 06/27/2012 04:40:54
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2012年06月27日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
 DATE: 06/27/2012 06:52:07
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
 ゴミ出しの準備をしていたら、マールが脱走・・・続いて、子も脱走。。何故か、ハイハイでマールに着いていってるし。まるで猫二匹ｗ　お隣さんに出くわし、可愛いわ～と誉められる。お隣さん（猫好き）がマールの頭を撫でると、子も頭を差し出してるしｗｗご近所さんも両手で撫でてるしｗｗｗ
---------
-AUTHOR: Foo Bar
-TITLE: 2012年06月27日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/27/2012 07:26:42
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2012年06月28日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/28/2012 01:16:07
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2012年06月28日 
@@ -19000,22 +14824,6 @@ BODY:
 そのまま外食。子が伝票を取って「これなに？」と聞くので、伝票だよ～しーちゃんが奢ってくれる？と聞くと、「しーちゃんのお金は？」とｗ　中々解ってるな・・・！　私の財布を渡すと、一円玉を取り出して伝票の上に乗せ、「はい、ひゃくえんよ！」と得意気ｗｗ
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年07月07日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/07/2012 08:54:51
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2012年07月09日 
 BASENAME: filename
 STATUS: Publish
@@ -19030,38 +14838,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子、トトロに飽き、今度はポニョはまりだした。週末に初めて一緒に見たのだけど・・・こんな話だったのか。ひょっとして、あと数年はTV放映はされないんじゃないんだろうか。子、魚の時の妖怪ちっくなポニョに、よく似ているｗ　次は・・・何を見せようかなぁ。。
---------
-AUTHOR: Foo Bar
-TITLE: 2012年07月09日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/09/2012 07:52:53
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2012年07月09日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/09/2012 08:52:34
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2012年07月09日 
@@ -19234,22 +15010,6 @@ CONVERT BREAKS: richtext
 PRIMARY CATEGORY: News
 CATEGORY: News
 CATEGORY: Product
-DATE: 07/16/2012 15:21:40
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2012年07月16日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
 DATE: 07/16/2012 16:09:43
 TAGS: "Movable Type",foo,bar
 -----
@@ -19327,38 +15087,6 @@ BODY:
 アクアヴィータのードブルをツマミながら、マンションの廊下から若戸大橋の花火大会見物！今年は大玉も多くてキレイだった〜(´∀｀)子も、「キレイね〜、ドーン！っていったね〜」と言いつ... 
 <img src=""></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2012年07月23日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/23/2012 04:37:10
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2012年07月24日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/24/2012 08:48:13
-TAGS: "Movable Type",foo,bar
------
-BODY:
 
 --------
 AUTHOR: Foo Bar
@@ -19440,22 +15168,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 最近、夏休みの学童で来ている子達から、「どうしてしーちゃんはお母さんの事、母上って言うの？」と問われるｗ　「では君は何て呼んでるの？どうして？？」と問い返して煙に巻いたり、「・・・私がそう呼んで欲しかったから・・・かな・・・」と適当に答えたり。時代劇ファンだから、というのもアリ？
---------
-AUTHOR: Foo Bar
-TITLE: 2012年07月25日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/25/2012 06:48:41
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2012年07月27日 
@@ -19570,22 +15282,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子が体調が回復してきたためか、一ヶ月ぶりに「あっちでねる」と子供部屋で寝たー！＼(^o^)／するとマールがすぐさま私のベッドにw暑いから冷たい所で寝てたんじゃ無かったんだな…ごめんよ寂しい思いをさせて…でも子が居ない会社タイムはツレナイ態度じゃないかぁーツンデレさんめぇー
---------
-AUTHOR: Foo Bar
-TITLE: 2012年08月03日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/03/2012 02:21:09
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2012年08月04日 
@@ -19842,54 +15538,6 @@ BODY:
  http://t.co/O8G1oxNW
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年08月12日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/12/2012 11:50:30
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2012年08月13日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/13/2012 01:17:20
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2012年08月13日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/13/2012 07:04:03
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2012年08月13日 
 BASENAME: filename
 STATUS: Publish
@@ -19921,22 +15569,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 諸事情により子とヤマザキから一週間程離れて生活中。子が電話で色々話してくれる。「(こっちは)おそと、くらくなってきた」「みかんたべたよ」などなど、しっかり電話で会話出来るようになったんだな。「ははうえ、いたかったない？」とも。色々あってホロリときた。。
---------
-AUTHOR: Foo Bar
-TITLE: 2012年08月18日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/18/2012 22:25:13
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2012年08月20日 
@@ -20021,22 +15653,6 @@ BODY:
  http://t.co/ST1zemxh
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年08月26日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/26/2012 10:41:13
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2012年08月28日 
 BASENAME: filename
 STATUS: Publish
@@ -20069,38 +15685,6 @@ BODY:
 二歳児って、結構、出来事を記憶してるのね。今日は桃のパスタだよ～と言ったら、「おそとでたべるの？」と。前回ベランダで食べたのは一ヶ月以上前…侮れん。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年08月29日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/29/2012 01:25:54
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2012年08月29日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/29/2012 01:29:00
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2012年08月30日 
 BASENAME: filename
 STATUS: Publish
@@ -20131,22 +15715,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子、歌が大好き。喋っていない時は歌っていると言っても過言では無いｗ　時々ジャイアンリサイタル的に、ものすごい大声で同じフレーズを繰り返し熱唱し、ε-（´ー`*）フゥーっと満足気に燃え尽きているｗｗｗ
---------
-AUTHOR: Foo Bar
-TITLE: 2012年09月02日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 09/02/2012 02:33:08
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2012年09月02日 
@@ -20400,22 +15968,6 @@ CONVERT BREAKS: richtext
 PRIMARY CATEGORY: News
 CATEGORY: News
 CATEGORY: Product
-DATE: 10/10/2012 06:47:55
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2012年10月10日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
 DATE: 10/10/2012 12:17:23
 TAGS: "Movable Type",foo,bar
 -----
@@ -20471,22 +16023,6 @@ BODY:
 初の運動会。かけっこはショートカットしてたけどwwリズムもちゃんと出来てたし、障害物走もクリア！意外とやりおるな…！！「うんどうかいごっこ、たのしかったねぇ〜。またあしたもやろっ... 
 <img src=""></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2012年10月14日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 10/14/2012 16:16:45
-TAGS: "Movable Type",foo,bar
------
-BODY:
 
 --------
 AUTHOR: Foo Bar
@@ -20642,22 +16178,6 @@ BODY:
  http://t.co/OrfJwDhT
 --------
 AUTHOR: Foo Bar
-TITLE: 2012年11月04日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/04/2012 08:49:41
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2012年11月05日 
 BASENAME: filename
 STATUS: Publish
@@ -20705,22 +16225,6 @@ TAGS: "Movable Type",foo,bar
 BODY:
 これが家での基本姿勢。「こっちにゴロンして！」と誘導しては腹の上にドーンとダイブw「ちちうえ、ムチムチじゃのぉ〜(´∀｀)」と言いつつ腹に頬擦りしてるんだがwww
  http://t.co/O8J0BWwj
---------
-AUTHOR: Foo Bar
-TITLE: 2012年11月12日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/12/2012 01:23:56
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2012年11月15日 
@@ -20975,22 +16479,6 @@ CONVERT BREAKS: richtext
 PRIMARY CATEGORY: News
 CATEGORY: News
 CATEGORY: Product
-DATE: 12/23/2012 08:44:45
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2012年12月23日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
 DATE: 12/23/2012 09:33:19
 TAGS: "Movable Type",foo,bar
 -----
@@ -21115,22 +16603,6 @@ BODY:
 ヤマザキと口論していると、子が心配そうに「しーちゃん？しーちゃんが、いけないことしたの？？　ちちうえ？ちちうえがバカなの？？」などと言うので笑ってしまい、子は鎹というのはこういう事なのかと感慨深かった。
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年01月16日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 01/16/2013 04:17:10
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2013年01月17日 
 BASENAME: filename
 STATUS: Publish
@@ -21147,22 +16619,6 @@ BODY:
 今日はマール様10歳の聖誕祭。子はモニュメントを作成し祝っておりますw 「ははうえのだいすきな、マールしゃま！しーちゃんも、だいすきよ!!」と敬愛の念を抱いているもよう。 
 <img src=""></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2013年01月17日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 01/17/2013 22:49:07
-TAGS: "Movable Type",foo,bar
------
-BODY:
 
 --------
 AUTHOR: Foo Bar
@@ -21197,22 +16653,6 @@ TAGS: "Movable Type",foo,bar
 BODY:
 恵方巻き！子供サイズまで作って頂いて、ありがとうございます、つばささん♪
  http://t.co/lYNmTuRK
---------
-AUTHOR: Foo Bar
-TITLE: 2013年02月04日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/04/2013 02:01:22
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2013年02月05日 
@@ -21317,22 +16757,6 @@ BODY:
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年02月18日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/18/2013 02:13:22
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2013年03月03日 
 BASENAME: filename
 STATUS: Publish
@@ -21433,22 +16857,6 @@ BODY:
 子が2歳児クラスに進級。新担任から「史乃佳ちゃんのマーク（ロッカーなどに付ける）は”ごはん”です」と連絡があったのだけれどｗｗ似合い過ぎというか何というか・・・先生、狙ってやってますよねｗｗｗ他の子は”ねこさん”とか”ぞうさん”とかだったらどうしようｗｗｗｗ
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年04月07日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 04/07/2013 18:36:18
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2013年04月08日 
 BASENAME: filename
 STATUS: Publish
@@ -21463,22 +16871,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子のクラスメイトのマーク、”おべんとう”と”バナナ”を確認しましたｗｗ　担任（新卒のフレッシュガール）に「あのｗしーちゃんのマークですがｗｗ」と話しかけたら、怯えた目をした気がするのだけど、クレームと思ったのかな。。(´･ω･｀)
---------
-AUTHOR: Foo Bar
-TITLE: 2013年04月08日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 04/08/2013 03:37:12
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2013年04月11日 
@@ -21498,22 +16890,6 @@ BODY:
 ３歳の抱負は「しーちゃん、３才になったけ、ごはんいっ... http://t.co/KSI9hRjOTW
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年04月11日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 04/11/2013 02:08:22
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2013年04月17日 
 BASENAME: filename
 STATUS: Publish
@@ -21529,22 +16905,6 @@ TAGS: "Movable Type",foo,bar
 BODY:
 アキレス腱の手術、無事終わりました。この写真(姪&amp;子)の一時間後こんなオオゴトになろうとは…馬鹿すぎて、手術室で笑いが込み上げてきてもう…
  http://t.co/Kxh07xQoLU
---------
-AUTHOR: Foo Bar
-TITLE: 2013年04月19日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 04/19/2013 21:03:23
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2013年04月21日 
@@ -21596,22 +16956,6 @@ TAGS: "Movable Type",foo,bar
 BODY:
 病院の屋上庭園でひと遊び。「しーちゃん、母上が一番好きよ(・∀・)」とリップサービスをし、さっぱりと帰って行きました。強い子…
  http://t.co/axfle1tsPY
---------
-AUTHOR: Foo Bar
-TITLE: 2013年04月24日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 04/24/2013 22:15:01
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2013年04月26日 
@@ -21869,38 +17213,6 @@ BODY:
 ヤマザキは「いや～、しーちゃんの居ない朝も良いねぇ。月2くらいお願いしちゃおっか！(＠⌒ー⌒＠)」とはしゃいでおりますw子が居ない時に何がしたい？と問うと、「えーっとねー、ダラダラ！o(*ﾟ▽ﾟ*)o」だそうですww私も二度寝を楽しみます(=￣ ρ￣=) ..zzZZ
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年05月06日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/06/2013 11:06:41
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2013年05月07日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/07/2013 00:37:49
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2013年05月10日 
 BASENAME: filename
 STATUS: Publish
@@ -21915,22 +17227,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 最近ずっと私のベッドで寝る子に、しーちゃんが一緒に寝てくれないって、しーちゃんのベッドが寂しがってるよ～　アンパンマンの枕も悲しいって言ってたよ～と言うと、「もぉぉ～母上！なんでそんなイジワルいうのよぉぉ～～！！(&gt;_&lt;)」と怒っていたが、結局、自分のベッドで寝てくれたｗｗ
---------
-AUTHOR: Foo Bar
-TITLE: 2013年05月10日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/10/2013 01:13:35
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2013年05月11日 
@@ -22048,22 +17344,6 @@ BODY:
 子が久しぶりに夜泣き。「何か食べるー！くだもの食べたいのーー！！」と30分、餓鬼が取り付いたような狂乱・・・orz（注：もちろん夕食はしっかり食べている）　普通夜泣きって、怖い夢みたとかじゃないのかと。根負けしてバナナを与えたけど、デブ一直線、という言葉が頭に浮かんだ。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年05月21日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/21/2013 12:53:21
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2013年05月22日 
 BASENAME: filename
 STATUS: Publish
@@ -22097,22 +17377,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子は補助便座の取っ手にシャツを掛けるのだけど(服を汚さないようにという彼女なりの工夫らしい)、全裸で行ったら少し考えて、腹の肉を掴んで掛けようとしてて爆笑wwwなんでイチイチ笑いをとりにくるんだwwww
---------
-AUTHOR: Foo Bar
-TITLE: 2013年06月03日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/03/2013 00:54:22
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2013年06月04日 
@@ -22189,60 +17453,12 @@ CONVERT BREAKS: richtext
 PRIMARY CATEGORY: News
 CATEGORY: News
 CATEGORY: Product
-DATE: 06/14/2013 19:33:57
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2013年06月14日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
 DATE: 06/14/2013 22:47:13
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
 保育園の連絡ノート。実は内容がTwitterとかぶってる事も多い。。
  http://t.co/vIlbd60Zsb
---------
-AUTHOR: Foo Bar
-TITLE: 2013年06月17日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/17/2013 00:59:04
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2013年06月17日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/17/2013 02:11:30
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2013年06月17日 
@@ -22331,22 +17547,6 @@ BODY:
  http://t.co/uZpD2HRgNt
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年06月23日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/23/2013 20:29:12
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2013年06月26日 
 BASENAME: filename
 STATUS: Publish
@@ -22361,38 +17561,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 やばい・・・子の寵愛がヤマザキから私に移りつつある。。「母上じゃないと嫌！」とか初めて聞いた・・・！あの、私ホントに一番じゃなくて二番で良いんです。。ヤマザキがちゃんと喋ってやらないからだよ、、ヤツはもう赤子じゃないので会話のキャッチボールが必要なんだよ例え不毛な会話でもさ。。
---------
-AUTHOR: Foo Bar
-TITLE: 2013年07月04日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/04/2013 01:44:59
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2013年07月05日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/05/2013 00:45:02
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2013年07月05日 
@@ -22425,22 +17593,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 今日は家庭訪問・・・ドキドキ。。保育園で家庭訪問って相当変わってるよね。。。園に飾っている子の絵、とても上手に書けてたんだけど、「この絵は～父上と母上がケンカしてるとこ！」と子から解説されたんだがどうすれば・・・そんなにケンカとかしてないと思うんだけど・・・
---------
-AUTHOR: Foo Bar
-TITLE: 2013年07月05日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/05/2013 07:23:40
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2013年07月11日 
@@ -22505,70 +17657,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 最近の子の大好物は鉄火巻。次々に口にいれようとするので、ちょっとづつだよーと注意すると「・・・ちょっと・・・味見しただけよ！！」と。こういうものすごく下らない言い訳をするのはヤマザキに似てるｗ　あと、「○○って何？」と聞くので答えてやってら、「・・・知ってた！」とかも言いやがる。
---------
-AUTHOR: Foo Bar
-TITLE: 2013年08月07日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/07/2013 05:08:56
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2013年08月08日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/08/2013 04:12:02
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2013年08月08日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/08/2013 04:50:56
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2013年08月08日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/08/2013 05:35:25
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2013年08月10日 
@@ -22654,54 +17742,6 @@ TAGS: "Movable Type",foo,bar
 BODY:
 恐竜ロボットの展示に夢中。雷や噴火の大音響を怖がるかと思いきや、意外に気に入り、何度も見いって離れない…
  http://t.co/xxjd6C9vOQ
---------
-AUTHOR: Foo Bar
-TITLE: 2013年08月11日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/11/2013 05:20:53
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2013年08月12日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/12/2013 01:24:15
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2013年08月12日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/12/2013 01:24:50
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2013年08月12日 
@@ -22805,22 +17845,6 @@ TAGS: "Movable Type",foo,bar
 BODY:
 ぽぽちゃんに海を見せてやっている子。(虐待ではない)  帰りは事故渋滞を鮮やかに避けて、スムーズに帰宅！情報戦を征したぜ!!
  http://t.co/z5vUWyHgF3
---------
-AUTHOR: Foo Bar
-TITLE: 2013年08月17日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/17/2013 23:36:37
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2013年08月19日 
@@ -22928,22 +17952,6 @@ BODY:
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年08月27日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/27/2013 02:04:08
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2013年09月18日 
 BASENAME: filename
 STATUS: Publish
@@ -22958,22 +17966,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子が電話で「良い子にしてるよ！」「明日の朝には帰ってくる？朝にいっぱい遊ぼうや！」「母上、ラーメンいっぱい食べてきな！」など可愛い事を言うので、お土産にミスドを買ってしまった。
---------
-AUTHOR: Foo Bar
-TITLE: 2013年09月18日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 09/18/2013 21:47:20
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2013年09月25日 
@@ -23126,22 +18118,6 @@ BODY:
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年11月13日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/13/2013 06:02:40
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2013年11月21日 
 BASENAME: filename
 STATUS: Publish
@@ -23189,22 +18165,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子をしまじろうコンサートに連れて行ってみた！最初はノリについていけず固まっていたがw劇はしっかり見てたし、終盤は声援もダンスもしてて楽しんだ様子。終了後は「ふう、、ちょっと疲れたね。次から次へと。。」という感想だったwww
---------
-AUTHOR: Foo Bar
-TITLE: 2013年12月18日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 12/18/2013 06:51:43
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2013年12月25日 
@@ -23370,22 +18330,6 @@ BODY:
 親バカですみません。此れ程、ウチの子が世界一カワイイと思ったのは初めてかもしれない…！猫の日イベントでCATSのスタッフが書いてくれたのです。私も、、したかった。。(小学生以下限定) 
 <img src=""></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2014年02月24日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/24/2014 02:17:40
-TAGS: "Movable Type",foo,bar
------
-BODY:
 
 --------
 AUTHOR: Foo Bar
@@ -23694,38 +18638,6 @@ GWは近場でのんびり。苺狩りで子は幼児料金¥500のモトをし�
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年05月19日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/19/2014 07:48:00
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2014年05月20日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/20/2014 07:24:24
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2014年05月21日 
 BASENAME: filename
 STATUS: Publish
@@ -23848,22 +18760,6 @@ BODY:
 大抵、子が一番に起きて、私達を起こしに来るのだけど(駄目親？)、今朝はバッチリ着替えて起こしに来た！先週のクラス会で指摘されて、朝食の前に着替えるように指導中だったのだけど、その成果が？！と喜んだのだのも束の間、ベッドの上には濡れたパジャマが。。ああ・・・そういうことでしたか。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年07月11日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/11/2014 07:10:42
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2014年07月26日 
 BASENAME: filename
 STATUS: Publish
@@ -23934,22 +18830,6 @@ BODY:
 子が食事前に「腹いっぱい食べるゾー！！」と宣言するのだがどうすれば。。
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年08月07日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/07/2014 03:04:49
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2014年08月08日 
 BASENAME: filename
 STATUS: Publish
@@ -23964,70 +18844,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子が「昔、バクダー(爆弾)が落ちたの、知ってる？」と聞かれた。紙芝居を見たらしい。保育園でも平和教育するんだな！ちょうど母と食事に行ったので、母が島原でも見えたキノコ雲の話をしてくれた。私も昔聞いて、その感想画というか、場面が鮮烈に脳裏に残ってる。種の記憶ってこうして残るのかも。
---------
-AUTHOR: Foo Bar
-TITLE: 2014年08月13日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/13/2014 22:26:42
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2014年08月13日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/13/2014 22:41:37
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2014年08月19日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/19/2014 08:01:41
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2014年08月19日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/19/2014 09:57:57
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2014年09月03日 
@@ -24078,22 +18894,6 @@ BODY:
 子が最近、「母上の事、だんだん好きになってきた」というので理由を聞いたら「前は父上が好きな風が吹いていた」という非常に文学的な返事をされた。奥深い。因みに本当の理由は、早くしなさーい！をヤマザキにも半分言わせるようにしたからだw
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年09月12日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 09/12/2014 08:48:55
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2014年09月19日 
 BASENAME: filename
 STATUS: Publish
@@ -24108,38 +18908,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子が登園中、「父上の名前ってなんだっけ・・・」　超小声で「クロネコヤマトじゃないよね・・・」とつぶやいた。。クロネコヤマトはタクシーにマンションの場所を説明する時に使う台詞だよ・・・
---------
-AUTHOR: Foo Bar
-TITLE: 2014年10月29日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 10/29/2014 00:41:53
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2014年11月13日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/13/2014 07:21:16
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2014年11月14日 
@@ -24285,22 +19053,6 @@ BODY:
 子は未だに、ミスティックマナー（お化け屋敷）に乗せた事を「だまされた・・・」とぼやいているｗ　いやー母上は面白かったよ。父上も乗りたいんじゃない？と子に言うと、ソレいい考え゜∀゜！！と、「今度は父上を騙して乗せよう！！」と悪い笑顔で張りきっているｗｗｗ
 --------
 AUTHOR: Foo Bar
-TITLE: 2014年11月20日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/20/2014 06:04:20
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2014年11月26日 
 BASENAME: filename
 STATUS: Publish
@@ -24316,22 +19068,6 @@ TAGS: "Movable Type",foo,bar
 BODY:
 「銀の匙」のDVD見てたら、と殺の場面が出てきて、豚の顔皮がドドン。
 ふと静かになった横を見ると、子が顔マネしてて爆笑www http://t.co/dQyC62ecfR
---------
-AUTHOR: Foo Bar
-TITLE: 2014年11月26日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/26/2014 23:04:56
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2014年11月29日 
@@ -24453,22 +19189,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子のお腹がクルル・・・と鳴ったら、「なんだろう・・・しやわせだから鳴ったのかな。。」って、君は猫ではないので喉は鳴らないｗｗ
---------
-AUTHOR: Foo Bar
-TITLE: 2015年02月05日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/05/2015 11:19:40
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2015年02月15日 
@@ -24659,22 +19379,6 @@ BODY:
 歯が抜けたショックで情けない顔ww歯の隙間から出そうと心配なのか、首を傾けて飲み物を飲んでるwww喋らないからむっちゃ静か！^^; 
 <img src=""></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2015年03月25日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/25/2015 11:04:28
-TAGS: "Movable Type",foo,bar
------
-BODY:
 
 --------
 AUTHOR: Foo Bar
@@ -24971,38 +19675,6 @@ BODY:
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年05月08日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/08/2015 15:46:42
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2015年05月08日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/08/2015 22:27:10
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2015年05月09日 
 BASENAME: filename
 STATUS: Publish
@@ -25049,38 +19721,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子はディズニーで習った‘ドレスの裾を持って御機嫌ようの御挨拶’を恥ずかしがってしなかったのだけど、家でコッソリ練習して披露してくれたw 母上も中学校と高校の時は御機嫌ようって挨拶してたよ…と話すと「ええ〜w何それwwそれって、ごきげん学校やったん？！」と何だかバカにされた…‼︎
---------
-AUTHOR: Foo Bar
-TITLE: 2015年05月18日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/18/2015 06:28:47
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2015年05月18日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/18/2015 12:59:18
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2015年05月22日 
@@ -25153,38 +19793,6 @@ BODY:
 子はやけにギョウ中検査を楽しみにして就寝したのだけど、いざ尻を出せと言うと大泣きww羞恥心が芽生えてきたんだなぁ〜。「皆もしとると？本当？？やっぱりハヤトと一緒じゃないと嫌だ〜・゜・(ノД`)・゜・」とカオス…好きな子と一緒にやるのは恥ずかしくないのか…？
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年05月26日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/26/2015 00:33:57
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2015年05月26日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/26/2015 03:52:35
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2015年05月27日 
 BASENAME: filename
 STATUS: Publish
@@ -25215,22 +19823,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 そしてイマイチ気の利かない父上が細々と君の世話をしているのは、私が指揮しているからなのです。だから「母上は、いつも父上をいじめて、しーちゃんの世話をさせて！」などと人聞きの悪い事を言うのは止めなさい。母は何も言わなくても、それ以上の世話をやっておるのだ。ちゅーか、自分でしろ。
---------
-AUTHOR: Foo Bar
-TITLE: 2015年05月27日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/27/2015 09:00:08
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2015年06月02日 
@@ -25271,38 +19863,6 @@ BODY:
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年06月03日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/03/2015 04:20:37
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2015年06月05日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/05/2015 17:43:25
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2015年06月06日 
 BASENAME: filename
 STATUS: Publish
@@ -25319,22 +19879,6 @@ BODY:
 子が着せ替えたはなちゃん。何やら卑猥な感じwww 
 <img src=""></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2015年06月08日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/08/2015 00:03:05
-TAGS: "Movable Type",foo,bar
------
-BODY:
 
 --------
 AUTHOR: Foo Bar
@@ -25372,22 +19916,6 @@ TAGS: "Movable Type",foo,bar
 BODY:
 私は小さい頃、大きくなったら何になりたい？という質問がキライだった。今からわかるわけないやん・・・と冷めた気持ちだったｗ
 でも、子はこちらから問わなくても、○○したい！○○になりたい！と口にするので、素直に育ってるな～と感心する。
---------
-AUTHOR: Foo Bar
-TITLE: 2015年06月11日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/11/2015 04:08:38
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2015年06月17日 
@@ -25699,22 +20227,6 @@ BODY:
 まあ、やれば楽しいよ。よく見ると猫柄なのさw http://t.co/68jJUw8zbF
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年07月04日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/04/2015 03:17:09
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2015年07月05日 
 BASENAME: filename
 STATUS: Publish
@@ -25779,22 +20291,6 @@ CONVERT BREAKS: richtext
 PRIMARY CATEGORY: News
 CATEGORY: News
 CATEGORY: Product
-DATE: 07/05/2015 14:41:29
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2015年07月05日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
 DATE: 07/05/2015 22:53:17
 TAGS: "Movable Type",foo,bar
 -----
@@ -25802,22 +20298,6 @@ BODY:
 火傷の跡って日焼けしてシミになりやすいんだけど、このUVカットフィルムはすごく優秀！よく見ないと貼ってるのわからないし、全く剥がれないし、痒くもならない。すごい‼︎[楽天] http://t.co/E2uoTc0ipj 
 <img src=""></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2015年07月06日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/06/2015 13:04:14
-TAGS: "Movable Type",foo,bar
------
-BODY:
 
 --------
 AUTHOR: Foo Bar
@@ -25857,22 +20337,6 @@ BODY:
 目標の味を掲げて酵母や添加物を加えていく普通の？ワイン。
 葡萄の力を育てて信じて、葡萄に付いてる酵母で育てていくヴァンナチュール。
 私はヴァンナチュールを育てていきたいけれど、技術への未練もあって、、やはりバランス型で行くのだと思うw
---------
-AUTHOR: Foo Bar
-TITLE: 2015年07月09日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/09/2015 18:05:12
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2015年07月10日 
@@ -26078,22 +20542,6 @@ BODY:
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年07月27日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/27/2015 04:28:09
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2015年07月31日 
 BASENAME: filename
 STATUS: Publish
@@ -26144,38 +20592,6 @@ TAGS: "Movable Type",foo,bar
 BODY:
 男の子の人形は、リクエストによりアラジンになりました。早速キスさせております。。
 綺麗なブルームーン！ISSは見つからなかった´д` ; http://t.co/UcPbcp7eol
---------
-AUTHOR: Foo Bar
-TITLE: 2015年07月31日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/31/2015 11:56:48
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2015年08月01日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/01/2015 10:38:40
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2015年08月31日 
@@ -26258,22 +20674,6 @@ BODY:
 子が保育園で一泊キャンプ。「しーちゃんがキャンプで、くやしい？」と聞くので、いや別に…私はキャンプとか全く好きじゃないし…と言うと、微妙な顔。「そうじゃなくて、居ないから、くやしい？？」・・・ああ！さびしいかって事？そうだねー、さびしいよーと言うと、子は安心した顔で出発したｗ
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年09月30日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 09/30/2015 01:29:47
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2015年10月13日 
 BASENAME: filename
 STATUS: Publish
@@ -26288,38 +20688,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子は「父上、お片づけの競争しよう♡」などとサボろうとする。。懇々と自分で遊んだ物は自分で片付けるように言ったら、「…しーちゃん、人をやめたい…」え？「動物がいい…」…そこまで、、片付けが嫌か。。私も猫になりたいとよく思うけど、君はまだ５歳だろ…人生に疲れるのはまだ早いよ…
---------
-AUTHOR: Foo Bar
-TITLE: 2015年10月21日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 10/21/2015 02:39:31
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2015年10月21日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 10/21/2015 06:01:34
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2015年11月03日 
@@ -26491,38 +20859,6 @@ CATSのロンドンオリジナルキャストのDVDは本当に良い。去年�
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2015年12月24日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 12/24/2015 22:06:18
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2015年12月25日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 12/25/2015 02:20:36
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2016年01月01日 
 BASENAME: filename
 STATUS: Publish
@@ -26572,38 +20908,6 @@ TAGS: "Movable Type",foo,bar
 BODY:
 子のサンタさんへのリクエストは「じぶんでよめるほん」 色々悩んで、ヤマザキが幼少の頃に好きだった本にした。でも後で「やっぱり、むらさきいろのポニーのぬいぐるみがほしいです」と手紙を出し直し、両方ゲット…
 かこさとし・ほしのほん https://t.co/FB2XwqUJzd
---------
-AUTHOR: Foo Bar
-TITLE: 2016年01月07日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 01/07/2016 02:15:08
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2016年01月07日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 01/07/2016 06:28:00
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2016年01月16日 
@@ -26731,22 +21035,6 @@ BODY:
 子が「明日、ティニー(アニメ)見せないと、怒るからね(*｀へ´*)」などと言うので、そんな言い方されると言われた人は絶対に見せてやらん！一生怒っておれば良い！って思うよ(｀_´)、と諭したら、ヤマザキがいやそこまでは…とフォローしていたw
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年03月16日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/16/2016 03:39:08
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2016年03月25日 
 BASENAME: filename
 STATUS: Publish
@@ -26801,38 +21089,6 @@ BODY:
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年04月10日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 04/10/2016 20:08:37
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2016年04月20日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 04/20/2016 08:42:07
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2016年04月28日 
 BASENAME: filename
 STATUS: Publish
@@ -26847,22 +21103,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子、初めてアイカツのアニメを視聴。「アイドルになりたいかも…そのためには、髪を伸ばさんといけんし、ポチャリケもどうにかせんといけん…」ポチャリケwwwポチャリ気かwwポッチャリ感って事かwww
---------
-AUTHOR: Foo Bar
-TITLE: 2016年04月28日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 04/28/2016 19:53:59
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2016年05月10日 
@@ -27186,102 +21426,6 @@ BODY:
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年06月03日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/03/2016 21:10:03
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2016年06月04日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/04/2016 15:12:37
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2016年06月06日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/06/2016 03:29:26
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2016年06月06日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/06/2016 04:57:04
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2016年06月06日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/06/2016 05:03:15
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2016年06月09日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/09/2016 19:21:49
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2016年06月11日 
 BASENAME: filename
 STATUS: Publish
@@ -27298,54 +21442,6 @@ BODY:
 子、すごく遊びきった感じの良い顔で合宿から帰ってきた(*^o^*)野うさぎ見た！二段ベッドで寝た‼︎と大喜び。でも、さみしくはならなかったらしく、意外とベッタリとは甘えてこない。。サッサと一人で寝たしw成長…したんだなぁ…！ 
 <img src=""></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2016年06月11日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/11/2016 01:37:06
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2016年06月11日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/11/2016 01:38:35
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2016年06月11日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/11/2016 01:47:39
-TAGS: "Movable Type",foo,bar
------
-BODY:
 
 --------
 AUTHOR: Foo Bar
@@ -27537,38 +21633,6 @@ BODY:
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年06月30日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/30/2016 05:44:26
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2016年06月30日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/30/2016 12:24:03
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2016年07月09日 
 BASENAME: filename
 STATUS: Publish
@@ -27675,70 +21739,6 @@ BODY:
 
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年10月06日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 10/06/2016 23:40:18
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2016年10月06日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 10/06/2016 23:43:07
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2016年10月07日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 10/07/2016 03:13:41
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
-TITLE: 2016年10月07日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 10/07/2016 03:14:13
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
---------
-AUTHOR: Foo Bar
 TITLE: 2016年10月17日 
 BASENAME: filename
 STATUS: Publish
@@ -27786,22 +21786,6 @@ TAGS: "Movable Type",foo,bar
 BODY:
 今年は子がサンタに飲み物とお菓子を用意したいと言い出したんだけど、これって何の情報を与えなくてもやり始めるものなんだな。。
 ブランデーはどう？と提案したら、「ソリの運転せないけんやろ」と冷たく却下されました。
---------
-AUTHOR: Foo Bar
-TITLE: 2016年12月28日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 12/28/2016 14:37:13
-TAGS: "Movable Type",foo,bar
------
-BODY:
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2017年01月16日 
@@ -27901,20 +21885,4 @@ BODY:
 朝からノビルを大量に洗って、茹でて酢味噌で食べる7歳女児。残り、どうしよう… 
 <img src=""></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2018年06月22日 
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/22/2018 19:21:05
-TAGS: "Movable Type",foo,bar
------
-BODY:
 
