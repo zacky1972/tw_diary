@@ -38,61 +38,42 @@ defmodule TwDiary do
     "AUTHOR: Foo Bar\nTITLE: プロフィール\nBASENAME: filename\nSTATUS: Publish\nALLOW COMMENTS: 1\nALLOW PINGS: 1\nCONVERT BREAKS: richtext\nPRIMARY CATEGORY: News\nCATEGORY: News\nCATEGORY: Product\nDATE: #{format_datetime_header(datetime)}\nTAGS: \"Movable Type\",foo,bar\n-----\nBODY:\n<html><body><img style=\"text-align:center;width:75%;height:75%;\" src=\"#{profile["profile_image"]}\"></img><p style=\"text-align:center;font-size: large;\">#{profile["full_name"]}</p><p style=\"text-align:center;\">#{profile["screen_name"]}</p><p style=\"text-align:center;font-size:small;\"><br/>#{replace_br(profile["bio"])}<br/></p><p style=\"text-align:center;font-size:small;\">#{profile["location"]}</p><p style=\"text-align:center;font-size:small;\">#{discard_decimal(Number.Delimit.number_to_delimited(trunc(profile["tweets"])))} ツイート / #{format_datetime_japanese(datetime)}に登録</p></body></html>\n-----\n"
   end
 
-  def convert_mt_all(tweets) do
-  (tweets
-  |> Enum.chunk_by(& Regex.match?(@http, &1[:text]))
-  |> Enum.map(& convert_mt(&1))
-  |> Enum.join("\n")
-  ) <> "\n"
+  def convert_mt_all(tweets, image_kl) do
+  convert_mt(tweets, image_kl)
+  <> "\n"
+#  (tweets
+#  |> Enum.chunk_by(& Regex.match?(@http, &1[:text]))
+#  |> Enum.map(& convert_mt(&1, image_kl))
+#  |> Enum.join("\n")
+#  ) <> "\n"
   end
 
-  def convert_mt(tweets) do
+  def convert_mt(tweets, image_kl) do
     head = "--------\nAUTHOR: Foo Bar\nTITLE: #{hd(tweets)[:date] |> format_datetime_japanese} \nBASENAME: filename\nSTATUS: Publish\nALLOW COMMENTS: 1\nALLOW PINGS: 1\nCONVERT BREAKS: richtext\nPRIMARY CATEGORY: News\nCATEGORY: News\nCATEGORY: Product\nDATE: #{format_datetime_header(hd(tweets)[:date])}\nTAGS: \"Movable Type\",foo,bar\n-----\nBODY:\n"
 
     head 
     <> (body = tweets 
       |> Enum.map(& &1[:text])
       |> Enum.reject(& Regex.match?(~r/RT/, &1))
-#      |> Enum.map(& escape_image(&1))
-      |> Enum.map(& "<p>#{&1}</p>")
+      |> Enum.reject(& Regex.match?(~r/@/, &1))
+      |> Enum.map(& escape_image(&1, image_kl))
+#      |> Enum.map(& "<p>#{&1}</p>")
       |> Enum.join("\n")
 
-      "<html><body>#{body}</body></html>"
+      #"<html><body>#{body}</body></html>"
     )
   end
 
-  def contents_mt() do
+  def contents_mt(image_kl) do
     tweets()
     |> Enum.chunk_by(& &1[:date])
-    |> Enum.map(& convert_mt_all(&1))
+    |> Enum.map(& convert_mt_all(&1, image_kl))
   end
 
-  def mt() do
-    File.write!("tw_diary.mt", profile_mt())
-    File.write!("tw_diary.mt", contents_mt(), [:append])
-  end
-
-  def escape_image(text) do
+  def escape_image(text, image_kl) do
     match = Regex.named_captures(@http, text)
-    m = if match["url"] do
-      HTTPoison.start
-      page = HTTPoison.get(match["url"])
-      |> case do
-        {:ok, %HTTPoison.Response{status_code: 200, body: body}} -> 
-          IO.puts "ok"
-          body
-        {:ok, %HTTPoison.Response{status_code: _}} -> 
-          IO.puts "error"
-          ""
-        {:error, %HTTPoison.Error{reason: _}} -> 
-          IO.puts "error"
-          ""
-      end
-      Regex.named_captures(~r/<img src=\"(?<url>\")/, page)
-    else
-      nil
-    end
-    Regex.replace(@http, text, "<p>#{match["text"]}</p>#{if m do "<img src=\"#{m["url"]}\"></img>" end}<p>#{match["rest"]}</p>")
+#    Regex.replace(@http, text, "<p>#{match["text"]}</p>#{if match do "<img src=\"#{Keyword.get(image_kl, String.to_atom(match["url"]))}\"></img>" end}<p>#{match["rest"]}</p>")
+    Regex.replace(@http, text, "#{match["text"]}\n#{if match do "<img src=\"#{Keyword.get(image_kl, String.to_atom(match["url"]))}\"></img>" end}\n#{match["rest"]}\n")
   end
 
   def all_read() do
@@ -165,11 +146,21 @@ defmodule TwDiary do
       |> :os.cmd
       |> to_string
       |> fn x -> Regex.named_captures(~r/(?<ext>(JPEG)|(PNG)|(gzip)) ((image)|(compressed)) data/, x) end.()
-      path = "#{elem(&1, 1)}#{if match["ext"] do "." end}#{match["ext"]}"
+
+      path = "#{elem(&1, 1)}#{convert_ext(match["ext"])}"
       File.rename(elem(&1, 1), path)
-      path 
+      "https://zacky1972.github.io/tw_diary_images/#{Regex.replace(~r/images\//, path, "")}" 
     )})
     |> Enum.to_list()
+  end
+
+  def convert_ext(ext) do
+    case ext do
+      "JPEG" -> ".JPEG"
+      "PNG" -> ".PNG"
+      "gzip" -> ".JPEG"
+      _ -> ""
+    end
   end
 
   def url2path(url) do
@@ -197,5 +188,11 @@ defmodule TwDiary do
       # need to download and upload
       {url, Atom.to_string(url)}
     end
+  end
+
+  def mt() do
+    image_kl = image_kl()
+    File.write!("tw_diary.mt", profile_mt())
+    File.write!("tw_diary.mt", contents_mt(image_kl), [:append])
   end
 end
