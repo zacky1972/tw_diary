@@ -80,7 +80,7 @@ iPod&ミニスピーカーで音楽など
 今、我が手に！
 吸ってる～ 感動！！(代理)
 産まれたて〜。これでいいのかな？
-<img src="https://zacky1972.github.io/tw_diary_images/twitpic.com_1eisdl.JPEG"></img>
+<img src="https://zacky1972.github.io/tw_diary_images/twitpic.com_1eisdl-1.JPEG"></img>
 
 久しぶりのゴハンにがっついてしまった。かなり美味！
 オヤツのイチゴタルトまで完食！
@@ -2798,7 +2798,7 @@ BODY:
 子の歯が８本出てきたので、フッ素を塗ってもらいに初歯医者。歯医者は泣き叫んでも仕上げ磨きしろって言うんだろうが、せめて自発的に口を開けれるようになってから始めたいんだよね・・・。それまでの気休めにフッ素。。
 小児歯科医は、怖がらないようにするためか白衣無し。一瞬、誰なんだろう、この人・・・？と混乱したｗそしてあの子供向けテンション・・・軽くひいてしまったが・・・大変な仕事だな・・・
 焼肉屋なう。安旨だけどコワい店主のいる店で、中々子連れで行く勇気がなかったんだけど、、意外と子供好きらしく今までで一番愛想がよかった！オジチャンなんて、ずっと抱っこしてくれてるし...
-<img src="https://zacky1972.github.io/tw_diary_images/twitpic.com_3wcspp.JPEG"></img>
+<img src="https://zacky1972.github.io/tw_diary_images/twitpic.com_3wcspp-1.JPEG"></img>
 
 Facebookをヤマザキにつられて初めてみる。ヤマザキの強い勧めにより、先程の写真がプロフィールに・・・。すごくイイ！雰囲気出てる！！惚れ直した！！！って言うんだもん、、仕方ない。。
 Facebookはプロフィールに恋愛対象の性別の欄があって、流石アメリカだなーと。ヤマザキはそれを男性に設定していたのに気付き、慌てて修正していたw。Facebookもお友達求むー。まだ何もしてないんだけどさ。
@@ -7931,7 +7931,7 @@ BODY:
  <img src="https://zacky1972.github.io/tw_diary_images/617857187.jpg"></img>
 
 宿から徒歩1分のカフェnaturaは座敷アリ、子供絵本アリ、しかも猫完備w今回は食重視の旅ではないので、二晩連食。でも中々満足！子はトロピカルジュースの虜になったもよう…
- <img src="https://zacky1972.github.io/tw_diary_images/617866653.jpg"></img>
+ <img src="https://zacky1972.github.io/tw_diary_images/617866653-1.jpg"></img>
 
 私達のダイビング講習の間、子は託児所へw 室内遊びだけでなく、プールや散歩・公園遊びもしてくれ、子も満喫した模様。
 <img src="https://zacky1972.github.io/tw_diary_images/rps20120714_141519.jpg"></img>
