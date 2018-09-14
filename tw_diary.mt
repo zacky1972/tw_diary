@@ -9023,21 +9023,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 他にも、突然「ウギーー！！」と叫び、どうしたの？！と聞くと、「・・・ちょっと、、おこっただけ・・・（遠い目）」と言うパターンもあるｗｗ　結構なイラチで、ドライブ中に信号で引っかかるとウギったりするのよね。。
---------
-AUTHOR: Foo Bar
-TITLE: 2013年01月15日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 01/15/2013 01:08:01
-TAGS: "Movable Type",foo,bar
------
-BODY:
 ヤマザキと口論していると、子が心配そうに「しーちゃん？しーちゃんが、いけないことしたの？？　ちちうえ？ちちうえがバカなの？？」などと言うので笑ってしまい、子は鎹というのはこういう事なのかと感慨深かった。
 --------
 AUTHOR: Foo Bar
@@ -9055,9 +9040,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 今日はマール様10歳の聖誕祭。子はモニュメントを作成し祝っておりますw 「ははうえのだいすきな、マールしゃま！しーちゃんも、だいすきよ!!」と敬愛の念を抱いているもよう。
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/BAzdu5GCIAE2TYJ.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2013年01月28日
@@ -9090,7 +9073,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 恵方巻き！子供サイズまで作って頂いて、ありがとうございます、つばささん♪
- http://t.co/lYNmTuRK
+ <img src="https://zacky1972.github.io/tw_diary_images/726517968.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2013年02月05日
@@ -9123,7 +9106,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 森山未來のミュージカル「100万回生きたねこ」を見てきたので、子におみやげ。先日、子に絵本を読んであげたのだけど、しばらく物思いに耽り、「こわいおはなしだった…」とポツリと言って...
-<img src=""></img>
+<img src="https:/zacky1972.github.io/tw_diary_images/729635943.jpg"></img>
 
 
 --------
