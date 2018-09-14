@@ -9141,21 +9141,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子、シンデレラにハマりすぎ。「しーちゃんのドレスは？」と無茶振りされたので、ビビディバビディブー！と言ってやったら、鏡の前に走って行ったww  舞踏会のシーンでは、「しーちゃんはね…運動会には行ったことあるんよ。。」とか呟いてるしwww こう下準備して4歳前にランドに行く計画！
---------
-AUTHOR: Foo Bar
-TITLE: 2013年02月16日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/16/2013 12:23:46
-TAGS: "Movable Type",foo,bar
------
-BODY:
 子、１００万回生きた猫の人形が気に入り、絵本自体も好きになり、今週の絵本チャート一位に躍進w 今夜もヤマザキが読んであげているが、「てんごくは、どこのてんごく？」の問いに、「天国は何処にも無いんだよ」と答えるのは如何なものか。。多分、特定の場所では無いという意味なんだろうけどさ…
 --------
 AUTHOR: Foo Bar
@@ -9173,9 +9158,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子がやっと刺身が食べられるようになったので、つばささんへ。初めて食べる回らない鮨屋はこんな所とは…良いのう。。ちっちゃいお鮨とキュウリをいっぱい食べてご満悦〜(*^O^*)だが、...
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/733079545.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2013年03月03日
@@ -9192,7 +9175,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 ひな祭りなので(？)、ファミマのハローキティ弁当とか買っちゃってw、みんなで動物園へ。子、楽しみにしすぎて、朝からハイテンション… 興奮してテンパり気味…(;´д｀)
- http://t.co/QvUiZtHc9l
+ <img src="https://zacky1972.github.io/tw_diary_images/739420660.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2013年03月17日
@@ -9209,7 +9192,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 サーラアマービレで女子会！幸せ〜ありがと子守りヤマザキ!!
- http://t.co/OrgbFTGlsh
+ <img src="https://zacky1972.github.io/tw_diary_images/745876173.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2013年03月28日
@@ -9242,24 +9225,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 花見に大喜び。「さくら、きれいね〜」「ヒラヒラしとうね〜」と、団子だけでなく、ちゃんと花も楽しんでおりますw
- http://t.co/mio2Ef6y9X
---------
-AUTHOR: Foo Bar
-TITLE: 2013年03月30日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/30/2013 04:19:46
-TAGS: "Movable Type",foo,bar
------
-BODY:
+ <img src="https://zacky1972.github.io/tw_diary_images/751606452.jpg"></img>
+
 『取ってこい』を楽しむ子。サン(実家の犬)よりは賢いらしい。
- http://t.co/9ttMzwNNqV
+ <img src="https://zacky1972.github.io/tw_diary_images/751610387.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2013年04月06日
@@ -9294,7 +9263,7 @@ BODY:
 子のクラスメイトのマーク、”おべんとう”と”バナナ”を確認しましたｗｗ　担任（新卒のフレッシュガール）に「あのｗしーちゃんのマークですがｗｗ」と話しかけたら、怯えた目をした気がするのだけど、クレームと思ったのかな。。(´･ω･｀)
 --------
 AUTHOR: Foo Bar
-TITLE: 2013年04月11日
+TITLE: 2013年04月10日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -9303,12 +9272,13 @@ CONVERT BREAKS: richtext
 PRIMARY CATEGORY: News
 CATEGORY: News
 CATEGORY: Product
-DATE: 04/11/2013 00:46:52
+DATE: 04/10/2013 19:46:52
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
 アクアヴィータで３歳の誕生日パーティー。ケーキはアンパンマンw去年は火が怖くて泣いてしまったけど、今年はしっかり吹き消した！
-３歳の抱負は「しーちゃん、３才になったけ、ごはんいっ... http://t.co/KSI9hRjOTW
+３歳の抱負は「しーちゃん、３才になったけ、ごはんいっぱい食べるんよ！」だそうです...現状で十分過ぎる程です......
+<img src="https://zacky1972.github.io/tw_diary_images/756593441.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2013年04月17日
@@ -9325,7 +9295,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 アキレス腱の手術、無事終わりました。この写真(姪&amp;子)の一時間後こんなオオゴトになろうとは…馬鹿すぎて、手術室で笑いが込み上げてきてもう…
- http://t.co/Kxh07xQoLU
+ <img src="https://zacky1972.github.io/tw_diary_images/759072053.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2013年04月21日
@@ -9342,41 +9312,13 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 お見舞いに来て、とりあえずゴディバのアイスにがっつく子。なんか…一回り丸くなってないですか…？(-_-;)
- http://t.co/7IWcskSsap
---------
-AUTHOR: Foo Bar
-TITLE: 2013年04月21日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 04/21/2013 07:40:57
-TAGS: "Movable Type",foo,bar
------
-BODY:
+ <img src="https://zacky1972.github.io/tw_diary_images/760624987.jpg"></img>
+
 「これ、母上のベビーカー？しーちゃんが押してあげるからね、だいじょうぶよ！」と、本当にしっかり押してくれました。力持ち！
- http://t.co/YWpV50Dnkq
---------
-AUTHOR: Foo Bar
-TITLE: 2013年04月21日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 04/21/2013 07:44:40
-TAGS: "Movable Type",foo,bar
------
-BODY:
+ <img src="https://zacky1972.github.io/tw_diary_images/760625765.jpg"></img>
+
 病院の屋上庭園でひと遊び。「しーちゃん、母上が一番好きよ(・∀・)」とリップサービスをし、さっぱりと帰って行きました。強い子…
- http://t.co/axfle1tsPY
+ <img src="https://zacky1972.github.io/tw_diary_images/760626826.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2013年04月26日
@@ -9409,7 +9351,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 若松のカフェでまったりにゃー(´∀｀)海見えると気持ちいいね、たとえ洞海湾でも。
- http://t.co/sTKSbpIDGz
 --------
 AUTHOR: Foo Bar
 TITLE: 2013年04月28日
@@ -9426,7 +9367,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 お化粧セットをお弁当セットとして使用する子。。食いしん坊すぎる…それとも普段化粧しない私が悪いのか……
- http://t.co/M02rHbZr76
+ <img src="http://zacky1972.github.io/tw_diary_images/763727148.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2013年04月29日
@@ -9443,9 +9384,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 もり田♪子もご満悦(´∀｀)友人子息のイケメンから「一緒に(二次会に)飲みに行く？」と誘われたのが忘れられず、帰りの車中ずっと「しーちゃんも飲みに行きたい〜しーちゃんも飲む〜〜(...
-<img src=""></img>
-
-
+<img src="http://zacky1972.github.io/tw_diary_images/763984742.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2013年05月01日
@@ -9462,23 +9401,8 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 入院以降、ずっと私のベッドで寝たがる子。。狭いよ・・・何で縦じゃなくて横に寝るんだよ・・・orz　　そろそろ自分のベッドで一人で寝てくれない？と言うと、「ダメ！しーちゃんを真ん中にして、みんなで力を合わせないと！！強くなれないでしょ～？！」と怒られた(；一_一)
---------
-AUTHOR: Foo Bar
-TITLE: 2013年05月01日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/01/2013 04:06:18
-TAGS: "Movable Type",foo,bar
------
-BODY:
 ええ、、退院の翌日、お弁当作りましたよ・・・。保育園に着くなり、「しーちゃんね！！エビフライもってきたんよ！！！」と絶叫する程ほど大喜びしてくれたので、頑張った甲斐がありました(~_~;)
-http://t.co/dCKs9Piymy
+<img src="https://zacky1972.github.io/tw_diary_images/ayumi-2013-04-26T09-48-31-1.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2013年05月02日
@@ -9495,9 +9419,8 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 野いちごを前に舌なめずりの図w 初物のこの一粒を皆で分けたらしい。少量すぎて味がしないんじゃあるまいかww
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/ayumi-2013-05-02T14-22-00-1.JPG"></img>
+<img src="https://zacky1972.github.io/tw_diary_images/ayumi-2013-05-02T14-22-00-2.JPG"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2013年05月03日
@@ -9514,7 +9437,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 ルニドファコンでランチ！沖縄行けなかった分、食べ歩きとマッサージでまったりのＧＷです(^ω^)
- http://t.co/N9xdwWUUBQ
+<img src="https://zacky1972.github.io/tw_diary_images/765524730.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2013年05月04日
@@ -9533,7 +9456,7 @@ BODY:
 石本でお友達カポーとランチ(´∀｀)
 三時間かけて、コースに四皿追加して満腹ww
 子？置いてきたもんね〜Ψ(`∀´#)
- http://t.co/UxvwldjsAL
+<img src="https://zacky1972.github.io/tw_diary_images/765982984.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2013年05月05日
@@ -9550,87 +9473,14 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 グリーンパークに来ております。車椅子のため、駐車場も良い場所で、快適です(^o^;
- http://t.co/UHR3ogHDL5
---------
-AUTHOR: Foo Bar
-TITLE: 2013年05月05日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/05/2013 02:36:26
-TAGS: "Movable Type",foo,bar
------
-BODY:
+<img src="https://zacky1972.github.io/tw_diary_images/766360600.jpg"></img>
+
 水遊びが楽しくて仕方ない様子。びしょ濡れだけど、ちゃんと着替え持参！抜かりなし!!しかしかれこれ30分以上…中々出てこないよ…
- http://t.co/94jy58qjd0
---------
-AUTHOR: Foo Bar
-TITLE: 2013年05月05日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/05/2013 12:00:26
-TAGS: "Movable Type",foo,bar
------
-BODY:
+<img src="https://zacky1972.github.io/tw_diary_images/766365436.jpg"></img>
+
 実家で夕食後…ダメ元で子を泊まらせてみようと、私とヤマザキは別室に籠って様子見したのだけど、一度だけ「父上は!?母上は〜！!?」と叫んだあと、ケロリとテレビ見て笑って、静かにお風呂に入って就寝した気がする。。
---------
-AUTHOR: Foo Bar
-TITLE: 2013年05月05日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/05/2013 22:57:27
-TAGS: "Movable Type",foo,bar
------
-BODY:
 子、問題なくお目覚めし、うどんを食べてるらしい。。なんだよ～お泊まり出来るんじゃないか～～もっと早くトライすれば良かったw因みに、やはりヨコに寝たらしい。仕様なんだな。。
---------
-AUTHOR: Foo Bar
-TITLE: 2013年05月05日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/05/2013 23:30:35
-TAGS: "Movable Type",foo,bar
------
-BODY:
 私が三歳くらいの頃、従姉妹の家に泊まりに行って楽しく過ごしていると、「お父さんが帰って来てって言ってるよ」と母から電話があって、タクシーで一人、何度も途中で帰らされたものだ。今思えば、遅くに出来た子で、肺癌だったし(再発して確か7歳の時に亡くなった)、父も寂しかったんだろうな。。
---------
-AUTHOR: Foo Bar
-TITLE: 2013年05月05日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/05/2013 23:36:55
-TAGS: "Movable Type",foo,bar
------
-BODY:
 ヤマザキは「いや～、しーちゃんの居ない朝も良いねぇ。月2くらいお願いしちゃおっか！(＠⌒ー⌒＠)」とはしゃいでおりますw子が居ない時に何がしたい？と問うと、「えーっとねー、ダラダラ！o(*ﾟ▽ﾟ*)o」だそうですww私も二度寝を楽しみます(=￣ ρ￣=) ..zzZZ
 --------
 AUTHOR: Foo Bar
@@ -9664,53 +9514,8 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 保育園で演劇鑑賞。一時間、目まぐるしく繰り広げられる出し物に、子供達は飽きずに魅入っていっていた。上から目線でアレだけど、良く出来てるな、と感心。
---------
-AUTHOR: Foo Bar
-TITLE: 2013年05月11日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/11/2013 19:12:50
-TAGS: "Movable Type",foo,bar
------
-BODY:
 メインの劇は、殻に閉じこもってばかりのカタツムリが、親に放り出され、ダンゴムシを友にして旅をし、困難に立ち向かう中、勇気を出して殻から出て、外ってイイね・友達ってイイね的な。色々と示唆的なストーリーと言えるw家に帰り着くと、実は家の周りを一周しただけで、親は見守ってたというオチ。
---------
-AUTHOR: Foo Bar
-TITLE: 2013年05月11日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/11/2013 19:18:38
-TAGS: "Movable Type",foo,bar
------
-BODY:
 子は、家から放り出されれるシーンが衝撃だったようで、「小さいカタツムリが…お父さんから、ウチの子じゃありませーん！って、、一人になっちゃって、、お父さんもお母さんもいなくなっちゃって、、ウチの子じゃありませーん！って…(´･Д･)」と、帰宅中何度も繰り返していたww
---------
-AUTHOR: Foo Bar
-TITLE: 2013年05月11日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/11/2013 19:25:04
-TAGS: "Movable Type",foo,bar
------
-BODY:
 そしてその後も思い出したように、「しーちゃん、ウチの子じゃありませんから…(　ﾟдﾟ)」とか呟いてて爆笑www
 --------
 AUTHOR: Foo Bar
@@ -9743,10 +9548,8 @@ DATE: 05/20/2013 12:00:58
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-母が子猫を拾ってきた(￣□￣;)!!子は勿論、大喜びw実家に寄ると中々帰らず、、ぬいぐるみ(ソックリな代理)があるじゃないと言うと「動くのがいいの〜」マールも居るじゃないと言うと...
-<img src=""></img>
-
-
+母が子猫を拾ってきた(￣□￣;)!!子は勿論、大喜びw実家に寄ると中々帰らず、、ぬいぐるみ(ソックリな代理)があるじゃないと言うと「動くのがいいの〜」マールも居るじゃないと言うと「ちっちゃいのがいいの！」まあ子猫の可愛さは特別だからなあ...(´ω｀)
+<img src="https://zacky1972.github.io/772498571.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2013年05月21日
@@ -9779,9 +9582,12 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 我が社の重役、久々の出勤にお疲れの御様子。
+<img src="https://zacky1972.github.io/tw_diary_images/773291064.jpg"></img>
 
 実は先週に全荷重OKとなり、松葉杖が取れました〜!!
-しばらくは恐る恐る…変な歩き方で腰が……だったけど、だいぶ慣れてきたので、今日... http://t.co/W9iADbZ4Pq
+しばらくは恐る恐る…変な歩き方で腰が……だったけど、だいぶ慣れてきたので、今日からマール様をお連れしての出勤(´∀｀)
+
+来週に車も運転出来るようになるはず。もうちょいだー！
 --------
 AUTHOR: Foo Bar
 TITLE: 2013年06月02日
@@ -9846,7 +9652,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 虚無僧的な何か。。私の口癖を真似て「そんなわけなかろう！」と言った時はビビった(◎-◎;)
- http://t.co/dazk7U24Xo
+<img src="https://zacky1972.github.io/tw_diary_images/780938236.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2013年06月14日
@@ -9879,7 +9685,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 保育園の連絡ノート。実は内容がTwitterとかぶってる事も多い。。
- http://t.co/vIlbd60Zsb
+<img src="https://zacky1972.github.io/tw_diary_images/781377322.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2013年06月17日
@@ -9912,60 +9718,16 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 シッポの長い黒猫。「これ、部屋にかざっときな(´∀｀)」と渡されたのだがどうしよう
- http://t.co/qpJftae5LK
---------
-AUTHOR: Foo Bar
-TITLE: 2013年06月23日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/23/2013 01:13:42
-TAGS: "Movable Type",foo,bar
------
-BODY:
+ <img src="https://zacky1972.github.io/tw_diary_images/783796975.jpg"></img>
+
 シュールだわ…こちらはモデルの従姉に押し付け…いや、プレゼントしよう。。
- http://t.co/ELu6QUxjmB
---------
-AUTHOR: Foo Bar
-TITLE: 2013年06月23日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/23/2013 07:48:41
-TAGS: "Movable Type",foo,bar
------
-BODY:
+ <img src="https://zacky1972.github.io/tw_diary_images/783797586.jpg"></img>
+
 ゲームを初購入。ちゃんとルールを理解し、楽しんでて成長を感じた！しかし、悪いマスに止まったときのガッカリっぷりがすごいwまさに涙目ww私達がなっても、励ましたりズルさせてくれよう...
-<img src=""></img>
+<img src="https://zacky1972.github.io/tw_diary_images/783892809.jpg"></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2013年06月23日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/23/2013 12:16:42
-TAGS: "Movable Type",foo,bar
------
-BODY:
 常連さん主催の貸し切りの近松にて。ボケボケだけど、あまりに蕩けそうな顔…！
- http://t.co/uZpD2HRgNt
+ <img src="https://zacky1972.github.io/tw_diary_images/783965540.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2013年06月26日
@@ -9998,21 +9760,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 とうとう来たｗｗ「しーちゃん、はっくんと、きのう（いつも明日と混同する）、結婚する♡」だとｗｗｗｗ　　結婚したら何したい？と問うと、「砂場で遊びたい！」だってｗｗｗｗ　ヤマザキ、最初の婚約はGet出来なかったなｗｗｗ
---------
-AUTHOR: Foo Bar
-TITLE: 2013年07月05日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/05/2013 00:56:37
-TAGS: "Movable Type",foo,bar
------
-BODY:
 今日は家庭訪問・・・ドキドキ。。保育園で家庭訪問って相当変わってるよね。。。園に飾っている子の絵、とても上手に書けてたんだけど、「この絵は～父上と母上がケンカしてるとこ！」と子から解説されたんだがどうすれば・・・そんなにケンカとかしてないと思うんだけど・・・
 --------
 AUTHOR: Foo Bar
@@ -10062,21 +9809,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 ヤマザキの研究室の焼肉に参加。子が「父上のお友達？」と聞くので、父上の生徒だよー父上は先生なんだよーと教えると、子、まさかの大爆笑ｗｗｗちょｗｗ母上がすごい冗談をｗｗｗといった面持ちで、「父上！母上が父上を先生だってｗｗｗｗ」と走っていった。。父上＝先生はそんなに可笑しいか！
---------
-AUTHOR: Foo Bar
-TITLE: 2013年08月07日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/07/2013 03:30:50
-TAGS: "Movable Type",foo,bar
------
-BODY:
 最近の子の大好物は鉄火巻。次々に口にいれようとするので、ちょっとづつだよーと注意すると「・・・ちょっと・・・味見しただけよ！！」と。こういうものすごく下らない言い訳をするのはヤマザキに似てるｗ　あと、「○○って何？」と聞くので答えてやってら、「・・・知ってた！」とかも言いやがる。
 --------
 AUTHOR: Foo Bar
@@ -10110,23 +9842,8 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 いのちのたび博物館。私は初めて、子は二回目。子は一回目は恐竜を見て大泣きしたらしいけど、今回はオ大丈夫！オンブで入場だけど(汗)
---------
-AUTHOR: Foo Bar
-TITLE: 2013年08月11日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/11/2013 00:41:15
-TAGS: "Movable Type",foo,bar
------
-BODY:
 伊勢海老にテンションが上がる。
- http://t.co/Zet3FaXYCp
+ <img src="https://zacky1972.github.io/tw_diary_image/798817258.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2013年08月11日
@@ -10143,26 +9860,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 でもまだまだキッズプレイルームが一番落ち着くらしい w ここのぬいぐるみ…毒蛙やら昆虫やら……
-<img src=""></img>
+<img src="https://zacky1972.github.io/tw_diary_image/798818863.jpg"></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2013年08月11日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/11/2013 03:55:20
-TAGS: "Movable Type",foo,bar
------
-BODY:
 恐竜ロボットの展示に夢中。雷や噴火の大音響を怖がるかと思いきや、意外に気に入り、何度も見いって離れない…
- http://t.co/xxjd6C9vOQ
+ <img src="https://zacky1972.github.io/tw_diary_image/798861528.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2013年08月12日
@@ -10179,7 +9880,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 今日はヤマザキが居ないので、近くのカフェで夜ごはん。デザートにニコニコ！母もハッピーアワーでニコニコww
- http://t.co/enelyQDXys
+ <img src="https://zacky1972.github.io/tw_diary_image/799277301.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2013年08月14日
@@ -10196,22 +9897,8 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 母の実家の島原へ。車中で快適に昼寝出来るように改造w7時半に出発したので高速は全く渋滞してなかったけど、諫早を降りてからはそれなりに混んでて、盆を実感。
- http://t.co/IQEWqkGM2e
---------
-AUTHOR: Foo Bar
-TITLE: 2013年08月14日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/14/2013 13:23:06
-TAGS: "Movable Type",foo,bar
------
-BODY:
+ <img src="https://zacky1972.github.io/tw_diary_image/799836969.jpg"></img>
+
 川遊びにそうめん流しに温泉に打ち上げ花火。THE夏休み!!写真撮る暇も無いw
 --------
 AUTHOR: Foo Bar
@@ -10228,10 +9915,8 @@ DATE: 08/15/2013 21:19:51
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-島原の精霊流し。商業化されてない祭りはすごく心に響くものがあり、遠くの空で雷が輝いて時々フラッシュのように明るくなる中、精霊船が海に入って行く様はとても幻想的だった。私が三〜四歳...
-<img src=""></img>
-
-
+島原の精霊流し。商業化されてない祭りはすごく心に響くものがあり、遠くの空で雷が輝いて時々フラッシュのように明るくなる中、精霊船が海に入って行く様はとても幻想的だった。私が三〜四歳位の時に精霊流しを見て、その記憶がはっきりある。子も覚えてくれてると良いな。
+ <img src="https://zacky1972.github.io/tw_diary_image/800364450.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2013年08月16日
@@ -10248,24 +9933,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 まだどこも開いてないのを覚悟で早朝に散歩してたら、オジサマが解錠して入れてくれたお庭。こんなにキレイな水で泳ぐ鯉は初めてだ！鯉的には厳しい環境らしいけど。。
- http://t.co/oh9mpZ8apb
---------
-AUTHOR: Foo Bar
-TITLE: 2013年08月16日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/16/2013 03:44:15
-TAGS: "Movable Type",foo,bar
------
-BODY:
+ <img src="https://zacky1972.github.io/tw_diary_image/800431204.jpg"></img>
+
 ぽぽちゃんに海を見せてやっている子。(虐待ではない)  帰りは事故渋滞を鮮やかに避けて、スムーズに帰宅！情報戦を征したぜ!!
- http://t.co/z5vUWyHgF3
+ <img src="https://zacky1972.github.io/tw_diary_image/800431677.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2013年08月19日
@@ -10297,10 +9968,8 @@ DATE: 08/22/2013 07:16:36
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-保育園の市民プール行きの付き添いに行ってきた。暑っつー！！朝イチで時折曇るこの天気でもこの暑さ!!子、、皆と一緒だと動きが違う…。顔に水かかっても平気なんじゃないか。お風呂では物...
-<img src=""></img>
-
-
+保育園の市民プール行きの付き添いに行ってきた。暑っつー！！朝イチで時折曇るこの天気でもこの暑さ!!子、、皆と一緒だと動きが違う…。顔に水かかっても平気なんじゃないか。お風呂では物凄く抗議するくせに。。
+<img src="https://zacky1972.github.io/tw_diary_images/802265154.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2013年08月24日
@@ -10317,41 +9986,13 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 保育園の夏祭り。雨でお神輿が出せずに「…おうちかえる…」とテンションがた落ちだったけど、なんとか止んだ合間に出せて急上昇！ww花火まで出来たし、結果的には涼しくてよかったな、と。
- http://t.co/rnZOvVA0Q2
---------
-AUTHOR: Foo Bar
-TITLE: 2013年08月24日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/24/2013 23:38:47
-TAGS: "Movable Type",foo,bar
------
-BODY:
+<img src="https://zacky1972.github.io/tw_diary_images/803063362.jpg"></img>
+
 ヤマザキには甚平を着せてみた。なんか顔がヤバい
- http://t.co/2z93MstIzg
---------
-AUTHOR: Foo Bar
-TITLE: 2013年08月24日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 08/24/2013 23:41:49
-TAGS: "Movable Type",foo,bar
------
-BODY:
+<img src="https://zacky1972.github.io/tw_diary_images/803064366.jpg"></img>
+
 エイサー。何故に沖縄… まあ保育園の遊戯とはそうしたものだろう。子はノリノリで叩いていたww
- http://t.co/3LJDvVcLTa
+<img src="https://zacky1972.github.io/tw_diary_images/803064856.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2013年08月27日
@@ -10368,9 +10009,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 私もここ数年で第4ステージになった。子はもう第4ステージの域にいる気がする。自分で蚊をパチンと殺ったりするし、強くなったものだ。去年はけっこう痒がって、ステロイドで凌いだなぁ。
-<img src=""></img>
-
-
+https://woman.mynavi.jp/article/130826-078/
 --------
 AUTHOR: Foo Bar
 TITLE: 2013年09月18日
@@ -10419,7 +10058,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子の保育園は、春と秋は月１弁当で、遠足や公園に行く。エビフライを焦がしたので、…これで良い？と聞くと「…枯れてるね…でも大丈夫！バナナも黒くなるし！」と許して貰えたww
- http://t.co/H7oJcwMSxu
+<img src="https://zacky1972.github.io/tw_diary_images/812622384.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2013年10月15日
@@ -10437,7 +10076,7 @@ TAGS: "Movable Type",foo,bar
 BODY:
 えっと… ウシですか……?
 「しーちゃん、いーっぱい食べたよ〜〓…こんなに食べたらまた太っちゃう…?〓」とか呟くから爆笑ww
- http://t.co/DBEqYuSuQT
+<img src="https://zacky1972.github.io/tw_diary_images/815363080.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2013年10月21日
@@ -10502,21 +10141,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子、シーネ固定で動きが悪いため、保育園で赤ちゃんクラスに降格ｗｗ 「こどもせんせい」と祭り上げてもらい、何とかプライドを保っているらしいｗｗｗ
---------
-AUTHOR: Foo Bar
-TITLE: 2013年11月12日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/12/2013 06:16:43
-TAGS: "Movable Type",foo,bar
------
-BODY:
 子から「母上は、murder？」と聞かれて固まったが、motherの事だった。ああ、、映画のバンビで出てくるね・・・ヤマザキが間違って英語版入れちゃったからね・・・　そんな子の好きな遊びは、戦う牡鹿ごっこですｗ
 --------
 AUTHOR: Foo Bar
@@ -10534,9 +10158,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 空きカンを椅子にして懸命に穴を掘るの図。今日はシーネ固定での歩き方にも慣れてきて、ヨチヨチ歩き組と山へ散歩に行ったらしい wなんかもうスタスタ歩いてる…
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/821332321.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2013年11月21日
@@ -10553,7 +10175,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 保育園の散歩での戦利品の謎のキノコ。。「明日の朝ごはんに食べよっか！これ、毒キノコって言うんよ!!(´∀｀)」(￣□￣;)!!
- http://t.co/rriGkDfX8d
+<img src="https://zacky1972.github.io/tw_diary_images/823031573.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2013年11月28日
@@ -10602,21 +10224,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子、泣きながら起床。。「サンタさんが来なかった～夜に鈴の音が聞こえんかったぁぁ～～｡(ﾟ´Д｀ﾟ)゜｡ｳｧｧｧﾝ」・・・落ち着いて、、プレゼントで膨れた靴下を確認してよ。。そこまでの小細工は出来ないわ。。。
---------
-AUTHOR: Foo Bar
-TITLE: 2013年12月25日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 12/25/2013 01:37:10
-TAGS: "Movable Type",foo,bar
------
-BODY:
 子、泣いて起床。。「サンタさんが来なかった～　鈴の音が聞こえんかった～～゜ﾟ(&gt;ヘ＜）ﾟ ゜｡ﾋﾞｴｪｰﾝ 」・・・落ち着いて、、膨れた靴下を確認してください。。鈴・・・そこまでの小細工は出来ないわ。。。
 --------
 AUTHOR: Foo Bar
@@ -10650,21 +10257,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子は悪夢に出た妖怪「目玉のチクチク」を怖がって、寝る前に大騒ぎしたらしい。（私は外出）　ヤマザキが上手く宥めたらしく、翌朝、「父上がチクチクを鬼のところに、エイって退治した！マール様が目玉をガブリとやっつけてくれた！！」と報告してくれたｗｗ「マール様は立派な王様」と崇めていたｗｗ
---------
-AUTHOR: Foo Bar
-TITLE: 2014年01月15日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 01/15/2014 06:22:05
-TAGS: "Movable Type",foo,bar
------
-BODY:
 夜中に目を覚ました子に、楽しい夢見るよーアイスクリームの夢を見ようかーと暗示をかけると「フヒヒ・・・イチゴのアイス・・・クリームも乗ってる・・・チョコケーキも来たよ・・・玉子もいっぱい来た～・・・」と言ってコトリと寝たｗｗｗ多分、夜に行った回転寿司のイメージだな。
 --------
 AUTHOR: Foo Bar
@@ -10730,9 +10322,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 マントをつければ飛べると主張。危険。。
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/BgpGxgTCcAEIRaO.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2014年02月22日
@@ -10749,9 +10339,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 親バカですみません。此れ程、ウチの子が世界一カワイイと思ったのは初めてかもしれない…！猫の日イベントでCATSのスタッフが書いてくれたのです。私も、、したかった。。(小学生以下限定)
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/BhGhVEeCUAARf7M.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2014年03月03日
@@ -10768,26 +10356,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 ひな祭りに気合いを入れまくり「着物を着る!」と言い張る子。うん、コスプレ楽しいよねwグローバーのケーキが楽しみで、ご飯は腹八分に抑えていたww
-<img src=""></img>
+<img src="https://zacky1972.github.io/tw_diary_images/Bhy31SkCcAAGiWk.jpg"></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2014年03月03日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 03/03/2014 10:16:51
-TAGS: "Movable Type",foo,bar
------
-BODY:
 もう着崩れなんてものじゃないwww
-<img src=""></img>
+<img src="https://zacky1972.github.io/tw_diary_images/Bhy5S4ECMAAJ9up.jpg"></img>
 
 
 --------
@@ -10822,9 +10394,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 寝る前はサラサラストレートなのに、起きると鳥の巣。。夜中にブレイクダンスでもしてるんだろうか。。
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/BiAk33lCcAAcBAB.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2014年03月08日
@@ -10889,9 +10459,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 気がついたら勝手に寝てた・・・！子はうっかり寝るという事が少ないので(食事中に寝た事とか一度もない)、すごく珍しい。今日は風邪薬で眠いせいだろうけど、いつもこうだと良いのにーー。ジーナ式、最後の最後で妥協しちゃったのよね。。
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/Bi7cp8TCYAAOQ9n.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2014年03月18日
@@ -10908,9 +10476,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 何故か雑誌に食いつき、自分の馬のオモチャもオルフェーブルという名前にするとか言い出した。。「しーちゃんのお馬の名前はオルフェーブル！夢と欲望を乗せて走るんよ♪(何で馬は走るのか、への親達の回答)」とか保育園で言ったらどうしよう。。
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/BjCtpK5CQAAicRE.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2014年04月10日
@@ -10927,9 +10493,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子の突然の一発芸。「チューリップのなかま！」・・・ああ、、うん。。
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/Bk0l6-sCQAEw8QL.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2014年04月25日
@@ -10946,9 +10510,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子の保育園での誕生会に参加、後、子供達の案内で散歩へ。‘いつもの散歩道’がこの登山道だなんて、頑丈になるわけだ・・・「素敵な所に連れて行ってくれて、ありがとう、は？」とか言われたんだけど。。うん、、ありがとう・・・
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/BmC6fWqCQAEUSAs.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2014年04月26日
@@ -10997,9 +10559,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 「メロンまで、頑張ってるの」・・・うん、カブトムシも跨いで行きそうね。。
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/BmdpGlkCUAAsnjC.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2014年05月02日
@@ -11016,28 +10576,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 バースデーの写真を撮りにスタジオへ。ドレスを選ばせたら、まさかのAKB風・・・！AKBとか見たこと無いと思うんだけど。。
-<img src=""></img>
+<img src="https://zacky1972.github.io/tw_diary_images/BmqwwulCYAATeYU.jpg"></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2014年05月02日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/02/2014 23:42:36
-TAGS: "Movable Type",foo,bar
------
-BODY:
 母セレクトのドレスも着せた。中々の出費・・・
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/BmqxGprCEAEkJ_n.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2014年05月08日
@@ -11054,9 +10596,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 GWは近場でのんびり。苺狩りで子は幼児料金¥500のモトをしっかり取ったw大人料金¥1500は、、無理だわ。。一応、氷水を持参して冷やして食べたのだけど。
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/BnJYMd7CQAApHPS.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2014年05月21日
@@ -11089,9 +10629,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 「雨が降ってるの。泣いてるのよ・・・子供が一人だけになっちゃったから。。」・・・えー、、右の黄色いのは天に召された子供って事ですか？なんでそんな悲しいストーリーなんだ・・・
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/BoewELrCAAIF6Yq.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2014年05月29日
@@ -11108,28 +10646,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 毎日のように持ち帰られる桜の実。 いつもはコッソリ捨てるのだけど、今日はどうしてもジャムにすると言って聞かない。。まあ今日のは比較的に綺麗だし・・・と、ジャム作りしてみた。 意外と普通の味wしかし年一回だけだ！
-<img src=""></img>
+<img src="https://zacky1972.github.io/tw_diary_images/Bow375PCIAA0guG.jpg"></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2014年05月29日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/29/2014 00:44:37
-TAGS: "Movable Type",foo,bar
------
-BODY:
 こんどは、、木苺・・・orzパンケーキにしてみた。でも本当に年一回だけだからね‼︎虫が出てきそうで嫌いなんだよぉぉ〜ヽ(；▽；)ノ
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/Bow4okuCAAAdLZf.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2014年05月31日
@@ -11146,7 +10666,8 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 オクトーバーフェスト
-！ビールうまーー（≧∇≦） http://t.co/LP3InD5Jqh
+！ビールうまーー（≧∇≦）
+<img src="https://zacky1972.github.io/tw_diary_images/Bo9a8_oCYAAXZrU.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2014年06月24日
@@ -11195,28 +10716,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 海へ連れて行ったがホテル前は波が高め。貝に手を噛まれた(多分、取ろうとした貝殻が波でひっくり返って手に当たっただけ)らしく、30分で退散wwま、子は風邪気味だし、こんなもんでしょう。後は海を見ながらゴロゴロという私らしいリゾート♡
-<img src=""></img>
+<img src="https://zacky1972.github.io/tw_diary_images/Btb1R2KCIAA9bjG.jpg"></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2014年07月26日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/26/2014 05:35:11
-TAGS: "Movable Type",foo,bar
------
-BODY:
 日中は日射しが凄すぎるので室内プール(^^;;一目惚れして2年前に買ったボートにようやく乗れるようになったw
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/BtcnWiPCIAEEG1D.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2014年08月05日
@@ -11345,97 +10848,21 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子の初ディズニーは香港。噂通りこじんまりしてて、人もそこまで多くないし(というか平日朝はガラガラ)子連れ向き！
-<img src=""></img>
+<img src="https://zacky1972.github.io/tw_diary_images/B2boANuCAAAJ5s6.jpg"></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2014年11月14日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/14/2014 21:34:12
-TAGS: "Movable Type",foo,bar
------
-BODY:
 グリーティングをレストランでしまくった。子はかなり固まってて、私抜きでは写真を撮らせてくれない´д` ;っていうか、私に似て、写真に撮られるのが好きでは無いのかも。。エルサがいたので
-<img src=""></img>
+<img src="https://zacky1972.github.io/tw_diary_images/B2brUFsCIAAMyYS.jpg"></img>
+<img src="https://zacky1972.github.io/tw_diary_images/B2brUF5CUAAC1F_.jpg"></img>
+<img src="https://zacky1972.github.io/tw_diary_images/B2brUF0CAAEQbHm.jpg"></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2014年11月14日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/14/2014 21:46:50
-TAGS: "Movable Type",foo,bar
------
-BODY:
 アトラクションに乗りまくり！騙くらかしてwミスティックマナー(お化け屋敷的)や、スペースマウンテン(室内ジェットコースター)へもwww 子は空とぶダンボに一番乗りたがったが、これが人気で一番長く・・・とは言っても30分弱並んだ。
-<img src=""></img>
+<img src="https://zacky1972.github.io/tw_diary_images/B2buNIQCEAIt23n.jpg"></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2014年11月14日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/14/2014 22:07:28
-TAGS: "Movable Type",foo,bar
------
-BODY:
 パレードなんて15分前並びで最前列w子はプリンセスやティンカーベルに大喜び！地道に予習してきた甲斐があったわ〜（≧∇≦） 写真はパレードの子供のダンスタイムのリボンの争奪戦に負けて悲しむ図ww一人っ子はガッツが足りんwww
-<img src=""></img>
+<img src="https://zacky1972.github.io/tw_diary_images/B2by7TaCQAEC-QA.jpg"></img>
+<img src="https://zacky1972.github.io/tw_diary_images/B2by7ThCEAAOoAG.jpg"></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2014年11月14日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/14/2014 23:21:02
-TAGS: "Movable Type",foo,bar
------
-BODY:
 子は怖い乗り物の後、「もう乗ら〜ん‼︎大きくなっても、大人になっても乗らん‼︎‼︎」と絶叫ww乗ってる間、静かだったのは「怖すぎて・・・言葉もなかった・・・‼︎」との事www でも、怖いのもちょっとは面白い？と聞くと、「・・・うん」と答える素直さよ(=^ェ^=)
---------
-AUTHOR: Foo Bar
-TITLE: 2014年11月14日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 11/14/2014 23:29:16
-TAGS: "Movable Type",foo,bar
------
-BODY:
 寝る前に、「母上はしーちゃんの事、騙したんやね。。(怖いアトラクションに乗せた事w)  」「しーちゃんの事、二回も騙した事・・・！絶対・・・!！・・・許してあげる。」と恨みがましい声で言われたwww多分、許さないと言ったら、もうディズニーに連れてきて貰えないと思ったんだろうw
 --------
 AUTHOR: Foo Bar
@@ -11452,10 +10879,7 @@ DATE: 11/19/2014 01:30:09
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/B2xHfJ7CYAA9sJJ.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2014年11月20日
@@ -11488,7 +10912,8 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 「銀の匙」のDVD見てたら、と殺の場面が出てきて、豚の顔皮がドドン。
-ふと静かになった横を見ると、子が顔マネしてて爆笑www http://t.co/dQyC62ecfR
+ふと静かになった横を見ると、子が顔マネしてて爆笑www
+<img src="https://zacky1972.github.io/tw_diary_images/B3WTpG_CIAAZcOn.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2014年11月29日
@@ -11537,24 +10962,8 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 マールさま申し訳ございませぬ。。
-<img src=""></img>
+<img src="https://zacky1972.github.io/tw_diary_images/B7JiLdQCUAAZttS.jpg"></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2015年01月12日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 01/12/2015 12:22:39
-TAGS: "Movable Type",foo,bar
------
-BODY:
 ヤマザキの「頭が優れないから寝るね・・・」という言葉にツボってるww確かに優れてないwww
 --------
 AUTHOR: Foo Bar
@@ -11572,9 +10981,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子のお弁当の渋さに我ながら驚いている・・・！プチトマトくらいは入れるべきなんだろうか。。園のお弁当見本には「庭の葉っぱを仕切りに利用」とあるけど、そこまではちょっと・・・汁が流れるじゃん(ｰｰ;)
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/B7grp8gCIAAu5to.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2015年01月18日
@@ -11591,9 +10998,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 凧上げ大会。まさかこの私がこんなアウトドアイベントに参加する日が来ようとは・・・。子が保育園で作った凧は、期待していなかったけど意外とあがった。予備としてトイザらスで買った連凧は何もせずとも驚くほど上がった‼︎どうやら凧日和みたい。
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/B7m80egCMAAKXcO.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2015年02月05日
@@ -11626,28 +11031,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 ふくろうカフェ。子は行く前からホゥホゥと鳴いて興奮気味w
-<img src=""></img>
+<img src="https://zacky1972.github.io/tw_diary_images/B93JNlTCUAEWa-g.jpg"></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2015年02月15日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 02/15/2015 05:31:36
-TAGS: "Movable Type",foo,bar
------
-BODY:
 ホゥちゃん買わされた・・・
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/B93K28UCAAAWc1S.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2015年02月26日
@@ -11664,9 +11051,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子は雛祭り歌が大好き。しかし何故か「父上が死んだら、私はこれを踊るから、母上は歌ってね。お客さんに見せるなら、こういう感じが良いかなぁ？」とウチワを振って熱心に踊りを練習してるwwシュールすぎる葬式を想像してしまい腹筋がいたいwww
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/B-xFiWgVEAECalg.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2015年03月04日
@@ -11683,9 +11068,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 フランソワ・ブルゴン氏(チーズ熟成士)のフルムダンベール(青カビチーズ)をガツガツ食べる子。。そら、プロセスチーズ、食べないよね。。。
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/B_P7O11UwAEP5fU.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2015年03月06日
@@ -11798,9 +11181,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 歯が抜けたショックで情けない顔ww歯の隙間から出そうと心配なのか、首を傾けて飲み物を飲んでるwww喋らないからむっちゃ静か！^^;
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/CAmjv8FUwAA6ucl.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2015年03月26日
@@ -11833,9 +11214,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子の建造物がなんとなくタワー・オブ・テラーっぽい。見たことないはずだけど。。
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/CBOD7VYUYAEizRA.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2015年04月07日
@@ -11868,9 +11247,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 「フランクフルトに行っても…私を置いて行かないで…！！」 ああ、、ハイジね´д` ;唐突に始まる小芝居にいつも戸惑わされる。。「マールが、、ロッテンマイヤーさんを殺そうとしている！！」と突然の悪役設定に憮然とするマール（ ;  ; ）
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/CCd4QUWUgAAFfnz.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2015年04月14日
@@ -11903,7 +11280,8 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 遠足のお弁当。子が筍の皮を持って帰ってきて、これでオニギリを包めというのだけど、それは普通もっと育ったたけのかわだよね…？
-とりあえず湯がいて一晩干して巻いて見たけど、何か違うんじゃないか感がハンパない。。 http://t.co/mXsQ6AtFHl
+とりあえず湯がいて一晩干して巻いて見たけど、何か違うんじゃないか感がハンパない。。
+<img src="https://zacky1972.github.io/tw_diary_images/CDJ9k92WAAI-qnG.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2015年04月26日
@@ -11920,9 +11298,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 「マールを、この国の王にしよう」と戴冠していてたw 「そろそろお妃を見つけねば…」って、もうおじいちゃんだから・・・
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/CDhGVS0VIAIk_EF.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2015年05月02日
@@ -11939,66 +11315,16 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 天亭で初カウンター天ぷらからの〜
-<img src=""></img>
+<img src="https://zacky1972.github.io/tw_diary_images/CD-vdyYVAAEFO_N.jpg"></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2015年05月02日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/02/2015 06:24:28
-TAGS: "Movable Type",foo,bar
------
-BODY:
 日本科学未来館。3Dプラネタリウム、子にはまだ早かったけど、私は感動した！
-<img src=""></img>
+<img src="https://zacky1972.github.io/tw_diary_images/CD-vx7fVAAAfYM9.jpg"></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2015年05月02日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/02/2015 10:01:20
-TAGS: "Movable Type",foo,bar
------
-BODY:
 チームラボもみれた〜
-<img src=""></img>
+<img src="https://zacky1972.github.io/tw_diary_images/CD_hbHLVEAE2J35.jpg"></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2015年05月02日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/02/2015 10:02:31
-TAGS: "Movable Type",foo,bar
------
-BODY:
 一泊一万をきる安宿。2段ベッドに大喜びwお安い子ww
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/CD_hspeUgAAVB2p.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2015年05月03日
@@ -12015,28 +11341,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 ラ・フォル・ジュルネ「ダンス！ダンス！ダンス！」 子の初クラシックコンサート
-<img src=""></img>
+<img src="https://zacky1972.github.io/tw_diary_images/CECmsPEUIAA9Z0j.jpg"></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2015年05月03日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/03/2015 02:52:11
-TAGS: "Movable Type",foo,bar
------
-BODY:
 銀座三越でシンデレラのドレス見物。ウエスト細っ…！
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/CEDIx8KUEAEsTgH.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2015年05月05日
@@ -12053,9 +11361,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 ディズニーでも 岩あれば登る あゆみっこ
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/CERFtAHWEAABjup.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2015年05月08日
@@ -12072,28 +11378,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 蒲田泊でミレイ・黒湯の銭湯・餃子・トンカツなどを堪能（＾ω＾）街を歩くと、子が「なんだか…わたしの国(ウチの近所)に似てるね…」と。そう！私もそう思った‼︎栄えている頃の八幡って、こんな感じだったんじゃないかな。程々に下品というか。
-<img src=""></img>
+<img src="https://zacky1972.github.io/tw_diary_images/CEcvsq-UMAA6F9N.jpg"></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2015年05月08日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/08/2015 02:27:57
-TAGS: "Movable Type",foo,bar
------
-BODY:
 後半はディズニー。前半はもう帰ってハヤトに会いたい…と言っていたのに、ディズニーに行くと、まだ居たい！とw「どうして連れてきてくれたの？」と聞くので、しーちゃんを喜ばすためと答えると、「すごく喜んだ‼︎‼︎」とお褒めの言葉を頂いたww
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/CEczMAoUUAACASz.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2015年05月09日
@@ -12158,9 +11446,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 今はプラレールをしたい父と女児の組み合わせのために、ミッキーやら水族館やら様々なシリーズがあるのですよ…
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/CFmsA-_UMAA_3XR.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2015年05月24日
@@ -12177,9 +11463,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 夕暮れに月を見上げてブランコ
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/CFw7pkFUUAAlD3Q.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2015年05月25日
@@ -12196,21 +11480,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子が「ジャムを舐めさせなかったら、、不具合だすよ‼︎」という斬新な脅しをしてきた。なにそれこわい
---------
-AUTHOR: Foo Bar
-TITLE: 2015年05月25日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/25/2015 21:46:03
-TAGS: "Movable Type",foo,bar
------
-BODY:
 子はやけにギョウ中検査を楽しみにして就寝したのだけど、いざ尻を出せと言うと大泣きww羞恥心が芽生えてきたんだなぁ〜。「皆もしとると？本当？？やっぱりハヤトと一緒じゃないと嫌だ〜・゜・(ノД`)・゜・」とカオス…好きな子と一緒にやるのは恥ずかしくないのか…？
 --------
 AUTHOR: Foo Bar
@@ -12228,21 +11497,6 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子よ、ここに記しておこう。父上が出張の土産に買ってくれたクッキーは母がリサーチした物だ。ガラス（風）の靴は、母が選んで、父上に渡させたのだ。君が「ちちうえ～　（出張から）早く帰ってきてぇ～　しーちゃん、さびしくて死んじゃう～」と言うまでに父上が好きなのは、母の努力でもあるのです。
---------
-AUTHOR: Foo Bar
-TITLE: 2015年05月27日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/27/2015 05:39:08
-TAGS: "Movable Type",foo,bar
------
-BODY:
 そしてイマイチ気の利かない父上が細々と君の世話をしているのは、私が指揮しているからなのです。だから「母上は、いつも父上をいじめて、しーちゃんの世話をさせて！」などと人聞きの悪い事を言うのは止めなさい。母は何も言わなくても、それ以上の世話をやっておるのだ。ちゅーか、自分でしろ。
 --------
 AUTHOR: Foo Bar
@@ -12260,28 +11514,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 バレエとかミュージカルのDVDを見ると踊りだす
-<img src=""></img>
+<img src="https://zacky1972.github.io/tw_diary_images/CGftwHLUAAEkrGq.jpg"></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2015年06月02日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/02/2015 12:35:31
-TAGS: "Movable Type",foo,bar
------
-BODY:
 ヤマザキも駆り出されるw
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/CGft_7qVAAAYgeZ.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2015年06月06日
@@ -12298,9 +11534,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子が着せ替えたはなちゃん。何やら卑猥な感じwww
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/CG2ngtuUkAA6Jm9.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2015年06月10日
@@ -12317,24 +11551,8 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 「大きくなったら宇宙勉強して、ブラックホールに入ったら生きるか死ぬか、母上に教えてあげる！」 との事。ヤマザキの「ブラックホールは…質量がとても大きくてね…」という説明で、よく勉強してみようという気が起きるものだ。
-<img src=""></img>
+<img src="https://zacky1972.github.io/tw_diary_images/CHHiIX1UwAAv2Ln.jpg"></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2015年06月10日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/10/2015 06:13:18
-TAGS: "Movable Type",foo,bar
------
-BODY:
 私は小さい頃、大きくなったら何になりたい？という質問がキライだった。今からわかるわけないやん・・・と冷めた気持ちだったｗ
 でも、子はこちらから問わなくても、○○したい！○○になりたい！と口にするので、素直に育ってるな～と感心する。
 --------
@@ -12369,9 +11587,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子に朝ごはん何がいい？と聞くと「今まで食べたこと無いもの‼︎」というリクエスト…。うん、わかるよ、朝ごはんって似たようなメニューで退屈だよね。。私もそれで朝ごはんって食べないわけだし。。というわけで、話題のTKGパンケーキ（笑）
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/CH0SnRhUMAAnNlg.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2015年06月20日
@@ -12388,24 +11604,8 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 もちろん、ぬいぐるみとか買わされるわけで´д` ;楽しい演出に、ヤマザキは「これは…大阪系のコミックバンドなの…？」と訝しがる始末。。
-<img src=""></img>
+<img src="https://zacky1972.github.io/tw_diary_images/CH8R1vnUMAALBi5.jpg"></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2015年06月20日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/20/2015 23:55:57
-TAGS: "Movable Type",foo,bar
------
-BODY:
 子は二本目の前歯がグラグラ中。一本目は「ソファーを噛んだら取れた」らしいが、今回も「なんだかソファーが噛みたくなってきた…」らしいwwあれか。自然からの呼びかけなのか。出産時にイキミたくなる、みたいな。ちなみに私は無痛分娩(無ではない)だったけど、イキミたくなる感覚はあった。
 --------
 AUTHOR: Foo Bar
@@ -12423,8 +11623,8 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 友人一家と福間の海岸へ海水浴。日光を避けて15時から遊んで、母はカフェでおしゃべりして、お風呂入って、サンセット見ながら夕食というコース。最高♪
-<img src=""></img>
-
+<img src="https://zacky1972.github.io/tw_diary_images/CIEEyZoUcAAKdgS.jpg"></img>
+<img src="https://zacky1972.github.io/tw_diary_images/CIEEyZsUEAAFV-6.jpg"></img>
 
 --------
 AUTHOR: Foo Bar
@@ -12442,66 +11642,17 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 海で見た星の配置、やけにキレイだなーと思ってたら・・・
-<img src=""></img>
+> まもなく日が暮れましたら西の空をご覧ください。
+> 月、木星、金星が並んで見えるはずです。（予想イラストを作りました）
+<img src="https://zacky1972.github.io/tw_diary_images/CIA8xA3UYAAd4nK.jpg"></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2015年06月23日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/23/2015 05:53:05
-TAGS: "Movable Type",foo,bar
------
-BODY:
 えっ、これって、飛行機かな？って言ってたやつ？？
-<img src=""></img>
+> まもなく西日本では宇宙ステーションを見るチャンスです。
+> 20:11に北西低く見え始め、20:15に南の空で見えなくなります。
+> 肉眼で明るい星が動いていくように見えます。
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2015年06月23日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/23/2015 18:47:34
-TAGS: "Movable Type",foo,bar
------
-BODY:
-保育園へのボランティアで、アフィリエイト勉強中。。 [楽天] http://t.co/ZPPu0qWaSW 電子ブック楽天koboへ招待しよう！
-<img src=""></img>
-
-
---------
-AUTHOR: Foo Bar
-TITLE: 2015年06月23日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/23/2015 18:56:38
-TAGS: "Movable Type",foo,bar
------
-BODY:
-★このマンガ、かなりツボww★ 『【はじめての方限定！一冊無料クーポンもれなくプレゼント】伊藤潤二の猫日記 よん&amp;むー1巻【電...』を見る [楽天]
-<img src=""></img>
-
-
+保育園へのボランティアで、アフィリエイト勉強中。。
+★このマンガ、かなりツボww★ 『【はじめての方限定！一冊無料クーポンもれなくプレゼント】伊藤潤二の猫日記 よん&amp;むー1巻』
 --------
 AUTHOR: Foo Bar
 TITLE: 2015年06月24日
@@ -12518,9 +11669,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子にもそろそろ地獄の勉強をさせるとするか…ふふふ… 怖いと言いつつも、気になって何度もみている。「意外と、夢にでない」と言うので、しーちゃんが良い子だからじゃない？と言うと、照れたようなホッとしたような顔をしてたw
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/CIPpNfUUsAIChHB.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2015年06月26日
@@ -12537,26 +11686,11 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 海に行く前、気分が盛り上がりきってる子の図。今回、風が強いし遠浅過ぎて、出番なしだったのだけど…
-しかしキミ、人生楽しそうだよね〜 http://t.co/2EOd70ffNq
---------
-AUTHOR: Foo Bar
-TITLE: 2015年06月26日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/26/2015 10:56:44
-TAGS: "Movable Type",foo,bar
------
-BODY:
+しかしキミ、人生楽しそうだよね〜
+<img src="https://zacky1972.github.io/tw_diary_images/CIaHIVSUsAA-m_B.jpg"></img>
+
 ヤマザキの居ない日は、お行儀わるくカウチポテトで女子会w
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/CIa9i9DUsAI2u4e.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2015年06月29日
@@ -12573,26 +11707,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 このツイートを見て私もインスタントコーヒーをやめたのだけど、本当に思ったより幸福度が下がらない。最近はやけに白湯が甘く感じるので、ひょっとして糖尿？とググって見たが、デトックスされたせいとか書いている。ほんとうか！？
-<img src=""></img>
+> 最近わけあってコーヒーを飲むかわりにただのお湯を飲んでいますが、思ったより幸福度が下がっておらず、ほとんど驚愕しています。私がコーヒーから得ていた幸せのほぼ70パーセントは「コーヒーは熱い湯である」ということから得られていたみたいです。
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2015年06月29日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/29/2015 20:32:22
-TAGS: "Movable Type",foo,bar
------
-BODY:
 猫のテーマソング（私作のオリジナル賛美歌風ヤマザキパート有）もあるが、そういえば子にもある…！ヤマザキが作った替え歌が…‼︎
-【調査】飼い猫のテーマソングって知ってる？みんなの「猫歌」を紹介！ ｜ しらべぇ http://t.co/fkEdCgvZ9q
+【調査】飼い猫のテーマソングって知ってる？みんなの「猫歌」を紹介！ ｜ しらべぇ
 --------
 AUTHOR: Foo Bar
 TITLE: 2015年06月30日
@@ -12610,8 +11728,8 @@ TAGS: "Movable Type",foo,bar
 BODY:
 古いのが壊れて、新しい携帯のオモチャを購入。スマホタイプより、ガラケータイプが良いらしいw私もパカパカ派だったよー
 遊びながら私の携帯番号を覚えたようなので、迷子の時も安心かも（＾ω＾）
-
-http://t.co/OvvHRhBa9n http://t.co/8upmVpBWDR
+https://amzn.to/2NNHpIE
+<img src="https://zacky1972.github.io/tw_diary_images/CItZWp6UMAAjjm_.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2015年07月02日
@@ -12628,24 +11746,11 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子、久しぶりに風邪。何故か女優スイッチが入って、「私が死んだら、、この絵(自作)をみて、私のことを思い出してね…」「私が死んだら、母上も父上も悲しい？ううん、一番悲しむのはハヤト！だって私と結婚できないなんて…」と、小芝居していたw 一日休んだら、もうプール入ってる位に元気^^;
---------
-AUTHOR: Foo Bar
-TITLE: 2015年07月02日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/02/2015 21:46:15
-TAGS: "Movable Type",foo,bar
------
-BODY:
+
 何とか2時間弱で一枚縫えるようになった…！
 保育園で膝が出る半ズボンがいるのに、中々良いのは市販されてないし、園バザーで出品されるサイズが入らなくなってしまい、しぶしぶ自作。。
-まあ、やれば楽しいよ。よく見ると猫柄なのさw http://t.co/68jJUw8zbF
+まあ、やれば楽しいよ。よく見ると猫柄なのさw
+<img src="https://zacky1972.github.io/tw_diary_images/CI8Lv9dUwAAINhe.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2015年07月05日
@@ -12662,45 +11767,14 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 日差しがでてきたから嫌だ！と放置して日陰で見守っていたら、一人で発進できるようになったので、やはり親は頼りない位が子はしっかりするよなって思った。私の子育ての指針w
-<img src=""></img>
+<img src="https://zacky1972.github.io/tw_diary_images/CJILQcZVEAA9p7n.jpg"></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2015年07月05日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/05/2015 05:50:54
-TAGS: "Movable Type",foo,bar
------
-BODY:
 トーベ・ヤンソン展。ここ数日、映画・絵本と予習して行ったけれど、やはりムーミンはよくわからない。。子が見たがっていた「血を吸うオバケ」の絵は無かったのでションボリしていたw
-<img src=""></img>
+<img src="https://zacky1972.github.io/tw_diary_images/CJIN2LzUEAAt8eq.jpg"></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2015年07月05日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/05/2015 05:55:12
-TAGS: "Movable Type",foo,bar
------
-BODY:
 超ビビりで、「ちょっとしか飛ばないようにって、お兄さんに言って‼︎」と言いつつ挑戦したけど、お兄さんにノセられてそれなりに高くまでw
-いいな〜 これ、私もやってみたいけど、大人は誰もやってないからな〜〜 http://t.co/7pJmaCbUoB
+いいな〜 これ、私もやってみたいけど、大人は誰もやってないからな〜〜
+<img src="https://zacky1972.github.io/tw_diary_images/CJIO1PxUkAAMTWS.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2015年07月05日
@@ -12717,9 +11791,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 火傷の跡って日焼けしてシミになりやすいんだけど、このUVカットフィルムはすごく優秀！よく見ないと貼ってるのわからないし、全く剥がれないし、痒くもならない。すごい‼︎[楽天] http://t.co/E2uoTc0ipj
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/CJL32iYUMAAlhC6.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2015年07月07日
@@ -12736,24 +11808,8 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 保育園で給食で使った竹の器を持って帰ってきた…。七夕のご馳走(とは言ってもスシローのちらし寿司がメインw)を盛り付けて、私はワイン会にGO!!
-<img src=""></img>
+<img src="https://zacky1972.github.io/tw_diary_images/CJTWcCCUwAAi-bl.jpg"></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2015年07月07日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/07/2015 14:28:08
-TAGS: "Movable Type",foo,bar
------
-BODY:
 ヴァンナチュールって、子育てに似てる。
 目標の味を掲げて酵母や添加物を加えていく普通の？ワイン。
 葡萄の力を育てて信じて、葡萄に付いてる酵母で育てていくヴァンナチュール。
@@ -12774,9 +11830,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 ままごと(？)がダイナミック。。ソファが小屋にされて座れません´д` ;「今、畑を荒らしてるんだけど〜」え、何それ、どんなシチュエーション？と思ったら、耕してるだった(^^;
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/CJlrNHrUwAAH-E8.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2015年07月12日
@@ -12793,28 +11847,9 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 「シンドバッド 空とぶ姫と秘密の島」を鑑賞後はこんな感じになりますwwあ、私だけターミネーター4DXのほうに行かせて頂きました(・ω・)
-<img src=""></img>
+<img src="https://zacky1972.github.io/tw_diary_images/CJsZR8_VEAASidg.jpg"></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2015年07月12日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/12/2015 07:46:58
-TAGS: "Movable Type",foo,bar
------
-BODY:
 お人形ごっこで男の子が欲しいらしい。ググったが、新発売のこの「おうじさまレンくん」とやら…生理的にだめだ、私的に…。ちゅーか、イサムくんは何処へ。。［楽天]
-<img src=""></img>
-
-
 --------
 AUTHOR: Foo Bar
 TITLE: 2015年07月16日
@@ -12842,69 +11877,19 @@ CONVERT BREAKS: richtext
 PRIMARY CATEGORY: News
 CATEGORY: News
 CATEGORY: Product
-DATE: 07/25/2015 01:47:35
+DATE: 07/24/2015 23:47:35
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
 角島！確かにコバルト色だ〜
-<img src=""></img>
+<img src="https://zacky1972.github.io/tw_diary_image/CKuV9lJVAAA_ygT.jpg"></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2015年07月25日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/25/2015 01:51:28
-TAGS: "Movable Type",foo,bar
------
-BODY:
 少々波があるけど、頑張って泳いでるw
-<img src=""></img>
+<img src="https://zacky1972.github.io/tw_diary_image/CKuW2WZVAAEmkbW.jpg"></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2015年07月25日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/25/2015 07:08:47
-TAGS: "Movable Type",foo,bar
------
-BODY:
 本州側に移動。こっちは波がなくて、透明度も高くて、泳ぎやすい(o^^o)
-<img src=""></img>
+<img src="https://zacky1972.github.io/tw_diary_image/CKvfepuUYAAuIyM.jpg"></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2015年07月25日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/25/2015 10:55:25
-TAGS: "Movable Type",foo,bar
------
-BODY:
-ペンションで夕食後は、浜辺でマジックアワーを満喫。子は貝拾いに夢中〜
-山口の海、気に入った！！ http://t.co/66ZrTp46at
 --------
 AUTHOR: Foo Bar
 TITLE: 2015年07月25日
@@ -12920,9 +11905,13 @@ DATE: 07/25/2015 23:45:16
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-風が結構あるけど、頑張ってもうひと泳ぎ中。
-<img src=""></img>
+ペンションで夕食後は、浜辺でマジックアワーを満喫。子は貝拾いに夢中〜
+山口の海、気に入った！！
+<img src="https://zacky1972.github.io/tw_diary_image/CKwTV7KUMAI7gNn.jpg"></img>
+<img src="https://zacky1972.github.io/tw_diary_image/CKwTV7pUAAEJh8q.jpg"></img>
 
+風が結構あるけど、頑張ってもうひと泳ぎ中。
+<img src="https://zacky1972.github.io/tw_diary_image/CKzDjA1UYAASyKR.jpg"></img>
 
 --------
 AUTHOR: Foo Bar
@@ -12941,7 +11930,8 @@ TAGS: "Movable Type",foo,bar
 BODY:
 戦利品！ウニも小魚いた（＾ω＾）
 生き物がいると、子も顔をつけるのが楽しかろう。
-来年はシュノーケルだな（≧∇≦） http://t.co/PAauIu5QJr
+来年はシュノーケルだな（≧∇≦）
+<img src="https://zacky1972.github.io/tw_diary_image/CK0FQ1TVEAADtPK.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2015年07月27日
@@ -12958,9 +11948,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 サザエはちゃんと朝ごはんに食べましたw
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_image/CK4q43BUwAAj3hf.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2015年07月31日
@@ -12977,42 +11965,12 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子がアトピー疑惑なのでオメガ3をばと、朝食にチアシード＆ヨーグルトにメープルシロップで甘みつけて、フルーツ入れたものを食べさせてみている。「肌がキレイになるの！」と毎日飽きずに。。女子力高いな〜…私はすぐ飽きちゃうわ〜´д` ;
-<img src=""></img>
+<img src="https://zacky1972.github.io/tw_diary_image/CLOxJsKVEAAsquU.jpg"></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2015年07月31日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/31/2015 11:08:06
-TAGS: "Movable Type",foo,bar
------
-BODY:
 子がいま一番好きな映画、アラジンを一緒にみてみた。アラジン、ハヤト（子の好きな子)みたいだね、勇気があって優しくて…と私が煽てると、「そう、そして私（＝ジャスミン）の事が大好きで…\(//∇//)\」とか言っててリア充爆発。うん、まあ私も、一番私を好いてくれる人が一番好きだな。。
---------
-AUTHOR: Foo Bar
-TITLE: 2015年07月31日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 07/31/2015 11:55:51
-TAGS: "Movable Type",foo,bar
------
-BODY:
 男の子の人形は、リクエストによりアラジンになりました。早速キスさせております。。
-綺麗なブルームーン！ISSは見つからなかった´д` ; http://t.co/UcPbcp7eol
+綺麗なブルームーン！ISSは見つからなかった´д` ;
+<img src="https://zacky1972.github.io/tw_diary_image/CLPauNOUcAAnJn4.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2015年08月31日
@@ -13189,9 +12147,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 蒲田の天婦羅屋さんにて、人生初のアンキモに舌鼓を打つ子。将来、酒飲みになるんだろうなぁ…私も散々そう言われて育ったわけだけれども。。
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/CUWlSBzUcAEanHS.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2015年11月22日
@@ -13208,9 +12164,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 キッザニア、並んだり待ったりするのが嫌いな私には爆発しそうなほどイライラする‼︎でもかわいいので親バカ全開になる‼︎‼︎
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/CUaDKhBUAAA7Fsp.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2015年11月25日
@@ -13274,10 +12228,8 @@ DATE: 12/21/2015 11:39:49
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
-CATSのロンドンオリジナルキャストのDVDは本当に良い。去年の福岡公演で不完全燃焼だったので買ったら、子とハマってるw画像は荒いけど、こんな素晴らしい物が1000円以下だなんて！ https://t.co/lB07VapwpT
-<img src=""></img>
-
-
+CATSのロンドンオリジナルキャストのDVDは本当に良い。去年の福岡公演で不完全燃焼だったので買ったら、子とハマってるw画像は荒いけど、こんな素晴らしい物が1000円以下だなんて！ https://amzn.to/2QtTh0L
+<img src="https://zacky1972.github.io/tw_diary_images/CWvyZTKVAAItHv8.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2016年01月01日
@@ -13294,41 +12246,13 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 催眠術のように眠りのワードを繰り返し、ストーリーも当然面白くないので読み手は中々ツライ(笑)でも、子が本の途中で寝落ちするのは初めてだわ…確かに効果はあると言える。Kindle版にすれば良かったなぁ。
-おやすみ、ロジャー  https://t.co/wmquecuh12
---------
-AUTHOR: Foo Bar
-TITLE: 2016年01月01日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 01/01/2016 13:29:07
-TAGS: "Movable Type",foo,bar
------
-BODY:
+おやすみ、ロジャー  https://amzn.to/2xhZ1Si
+
 漫画のようにコマ割りが細かく、一枚の絵に対して文が短い。そしてストーリーもあって楽しい。ひらがなを読めるようになったけど、長い文は根気が続かず赤ちゃん用の本は面白がらない、そんな時期に最適！
-バムとケロのさむいあさ  https://t.co/eV9rkYGytZ
---------
-AUTHOR: Foo Bar
-TITLE: 2016年01月01日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 01/01/2016 13:42:45
-TAGS: "Movable Type",foo,bar
------
-BODY:
+バムとケロのさむいあさ  https://amzn.to/2CUajCp
+
 子のサンタさんへのリクエストは「じぶんでよめるほん」 色々悩んで、ヤマザキが幼少の頃に好きだった本にした。でも後で「やっぱり、むらさきいろのポニーのぬいぐるみがほしいです」と手紙を出し直し、両方ゲット…
-かこさとし・ほしのほん https://t.co/FB2XwqUJzd
+かこさとし・ほしのほん https://amzn.to/2OmVpG2
 --------
 AUTHOR: Foo Bar
 TITLE: 2016年01月16日
@@ -13345,9 +12269,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子のスリーパー姿があまりに面白く、王様？wいや、ペンギン？ww王様ペンギン？wwwと笑ったら、「ね？やっぱりわたしがこの家の支配者よ！（・∀・）」と高らかに宣言されました´д` ;
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/CY19W_0UAAEiaJ-.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2016年01月27日
@@ -13380,28 +12302,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子がままごとで本日のメニューとドリンクリストを作ってくれた。しゃんぱにゅwww
-<img src=""></img>
+<img src="https://zacky1972.github.io/tw_diary_images/CaAc9scUEAQO6xB.jpg"></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2016年01月31日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 01/31/2016 07:13:27
-TAGS: "Movable Type",foo,bar
------
-BODY:
 このセンス、嫌いじゃない
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/CaB-mohUcAA-kSx.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2016年02月14日
@@ -13418,9 +12322,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子にはバレンタインの制度をまだ教えていないので、チョコケーキを食べる日として記憶されているwあ〜グローバーのケーキ美味しいわ〜〜（≧∇≦）
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/CbK1PPGUkAAhfV-.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2016年02月29日
@@ -13470,9 +12372,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 天ぷら居酒屋。子が「あっ！ゆきのしただー、食べたーい」と一目で言い当てて驚かれる。さすがあゆみっこ…！私はわかりませんでした。。おじちゃんがご褒美にか、海老天ぷらサービスしてくれたw
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/CeW1WHYUEAAW782.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2016年04月08日
@@ -13505,9 +12405,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 保育園のレクレーションの筍掘り。品評会では一等賞をGET‼︎今年で最後なので、力を出し切った…(*￣ω￣)美味しいサイズも五本程獲れたし、我が筍掘り人生に悔いなし(๑¯﹀¯๑)
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/CfloZSEUMAAOCba.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2016年04月28日
@@ -13540,41 +12438,8 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子に自分で出した鉛筆を片付けてと言ったら、「母上は、なにも仕事しないで、わたしばっかり・・・ﾌﾞﾂﾌﾞﾂ・・・もう手伝ってやらん」と言われたのでブチ切れました。丸一日、育児を放棄したいとおもいます。夕食は、自分で作った卵かけご飯でも食べとけ！と言おうと思います。これもまた母の日。
---------
-AUTHOR: Foo Bar
-TITLE: 2016年05月10日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/10/2016 10:48:46
-TAGS: "Movable Type",foo,bar
------
-BODY:
 〈速報＞卵ごはん作成中w醤油入れすぎたらしく、卵を3個使用www
---------
-AUTHOR: Foo Bar
-TITLE: 2016年05月10日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/10/2016 10:49:33
-TAGS: "Movable Type",foo,bar
------
-BODY:
-〈速報＞卵ごはん作成中w醤油入れすぎたらしく、卵を3個使用www
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/CiFvDwXVEAALTnO.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2016年05月16日
@@ -13623,9 +12488,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 手抜きして夕食にお弁当を買ったので、せっかく気持ちいい気候だし公園で。立ち漕ぎとか出来るようになったんだな〜。「ブランコさん、私を木まで連れてって！」といちいちメルヘンw
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/CiunJToUgAEcsju.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2016年05月20日
@@ -13642,24 +12505,8 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子の保育園でのお泊まり会、海にも山にも行ったらしい。ハードだなぁ…私には無理だわ…。すごく楽しかったみたいで、夕食にフキごはん作ったとか、海で死んでた魚の様子とか、山登りのルートとか、帰ってから話が停まらないw
-<img src=""></img>
+<img src="https://zacky1972.github.io/tw_diary_images/Ci6QNviVEAANQtG.jpg"></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2016年05月20日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/20/2016 15:44:11
-TAGS: "Movable Type",foo,bar
------
-BODY:
 「でもね、寝る前には、ちょっとだけ涙がでたんよ。ワーンとじゃないよ、こっち（左）の目から、ちょっとだけ。私だけじゃなくて、皆だよ。だって、お母さんが恋しくなるんよ。しょうがない。みんな、お母さんが大好きなんよ」…君、ポエムの才能あるわ〜（゜-Å) ホロリ
 --------
 AUTHOR: Foo Bar
@@ -13709,9 +12556,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子のキッザニアごっこ（動物病院）が中々に本格的wwちゃんと開腹器使ってるwww
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/CjhqQE1UgAARe2u.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2016年05月28日
@@ -13728,9 +12573,9 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 救急車はかなり小さい模様…
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/Cjhrb0bVAAAliIm.jpg"></img>
+<img src="https://zacky1972.github.io/tw_diary_images/Cjhrb0bUUAAwae3.jpg"></img>
+<img src="https://zacky1972.github.io/tw_diary_images/Cjhrb0cUoAIvLrv.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2016年05月29日
@@ -13747,28 +12592,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子は父に抱きつき「1番好きなのが父上、2番目が母上、3番がハヤト！」こっちをチラリとみて「母上、くやしい？( ^ω^ )」と挑発する事も忘れないw父が、えっ！僕、ハヤトより上？！と声を弾ませると、「べっ、べつに！」ってツンデレか！
-<img src=""></img>
-
-
---------
-AUTHOR: Foo Bar
-TITLE: 2016年05月31日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 05/31/2016 00:37:57
-TAGS: "Movable Type",foo,bar
------
-BODY:
-★こちらが編集可能スペースです（あなたの紹介文を40文字でご記入ください）★ 『楽天カード』を見る [楽天]
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/CjlTr8KVAAAqrl8.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2016年05月31日
@@ -13785,9 +12609,8 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 保育園で、縫い物の課題がスタート。家に帰って早速、雑巾を縫って、拭き掃除もしてくれたw できれば毎日お願い致したいww
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/Cjx-db9VAAEcAiM.jpg"></img>
+<img src="https://zacky1972.github.io/tw_diary_images/Cjx-db8UUAENcLp.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2016年06月01日
@@ -13804,9 +12627,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 突然の「明日、海に行きます♪お弁当と水着・ラッシュガードよろしく」という保育園のお知らせに驚く…。もはやOL弁当を超えて、サラリーマン弁当だな、コレ。
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/Cj5qJlpUoAUb7iW.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2016年06月03日
@@ -13823,9 +12644,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 茄子・しめじ入りミートソースとほうれん草入りホワイトソースマカロニのグラタンを作ったけど、結構大変で一品で終了w（あとは作り置きのトマトのマリネ）メニューの寂しさを紛らわすために、ベランダで食べてみた。もう暑いしね〜
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/CkBWtN_VAAAoq6i.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2016年06月03日
@@ -13842,12 +12661,10 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 結構、飛行機がいっぱいとんでるんだなー。夕暮れの飛行機って綺麗。点滅しないゆっくり移動する光をみつけて、ISSかと思ったけど軌道的に違う。他の人口衛星？でもかなり大きかったような…
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/CkBYRjxUkAQH43p.jpg"></img>
 --------
 AUTHOR: Foo Bar
-TITLE: 2016年06月11日
+TITLE: 2016年06月10日
 BASENAME: filename
 STATUS: Publish
 ALLOW COMMENTS: 1
@@ -13856,14 +12673,13 @@ CONVERT BREAKS: richtext
 PRIMARY CATEGORY: News
 CATEGORY: News
 CATEGORY: Product
-DATE: 06/11/2016 00:07:59
+DATE: 06/10/2016 23:07:59
 TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子、すごく遊びきった感じの良い顔で合宿から帰ってきた(*^o^*)野うさぎ見た！二段ベッドで寝た‼︎と大喜び。でも、さみしくはならなかったらしく、意外とベッタリとは甘えてこない。。サッサと一人で寝たしw成長…したんだなぁ…！
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/CkoPFVDUoAA8kT9.jpg"></img>
+<img src="https://zacky1972.github.io/tw_diary_images/CkoPFU9UUAEI2u_.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2016年06月11日
@@ -13882,7 +12698,10 @@ BODY:
 子、美女と野獣を観劇。３時間弱がんばって集中して観てたけど、カーテンコールに「なんでこんなん、ずっとみとかないけんの( *｀ω´)」とイライラしだした…´д` ;うん…あれ、子供には退屈だよね…。
 <img src=""></img>
 
-
+<img src="https://zacky1972.github.io/tw_diary_images/CkrHn0TUkAAqw7X.jpg"></img>
+<img src="https://zacky1972.github.io/tw_diary_images/CkrHn0OUYAAzvEx.jpg"></img>
+<img src="https://zacky1972.github.io/tw_diary_images/CkrHn0OVEAEU2FR.jpg"></img>
+<img src="https://zacky1972.github.io/tw_diary_images/CkrHn2WUkAEhhbk.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2016年06月13日
@@ -13899,9 +12718,9 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 日曜日は雨だったので、針山を作ったり、お昼寝のまどろみを楽しんだり。。
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/CkzdXcaUUAA_QpJ.jpg"></img>
+<img src="https://zacky1972.github.io/tw_diary_images/CkzdXcdUUAAU4WN.jpg"></img>
+<img src="https://zacky1972.github.io/tw_diary_images/CkzdXcdUgAIgteM.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2016年06月13日
@@ -13918,9 +12737,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 鼻チュウをしてもらって、幸せそうな様子。「マール様…ありがたい…(*^^*)」とか言ってて、完全に教化されてる。。猫教、バンザイ！
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/Ck0-X0TVAAIe3YW.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2016年06月15日
@@ -13953,7 +12770,8 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子のレシピに従って一緒にカレーを作成。肉好きなのに、肉を書き忘れてるが、ちゃんと入れてあげたw ついでにピーマンもトッピングしてやったww
-翌朝のカレーチーズトーストまで満喫のもよう（＾ω＾） https://t.co/Tpn5PzXd1S
+翌朝のカレーチーズトーストまで満喫のもよう（＾ω＾）
+<img src="https://zacky1972.github.io/tw_diary_images/ClL_KK_UsAA9Rs5.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2016年06月19日
@@ -13992,66 +12810,26 @@ BODY:
 おひさま「やっぱりあのこは たべすぎだな」
 父「これください」
 店員「いいですよ」
-鳥「ちゃうちゃう」 https://t.co/yenx4d692y
---------
-AUTHOR: Foo Bar
-TITLE: 2016年06月22日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/22/2016 11:09:02
-TAGS: "Movable Type",foo,bar
------
-BODY:
+鳥「ちゃうちゃう」
+<img src="https://zacky1972.github.io/tw_diary_images/CljPQi9UgAIrZVf.jpg"></img>
+
 子の漫画②「キッザニアの獣医体験にて」
 
 手術台の犬の「たすけて」がせつないw
-「ががん」が漫画的ww https://t.co/FrmB4hoe0H
---------
-AUTHOR: Foo Bar
-TITLE: 2016年06月22日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/22/2016 11:13:55
-TAGS: "Movable Type",foo,bar
------
-BODY:
+「ががん」が漫画的ww
+<img src="https://zacky1972.github.io/tw_diary_images/CljP4eNVYAAcL-A.jpg"></img>
+
 子の漫画③「たぬき」
 たぬきA「それを漁師が鉄砲で撃ってさー煮てさー焼いてさー食ってさー」
 「ありがとう」♡♡♡
 たぬきB「・・・・・」
 
-意味深だなwたぬきBの心情を答えよ、的な。 https://t.co/jouVWle7JY
---------
-AUTHOR: Foo Bar
-TITLE: 2016年06月22日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 06/22/2016 22:05:17
-TAGS: "Movable Type",foo,bar
------
-BODY:
+意味深だなwたぬきBの心情を答えよ、的な。
+<img src="https://zacky1972.github.io/tw_diary_images/CljQ__lVYAA6PM4.jpg"></img>
+
 子の画力が急に上がってきた。先日なんて、「虫に刺されてて、とったらこんな虫やった。」といって絵を見せられ、これ…マダニじゃない…？と病院行ったよ。。
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/CllmEvaUsAEitnh.jpg"></img>
+<img src="https://zacky1972.github.io/tw_diary_images/CllmExVUgAAAKPt.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2016年07月09日
@@ -14068,7 +12846,7 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 保育園で七夕のご馳走用に作った器で、朝そうめん。
-自分でノコギリで切って、ヤスリで磨いたらしい。ワイルドだよ、本当に。 https://t.co/VFSgEAADZn
+自分でノコギリで切って、ヤスリで磨いたらしい。ワイルドだよ、本当に。<img src="https://zacky1972.github.io/tw_diary_images/Cm4avN9UcAEE7hL.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2016年07月14日
@@ -14117,47 +12895,13 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 子は化石や宝石（自称）をよく拾ってくるんだけど、おおっコレは今までで一番化石っぽい！って褒めたら、「…じゃあ、今までのは、化石っぽく無かったっていうの？(¬_¬)」と突っ込まれた。。言語能力、上がってるな…
-<img src=""></img>
+<img src="https://zacky1972.github.io/tw_diary_images/CuHrgMiUIAAqpUP.jpg"></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2016年10月06日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 10/06/2016 23:21:32
-TAGS: "Movable Type",foo,bar
------
-BODY:
 アイドルとヲタ
-<img src=""></img>
+<img src="https://zacky1972.github.io/tw_diary_images/CuHwDlhVYAA7lJA.jpg"></img>
 
-
---------
-AUTHOR: Foo Bar
-TITLE: 2016年10月06日
-BASENAME: filename
-STATUS: Publish
-ALLOW COMMENTS: 1
-ALLOW PINGS: 1
-CONVERT BREAKS: richtext
-PRIMARY CATEGORY: News
-CATEGORY: News
-CATEGORY: Product
-DATE: 10/06/2016 23:23:00
-TAGS: "Movable Type",foo,bar
------
-BODY:
 宇宙人にさらわれて人体実験を受けている…ように見えるんだけど。。
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/CuHwZPHUEAAzF_S.jpg"></img>
 --------
 AUTHOR: Foo Bar
 TITLE: 2016年10月17日
@@ -14304,6 +13048,4 @@ TAGS: "Movable Type",foo,bar
 -----
 BODY:
 朝からノビルを大量に洗って、茹でて酢味噌で食べる7歳女児。残り、どうしよう…
-<img src=""></img>
-
-
+<img src="https://zacky1972.github.io/tw_diary_images/C7qchUXVYAEiT-O.jpg"></img>
